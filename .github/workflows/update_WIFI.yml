@@ -1,0 +1,71 @@
+name: Update YKT Mobile Configs
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Раз в 6 часов (безопасно)
+  workflow_dispatch:      # Кнопка для ручного запуска
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Download, Merge and Split
+        run: |
+          # 1. Подготовка папок и очистка
+          mkdir -p configs
+          rm -f configs/Wifi_ykt*.txt temp_raw.txt all_nodes.txt
+          
+          # Берем сурсы из нужного файла
+          SOURCE_FILE="data/sources.txt"
+          
+          # 2. Сбор данных из источников
+          if [ -f "$SOURCE_FILE" ]; then
+            echo "📥 Загрузка данных из источников..."
+            while read -r url || [ -n "$url" ]; do
+              url=$(echo "$url" | xargs)
+              if [[ "$url" == http* ]]; then
+                curl -sL -k --connect-timeout 10 --max-time 30 "$url" >> temp_raw.txt || echo "Skip"
+              fi
+            done < "$SOURCE_FILE"
+          fi
+
+          # 3. Фильтрация уникальных конфигов
+          grep -a -oE '(vless|vmess|trojan|ss)://[^"'\'' <>]+' temp_raw.txt | sort -u > all_nodes.txt
+          
+          # 4. Разделение по 250 штук с инфой о трафике и дате
+          if [ -s all_nodes.txt ]; then
+            split -l 250 all_nodes.txt part_
+            
+            num=1
+            YKT_TIME=$(TZ="Asia/Yakutsk" date +"%Y-%m-%d / %H:%M")
+            
+            # 820 GB в байтах
+            # Дата 31.12.2026 в Unix Timestamp = 1801267200
+            TRAFFIC_INFO="upload=0; download=0; total=880468295577; expire=1801267200"
+
+            for f in part_*; do
+              {
+                echo "# profile-title: kudryash0vv.Wifi.#${num}"
+                echo "# subscription-userinfo: $TRAFFIC_INFO"
+                echo "# Update: $YKT_TIME (YKT)"
+                cat "$f"
+              } > "configs/Wifi_ykt.#${num}.txt"
+              num=$((num + 1))
+            done
+            echo "✅ Создано файлов: $((num - 1))"
+          else
+            echo "Конфиги не найдены" > configs/Wifi_ykt.#1.txt
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add configs/
+          if ! git diff --staged --quiet; then
+            git commit -m "🚀 Global Update: $(TZ="Asia/Yakutsk" date +'%Y-%m-%d %H:%M')"
+            git push
+          fi
