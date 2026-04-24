@@ -14,10 +14,10 @@
 ---
 
 ## 📊 Статус системы
-[![Proxy Vacuum](https://github.com)](https://github.com)
-![GitHub top language](![Language](https://img.shields.io/github/languages/top/kudryash0vv/kudryash0vv.YKTFLOW?color=00d4ff))
-![License]![License](https://img.shields.io/github/license/kudryash0vv/kudryash0vv.YKTFLOW?color=00d4ff)
-![Last Commit]![Last Commit](https://img.shields.io/github/last-commit/kudryash0vv/kudryash0vv.YKTFLOW?color=00d4ff)
+[![Proxy Vacuum](https://github.com/kudryash0vv/kudryash0vv.YKTFLOW/actions/workflows/update_go.yml/badge.svg)](https://github.com/kudryash0vv/kudryash0vv.YKTFLOW/actions)
+![Language](https://img.shields.io/github/languages/top/kudryash0vv/kudryash0vv.YKTFLOW?color=00d4ff)
+![License](https://img.shields.io/github/license/kudryash0vv/kudryash0vv.YKTFLOW?color=00d4ff)
+![Last Commit](https://img.shields.io/github/last-commit/kudryash0vv/kudryash0vv.YKTFLOW?color=00d4ff)
 
 ---
 
@@ -36,15 +36,16 @@
 ## 🌐 Витрина и подписки
 Вы можете использовать веб-интерфейс для быстрого сканирования QR-кодов или скопировать прямые ссылки.
 
-👉 **[ОТКРЫТЬ YKTFLOW WEB](https://github.io)**
+👉 **[ОТКРЫТЬ YKTFLOW WEB](https://kudryash0vv-yakutsk.github.io/)**
+👉 **[ОТКРЫТЬ АВТОПОДБОР КОНФИГОВ](https://kudryash0vv.github.io/)**
 
 ### Прямые ссылки на RAW-конфиги:
 
 
 | Ресурс | Прямая ссылка (Base64) |
 | :--- | :--- |
-| **🌐 WIFI Subscription** | `https://githubusercontent.com` |
-| **📱 Mobile Subscription** | `https://githubusercontent.com` |
+| **🌐 WIFI Subscription** | `https://raw.githubusercontent.com/kudryash0vv/kudryash0vv.YKTFLOW/refs/heads/main/configs/wifi_ykt.%23119.txt?token=GHSAT0AAAAAAD3LL6KIKQ7CRXRQQDRTSBR62PLKFGA` |
+| **📱 Mobile Subscription** | `https://raw.githubusercontent.com/kudryash0vv/kudryash0vv.YKTFLOW/refs/heads/main/configs/kudryash0vv_YKTFLOW_1.txt?token=GHSAT0AAAAAAD3LL6KJLPT27W7Y5OIFV7W42PLKIYQ` |
 
 ---
 
