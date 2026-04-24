@@ -16,7 +16,6 @@
 ## 📊 Статус системы
 [![Proxy Vacuum](https://github.com/kudryash0vv/kudryash0vv.YKTFLOW/actions/workflows/update_go.yml/badge.svg)](https://github.com/kudryash0vv/kudryash0vv.YKTFLOW/actions)
 ![Language](https://img.shields.io/github/languages/top/kudryash0vv/kudryash0vv.YKTFLOW?color=00d4ff)
-![License](https://img.shields.io/github/license/kudryash0vv/kudryash0vv.YKTFLOW?color=00d4ff)
 ![Last Commit](https://img.shields.io/github/last-commit/kudryash0vv/kudryash0vv.YKTFLOW?color=00d4ff)
 
 ---
