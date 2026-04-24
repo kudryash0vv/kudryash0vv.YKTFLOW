@@ -3,7 +3,6 @@ package main
 import (
 	"bufio"
 	"crypto/tls"
-	"encoding/base64"
 	"fmt"
 	"io"
 	"net"
@@ -32,7 +31,6 @@ func xrayPing(rawConfig string, timeout time.Duration) int64 {
 	conn, err := net.DialTimeout("tcp", addr, timeout)
 	if err != nil { return -1 }
 	
-	// 🧊 Жесткий лимит на соединение
 	conn.SetDeadline(time.Now().Add(timeout)) 
 	defer conn.Close()
 
@@ -124,17 +122,16 @@ func save(path string, res []Result) {
 	f, _ := os.Create(path)
 	defer f.Close()
 
-	// Заголовок без пробелов для 100% совместимости
-	header := "profile-title: kudryash0vv.YKTFLOW\n"
-	header += "subscription-userinfo: upload=0;download=0;total=885837004800;expire=1798675200\n"
-	header += "subscription-update-interval: 4\n"
-	header += "support-url: https://github.io\n\n"
+	// Записываем данные в открытом текстовом формате (Plain Text)
+	fmt.Fprintln(f, "profile-title: kudryash0vv.YKTFLOW")
+	fmt.Fprintln(f, "subscription-userinfo: upload=0;download=0;total=885837004800;expire=1798675200")
+	fmt.Fprintln(f, "subscription-update-interval: 4")
+	fmt.Fprintln(f, "support-url: https://github.io")
+	fmt.Fprintln(f, "") // Обязательный разрыв перед конфигами
 
-	content := header
 	for _, r := range res {
-		content += r.Raw + "\n"
+		fmt.Fprintln(f, r.Raw)
 	}
-
-	encoded := base64.StdEncoding.EncodeToString([]byte(content))
-	fmt.Fprint(f, encoded)
+	
+	fmt.Printf("💾 Файл %s сохранен (Plain Text Mode).\n", path)
 }
