@@ -44,7 +44,10 @@ func xrayPing(rawConfig string, timeout time.Duration) int64 {
 
 func process(inputPath string) []Result {
 	file, err := os.Open(inputPath)
-	if err != nil { return nil }
+	if err != nil { 
+		fmt.Printf("❌ Ошибка: не удалось открыть %s\n", inputPath)
+		return nil 
+	}
 	defer file.Close()
 
 	var sourceUrls []string
@@ -56,20 +59,35 @@ func process(inputPath string) []Result {
 			if len(sourceUrls) >= 5 { break }
 		}
 	}
+	fmt.Printf("📂 Нашел %d источников в %s\n", len(sourceUrls), inputPath)
 
 	re := regexp.MustCompile(`(vless|vmess|trojan|ss)://[^\s"']+`)
 	uniqueRaw := make(map[string]struct{})
 	client := &http.Client{Timeout: 10 * time.Second}
 
-	for _, u := range sourceUrls {
+	for i, u := range sourceUrls {
+		fmt.Printf("🌐 [%d/%d] Всасываю: %s...\n", i+1, len(sourceUrls), u)
 		resp, err := client.Get(u)
-		if err != nil { continue }
+		if err != nil { 
+			fmt.Printf("   ⚠️ Ошибка загрузки: %v\n", err)
+			continue 
+		}
 		body, _ := io.ReadAll(resp.Body)
 		resp.Body.Close()
 		found := re.FindAllString(string(body), -1)
-		for _, link := range found { uniqueRaw[link] = struct{}{} }
+		
+		for _, link := range found { 
+			uniqueRaw[link] = struct{}{} 
+			if len(uniqueRaw) >= 1500 { break } // Ограничение для скорости
+		}
+		fmt.Printf("   💎 Нашел %d уникальных конфигов\n", len(uniqueRaw))
+		if len(uniqueRaw) >= 1500 { 
+			fmt.Println("   🛑 Лимит 1500 достигнут, перехожу к чеку.")
+			break 
+		}
 	}
 
+	fmt.Printf("🚀 Начинаю пинговать %d конфигов в 500 потоков...\n", len(uniqueRaw))
 	var wg sync.WaitGroup
 	resultsChan := make(chan Result, len(uniqueRaw))
 	sem := make(chan struct{}, 500)
@@ -79,7 +97,7 @@ func process(inputPath string) []Result {
 		go func(c string) {
 			defer wg.Done()
 			sem <- struct{}{}
-			ping := xrayPing(c, 1*time.Second) 
+			ping := xrayPing(c, 800*time.Millisecond) // Ускоренный пинг 0.8с
 			<-sem
 			if ping > 0 { resultsChan <- Result{Raw: c, Ping: ping} }
 		}(conf)
@@ -89,31 +107,34 @@ func process(inputPath string) []Result {
 
 	var final []Result
 	for r := range resultsChan { final = append(final, r) }
+	fmt.Printf("❄️ Пинг завершен. Живых: %d\n", len(final))
+
 	sort.Slice(final, func(i, j int) bool { return final[i].Ping < final[j].Ping })
 
-	if len(final) > 200 { return final[:200] }
+	if len(final) > 200 { 
+		fmt.Println("✂️ Оставляю топ-200 самых быстрых.")
+		return final[:200] 
+	}
 	return final
 }
 
 func main() {
 	os.MkdirAll("configs", os.ModePerm)
 
-	fmt.Println("❄️ Морозный чекер запущен (Лимит: 5 источников)...")
+	fmt.Println("🧊 YKTFLOW: Запуск морозного комбайна...")
 	nodes := process("data/sources_mobile.txt")
 	
+	fmt.Println("📦 Сохраняю результаты в Base64...")
 	save("configs/kudryash0vv_YKTFLOW_mobile.txt", nodes)
 	save("configs/kudryash0vv_YKTFLOW_1.txt", nodes)
 	
-	fmt.Printf("✅ Готово! Найдено %d быстрых узлов.\n", len(nodes))
+	fmt.Printf("✅ ГОТОВО! Заморожено узлов: %d\n", len(nodes))
 }
 
 func save(path string, res []Result) {
 	f, _ := os.Create(path)
 	defer f.Close()
 
-	// Формируем заголовок подписки
-	// 825 GB в байтах: 825 * 1024 * 1024 * 1024 = 885837004800
-	// 31.12.2026 в Unix Timestamp: 1798675200
 	header := "profile-title: kudryash0vv.YKTFLOW\n"
 	header += "subscription-userinfo: upload=0; download=0; total=885837004800; expire=1798675200\n\n"
 
@@ -122,7 +143,6 @@ func save(path string, res []Result) {
 		content += r.Raw + "\n"
 	}
 
-	// Кодируем всё в Base64, чтобы клиенты корректно отобразили инфо-панель
 	encoded := base64.StdEncoding.EncodeToString([]byte(content))
 	fmt.Fprintln(f, encoded)
 }
