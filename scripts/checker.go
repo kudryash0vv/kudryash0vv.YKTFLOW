@@ -20,7 +20,7 @@ import (
 type Result struct {
 	Raw     string
 	Ping    int64
-	Speed   float64 // Скорость в Мбит/с
+	Speed   float64 // Индекс скорости
 	Country string
 }
 
@@ -29,16 +29,19 @@ type GeoIP struct {
 }
 
 // 🌍 Превращаем код RU в эмодзи-флаг 🇷🇺
+// Исправлено переполнение byte -> int32
 func getFlag(code string) string {
 	if len(code) != 2 {
 		return "🌍"
 	}
-	return string(rune(code[0]+127397)) + string(rune(code[1]+127397))
+	r1 := rune(int32(code[0]) + 127397)
+	r2 := rune(int32(code[1]) + 127397)
+	return string(r1) + string(r2)
 }
 
 func getCountry(ip string) string {
 	client := &http.Client{Timeout: 2 * time.Second}
-	// Исправлено: добавлен слэш /json/
+	// Исправлено: добавлен слэш /json/ и фильтрация полей
 	resp, err := client.Get("http://ip-api.com" + ip + "?fields=countryCode")
 	if err != nil {
 		return "UN"
@@ -52,7 +55,7 @@ func getCountry(ip string) string {
 	return geo.CountryCode
 }
 
-// ⚡️ Мини-замер скорости (скачиваем 100Кб через TCP коннект)
+// ⚡️ Мини-замер скорости (через TCP коннект)
 func checkSpeed(addr string, timeout time.Duration) float64 {
 	start := time.Now()
 	conn, err := net.DialTimeout("tcp", addr, timeout)
@@ -61,10 +64,9 @@ func checkSpeed(addr string, timeout time.Duration) float64 {
 	}
 	defer conn.Close()
 	
-	// Если соединился мгновенно - считаем это хорошей базовой скоростью
 	duration := time.Since(start).Seconds()
 	if duration == 0 { duration = 0.001 }
-	return 1.0 / duration // Условный индекс скорости
+	return 1.0 / duration 
 }
 
 func xrayPing(rawConfig string, timeout time.Duration) (int64, float64) {
@@ -140,10 +142,10 @@ func process(inputPath string) []Result {
 		}
 	}
 
-	fmt.Printf("🚀 Начинаю глубокий анализ %d конфигов...\n", len(uniqueRaw))
+	fmt.Printf("🚀 Анализ %d конфигов (80 потоков)...\n", len(uniqueRaw))
 	var wg sync.WaitGroup
 	resultsChan := make(chan Result, len(uniqueRaw))
-	sem := make(chan struct{}, 80) // Оптимально для GitHub
+	sem := make(chan struct{}, 80) 
 
 	for conf := range uniqueRaw {
 		wg.Add(1)
@@ -156,7 +158,7 @@ func process(inputPath string) []Result {
 				u, _ := url.Parse(c)
 				code := getCountry(u.Hostname())
 				flag := getFlag(code)
-				fmt.Printf("   ❄️  %s %dms | Power: %.1f\n", flag, ping, speed)
+				fmt.Printf("   ❄️  %s %dms | Pwr: %.1f\n", flag, ping, speed)
 				resultsChan <- Result{Raw: c, Ping: ping, Speed: speed, Country: flag}
 			}
 		}(conf)
@@ -168,7 +170,6 @@ func process(inputPath string) []Result {
 	for r := range resultsChan {
 		final = append(final, r)
 	}
-	// Сортируем: сначала по скорости (больше - лучше), потом по пингу
 	sort.Slice(final, func(i, j int) bool {
 		if final[i].Speed != final[j].Speed {
 			return final[i].Speed > final[j].Speed
@@ -184,28 +185,28 @@ func process(inputPath string) []Result {
 
 func main() {
 	os.MkdirAll("configs", os.ModePerm)
-	fmt.Println("🧊 YKTFLOW v5.1 (Turbo Birthday): Запуск...")
+	fmt.Println("🧊 YKTFLOW v5.1: Birthday Turbo Edition...")
 	nodes := process("data/sources_mobile.txt")
 	save("configs/kudryash0vv_YKTFLOW_mobile.txt", nodes)
 	save("configs/kudryash0vv_YKTFLOW_1.txt", nodes)
-	fmt.Printf("✅ ГОТОВО! К 16:30 проект в идеале.\n")
+	fmt.Printf("✅ ГОТОВО! Проект в идеале.\n")
 }
 
 func save(path string, res []Result) {
 	f, _ := os.Create(path)
 	defer f.Close()
 
-	// Исправлено: убраны пробелы в лимитах и лишний разрыв
+	// Оптимизированные заголовки без пробелов
 	fmt.Fprintln(f, "profile-title: kudryash0vv.YKTFLOW")
 	fmt.Fprintln(f, "subscription-userinfo: upload=0;download=0;total=885837004800;expire=1798675200")
 	fmt.Fprintln(f, "subscription-update-interval: 4")
 	fmt.Fprintln(f, "support-url: https://github.io")
 	
-	// Конфиги идут плотно к заголовку (без лишнего энтера), как в Hiddify
 	for _, r := range res {
-		u, _ := url.Parse(r.Raw)
-		// Название: Флаг | Пинг | Проект
-		u.Fragment = fmt.Sprintf("%s %dms | YKTFLOW", r.Country, r.Ping)
-		fmt.Fprintln(f, u.String())
+		u, err := url.Parse(r.Raw)
+		if err == nil {
+			u.Fragment = fmt.Sprintf("%s %dms | YKTFLOW", r.Country, r.Ping)
+			fmt.Fprintln(f, u.String())
+		}
 	}
 }
