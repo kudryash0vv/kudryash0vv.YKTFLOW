@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"crypto/tls"
+	"encoding/base64"
 	"fmt"
 	"io"
 	"net"
@@ -52,7 +53,6 @@ func process(inputPath string) []Result {
 		line := strings.TrimSpace(scanner.Text())
 		if strings.HasPrefix(line, "http") { 
 			sourceUrls = append(sourceUrls, line) 
-			// 🛑 ЖЕСТКИЙ ЛИМИТ: Берем только первые 5 ссылок
 			if len(sourceUrls) >= 5 { break }
 		}
 	}
@@ -91,7 +91,6 @@ func process(inputPath string) []Result {
 	for r := range resultsChan { final = append(final, r) }
 	sort.Slice(final, func(i, j int) bool { return final[i].Ping < final[j].Ping })
 
-	// 🧊 ЛИМИТ: Оставляем топ-200 лучших
 	if len(final) > 200 { return final[:200] }
 	return final
 }
@@ -111,5 +110,19 @@ func main() {
 func save(path string, res []Result) {
 	f, _ := os.Create(path)
 	defer f.Close()
-	for _, r := range res { fmt.Fprintln(f, r.Raw) }
+
+	// Формируем заголовок подписки
+	// 825 GB в байтах: 825 * 1024 * 1024 * 1024 = 885837004800
+	// 31.12.2026 в Unix Timestamp: 1798675200
+	header := "profile-title: kudryash0vv.YKTFLOW\n"
+	header += "subscription-userinfo: upload=0; download=0; total=885837004800; expire=1798675200\n\n"
+
+	content := header
+	for _, r := range res {
+		content += r.Raw + "\n"
+	}
+
+	// Кодируем всё в Base64, чтобы клиенты корректно отобразили инфо-панель
+	encoded := base64.StdEncoding.EncodeToString([]byte(content))
+	fmt.Fprintln(f, encoded)
 }
