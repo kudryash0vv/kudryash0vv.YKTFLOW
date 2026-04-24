@@ -43,8 +43,8 @@
 
 | Ресурс | Прямая ссылка (Base64) |
 | :--- | :--- |
-| **🌐 WIFI Subscription** | `https://raw.githubusercontent.com/kudryash0vv/kudryash0vv.YKTFLOW/refs/heads/main/configs/wifi_ykt.%23119.txt?token=GHSAT0AAAAAAD3LL6KIKQ7CRXRQQDRTSBR62PLKFGA` |
-| **📱 Mobile Subscription** | `https://raw.githubusercontent.com/kudryash0vv/kudryash0vv.YKTFLOW/refs/heads/main/configs/kudryash0vv_YKTFLOW_1.txt?token=GHSAT0AAAAAAD3LL6KJLPT27W7Y5OIFV7W42PLKIYQ` |
+| **🌐 WIFI Subscription** | `https://raw.githubusercontent.com/kudryash0vv/kudryash0vv.YKTFLOW/refs/heads/main/configs/wifi_ykt.%23102.txt` |
+| **📱 Mobile Subscription** | `https://raw.githubusercontent.com/kudryash0vv/kudryash0vv.YKTFLOW/refs/heads/main/configs/kudryash0vv_YKTFLOW_mobile.txt` |
 
 ---
 
