@@ -78,28 +78,28 @@ func process(inputPath string) []Result {
 		
 		for _, link := range found { 
 			uniqueRaw[link] = struct{}{} 
-			if len(uniqueRaw) >= 1500 { break } // Ограничение для скорости
+			if len(uniqueRaw) >= 1500 { break }
 		}
 		fmt.Printf("   💎 Нашел %d уникальных конфигов\n", len(uniqueRaw))
-		if len(uniqueRaw) >= 1500 { 
-			fmt.Println("   🛑 Лимит 1500 достигнут, перехожу к чеку.")
-			break 
-		}
+		if len(uniqueRaw) >= 1500 { break }
 	}
 
-	fmt.Printf("🚀 Начинаю пинговать %d конфигов в 500 потоков...\n", len(uniqueRaw))
+	fmt.Printf("🚀 Начинаю проверку %d конфигов (100 потоков)...\n", len(uniqueRaw))
 	var wg sync.WaitGroup
 	resultsChan := make(chan Result, len(uniqueRaw))
-	sem := make(chan struct{}, 500)
+	sem := make(chan struct{}, 100) // Щадящий режим для GitHub
 
 	for conf := range uniqueRaw {
 		wg.Add(1)
 		go func(c string) {
 			defer wg.Done()
 			sem <- struct{}{}
-			ping := xrayPing(c, 800*time.Millisecond) // Ускоренный пинг 0.8с
+			ping := xrayPing(c, 1500*time.Millisecond) // Таймаут 1.5с
 			<-sem
-			if ping > 0 { resultsChan <- Result{Raw: c, Ping: ping} }
+			if ping > 0 { 
+				fmt.Printf("   ❄️  Живой! [%d ms]\n", ping)
+				resultsChan <- Result{Raw: c, Ping: ping} 
+			}
 		}(conf)
 	}
 	wg.Wait()
@@ -107,7 +107,7 @@ func process(inputPath string) []Result {
 
 	var final []Result
 	for r := range resultsChan { final = append(final, r) }
-	fmt.Printf("❄️ Пинг завершен. Живых: %d\n", len(final))
+	fmt.Printf("\n🏁 Пинг завершен. Всего живых: %d\n", len(final))
 
 	sort.Slice(final, func(i, j int) bool { return final[i].Ping < final[j].Ping })
 
@@ -124,7 +124,7 @@ func main() {
 	fmt.Println("🧊 YKTFLOW: Запуск морозного комбайна...")
 	nodes := process("data/sources_mobile.txt")
 	
-	fmt.Println("📦 Сохраняю результаты в Base64...")
+	fmt.Println("📦 Пакую в Base64 (825 GB + Profile Title)...")
 	save("configs/kudryash0vv_YKTFLOW_mobile.txt", nodes)
 	save("configs/kudryash0vv_YKTFLOW_1.txt", nodes)
 	
