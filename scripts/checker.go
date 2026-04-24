@@ -24,18 +24,14 @@ type Result struct {
 func xrayPing(rawConfig string, timeout time.Duration) int64 {
 	u, err := url.Parse(rawConfig)
 	if err != nil || u.Hostname() == "" { return -1 }
-	
 	addr := u.Host
-	if !strings.Contains(addr, ":") {
-		addr = net.JoinHostPort(addr, "443")
-	}
+	if !strings.Contains(addr, ":") { addr = net.JoinHostPort(addr, "443") }
 
 	start := time.Now()
 	conn, err := net.DialTimeout("tcp", addr, timeout)
 	if err != nil { return -1 }
 	defer conn.Close()
 
-	// Проверка TLS/Reality
 	if strings.Contains(rawConfig, "security=reality") || strings.Contains(rawConfig, "security=tls") {
 		sni := u.Query().Get("sni")
 		if sni == "" { sni = u.Hostname() }
@@ -47,42 +43,42 @@ func xrayPing(rawConfig string, timeout time.Duration) int64 {
 
 func process(inputPath string) []Result {
 	file, err := os.Open(inputPath)
-	if err != nil { return nil }
+	if err != nil { 
+		fmt.Printf("Ошибка: не удалось открыть файл %s\n", inputPath)
+		return nil 
+	}
 	defer file.Close()
 
-	var urls []string
+	var sourceUrls []string
 	scanner := bufio.NewScanner(file)
 	for scanner.Scan() {
 		line := strings.TrimSpace(scanner.Text())
-		if strings.HasPrefix(line, "http") { urls = append(urls, line) }
+		if strings.HasPrefix(line, "http") { sourceUrls = append(sourceUrls, line) }
 	}
 
 	re := regexp.MustCompile(`(vless|vmess|trojan|ss)://[^\s"']+`)
 	uniqueRaw := make(map[string]struct{})
 	client := &http.Client{Timeout: 15 * time.Second}
 
-	for _, u := range urls {
+	for _, u := range sourceUrls {
 		resp, err := client.Get(u)
 		if err != nil { continue }
 		body, _ := io.ReadAll(resp.Body)
 		resp.Body.Close()
-		
 		found := re.FindAllString(string(body), -1)
-		for _, link := range found {
-			uniqueRaw[link] = struct{}{} // Удаляем дубликаты
-		}
+		for _, link := range found { uniqueRaw[link] = struct{}{} }
 	}
 
 	var wg sync.WaitGroup
 	resultsChan := make(chan Result, len(uniqueRaw))
-	sem := make(chan struct{}, 50) 
+	sem := make(chan struct{}, 100)
 
 	for conf := range uniqueRaw {
 		wg.Add(1)
 		go func(c string) {
 			defer wg.Done()
 			sem <- struct{}{}
-			ping := xrayPing(c, 2*time.Second)
+			ping := xrayPing(c, 3*time.Second) // 3 секунды на проверку
 			<-sem
 			if ping > 0 { resultsChan <- Result{Raw: c, Ping: ping} }
 		}(conf)
@@ -97,15 +93,15 @@ func process(inputPath string) []Result {
 }
 
 func main() {
-	os.MkdirAll("data", os.ModePerm)
 	os.MkdirAll("configs", os.ModePerm)
 
-	// Берем из data/links, выплевываем в configs/sources
-	mobile := process("data/links_mobile.txt")
-	save("configs/sources_mobile.txt", mobile)
-
-	wifi := process("data/links.txt")
-	save("configs/sources.txt", wifi)
+	// Берем только мобильные источники
+	fmt.Println("Начинаю сбор мобильных конфигов...")
+	mobileNodes := process("data/mobile_sources.txt")
+	
+	// Выплевываем результат в папку configs
+	save("configs/kudryash0vv_YKTFLOW_mobile.txt", mobileNodes)
+	fmt.Printf("Готово! Сохранено %d рабочих узлов.\n", len(mobileNodes))
 }
 
 func save(path string, res []Result) {
