@@ -71,14 +71,14 @@ func process(inputPath string) []Result {
 
 	var wg sync.WaitGroup
 	resultsChan := make(chan Result, len(uniqueRaw))
-	sem := make(chan struct{}, 100)
+	sem := make(chan struct{}, 500)
 
 	for conf := range uniqueRaw {
 		wg.Add(1)
 		go func(c string) {
 			defer wg.Done()
 			sem <- struct{}{}
-			ping := xrayPing(c, 3*time.Second) // 3 секунды на проверку
+			ping := xrayPing(c, 1*time.Second) // 1 секунду на проверку
 			<-sem
 			if ping > 0 { resultsChan <- Result{Raw: c, Ping: ping} }
 		}(conf)
