@@ -97,7 +97,7 @@ func main() {
 
 	// Берем только мобильные источники
 	fmt.Println("Начинаю сбор мобильных конфигов...")
-	mobileNodes := process("data/mobile_sources.txt")
+	mobileNodes := process("data/sources_mobile.txt")
 	
 	// Выплевываем результат в папку configs
 	save("configs/kudryash0vv_YKTFLOW_mobile.txt", mobileNodes)
