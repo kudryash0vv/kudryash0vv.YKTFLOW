@@ -43,22 +43,23 @@ func xrayPing(rawConfig string, timeout time.Duration) int64 {
 
 func process(inputPath string) []Result {
 	file, err := os.Open(inputPath)
-	if err != nil { 
-		fmt.Printf("Ошибка: не удалось открыть файл %s\n", inputPath)
-		return nil 
-	}
+	if err != nil { return nil }
 	defer file.Close()
 
 	var sourceUrls []string
 	scanner := bufio.NewScanner(file)
 	for scanner.Scan() {
 		line := strings.TrimSpace(scanner.Text())
-		if strings.HasPrefix(line, "http") { sourceUrls = append(sourceUrls, line) }
+		if strings.HasPrefix(line, "http") { 
+			sourceUrls = append(sourceUrls, line) 
+			// 🛑 ЖЕСТКИЙ ЛИМИТ: Берем только первые 5 ссылок
+			if len(sourceUrls) >= 5 { break }
+		}
 	}
 
 	re := regexp.MustCompile(`(vless|vmess|trojan|ss)://[^\s"']+`)
 	uniqueRaw := make(map[string]struct{})
-	client := &http.Client{Timeout: 15 * time.Second}
+	client := &http.Client{Timeout: 10 * time.Second}
 
 	for _, u := range sourceUrls {
 		resp, err := client.Get(u)
@@ -78,7 +79,7 @@ func process(inputPath string) []Result {
 		go func(c string) {
 			defer wg.Done()
 			sem <- struct{}{}
-			ping := xrayPing(c, 1*time.Second) // 1 секунду на проверку
+			ping := xrayPing(c, 1*time.Second) 
 			<-sem
 			if ping > 0 { resultsChan <- Result{Raw: c, Ping: ping} }
 		}(conf)
@@ -89,19 +90,22 @@ func process(inputPath string) []Result {
 	var final []Result
 	for r := range resultsChan { final = append(final, r) }
 	sort.Slice(final, func(i, j int) bool { return final[i].Ping < final[j].Ping })
+
+	// 🧊 ЛИМИТ: Оставляем топ-200 лучших
+	if len(final) > 200 { return final[:200] }
 	return final
 }
 
 func main() {
 	os.MkdirAll("configs", os.ModePerm)
 
-	// Берем только мобильные источники
-	fmt.Println("Начинаю сбор мобильных конфигов...")
-	mobileNodes := process("data/sources_mobile.txt")
+	fmt.Println("❄️ Морозный чекер запущен (Лимит: 5 источников)...")
+	nodes := process("data/sources_mobile.txt")
 	
-	// Выплевываем результат в папку configs
-	save("configs/kudryash0vv_YKTFLOW_mobile.txt", mobileNodes)
-	fmt.Printf("Готово! Сохранено %d рабочих узлов.\n", len(mobileNodes))
+	save("configs/kudryash0vv_YKTFLOW_mobile.txt", nodes)
+	save("configs/kudryash0vv_YKTFLOW_1.txt", nodes)
+	
+	fmt.Printf("✅ Готово! Найдено %d быстрых узлов.\n", len(nodes))
 }
 
 func save(path string, res []Result) {
