@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"crypto/tls"
+	"encoding/json"
 	"fmt"
 	"io"
 	"net"
@@ -17,8 +18,33 @@ import (
 )
 
 type Result struct {
-	Raw  string
-	Ping int64
+	Raw     string
+	Ping    int64
+	Country string
+}
+
+// Структура для получения страны по IP
+type GeoIP struct {
+	CountryCode string `json:"countryCode"`
+}
+
+func getCountry(ip string) string {
+	client := &http.Client{Timeout: 3 * time.Second}
+	resp, err := client.Get("http://ip-api.com" + ip + "?fields=countryCode")
+	if err != nil {
+		return "🏳️"
+	}
+	defer resp.Body.Close()
+
+	var geo GeoIP
+	if err := json.NewDecoder(resp.Body).Decode(&geo); err != nil {
+		return "🌍"
+	}
+	// Превращаем код страны (RU, US) в эмодзи флаг
+	if len(geo.CountryCode) != 2 {
+		return "🌍"
+	}
+	return strings.ToUpper(geo.CountryCode)
 }
 
 func xrayPing(rawConfig string, timeout time.Duration) int64 {
@@ -75,12 +101,12 @@ func process(inputPath string) []Result {
 		found := re.FindAllString(string(body), -1)
 		for _, link := range found { 
 			uniqueRaw[link] = struct{}{} 
-			if len(uniqueRaw) >= 1500 { break }
+			if len(uniqueRaw) >= 1000 { break } // Немного снизил лимит для скорости
 		}
-		if len(uniqueRaw) >= 1500 { break }
+		if len(uniqueRaw) >= 1000 { break }
 	}
 
-	fmt.Printf("🚀 Начинаю проверку %d конфигов (100 потоков)...\n", len(uniqueRaw))
+	fmt.Printf("🚀 Проверка %d конфигов (100 потоков)...\n", len(uniqueRaw))
 	var wg sync.WaitGroup
 	resultsChan := make(chan Result, len(uniqueRaw))
 	sem := make(chan struct{}, 100) 
@@ -93,8 +119,10 @@ func process(inputPath string) []Result {
 			ping := xrayPing(c, 1500*time.Millisecond)
 			<-sem
 			if ping > 0 { 
-				fmt.Printf("   ❄️  Живой! [%d ms]\n", ping)
-				resultsChan <- Result{Raw: c, Ping: ping} 
+				u, _ := url.Parse(c)
+				country := getCountry(u.Hostname())
+				fmt.Printf("   ❄️  [%s] Живой! [%d ms]\n", country, ping)
+				resultsChan <- Result{Raw: c, Ping: ping, Country: country} 
 			}
 		}(conf)
 	}
@@ -111,7 +139,7 @@ func process(inputPath string) []Result {
 
 func main() {
 	os.MkdirAll("configs", os.ModePerm)
-	fmt.Println("🧊 YKTFLOW: Запуск морозного комбайна...")
+	fmt.Println("🧊 YKTFLOW v3.0: Запуск морозного комбайна...")
 	nodes := process("data/sources_mobile.txt")
 	save("configs/kudryash0vv_YKTFLOW_mobile.txt", nodes)
 	save("configs/kudryash0vv_YKTFLOW_1.txt", nodes)
@@ -122,16 +150,24 @@ func save(path string, res []Result) {
 	f, _ := os.Create(path)
 	defer f.Close()
 
-	// Записываем данные в открытом текстовом формате (Plain Text)
 	fmt.Fprintln(f, "profile-title: kudryash0vv.YKTFLOW")
 	fmt.Fprintln(f, "subscription-userinfo: upload=0;download=0;total=885837004800;expire=1798675200")
 	fmt.Fprintln(f, "subscription-update-interval: 4")
 	fmt.Fprintln(f, "support-url: https://github.io")
-	fmt.Fprintln(f, "") // Обязательный разрыв перед конфигами
+	fmt.Fprintln(f, "") 
 
 	for _, r := range res {
-		fmt.Fprintln(f, r.Raw)
+		// Добавляем страну в название конфига (после # в URL)
+		u, err := url.Parse(r.Raw)
+		if err == nil {
+			originalName := u.Fragment
+			if originalName == "" { originalName = "Node" }
+			// Формат: [СТРАНА] Название # Ссылка
+			newName := fmt.Sprintf("[%s] %s", r.Country, originalName)
+			u.Fragment = newName
+			fmt.Fprintln(f, u.String())
+		} else {
+			fmt.Fprintln(f, r.Raw)
+		}
 	}
-	
-	fmt.Printf("💾 Файл %s сохранен (Plain Text Mode).\n", path)
 }
