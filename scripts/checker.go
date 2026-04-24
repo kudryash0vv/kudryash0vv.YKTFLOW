@@ -29,16 +29,25 @@ func xrayPing(rawConfig string, timeout time.Duration) int64 {
 	if !strings.Contains(addr, ":") { addr = net.JoinHostPort(addr, "443") }
 
 	start := time.Now()
+	
+	// 🏠 Стучимся в дверь (TCP Connection)
 	conn, err := net.DialTimeout("tcp", addr, timeout)
 	if err != nil { return -1 }
+	
+	// 🧊 ЖЕСТКИЙ СТОП-КРАН: Если за 1.5с всё не закончится — рвем связь
+	// Теперь скрипт не будет тупить и ждать по 134000 мс
+	conn.SetDeadline(time.Now().Add(timeout)) 
 	defer conn.Close()
 
 	if strings.Contains(rawConfig, "security=reality") || strings.Contains(rawConfig, "security=tls") {
 		sni := u.Query().Get("sni")
 		if sni == "" { sni = u.Hostname() }
 		tlsConn := tls.Client(conn, &tls.Config{InsecureSkipVerify: true, ServerName: sni})
+		
+		// 🤝 Здороваемся. Если сервер молчит — Deadline его прибьет
 		if err := tlsConn.Handshake(); err != nil { return -1 }
 	}
+	
 	return time.Since(start).Milliseconds()
 }
 
@@ -87,14 +96,14 @@ func process(inputPath string) []Result {
 	fmt.Printf("🚀 Начинаю проверку %d конфигов (100 потоков)...\n", len(uniqueRaw))
 	var wg sync.WaitGroup
 	resultsChan := make(chan Result, len(uniqueRaw))
-	sem := make(chan struct{}, 100) // Щадящий режим для GitHub
+	sem := make(chan struct{}, 100) 
 
 	for conf := range uniqueRaw {
 		wg.Add(1)
 		go func(c string) {
 			defer wg.Done()
 			sem <- struct{}{}
-			ping := xrayPing(c, 1500*time.Millisecond) // Таймаут 1.5с
+			ping := xrayPing(c, 1500*time.Millisecond)
 			<-sem
 			if ping > 0 { 
 				fmt.Printf("   ❄️  Живой! [%d ms]\n", ping)
