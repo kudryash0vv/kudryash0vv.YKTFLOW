@@ -165,20 +165,21 @@ func save(path string, res []Result) {
 	f, _ := os.Create(path)
 	defer f.Close()
 
-	// ФОРМИРУЕМ КОНТЕНТ (Title + Userinfo + Configs)
-	content := "profile-title: kudryash0vv.YKTFLOW\n"
-	content += "subscription-userinfo: upload=0;download=0;total=885837004800;expire=1798675200\n"
-	content += "subscription-update-interval: 4\n"
+	// 🎈 Праздничный заголовок С РЕШЕТКАМИ (как на рабочем скрине)
+	fmt.Fprintln(f, "# profile-title: HappyBirthday🎈.YKTFLOW")
+	fmt.Fprintln(f, "# subscription-userinfo: upload=0; download=0; total=885837004800; expire=1798675200")
+	
+	// Добавляем время обновления (YKT)
+	fmt.Fprintf(f, "# update: %s (YKT)\n", time.Now().Format("2006-01-02 / 15:04"))
+	fmt.Fprintln(f, "") // Пустая строка перед конфигами
 
+	// Записываем конфиги в открытом виде (БЕЗ Base64)
 	for _, r := range res {
-		u, err := url.Parse(r.Raw)
-		if err == nil {
-			u.Fragment = fmt.Sprintf("%s %dms | YKTFLOW", r.Country, r.Ping)
-			content += u.String() + "\n"
-		}
+		u, _ := url.Parse(r.Raw)
+		// Название: [Флаг] Пинг ms | Проект
+		u.Fragment = fmt.Sprintf("%s %dms | YKTFLOW", r.Country, r.Ping)
+		fmt.Fprintln(f, u.String())
 	}
-
-	// ИСПРАВЛЕНО: Упаковка в Base64 для Hiddify/Happ
-	encoded := base64.StdEncoding.EncodeToString([]byte(content))
-	fmt.Fprint(f, encoded)
+	
+	fmt.Printf("💾 Файл %s сохранен в рабочем формате (Plain Text + #).\n", path)
 }
