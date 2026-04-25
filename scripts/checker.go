@@ -3,7 +3,6 @@ package main
 import (
 	"bufio"
 	"crypto/tls"
-	"encoding/base64" // Добавил для упаковки
 	"encoding/json"
 	"fmt"
 	"io"
