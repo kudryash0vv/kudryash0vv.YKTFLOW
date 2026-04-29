@@ -1,6 +1,7 @@
 # profile-title: kudryash0vv.WIFI.#4
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-04-30 / 02:57 (YKT)
+# Update: 2026-04-30 / 06:46 (YKT)
+trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&host=hl-freedom-1.undef.network&security=tls&type=ws&path=/f2fc2a1f#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://%40SEGVPN@gcre.segstar.info:10100/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://%40iSeqaro@127.0.0.1:443?security=none&encryption=none&headerType=none&type=tcp
 vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=🔒
@@ -78,7 +79,6 @@ vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C_%D9%85%D9%84%DB%8C
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#KingRezaPahlavi
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=🔒
-vless://00000000-0000-0000-0000-000000000000@kubernetes.io:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=🔒
 vless://00000000-0000-0000-0000-000000000000@kubernetes.io:443?mode=auto&path=/yourpath&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=xxxxxxx.netlify.app&fp=chrome&type=xhttp&allowInsecure=1&sni=kubernetes.io#Netlify–xhttp
 vless://00000000-0000-0000-0000-000000000000@kubernetes.io:443?mode=auto&path=🔒
 vless://0001691a-e408-461c-9a09-96e46c156bdb@hydrovpnsrv1.craftedrpg.ir:443/?encryption=none&host=telewebion.com&type=tcp&headerType=http
@@ -141,15 +141,17 @@ vless://00e85943-119a-4112-af52-d44175192452@185.146.173.58:8080?allowInsecure=0
 vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%40DrovOne
 vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%40saministamm
 vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#%40vipconfingg%20%E2%98%86%E2%99%A1%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%A8%D8%A7%20%D8%B3%D8%A7%DB%8C%D9%81%D9%88%D9%86%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%20%DA%A9%D9%86%DB%8C%D8%AF%21%20%E2%98%86%E2%99%A1%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88
+vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#Psiphon-%40V2rayAlpha--8
 vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=an.8lack.ir#VeyRohiT%20-%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%92%A2
-vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=an.8lack.ir&fp=chrome&type=ws&sni=an.8lack.ir#@filtershekan_channel
+vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=/chat%3Fed%3D128&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=an.8lack.ir&amp%3Bfp=firefox&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=an.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40ghalagyann%20%234
 vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#@KurdConfing
-vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#@irmeliy
-vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#NetMeli9-24
+vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#@icv2ray
+vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#@oliver_soul
 vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#✅️Tarkib:@Shomarrreh
 vless://00f24ac9-7b34-411d-85b4-4e9501b39277@185.143.233.5:443?path=🔒
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#%40configforVPN
 vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=🔒
+vless://01015bf4-1f65-44a4-abda-012aee73584b@badboybi2.yeksancloud.ir:80?type=ws&encryption=none&path=/&host=badboybi2.yeksancloud.ir&security=none#Test-846tc9a0
 vless://01036a14-7758-4795-b453-2625aa8ee2b5@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F#b_005
 vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@tr.prod.n7.homes:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=tcp&headerType=none#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
 vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@tr.prod.n7.homes:8443?encryption=none&security=reality&sni=🔒
@@ -249,5 +251,3 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@66.235.200.251:8880/?type=ws&encryp
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@66.81.247.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@74.49.214.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@77.105.163.251:8880?allowInsecure=0&sni=🔒
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@77.105.163.251:8880?security=&sni=🔒
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@88.216.69.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
