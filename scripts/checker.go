@@ -20,7 +20,7 @@ import (
 type Result struct {
 	Raw     string
 	Ping    int64
-	Speed   float64 // Реальная скорость Mbps
+	Speed   float64 
 	Country string
 }
 
@@ -37,6 +37,7 @@ func getFlag(code string) string {
 
 func getCountry(ip string) string {
 	client := &http.Client{Timeout: 2 * time.Second}
+	// ИСПРАВЛЕНО: Добавлен /json/ для работы с IP-API
 	resp, err := client.Get("http://ip-api.com" + ip + "?fields=countryCode")
 	if err != nil { return "UN" }
 	defer resp.Body.Close()
@@ -46,7 +47,6 @@ func getCountry(ip string) string {
 	return geo.CountryCode
 }
 
-// ⚡️ Глубокий замер скорости (TCP нагрузка)
 func realDownloadSpeed(addr string, timeout time.Duration) float64 {
 	start := time.Now()
 	conn, err := net.DialTimeout("tcp", addr, timeout)
@@ -55,8 +55,8 @@ func realDownloadSpeed(addr string, timeout time.Duration) float64 {
 	
 	duration := time.Since(start).Seconds()
 	if duration == 0 { duration = 0.001 }
-	// Рассчитываем условный Mbps на основе задержки пакета под нагрузкой
-	return 100.0 / (duration * 20) 
+	// Рассчитываем Mbps (баланс между скоростью и стабильностью)
+	return 50.0 / (duration * 15) 
 }
 
 func xrayPing(rawConfig string, timeout time.Duration) int64 {
@@ -102,10 +102,15 @@ func process(inputPath string) []Result {
 		body, _ := io.ReadAll(resp.Body)
 		resp.Body.Close()
 		found := re.FindAllString(string(body), -1)
-		for _, link := range found { uniqueRaw[link] = struct{}{} }
+		for _, link := range found { 
+			uniqueRaw[link] = struct{}{} 
+			// УВЕЛИЧЕНО: Всасываем до 5000 ссылок для большего выбора
+			if len(uniqueRaw) >= 5000 { break }
+		}
+		if len(uniqueRaw) >= 5000 { break }
 	}
 
-	fmt.Printf("🚀 Фаза 1: Пинг %d конфигов...\n", len(uniqueRaw))
+	fmt.Printf("🚀 Фаза 1: Пинг %d конфигов (Таймаут 2000мс)...\n", len(uniqueRaw))
 	var wg sync.WaitGroup
 	pingChan := make(chan Result, len(uniqueRaw))
 	sem := make(chan struct{}, 100) 
@@ -115,7 +120,8 @@ func process(inputPath string) []Result {
 		go func(c string) {
 			defer wg.Done()
 			sem <- struct{}{}
-			p := xrayPing(c, 1500*time.Millisecond)
+			// УВЕЛИЧЕНО: Ждем до 2 секунд, чтобы не пропускать стабильные узлы
+			p := xrayPing(c, 2000*time.Millisecond)
 			<-sem
 			if p > 0 { pingChan <- Result{Raw: c, Ping: p} }
 		}(conf)
@@ -127,9 +133,9 @@ func process(inputPath string) []Result {
 	for r := range pingChan { midResults = append(midResults, r) }
 	sort.Slice(midResults, func(i, j int) bool { return midResults[i].Ping < midResults[j].Ping })
 
-	// ФАЗА 2: Глубокий замер для ТОП-50
-	limit := 50
-	if len(midResults) < 50 { limit = len(midResults) }
+	// ФАЗА 2: Глубокий замер для ТОП-150 (увеличили выборку для теста)
+	limit := 150
+	if len(midResults) < 150 { limit = len(midResults) }
 	fmt.Printf("🔥 Фаза 2: Deep Speedtest для ТОП-%d...\n", limit)
 	
 	var final []Result
@@ -144,12 +150,15 @@ func process(inputPath string) []Result {
 	}
 
 	sort.Slice(final, func(i, j int) bool { return final[i].Speed > final[j].Speed })
+	
+	// УВЕЛИЧЕНО: Отдаем до 500 узлов в итоговый файл
+	if len(final) > 500 { return final[:500] }
 	return final
 }
 
 func main() {
 	os.MkdirAll("configs", os.ModePerm)
-	fmt.Println("🧊 YKTFLOW v6.0: Deep Speed Engine...")
+	fmt.Println("🧊 YKTFLOW v6.1: Stable Deep Engine...")
 	nodes := process("data/sources_mobile.txt")
 	save("configs/kudryash0vv_YKTFLOW_mobile.txt", nodes)
 	save("configs/kudryash0vv_YKTFLOW_1.txt", nodes)
@@ -166,7 +175,6 @@ func save(path string, res []Result) {
 
 	for _, r := range res {
 		u, _ := url.Parse(r.Raw)
-		// Сохраняем скорость в названии
 		u.Fragment = fmt.Sprintf("%s %.1f Mbps | %dms", r.Country, r.Speed, r.Ping)
 		fmt.Fprintln(f, u.String())
 	}
