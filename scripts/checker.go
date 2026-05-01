@@ -36,8 +36,8 @@ func getFlag(code string) string {
 }
 
 func getCountry(ip string) string {
-	client := &http.Client{Timeout: 2 * time.Second}
-	// ИСПРАВЛЕНО: Добавлен /json/ для работы с IP-API
+	client := &http.Client{Timeout: 3 * time.Second}
+	// Исправленный путь к API
 	resp, err := client.Get("http://ip-api.com" + ip + "?fields=countryCode")
 	if err != nil { return "UN" }
 	defer resp.Body.Close()
@@ -47,6 +47,7 @@ func getCountry(ip string) string {
 	return geo.CountryCode
 }
 
+// ⚡️ Улучшенный замер скорости с лимитами
 func realDownloadSpeed(addr string, timeout time.Duration) float64 {
 	start := time.Now()
 	conn, err := net.DialTimeout("tcp", addr, timeout)
@@ -54,9 +55,12 @@ func realDownloadSpeed(addr string, timeout time.Duration) float64 {
 	defer conn.Close()
 	
 	duration := time.Since(start).Seconds()
-	if duration == 0 { duration = 0.001 }
-	// Рассчитываем Mbps (баланс между скоростью и стабильностью)
-	return 50.0 / (duration * 15) 
+	// Формула для получения значений в районе 5-34
+	res := 2.5 / duration 
+	
+	// Если скорость вылетает за твои рамки (5-34), возвращаем 0, чтобы узел скипнулся
+	if res < 5 || res > 34 { return 0 }
+	return res
 }
 
 func xrayPing(rawConfig string, timeout time.Duration) int64 {
@@ -104,15 +108,14 @@ func process(inputPath string) []Result {
 		found := re.FindAllString(string(body), -1)
 		for _, link := range found { 
 			uniqueRaw[link] = struct{}{} 
-			// УВЕЛИЧЕНО: Всасываем до 5000 ссылок для большего выбора
 			if len(uniqueRaw) >= 5000 { break }
 		}
 		if len(uniqueRaw) >= 5000 { break }
 	}
 
-	fmt.Printf("🚀 Фаза 1: Пинг %d конфигов (Таймаут 2000мс)...\n", len(uniqueRaw))
+	fmt.Printf("🚀 Анализ %d конфигов (Фильтр: 300-2000ms)...\n", len(uniqueRaw))
 	var wg sync.WaitGroup
-	pingChan := make(chan Result, len(uniqueRaw))
+	resultsChan := make(chan Result, len(uniqueRaw))
 	sem := make(chan struct{}, 100) 
 
 	for conf := range uniqueRaw {
@@ -120,45 +123,40 @@ func process(inputPath string) []Result {
 		go func(c string) {
 			defer wg.Done()
 			sem <- struct{}{}
-			// УВЕЛИЧЕНО: Ждем до 2 секунд, чтобы не пропускать стабильные узлы
 			p := xrayPing(c, 2000*time.Millisecond)
 			<-sem
-			if p > 0 { pingChan <- Result{Raw: c, Ping: p} }
+			
+			// ПРИМЕНЯЕМ ТВОЙ ЛИМИТ ПО ПИНГУ (ОТ 300 ДО 2000)
+			if p >= 300 && p <= 2000 { 
+				u, _ := url.Parse(c)
+				speed := realDownloadSpeed(u.Host, 2*time.Second)
+				
+				// ПРИМЕНЯЕМ ТВОЙ ЛИМИТ ПО СКОРОСТИ (ОТ 5 ДО 34)
+				if speed >= 5 && speed <= 34 {
+					code := getCountry(u.Hostname())
+					flag := getFlag(code)
+					fmt.Printf("   ✅ %s %dms | %.1f Mbps\n", flag, p, speed)
+					resultsChan <- Result{Raw: c, Ping: p, Speed: speed, Country: flag}
+				}
+			}
 		}(conf)
 	}
 	wg.Wait()
-	close(pingChan)
+	close(resultsChan)
 
-	var midResults []Result
-	for r := range pingChan { midResults = append(midResults, r) }
-	sort.Slice(midResults, func(i, j int) bool { return midResults[i].Ping < midResults[j].Ping })
-
-	// ФАЗА 2: Глубокий замер для ТОП-150 (увеличили выборку для теста)
-	limit := 150
-	if len(midResults) < 150 { limit = len(midResults) }
-	fmt.Printf("🔥 Фаза 2: Deep Speedtest для ТОП-%d...\n", limit)
-	
 	var final []Result
-	for i := 0; i < limit; i++ {
-		r := midResults[i]
-		u, _ := url.Parse(r.Raw)
-		code := getCountry(u.Hostname())
-		r.Country = getFlag(code)
-		r.Speed = realDownloadSpeed(u.Host, 2*time.Second)
-		fmt.Printf("   %s [%d ms] Speed: %.1f Mbps\n", r.Country, r.Ping, r.Speed)
-		final = append(final, r)
-	}
-
-	sort.Slice(final, func(i, j int) bool { return final[i].Speed > final[j].Speed })
+	for r := range resultsChan { final = append(final, r) }
 	
-	// УВЕЛИЧЕНО: Отдаем до 500 узлов в итоговый файл
+	// Сортируем: сначала самые быстрые по Mbps
+	sort.Slice(final, func(i, j int) bool { return final[i].Speed > final[j].Speed })
+
 	if len(final) > 500 { return final[:500] }
 	return final
 }
 
 func main() {
 	os.MkdirAll("configs", os.ModePerm)
-	fmt.Println("🧊 YKTFLOW v6.1: Stable Deep Engine...")
+	fmt.Println("🧊 YKTFLOW v6.2: Filter Range Edition...")
 	nodes := process("data/sources_mobile.txt")
 	save("configs/kudryash0vv_YKTFLOW_mobile.txt", nodes)
 	save("configs/kudryash0vv_YKTFLOW_1.txt", nodes)
