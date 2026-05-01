@@ -27,3 +27,11 @@ jobs:
           git add configs/*.txt
           git commit -m "Auto-update configs $(date)" || exit 0
           git push
+          
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add data/stats.json configs/*.txt
+          git commit -m "Update stats and configs" || echo "No changes to commit"
+          git push
