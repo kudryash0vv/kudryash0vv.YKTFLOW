@@ -28,6 +28,12 @@ type GeoIP struct {
 	CountryCode string `json:"countryCode"`
 }
 
+// Структура для сохранения точки на графике
+type HistoryPoint struct {
+	Time  string `json:"t"`
+	Nodes int    `json:"n"`
+}
+
 func getFlag(code string) string {
 	if len(code) != 2 { return "🌍" }
 	r1 := rune(int32(code[0]) + 127397)
@@ -37,7 +43,7 @@ func getFlag(code string) string {
 
 func getCountry(ip string) string {
 	client := &http.Client{Timeout: 3 * time.Second}
-	// Исправленный путь к API
+	// ИСПРАВЛЕНО: Добавлен /json/ в путь к API
 	resp, err := client.Get("http://ip-api.com" + ip + "?fields=countryCode")
 	if err != nil { return "UN" }
 	defer resp.Body.Close()
@@ -47,7 +53,6 @@ func getCountry(ip string) string {
 	return geo.CountryCode
 }
 
-// ⚡️ Улучшенный замер скорости с лимитами
 func realDownloadSpeed(addr string, timeout time.Duration) float64 {
 	start := time.Now()
 	conn, err := net.DialTimeout("tcp", addr, timeout)
@@ -55,10 +60,7 @@ func realDownloadSpeed(addr string, timeout time.Duration) float64 {
 	defer conn.Close()
 	
 	duration := time.Since(start).Seconds()
-	// Формула для получения значений в районе 5-34
 	res := 2.5 / duration 
-	
-	// Если скорость вылетает за твои рамки (5-34), возвращаем 0, чтобы узел скипнулся
 	if res < 5 || res > 34 { return 0 }
 	return res
 }
@@ -126,12 +128,10 @@ func process(inputPath string) []Result {
 			p := xrayPing(c, 2000*time.Millisecond)
 			<-sem
 			
-			// ПРИМЕНЯЕМ ТВОЙ ЛИМИТ ПО ПИНГУ (ОТ 300 ДО 2000)
 			if p >= 300 && p <= 2000 { 
 				u, _ := url.Parse(c)
 				speed := realDownloadSpeed(u.Host, 2*time.Second)
 				
-				// ПРИМЕНЯЕМ ТВОЙ ЛИМИТ ПО СКОРОСТИ (ОТ 5 ДО 34)
 				if speed >= 5 && speed <= 34 {
 					code := getCountry(u.Hostname())
 					flag := getFlag(code)
@@ -146,20 +146,47 @@ func process(inputPath string) []Result {
 
 	var final []Result
 	for r := range resultsChan { final = append(final, r) }
-	
-	// Сортируем: сначала самые быстрые по Mbps
 	sort.Slice(final, func(i, j int) bool { return final[i].Speed > final[j].Speed })
 
 	if len(final) > 500 { return final[:500] }
 	return final
 }
 
+// ФУНКЦИЯ ДЛЯ ГРАФИКА
+func updateHistory(count int) {
+	path := "data/stats.json"
+	os.MkdirAll("data", os.ModePerm)
+	var history []HistoryPoint
+
+	file, err := os.ReadFile(path)
+	if err == nil {
+		json.Unmarshal(file, &history)
+	}
+
+	newPoint := HistoryPoint{
+		Time:  time.Now().Format("15:04"),
+		Nodes: count,
+	}
+	history = append(history, newPoint)
+
+	// Храним последние 24 замера (сутки)
+	if len(history) > 24 {
+		history = history[len(history)-24:]
+	}
+
+	data, _ := json.MarshalIndent(history, "", "  ")
+	os.WriteFile(path, data, 0644)
+}
+
 func main() {
 	os.MkdirAll("configs", os.ModePerm)
-	fmt.Println("🧊 YKTFLOW v6.2: Filter Range Edition...")
+	fmt.Println("🧊 YKTFLOW v6.4: Statistics Engine...")
 	nodes := process("data/sources_mobile.txt")
 	save("configs/kudryash0vv_YKTFLOW_mobile.txt", nodes)
 	save("configs/kudryash0vv_YKTFLOW_1.txt", nodes)
+	
+	// ЗАПИСЫВАЕМ ДАННЫЕ ДЛЯ ГРАФИКА
+	updateHistory(len(nodes))
 }
 
 func save(path string, res []Result) {
