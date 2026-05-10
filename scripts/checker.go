@@ -121,26 +121,28 @@ func process(inputPath string) []Result {
 	sem := make(chan struct{}, 100) 
 
 	for conf := range uniqueRaw {
-		wg.Add(1)
-		go func(c string) {
-			defer wg.Done()
-			sem <- struct{}{}
-			p := xrayPing(c, 2000*time.Millisecond)
-			<-sem
-			
-			if p >= 300 && p <= 2000 { 
-				u, _ := url.Parse(c)
-				speed := realDownloadSpeed(u.Host, 2*time.Second)
-				
-				if speed >= 5 && speed <= 34 {
-					code := getCountry(u.Hostname())
-					flag := getFlag(code)
-					fmt.Printf("   ✅ %s %dms | %.1f Mbps\n", flag, p, speed)
-					resultsChan <- Result{Raw: c, Ping: p, Speed: speed, Country: flag}
-				}
-			}
-		}(conf)
-	}
+    wg.Add(1)
+    go func(c string) {
+        defer wg.Done()
+        sem <- struct{}{}
+        p := xrayPing(c, 2500*time.Millisecond) // Увеличил таймаут до 2.5с
+        <-sem
+
+        // НОВАЯ ЛОГИКА ФИЛЬТРАЦИИ:
+        // Пропускаем всё, что живое (от 100мс до 2500мс)
+        if p >= 100 && p <= 2500 {
+            u, _ := url.Parse(c)
+            speed := realDownloadSpeed(u.Host, 3*time.Second)
+
+            // Если скорость хотя бы больше 1 Мбит - берем!
+            if speed >= 1.0 {
+                code := getCountry(u.Hostname())
+                flag := getFlag(code)
+                resultsChan <- Result{Raw: c, Ping: p, Speed: speed, Country: fl...
+            }
+        }
+    }(conf)
+}
 	wg.Wait()
 	close(resultsChan)
 
