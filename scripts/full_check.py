@@ -1,111 +1,108 @@
 import os
 import json
 import socket
-import subprocess
 import time
 import requests
 import re
+import threading
 from concurrent.futures import ThreadPoolExecutor
 
-# --- НАСТРОЙКИ YKTFLOW ---
+# --- CONFIG YKTFLOW ---
 SOURCES_FILE = "data/sources_mobile.txt"
-OUTPUT_FILE = "configs/kudryash0vv_YKTFLOW_mobile.txt"
-XRAY_BIN = "./xray"
+OUTPUT_FILES = ["configs/kudryash0vv_YKTFLOW_mobile.txt", "configs/kudryash0vv_YKTFLOW_1.txt"]
 CHECK_URL = "http://google.com"
 MIN_PING = 200
 MAX_PING = 2000
-MAX_NODES = 50
+MAX_NODES = 200
+WORKERS = 50
 
-def get_free_port():
-    with socket.socket() as s:
-        s.bind(('', 0))
-        return s.getsockname()[1]
+class YKTFlowSubscription:
+    def __init__(self):
+        self.nodes = []
+        self._lock = threading.Lock()
 
-def download_xray():
-    if os.path.exists(XRAY_BIN): return
-    print("📥 Загрузка Xray Core...")
-    url = "https://github.com"
-    os.system(f"curl -L {url} -o xray.zip && unzip -o xray.zip xray && chmod +x xray && rm xray.zip")
+    def get_flag(self, code):
+        if not code or len(code) != 2: return "🌍"
+        return "".join(chr(ord(c) + 127397) for c in code.upper())
 
-def parse_config(raw_url):
-    """
-    Упрощенный парсер для примера. 
-    В реальном GitHub Actions лучше использовать готовые конвертеры,
-    но этот блок создает базовый конфиг для проверки.
-    """
-    try:
-        # Это заглушка. Для полной работы нужен разбор vless/vmess строк.
-        # В GitHub Actions мы обычно вызываем внешнюю утилиту-конвертер.
-        port = get_free_port()
-        config = {
-            "log": {"loglevel": "none"},
-            "inbounds": [{"port": port, "protocol": "socks", "settings": {"auth": "noauth"}}],
-            "outbounds": [{"protocol": "vless", "settings": {}, "streamSettings": {}}] # Структура
-        }
-        return config, port
-    except:
-        return None, None
+    def get_geo(self, ip):
+        try:
+            r = requests.get(f"http://ip-api.com{ip}?fields=countryCode", timeout=2).json()
+            code = r.get("countryCode", "UN")
+            return code, self.get_flag(code)
+        except:
+            return "UN", "🌍"
 
-def check_node(raw_url):
-    # Чтобы не усложнять код на 500 строк парсерами всех протоколов,
-    # мы используем логику: "Если TCP + TLS прошли, пробуем прогнать трафик"
-    
-    # Имитация проверки
-    start = time.time()
-    try:
-        # Здесь логика запуска xray:
-        # 1. Записать конфиг во временный файл
-        # 2. Запустить ./xray -c temp.json
-        # 3. requests.get(CHECK_URL, proxies=...)
-        # 4. Убить процесс
+    def check_node(self, raw_url):
+        try:
+            # Парсим хост
+            host_match = re.search(r'@([^:/?#]+)', raw_url)
+            if not host_match: return
+            host = host_match.group(1)
+
+            start = time.time()
+            # TCP Check
+            with socket.create_connection((host, 443), timeout=2.5):
+                ping = int((time.time() - start) * 1000)
+
+            if MIN_PING <= ping <= MAX_PING:
+                code, flag = self.get_geo(host)
+                with self._lock:
+                    self.nodes.append({
+                        "raw": raw_url,
+                        "ping": ping,
+                        "flag": flag,
+                        "code": code
+                    })
+        except:
+            pass
+
+    def fetch_sources(self):
+        links = []
+        if not os.path.exists(SOURCES_FILE): return []
         
-        # Для GitHub Actions мы вернем результат, если пинг в диапазоне
-        # (Реальная реализация требует установленного xray в контейнере)
-        time.sleep(0.3) # Имитация задержки
-        ping = int((time.time() - start) * 1000)
-        
-        if MIN_PING <= ping <= MAX_PING:
-            return {"raw": raw_url, "ping": ping, "valid": True}
-    except:
-        pass
-    return None
-
-def main():
-    download_xray()
-    
-    if not os.path.exists("configs"): os.makedirs("configs")
-    
-    print("📡 Сбор ссылок из источников...")
-    all_links = []
-    if os.path.exists(SOURCES_FILE):
         with open(SOURCES_FILE, "r") as f:
-            sources = [line.strip() for line in f if line.startswith("http")]
-            
-        for s in sources:
+            srcs = [l.strip() for l in f if l.startswith("http")]
+
+        for s in srcs:
             try:
-                res = requests.get(s, timeout=10)
-                links = re.findall(r'(?:vless|vmess|trojan|ss)://[^\s"\'<>]+', res.text)
-                all_links.extend(links)
+                res = requests.get(s, timeout=10).text
+                found = re.findall(r'(?:vless|vmess|trojan|ss)://[^\s"\'<>]+', res)
+                links.extend(found)
             except: continue
+        return list(set(links))
 
-    unique_links = list(set(all_links))
-    print(f"🔎 Найдено {len(unique_links)} уникальных ссылок. Начинаю глубокую проверку...")
+    def generate_subscription(self):
+        self.nodes.sort(key=lambda x: x['ping'])
+        final = self.nodes[:MAX_NODES]
 
-    valid_nodes = []
-    with ThreadPoolExecutor(max_workers=20) as executor:
-        results = list(executor.map(check_node, unique_links))
-        valid_nodes = [r for r in results if r and r['valid']]
+        header = [
+            "# profile-title: kudryash0vv.YKTFLOW",
+            "# subscription-userinfo: upload=0; download=0; total=885837004800; expire=1798675200",
+            f"# update: {time.strftime('%Y-%m-%d / %H:%M')} (YKT)",
+            f"# nodes: {len(final)}",
+            "" # Пустая строка после заголовков
+        ]
 
-    # Сортировка
-    valid_nodes.sort(key=lambda x: x['ping'])
-    final_nodes = valid_nodes[:MAX_NODES]
+        content = "\n".join(header) + "\n"
+        for n in final:
+            # Очищаем старый фрагмент и ставим свой: [Флаг] Пинг
+            base = n['raw'].split('#')[0]
+            name = f"{n['flag']} {n['code']} | {n['ping']}ms"
+            content += f"{base}#{name}\n"
 
-    print(f"💾 Сохранение {len(final_nodes)} лучших узлов...")
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("# profile-title: kudryash0vv.YKTFLOW\n")
-        f.write(f"# update: {time.strftime('%Y-%m-%d / %H:%M')} (YKT)\n\n")
-        for node in final_nodes:
-            f.write(f"{node['raw']}\n")
+        for path in OUTPUT_FILES:
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(content)
 
 if __name__ == "__main__":
-    main()
+    sub = YKTFlowSubscription()
+    raw_links = sub.fetch_sources()
+    print(f"🚀 Проверка {len(raw_links)} ссылок...")
+    
+    with ThreadPoolExecutor(max_workers=WORKERS) as executor:
+        executor.map(sub.check_node, raw_links)
+
+    sub.generate_subscription()
+    print(f"✅ Подписка обновлена: {len(sub.nodes[:MAX_NODES])} узлов.")
