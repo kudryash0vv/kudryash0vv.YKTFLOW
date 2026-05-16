@@ -1,42 +1,37 @@
 name: 🧊 YKTFLOW Updater
- 
+
 on:
   schedule:
-    - cron: "0 */3 * * *"   # каждые 3 часа автоматически
+    - cron: "0 */6 * * *"   # каждые 6 часов автоматически
   workflow_dispatch:          # ручной запуск из GitHub
- 
+
 jobs:
   scrape:
     name: 🚀 Сбор и проверка конфигов
     runs-on: ubuntu-latest
     timeout-minutes: 30
- 
+
     permissions:
-      contents: write         # нужно для git push
- 
+      contents: write
+
     steps:
- 
-      # 1. Клонируем репозиторий
+
       - name: 📥 Checkout
         uses: actions/checkout@v4
- 
-      # 2. Устанавливаем Go
+
       - name: 🔧 Setup Go
         uses: actions/setup-go@v5
         with:
           go-version: "1.22"
- 
-      # 3. Устанавливаем Python
+
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
- 
-      # 4. Устанавливаем Python зависимости
+
       - name: 📦 Install Python deps
         run: pip install requests
- 
-      # 5. Устанавливаем sing-box
+
       - name: 📡 Install sing-box
         run: |
           LATEST=$(curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep '"tag_name"' | cut -d'"' -f4)
@@ -45,15 +40,12 @@ jobs:
           tar -xzf sing-box.tar.gz
           sudo mv sing-box-*/sing-box /usr/local/bin/sing-box
           sing-box version
- 
-      # 6. Создаём нужные директории
+
       - name: 📁 Prepare directories
         run: |
           mkdir -p configs
           mkdir -p data
-          mkdir -p scripts
- 
-      # 7. Проверяем что sources файл существует
+
       - name: 📋 Check sources file
         run: |
           if [ ! -f "data/sources_mobile.txt" ]; then
@@ -61,17 +53,17 @@ jobs:
             touch data/sources_mobile.txt
           fi
           echo "📂 Источников: $(wc -l < data/sources_mobile.txt)"
- 
-      # 8. Запускаем main.go (сбор + TCP/TLS преотбор + запуск checker.py)
+
+      # main.go запускается из корня репо — все пути (data/, configs/, scripts/checker.py) корректны
       - name: 🧊 Run YKTFLOW Engine
+        working-directory: ${{ github.workspace }}
         run: |
           echo "▶️  Запуск main.go..."
           go run scripts/main.go
         env:
           GOGC: "200"
           GOMAXPROCS: "4"
- 
-      # 9. Проверяем результаты
+
       - name: 📊 Show results
         run: |
           echo "=============================="
@@ -84,16 +76,14 @@ jobs:
             echo "  $f → $count конфигов"
           done
           echo "=============================="
- 
-      # 10. Коммитим и пушим результаты
+
       - name: 💾 Commit & Push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
- 
+
           git add configs/
- 
-          # Коммитим только если есть изменения
+
           if git diff --staged --quiet; then
             echo "ℹ️  Изменений нет — пуш не нужен"
           else
