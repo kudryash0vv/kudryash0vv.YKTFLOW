@@ -1,6 +1,3 @@
-
-Copy
-
 package main
  
 import (
