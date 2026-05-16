@@ -1,0 +1,104 @@
+name: 🧊 YKTFLOW Updater
+ 
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # каждые 3 часа автоматически
+  workflow_dispatch:          # ручной запуск из GitHub
+ 
+jobs:
+  scrape:
+    name: 🚀 Сбор и проверка конфигов
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+ 
+    permissions:
+      contents: write         # нужно для git push
+ 
+    steps:
+ 
+      # 1. Клонируем репозиторий
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+ 
+      # 2. Устанавливаем Go
+      - name: 🔧 Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+ 
+      # 3. Устанавливаем Python
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+ 
+      # 4. Устанавливаем Python зависимости
+      - name: 📦 Install Python deps
+        run: pip install requests
+ 
+      # 5. Устанавливаем sing-box
+      - name: 📡 Install sing-box
+        run: |
+          LATEST=$(curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep '"tag_name"' | cut -d'"' -f4)
+          echo "🔖 sing-box версия: $LATEST"
+          wget -q "https://github.com/SagerNet/sing-box/releases/download/${LATEST}/sing-box-${LATEST#v}-linux-amd64.tar.gz" -O sing-box.tar.gz
+          tar -xzf sing-box.tar.gz
+          sudo mv sing-box-*/sing-box /usr/local/bin/sing-box
+          sing-box version
+ 
+      # 6. Создаём нужные директории
+      - name: 📁 Prepare directories
+        run: |
+          mkdir -p configs
+          mkdir -p data
+          mkdir -p scripts
+ 
+      # 7. Проверяем что sources файл существует
+      - name: 📋 Check sources file
+        run: |
+          if [ ! -f "data/sources_mobile.txt" ]; then
+            echo "⚠️  data/sources_mobile.txt не найден — создаём пустой"
+            touch data/sources_mobile.txt
+          fi
+          echo "📂 Источников: $(wc -l < data/sources_mobile.txt)"
+ 
+      # 8. Запускаем main.go (сбор + TCP/TLS преотбор + запуск checker.py)
+      - name: 🧊 Run YKTFLOW Engine
+        run: |
+          echo "▶️  Запуск main.go..."
+          go run scripts/main.go
+        env:
+          GOGC: "200"
+          GOMAXPROCS: "4"
+ 
+      # 9. Проверяем результаты
+      - name: 📊 Show results
+        run: |
+          echo "=============================="
+          echo "📁 Файлы конфигов:"
+          ls -lh configs/ 2>/dev/null || echo "Папка configs пуста"
+          echo ""
+          echo "📋 Статистика:"
+          for f in configs/*.txt; do
+            count=$(grep -c "^vless\|^vmess\|^trojan\|^ss" "$f" 2>/dev/null || echo 0)
+            echo "  $f → $count конфигов"
+          done
+          echo "=============================="
+ 
+      # 10. Коммитим и пушим результаты
+      - name: 💾 Commit & Push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+ 
+          git add configs/
+ 
+          # Коммитим только если есть изменения
+          if git diff --staged --quiet; then
+            echo "ℹ️  Изменений нет — пуш не нужен"
+          else
+            CHECKED=$(grep -c "^vless\|^vmess\|^trojan\|^ss" configs/kudryash0vv_YKTFLOW_checked.txt 2>/dev/null || echo 0)
+            git commit -m "🧊 YKTFLOW update | $(date -u '+%Y-%m-%d %H:%M') UTC | ✅ ${CHECKED} конфигов"
+            git push
+            echo "✅ Запушено успешно"
+          fi
