@@ -43,11 +43,12 @@ type GeoIP struct {
 // --- УТИЛИТЫ ---
 
 func getFlag(code string) string {
-	if len(code) != 2 {
-		return "🌍"
-	}
-	code = strings.ToUpper(code)
-	return string(rune(code[0]+127397)) + string(rune(code[1]+127397))
+    if len(code) != 2 {
+        return "🌍"
+    }
+    code = strings.ToUpper(code)
+    // ФИКС: явно кастуем к rune перед сложением
+    return string(rune(code[0])+127397) + string(rune(code[1])+127397)
 }
 
 func fetchCountry(ip string) (string, string) {
