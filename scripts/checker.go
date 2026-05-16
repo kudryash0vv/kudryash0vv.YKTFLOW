@@ -19,13 +19,13 @@ import (
 
 // --- КОНФИГУРАЦИЯ ---
 const (
-	MaxNodes      = 50
-	MinPing       = 200
-	MaxPing       = 2000
-	Threads       = 100
-	OutputMobile  = "configs/kudryash0vv_YKTFLOW_mobile.txt"
-	OutputFull    = "configs/kudryash0vv_YKTFLOW_1.txt"
-	SourceFile    = "data/sources_mobile.txt"
+	MaxNodes     = 50
+	MinPing      = 0    // ФИКС: убрали нижний порог, быстрые узлы теперь не отсекаются
+	MaxPing      = 3000 // ФИКС: увеличили верхний порог
+	Threads      = 100
+	OutputMobile = "configs/kudryash0vv_YKTFLOW_mobile.txt"
+	OutputFull   = "configs/kudryash0vv_YKTFLOW_1.txt"
+	SourceFile   = "data/sources_mobile.txt"
 )
 
 type Result struct {
@@ -52,7 +52,8 @@ func getFlag(code string) string {
 
 func fetchCountry(ip string) (string, string) {
 	client := &http.Client{Timeout: 2 * time.Second}
-	resp, err := client.Get("http://ip-api.com" + ip + "?fields=countryCode")
+	// ФИКС: был неправильный URL без /json/ — GeoIP всегда возвращал пустой ответ
+	resp, err := client.Get("http://ip-api.com/json/" + ip + "?fields=countryCode")
 	if err != nil {
 		return "UN", "🌍"
 	}
@@ -82,8 +83,9 @@ func checkNode(raw string) (*Result, bool) {
 	target := net.JoinHostPort(host, port)
 
 	start := time.Now()
+
 	// 1. TCP Dial
-	dialer := &net.Dialer{Timeout: 2 * time.Second}
+	dialer := &net.Dialer{Timeout: 3 * time.Second}
 	conn, err := dialer.Dial("tcp", target)
 	if err != nil {
 		return nil, false
@@ -101,20 +103,37 @@ func checkNode(raw string) (*Result, bool) {
 			InsecureSkipVerify: true,
 			ServerName:         sni,
 		})
-		tlsConn.SetDeadline(time.Now().Add(2 * time.Second))
+		tlsConn.SetDeadline(time.Now().Add(3 * time.Second))
 		if err := tlsConn.Handshake(); err != nil {
 			return nil, false
 		}
-		// Проверка на "живой" поток данных
-		tlsConn.SetWriteDeadline(time.Now().Add(500 * time.Millisecond))
-		if _, err := tlsConn.Write([]byte{0x16, 0x03, 0x01, 0x00}); err != nil {
+
+		// ФИКС: теперь шлём реальный HTTP запрос и читаем ответ
+		// Раньше был только Write без Read — сервер мог быть мёртвым
+		httpReq := "GET / HTTP/1.1\r\nHost: " + sni + "\r\nConnection: close\r\n\r\n"
+		tlsConn.SetWriteDeadline(time.Now().Add(1 * time.Second))
+		if _, err := tlsConn.Write([]byte(httpReq)); err != nil {
 			return nil, false
 		}
+
+		// Читаем хотя бы первые байты ответа — значит сервер живой
+		tlsConn.SetReadDeadline(time.Now().Add(2 * time.Second))
+		buf := make([]byte, 64)
+		n, err := tlsConn.Read(buf)
+		if err != nil || n == 0 {
+			return nil, false
+		}
+
+	} else {
+		// Для non-TLS узлов (например, ws без tls) — просто проверяем TCP
+		conn.SetDeadline(time.Now().Add(2 * time.Second))
+		buf := make([]byte, 1)
+		conn.Read(buf) // Игнорируем ошибку — нам важен сам факт соединения
 	}
 
 	ping := time.Since(start).Milliseconds()
 
-	// 3. Фильтрация по твоему условию
+	// 3. Фильтрация по пингу
 	if ping < MinPing || ping > MaxPing {
 		return nil, false
 	}
@@ -133,8 +152,8 @@ func checkNode(raw string) (*Result, bool) {
 // --- ОБРАБОТКА ДАННЫХ ---
 
 func process() {
-	fmt.Println("🧊 YKTFLOW Engine v9.5 | Инициализация...")
-	
+	fmt.Println("🧊 YKTFLOW Engine v9.6 | Инициализация...")
+
 	file, err := os.Open(SourceFile)
 	if err != nil {
 		fmt.Println("❌ Ошибка: Создайте файл data/sources_mobile.txt")
@@ -165,7 +184,7 @@ func process() {
 		}
 		body, _ := io.ReadAll(resp.Body)
 		resp.Body.Close()
-		
+
 		matches := re.FindAllString(string(body), -1)
 		for _, m := range matches {
 			uniqueMap[m] = struct{}{}
@@ -177,7 +196,7 @@ func process() {
 	var wg sync.WaitGroup
 	resChan := make(chan *Result, len(uniqueMap))
 	sem := make(chan struct{}, Threads)
-	
+
 	var mu sync.Mutex
 	usedIPs := make(map[string]bool)
 
@@ -219,7 +238,7 @@ func process() {
 	// Сохранение
 	saveResults(OutputMobile, finalNodes)
 	saveResults(OutputFull, finalNodes)
-	
+
 	fmt.Printf("✨ Успех! В базу YKTFLOW добавлено %d узлов.\n", len(finalNodes))
 }
 
@@ -235,14 +254,14 @@ func saveResults(path string, nodes []*Result) {
 
 	for i, n := range nodes {
 		u, _ := url.Parse(n.Raw)
-		// Формируем красивое имя: [01] JP | 240ms
+		// Формируем красивое имя: [01] 🇯🇵 | 240ms
 		u.Fragment = fmt.Sprintf("[%02d] %s | %dms", i+1, n.Flag, n.Ping)
 		fmt.Fprintln(f, u.String())
 	}
 }
 
 func main() {
-	// Создаем директории если нет
+	// Создаём директории если нет
 	os.MkdirAll("configs", 0755)
 	os.MkdirAll("data", 0755)
 
