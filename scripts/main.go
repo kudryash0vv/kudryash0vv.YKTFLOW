@@ -10,6 +10,7 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+	"os/exec"
 	"regexp"
 	"sort"
 	"strings"
@@ -19,13 +20,15 @@ import (
 
 // --- КОНФИГУРАЦИЯ ---
 const (
-	MaxNodes     = 50
-	MinPing      = 0    // ФИКС: убрали нижний порог, быстрые узлы теперь не отсекаются
-	MaxPing      = 3000 // ФИКС: увеличили верхний порог
+	MaxNodes     = 500  // Собираем больше — checker.py отфильтрует до 200 рабочих
+	MinPing      = 0
+	MaxPing      = 5000
 	Threads      = 100
 	OutputMobile = "configs/kudryash0vv_YKTFLOW_mobile.txt"
 	OutputFull   = "configs/kudryash0vv_YKTFLOW_1.txt"
+	OutputFinal  = "configs/kudryash0vv_YKTFLOW_checked.txt" // финальный от checker.py
 	SourceFile   = "data/sources_mobile.txt"
+	CheckerPath  = "checker.py" // путь к checker.py
 )
 
 type Result struct {
@@ -43,17 +46,15 @@ type GeoIP struct {
 // --- УТИЛИТЫ ---
 
 func getFlag(code string) string {
-    if len(code) != 2 {
-        return "🌍"
-    }
-    code = strings.ToUpper(code)
-    // ФИКС: явно кастуем к rune перед сложением
-    return string(rune(code[0])+127397) + string(rune(code[1])+127397)
+	if len(code) != 2 {
+		return "🌍"
+	}
+	code = strings.ToUpper(code)
+	return string(rune(code[0])+127397) + string(rune(code[1])+127397)
 }
 
 func fetchCountry(ip string) (string, string) {
 	client := &http.Client{Timeout: 2 * time.Second}
-	// ФИКС: был неправильный URL без /json/ — GeoIP всегда возвращал пустой ответ
 	resp, err := client.Get("http://ip-api.com/json/" + ip + "?fields=countryCode")
 	if err != nil {
 		return "UN", "🌍"
@@ -68,7 +69,7 @@ func fetchCountry(ip string) (string, string) {
 	return g.CountryCode, getFlag(g.CountryCode)
 }
 
-// --- ЯДРО ПРОВЕРКИ ---
+// --- ЯДРО ПРОВЕРКИ (быстрый TCP/TLS преотбор) ---
 
 func checkNode(raw string) (*Result, bool) {
 	u, err := url.Parse(raw)
@@ -85,7 +86,6 @@ func checkNode(raw string) (*Result, bool) {
 
 	start := time.Now()
 
-	// 1. TCP Dial
 	dialer := &net.Dialer{Timeout: 3 * time.Second}
 	conn, err := dialer.Dial("tcp", target)
 	if err != nil {
@@ -93,7 +93,6 @@ func checkNode(raw string) (*Result, bool) {
 	}
 	defer conn.Close()
 
-	// 2. TLS/Reality Handshake
 	security := u.Query().Get("security")
 	if security == "tls" || security == "reality" {
 		sni := u.Query().Get("sni")
@@ -109,33 +108,26 @@ func checkNode(raw string) (*Result, bool) {
 			return nil, false
 		}
 
-		// ФИКС: теперь шлём реальный HTTP запрос и читаем ответ
-		// Раньше был только Write без Read — сервер мог быть мёртвым
 		httpReq := "GET / HTTP/1.1\r\nHost: " + sni + "\r\nConnection: close\r\n\r\n"
 		tlsConn.SetWriteDeadline(time.Now().Add(1 * time.Second))
 		if _, err := tlsConn.Write([]byte(httpReq)); err != nil {
 			return nil, false
 		}
 
-		// Читаем хотя бы первые байты ответа — значит сервер живой
 		tlsConn.SetReadDeadline(time.Now().Add(2 * time.Second))
 		buf := make([]byte, 64)
 		n, err := tlsConn.Read(buf)
 		if err != nil || n == 0 {
 			return nil, false
 		}
-
 	} else {
-		// Для non-TLS узлов (например, ws без tls) — просто проверяем TCP
 		conn.SetDeadline(time.Now().Add(2 * time.Second))
 		buf := make([]byte, 1)
-		conn.Read(buf) // Игнорируем ошибку — нам важен сам факт соединения
+		conn.Read(buf)
 	}
 
 	ping := time.Since(start).Milliseconds()
-
-	// 3. Фильтрация по пингу
-	if ping < MinPing || ping > MaxPing {
+	if ping > MaxPing {
 		return nil, false
 	}
 
@@ -153,7 +145,8 @@ func checkNode(raw string) (*Result, bool) {
 // --- ОБРАБОТКА ДАННЫХ ---
 
 func process() {
-	fmt.Println("🧊 YKTFLOW Engine v9.6 | Инициализация...")
+	fmt.Println("🧊 YKTFLOW Engine v9.7 | Инициализация...")
+	fmt.Println("📌 Этап 1/2: Сбор и TCP/TLS преотбор...")
 
 	file, err := os.Open(SourceFile)
 	if err != nil {
@@ -162,7 +155,6 @@ func process() {
 	}
 	defer file.Close()
 
-	// Сбор ссылок
 	var sources []string
 	scanner := bufio.NewScanner(file)
 	for scanner.Scan() {
@@ -172,7 +164,6 @@ func process() {
 		}
 	}
 
-	// Извлечение конфигов
 	re := regexp.MustCompile(`(vless|vmess|trojan|ss)://[^\s"']+`)
 	uniqueMap := make(map[string]struct{})
 	httpClient := &http.Client{Timeout: 15 * time.Second}
@@ -192,7 +183,6 @@ func process() {
 		}
 	}
 
-	// Многопоточный чекер
 	fmt.Printf("🚀 Анализ %d уникальных конфигов...\n", len(uniqueMap))
 	var wg sync.WaitGroup
 	resChan := make(chan *Result, len(uniqueMap))
@@ -222,7 +212,6 @@ func process() {
 	wg.Wait()
 	close(resChan)
 
-	// Сортировка и выборка ТОП-50
 	var finalNodes []*Result
 	for r := range resChan {
 		finalNodes = append(finalNodes, r)
@@ -236,11 +225,46 @@ func process() {
 		finalNodes = finalNodes[:MaxNodes]
 	}
 
-	// Сохранение
+	// Сохраняем сырые конфиги для checker.py
 	saveResults(OutputMobile, finalNodes)
 	saveResults(OutputFull, finalNodes)
 
-	fmt.Printf("✨ Успех! В базу YKTFLOW добавлено %d узлов.\n", len(finalNodes))
+	fmt.Printf("✅ Этап 1 завершён: собрано %d кандидатов\n\n", len(finalNodes))
+
+	// --- ЭТАП 2: Запуск checker.py ---
+	runChecker()
+}
+
+func runChecker() {
+	fmt.Println("📌 Этап 2/2: Реальная проверка через sing-box (checker.py)...")
+
+	// Проверяем что checker.py существует
+	if _, err := os.Stat(CheckerPath); os.IsNotExist(err) {
+		fmt.Printf("⚠️  checker.py не найден по пути: %s\n", CheckerPath)
+		fmt.Println("   Скачай checker.py и положи рядом с main.go")
+		return
+	}
+
+	// Проверяем что sing-box установлен
+	if _, err := exec.LookPath("sing-box"); err != nil {
+		fmt.Println("⚠️  sing-box не найден в PATH")
+		fmt.Println("   Установи: https://github.com/SagerNet/sing-box/releases")
+		fmt.Println("   Или в GitHub Actions добавь шаг установки sing-box")
+		return
+	}
+
+	// Запускаем checker.py
+	cmd := exec.Command("python3", CheckerPath)
+	cmd.Stdout = os.Stdout // выводим прогресс прямо в консоль
+	cmd.Stderr = os.Stderr
+
+	if err := cmd.Run(); err != nil {
+		fmt.Printf("❌ checker.py завершился с ошибкой: %v\n", err)
+		return
+	}
+
+	fmt.Println("\n🎉 Все этапы завершены!")
+	fmt.Printf("📁 Финальные рабочие конфиги: %s\n", OutputFinal)
 }
 
 func saveResults(path string, nodes []*Result) {
@@ -255,14 +279,12 @@ func saveResults(path string, nodes []*Result) {
 
 	for i, n := range nodes {
 		u, _ := url.Parse(n.Raw)
-		// Формируем красивое имя: [01] 🇯🇵 | 240ms
 		u.Fragment = fmt.Sprintf("[%02d] %s | %dms", i+1, n.Flag, n.Ping)
 		fmt.Fprintln(f, u.String())
 	}
 }
 
 func main() {
-	// Создаём директории если нет
 	os.MkdirAll("configs", 0755)
 	os.MkdirAll("data", 0755)
 
