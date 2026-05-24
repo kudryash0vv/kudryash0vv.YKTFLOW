@@ -1,6 +1,26 @@
 # profile-title: kudryash0vv.WIFI.#78
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-05-24 / 13:46 (YKT)
+# Update: 2026-05-24 / 18:04 (YKT)
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.178:443?security=tls&sni=av.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.226:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.232:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.237:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.30:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.50:443?security=tls&sni=ay.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@174.136.206.95:57757?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@18.196.70.197:443?security=tls&sni=ac.ylks.xyz&type=ws&host=ac.ylks.xyz&path=%2Fblue#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@182.230.121.50:50030?security=tls&type=ws&sni=xin033.ylks.link&path=/proxyip=proxyip.kr.fxxk.dedyn.io&encryption=none&headerType=none#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.133.35.115:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.148.105.55:443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.148.105.5:443?security=tls&type=ws&sni=xin033.ylks.link&path=/proxyip=proxyip.oracle.fxxk.dedyn.io&encryption=none&headerType=none#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.24.64:8443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.26.242:443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.18.250.25:443?security=tls&type=ws&sni=xin033.ylks.link&path=/proxyip=proxyip.oracle.fxxk.dedyn.io&encryption=none&headerType=none#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.96.118:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.96.123:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.96.138:443?allowInsecure=0&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=/?ed=2048security=tls#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.96.138:443?security=tls&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=%2F%3Fed%3D2048#
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.96.152:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048#
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.96.170:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.96.226:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048#
@@ -231,23 +251,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.134:443?security=tls&type
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.140:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.140:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue&fp=chrome#
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.145:443?security=tls&sni=as.ylks.xyz&type=ws&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.163:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.175:443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.178:443?security=tls&sni=as.ylks.xyz&type=ws&host=as.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.186:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.210:443?security=tls&sni=ad.ylks.xyz&type=ws&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.211:443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.232:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.232:443?security=tls&sni=as.ylks.xyz&type=ws&host=as.ylks.xyz&path=%2Ffreecodes#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.233:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.233:443?security=tls&sni=ad.ylks.xyz&type=ws&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.236:443?security=tls&sni=ad.ylks.xyz&type=ws&host=ad.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.241:443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.247:443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.26:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.26:443?security=tls&sni=ad.ylks.xyz&type=ws&host=ad.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.27:443?security=tls&sni=ad.ylks.xyz&type=ws&host=ad.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.39:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.39:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.41:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.41:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
