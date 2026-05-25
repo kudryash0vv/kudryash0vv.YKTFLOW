@@ -1,11 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#50
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-05-25 / 13:59 (YKT)
-vless://28e20c8f-ac28-42ed-a931-67a052ae3219@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#
-vless://28e90585-3bee-46e2-9f53-a44a88d1d180@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#
-vless://28e90585-3bee-46e2-9f53-a44a88d1d180@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#
-vless://28f0f230-514d-41ee-b5fb-2f1e337a97ab@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#
-vless://28f9da30-cd81-4726-86a9-d2e17b14decc@38.244.215.124:443/?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=teH8elrVppRluj9CeSno57ARzAUKRLCu6X9f8yvxvhQ&sid=0ad4430e2c#
+# Update: 2026-05-25 / 19:54 (YKT)
 vless://28f9da30-cd81-4726-86a9-d2e17b14decc@38.244.215.124:443/?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=teH8elrVppRluj9CeSno57ARzAUKRLCu6X9f8yvxvhQ&sid=0ad4430e2c#%F0%9F%87%A9%F0%9F%87%AA%20260%20-%20DE%20-%20VLESS%2FREALITY%2FPBK%2FSID%2FUTLS%20-%20
 vless://28f9da30-cd81-4726-86a9-d2e17b14decc@38.244.215.124:443/?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=teH8elrVppRluj9CeSno57ARzAUKRLCu6X9f8yvxvhQ&sid=0ad4430e2c#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool%20%289%29
 vless://290719bc-bd21-4467-bdcd-33396fa88394@german.vp22ray.site:2087?security=reality&encryption=none&pbk=54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I&headerType=http&fp=firefox&spx=%2F&type=tcp&sni=Ftp.debian.org&sid=32c43ca1#
@@ -26,7 +21,6 @@ vless://290f47c7-aaa6-4415-ba42-fcfd8b431cb0@178.154.214.111:443?flow=xtls-rprx-
 vless://290f47c7-aaa6-4415-ba42-fcfd8b431cb0@185.91.53.153:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=kDGigLxn2RUJ8HqhPVUb8pRAcjn5zMhR0-QrORmbIDk&sid=be6abde66d48cd13&spx=/#
 vless://290f47c7-aaa6-4415-ba42-fcfd8b431cb0@185.91.53.153:8443?encryption=none&type=xhttp&security=reality&path=/&mode=auto&extra={
 vless://290f47c7-aaa6-4415-ba42-fcfd8b431cb0@185.91.53.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=kDGigLxn2RUJ8HqhPVUb8pRAcjn5zMhR0-QrORmbIDk&sid=be6abde66d48cd13&spx=/#
-vless://290f47c7-aaa6-4415-ba42-fcfd8b431cb0@185.91.53.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api.yandex.ru&pbk=HhzAvJmqEjt_CeifAJmDfg7DgeD2t2cvzWqvyyPSVz0&sid=664b8a28e735af5f&spx=%2F#
 vless://290f47c7-aaa6-4415-ba42-fcfd8b431cb0@185.91.53.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api.yandex.ru&pbk=HhzAvJmqEjt_CeifAJmDfg7DgeD2t2cvzWqvyyPSVz0&sid=664b8a28e735af5f&spx=/#
 vless://290f47c7-aaa6-4415-ba42-fcfd8b431cb0@185.91.53.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=HhzAvJmqEjt_CeifAJmDfg7DgeD2t2cvzWqvyyPSVz0&sid=664b8a28e735af5f&spx=%2F#
 vless://290f47c7-aaa6-4415-ba42-fcfd8b431cb0@185.91.53.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=m.vk.com&pbk=HhzAvJmqEjt_CeifAJmDfg7DgeD2t2cvzWqvyyPSVz0&sid=664b8a28e735af5f&spx=/#
@@ -251,3 +245,9 @@ vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.199:443?security=tls&sni=
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.202:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.205:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.207:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.209:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.67.165.101:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.67.179.208:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=randomized#
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.67.187.251:2087?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.67.198.203:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.67.21.93:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#
