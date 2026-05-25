@@ -1,6 +1,9 @@
 # profile-title: kudryash0vv.WIFI.#83
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-05-26 / 00:34 (YKT)
+# Update: 2026-05-26 / 05:07 (YKT)
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.178:443?allowInsecure=0&sni=av.ylks.xyz&type=ws&host=av.ylks.xyz&path=/?ed=2048security=tls#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.178:443?security=tls&sni=av.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.226:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048#
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.232:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.237:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.30:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048#
@@ -248,6 +251,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.109:443?security=tls&type
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.134:443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.140:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.140:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue&fp=chrome#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.145:443?security=tls&sni=as.ylks.xyz&type=ws&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.163:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.175:443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#
