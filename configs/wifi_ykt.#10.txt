@@ -1,6 +1,15 @@
 # profile-title: kudryash0vv.WIFI.#10
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-05-26 / 05:07 (YKT)
+# Update: 2026-05-26 / 13:40 (YKT)
+vless://-----v2ray_fark-----@zula.ir:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#
+vless://-----v2ray_fark-----@zula.ir:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#
+vless://-----v2ray_fark-----@zula.ir:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=uy.foxnt-telegram-foxnt.shop#
+vless://----DIGIV2RAY@190.93.247.155:2087?path=/DigiV?ed=2048&security=tls&encryption=none&alpn=h2&host=SpeedV2rayNg-ConneCtion.digiv2ray.shop&fp=chrome&type=ws&sni=SpeedV2rayNg-ConneCtion.digiv2ray.shop#
+vless://----DIGIV2RAY@198.41.202.5:2087/?type=ws&encryption=none&host=SpeedV2rayNg-ConneCtion.digiv2ray.shop&path=%2FDigiV%3Fed%3D2048&security=tls&sni=SpeedV2rayNg-ConneCtion.digiv2ray.shop&alpn=h2&fp=chrome#
+vless://----DIGIV2RAY@198.41.202.5:2087?path=%2FDigiV%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=SpeedV2rayNg-ConneCtion.digiv2ray.shop&fp=chrome&type=ws&sni=SpeedV2rayNg-ConneCtion.digiv2ray.shop#
+vless://----DIGIV2RAY@198.41.202.5:2087?path=/DigiV?ed=2048&security=tls&encryption=none&alpn=h2&host=SpeedV2rayNg-ConneCtion.digiv2ray.shop&fp=chrome&type=ws&sni=SpeedV2rayNg-ConneCtion.digiv2ray.shop#
+vless://----MsV2ray----@95.217.133.216:443?mode=multi&security=reality&encryption=none&pbk=vUt0xRjXoLmn0QGSJS5B3HQDYoH4ccg6wy_ccn4vaUs&fp=chrome&spx=/&type=grpc&serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&sni=tuyacn.com&sid=7576#
+vless://----telegram--ISVvpn----1@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=eDg.IsVcLoD.cOm&fp=chrome&type=ws&sni=eDg.IsVcLoD.cOm#
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=dEv.IsVcLoD.cOm&fp=chrome&type=ws&sni=dEv.IsVcLoD.cOm#
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=eDg.IsVcLoD.cOm&fp=chrome&type=ws&sni=eDg.IsVcLoD.cOm#
 vless://---Bug-vpn---@bugvpn-chtelegram.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=h5kPnRZQNxqZfMfi0OEtXN8y3nCfoKl9y8b0D0quwTA&fp=firefox&spx=/&type=grpc&serviceName=@Bug_vpn#
@@ -209,7 +218,6 @@ vless://00000000-0000-4000-8000-000000000000@91.186.217.43:35469?sni=9cvs-zyn4r9
 vless://00000000-0000-4000-8000-000000000000@95.169.27.126:19438?security=tls&sni=ryhvmvktfhtnv3t.luyuju.dpdns.org&type=ws&host=ryhvmvktfhtnv3t.luyuju.dpdns.org&path=%2F%40Marisa_kristi&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@mfa.gov.ua:443?sni=pw2ty822oipl53mogkzvzbv5ee97.saghv.filegear-sg.me&type=ws&host=pw2ty822oipl53mogkzvzbv5ee97.saghv.filegear-sg.me&path=/@Marisa_kristifp=chromesecurity=tls#
 vless://00000000-0000-4000-8000-000000000000@staticdelivery.nexusmods.com:443?type=ws&security=tls&path=/@Marisa_kristi&sni=adv2m5gy-wrhiahph85c.ovtc.qzz.io&fp=chrome#
-vless://00000000-0000-4000-8000-000000000000@www.shopify.com:443?&security=tls&fp=chrome&sni=7xbq35vdydie5sgv.cctg.xx.kg&type=ws&headerType=none&host=7xbq35vdydie5sgv.cctg.xx.kg&path=%2F%40Marisa_kristifp%3Dchromefp%3Dchrome#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2010%20TG%3A%20%40nodpai%202
 vless://00000000-0000-4000-8000-000000000000@www.shopify.com:443?allowInsecure=0&sni=7xbq35vdydie5sgv.cctg.xx.kg&type=ws&host=7xbq35vdydie5sgv.cctg.xx.kg&path=/@Marisa_kristifp=chrome&security=tls#
 vless://00000000-0000-4000-8000-000000000000@www.shopify.com:443?allowInsecure=0&sni=7xbq35vdydie5sgv.cctg.xx.kg&type=ws&host=7xbq35vdydie5sgv.cctg.xx.kg&path=/@Marisa_kristifp=chrome&security=tls#t.me%2Ffreekesha21
 vless://00000000-0000-4000-8000-000000000000@www.shopify.com:443?allowInsecure=1&sni=7xbq35vdydie5sgv.cctg.xx.kg&type=ws&host=7xbq35vdydie5sgv.cctg.xx.kg&path=/@Marisa_kristifp=chromefp=chrome&security=tls#
@@ -222,9 +230,7 @@ vless://00000000-0000-4000-8000-000000000000@www.visa.cn:443?allowInsecure=0&sni
 vless://00000000-0000-4000-8000-000000000000@www.visa.cn:443?allowInsecure=0&sni=7xbq35vdydie5sgv.cctg.xx.kg&type=ws&host=7xbq35vdydie5sgv.cctg.xx.kg&path=/@Marisa_kristifp=chrome&security=tls#t.me%2Ffreekesha21
 vless://0001691a-e408-461c-9a09-96e46c156bdb@hydrovpnsrv1.craftedrpg.ir:443/?encryption=none&host=telewebion.com&type=tcp&headerType=http#
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443/?type=ws&encryption=none&host=sg.xyxy.dpdns.org&path=%2F00026cc2&security=tls&sni=sg.xyxy.dpdns.org&packetEncoding=xudp#
-vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443?security=tls&sni=sg.xyxy.dpdns.org&type=ws&host=sg.xyxy.dpdns.org&path=%2F00026cc2#@VIProxys
 vless://0009312f-7926-495e-b18f-fc957621513a@95.38.164.55:24550?security=tls&sni=l.furyvpn.top&type=ws&host=google.com&path=/&fp=chrome&allowInsecure=0#
-vless://0009312f-7926-495e-b18f-fc957621513a@95.38.164.55:24550?security=tls&sni=l.furyvpn.top&type=ws&host=google.com&path=/&fp=chrome&allowInsecure=0#🇮🇷28815
 vless://0009312f-7926-495e-b18f-fc957621513a@l.furyvpn.top:24550?path=%2F&security=tls&encryption=none&insecure=0&host=google.com&fp=chrome&type=ws&allowInsecure=0&sni=l.furyvpn.top#
 vless://0009312f-7926-495e-b18f-fc957621513a@l.furyvpn.top:24550?path=%2F&security=tls&encryption=none&insecure=0&host=google.com&fp=chrome&type=ws&allowInsecure=0&sni=l.furyvpn.top#ConfigV2RayNG
 vless://0009312f-7926-495e-b18f-fc957621513a@l.furyvpn.top:24550?path=/&security=tls&encryption=none&insecure=0&host=google.com&fp=chrome&type=ws&allowInsecure=0&sni=l.furyvpn.top#
@@ -245,9 +251,3 @@ vless://001bb217-4cf2-4b8a-b48d-b80ac72b116a@v2proxy.v2p.top:443?type=tcp&%3Bpat
 vless://001bb217-4cf2-4b8a-b48d-b80ac72b116a@v2proxy.v2p.top:443?type=tcp&%3Bpath=/&%3Bhost=speedtest.net&%3BheaderType=http&%3Bsecurity=none#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40goldenvpn_v2rayy%20%231
 vless://001bb217-4cf2-4b8a-b48d-b80ac72b116a@v2proxy.v2p.top:443?type=tcp&amp%3Bpath=/&amp%3Bhost=speedtest.net&amp%3BheaderType=http&amp%3Bsecurity=none#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40goldenvpn_v2rayy%20%231
 vless://001c68ea-7186-4d3e-863b-7b513e73e7a0@51.250.46.121:5443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=Po6vtOwHYjzS-ibY01_2yrvhpw7jhOBDFesZKMcxUi8&sid=8cd9d7c88b8fd22c#
-vless://001c68ea-7186-4d3e-863b-7b513e73e7a0@51.250.46.121:5443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=Po6vtOwHYjzS-ibY01_2yrvhpw7jhOBDFesZKMcxUi8&sid=8cd9d7c88b8fd22c#%F0%9F%93%A471%40oneclickvpnkeys
-vless://001cea32-74cf-4b5a-b02b-da09eaa57332@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#
-vless://0021b61a-eb62-41c6-a347-99b1dbd4b1f8@141.98.189.33:443/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=Qkso5vLwNsJx8xXmMfwzEYXey_XmDMriA9k4uP-negg&sid=a9b6#
-vless://0021b61a-eb62-41c6-a347-99b1dbd4b1f8@141.98.189.33:443/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=Qkso5vLwNsJx8xXmMfwzEYXey_XmDMriA9k4uP-negg&sid=a9b6#%F0%9F%AA%A267%40oneclickvpnkeys
-vless://002268b5-b3f7-456a-b4ec-cfbb927504fe@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#
-vless://0023fbdf-7bd9-448a-b7ae-5217196183a4@hajlab.ucdavis.edu:443?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#
