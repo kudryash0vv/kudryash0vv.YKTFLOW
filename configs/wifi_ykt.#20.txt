@@ -1,6 +1,14 @@
 # profile-title: kudryash0vv.WIFI.#20
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-03 / 06:28 (YKT)
+# Update: 2026-06-03 / 14:23 (YKT)
+vless://08a475e0-0f8f-44de-9ea5-319b1352d529@84.201.129.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=I_mMGeQ8r529dq2LjFUzv0nb74zuux2zGWT2RfKuE14&sid=27e53bbcab7593d7&spx=/#
+vless://08a475e0-0f8f-44de-9ea5-319b1352d529@84.201.129.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=vyzsQLMRAuySJxAg0sNHXzgJuT8PGRakCay3rzUbT3k&sid=27e53bbcab7593d7&spx=/#
+vless://08b34d44-92da-40d0-b1ce-cabfc8b207a7@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#
+vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=best.configforvpn.fun#
+vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=best.configforvpn.fun#%40ConfigforVPN…
+vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=/cdn&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=best.configforvpn.fun#
+vless://08b5b042-774b-466a-aeb5-fd35d4020527@snappfood.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=arvan.ihoomayon.ir&type=ws#
+vless://08b906c9-2093-4a53-9957-d535304729e8@snapp.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#
 vless://08b906c9-2093-4a53-9957-d535304729e8@snapp.ir:80?path=%2F&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#
 vless://08b906c9-2093-4a53-9957-d535304729e8@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#
 vless://08bb2bd3-66b0-4036-8aa5-4623f5287f3b@185.143.233.122:443?type=ws&encryption=none&path=/ed=2080&host=cyrus.frtshop.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=cyrus.frtshop.ir#
@@ -39,6 +47,8 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@104.17.148.22:2053?path=/&security=
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.67.225.188:25670?security=none&encryption=none&headerType=none&type=tcp#
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@www.speedtest.net:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=CCWtV-16202.phoenixappdatai.uk&fp=chrome&type=ws&allowInsecure=1&sni=CCWtV-16202.phoenixappdatai.uk#
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@www.speedtest.net:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=CCWtV-16202.phoenixappdatai.uk&fp=chrome&type=ws&allowInsecure=1&sni=CCWtV-16202.phoenixappdatai.uk#
+vless://08cb2859-5fef-4139-8083-fd3479b90e77@snapp.ir:80?type=ws&path=%2F&host=kabotar.garfar.ir&security=none#
+vless://08cb2859-5fef-4139-8083-fd3479b90e77@snapp.ir:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#🇮🇷45457
 vless://08cd588d-8923-40fb-8216-c5a112a259b9@www.varzesh3.com:2095?path=%2Fchat%3Fed%3D128&security=&encryption=none&host=dl2.mizbanertebatfarda.ir&type=ws#
 vless://08d0426f-b2f3-44cc-ad3a-6b66bd265e33@194.55.239.172:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#
 vless://08d548c3-69ad-4281-8cad-03cb7bf29424@chatgpt.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=home.kalakhabmn.ir&fp=chrome&allowInsecure=1&type=ws&host=home.kalakhabmn.ir&path=/?ed=2560#
@@ -62,9 +72,9 @@ vless://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?mode=gun&security
 vless://08f1ef18-a68c-46f0-aa2e-eeb361351077@185.143.234.122:80?path=%2F&security=none&encryption=none&host=w2.mazandaranmusic.ir&type=ws#
 vless://08f1ef18-a68c-46f0-aa2e-eeb361351077@185.143.234.122:80?path=/&security=none&encryption=none&host=w2.mazandaranmusic.ir&type=ws#
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20577262
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20346941
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20192713
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20200730
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?security=tls&sni=ov-canada1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?security=tls&type=ws&path=/vless/&sni=ov-canada1.09vpn.com&fp=chrome#
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@148.113.196.75:8443?security=tls&type=ws&path=/vless/&sni=ov-canada1.09vpn.com&fp=chrome&encryption=none#
@@ -79,7 +89,6 @@ vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fv
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%3E%3E%40outline_vpn%3A%3AXX
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#Free%2030%20%40Outline_Vpn
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🌐سرور
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#
@@ -89,23 +98,22 @@ vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?type=ws&s
 vless://08fa6a28-e057-4786-853b-99ede35cdc88@84.201.186.39:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=randomized&sni=api-maps.yandex.ru&pbk=TnQwYOH2ATi0bTu3gnqVFDnEkvBYIcvNRGLPW0IpjXE#
 vless://08fd1dd7-1122-4fbe-b976-8d9abef5ca13@gift.nazincup.ir:80?path=%2Fapi&security=none&encryption=none&host=gift.nazincup.ir&type=ws#
 vless://08fd1dd7-1122-4fbe-b976-8d9abef5ca13@gift.nazincup.ir:80?path=%2Fapi&security=none&encryption=none&host=gift.nazincup.ir&type=ws#@v2rayng3
-vless://08fd1dd7-1122-4fbe-b976-8d9abef5ca13@gift.nazincup.ir:80?path=%2Fapi&security=none&encryption=none&host=gift.nazincup.ir&type=ws#🌐سرور
 vless://08fd1dd7-1122-4fbe-b976-8d9abef5ca13@gift.nazincup.ir:80?path=/api&security=&encryption=none&host=gift.nazincup.ir&type=ws#
 vless://08fd1dd7-1122-4fbe-b976-8d9abef5ca13@gift.nazincup.ir:80?path=/api&security=none&encryption=none&host=gift.nazincup.ir&type=ws#
+vless://08fe5dc7-1d5b-4767-b695-ff8c9047729b@158.160.128.13:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=yandex.ru&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY#
 vless://08ff9679-dc03-4642-b26c-1b8d7fa368b2@http.gozaroshloreshin.ir:2086/?type=httpupgrade&encryption=none&host=swww.speedtest.net.%E7%9C%9F%E7%9A%84www.digikala.com.%E6%88%91%E7%9C%9F.%E7%9A%84%E7%9C%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E7%88%B1%E7%9A%84%E5%BE%88%E7%88%B1%E5%BE%88join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullservera.gozaroshloreshin.irdsda.gozaroshloreshin.ir.eraa.gozaroshloreshin.ir.&path=%2Fwww.adsl.tci.ir%3Fed%3D1024#
 vless://08ff9679-dc03-4642-b26c-1b8d7fa368b2@http.gozaroshloreshin.ir:2086?path=/www.adsl.tci.ir?ed=1024&security=none&encryption=none&host=swww.speedtest.net.www.digikala.com..join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullservera.gozaroshloreshin.irdsda.gozaroshloreshin.ir.eraa.gozaroshloreshin.ir.&type=httpupgrade#
 vless://08ff9679-dc03-4642-b26c-1b8d7fa368b2@http.gozaroshloreshin.ir:2086?path=/www.adsl.tci.ir?ed=1024&security=none&encryption=none&host=swww.speedtest.net.真的www.digikala.com.我真.的真真的很爱的很爱很join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullservera.gozaroshloreshin.irdsda.gozaroshloreshin.ir.eraa.gozaroshloreshin.ir.&type=httpupgrade#
 vless://090350fc-0369-4200-9b77-73b9a6d6f599@193.151.129.116:443?path=%2Fws%3Fed%3D500&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=r1-vod.varzesh3.com#
 vless://090350fc-0369-4200-9b77-73b9a6d6f599@193.151.129.116:443?path=/ws?ed=500&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=r1-vod.varzesh3.com#
 vless://090350fc-0369-4200-9b77-73b9a6d6f599@193.151.129.116:443?security=tls&sni=r1-vod.varzesh3.com&type=ws&path=/ws?ed=500&fp=chrome&allowInsecure=1#
-vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.17.38.42:443?&security=tls&fp=chrome&sni=nginx-f.pages.dev&type=ws&headerType=none&host=nginx-f.pages.dev&path=%2F%3Fed%3D2560fp%3Drandomized#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-ws%5D%20%5B260602-143816.097%5D
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.17.38.42:443?&security=tls&fp=chrome&sni=nginx-f.pages.dev&type=ws&headerType=none&host=nginx-f.pages.dev&path=%2F%3Fed%3D2560fp%3Drandomized#
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.17.38.42:443?encryption=none&type=ws&host=nginx-f.pages.dev&path=%2F%3Fed%3D2560fp%3Drandomized&security=tls&alpn=http%2F1.1&fp=randomized&sni=nginx-f.pages.dev#
-vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.17.38.42:443?encryption=none&type=ws&host=nginx-f.pages.dev&path=%2F%3Fed%3D2560fp%3Drandomized&security=tls&alpn=http%2F1.1&fp=randomized&sni=nginx-f.pages.dev#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.17.38.42:443?sni=nginx-f.pages.dev&alpn=http/1.1&type=ws&host=nginx-f.pages.dev&path=/?ed=2560fp=randomized&security=tls#
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.18.34.21:8443?security=tls&type=ws&path=/&host=nginx-f.pages.dev&sni=nginx-f.pages.dev&fp=chrome#
-vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.18.34.21:8443?security=tls&type=ws&path=/&host=nginx-f.pages.dev&sni=nginx-f.pages.dev&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20440894
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.18.34.21:8443?security=tls&type=ws&path=/&host=nginx-f.pages.dev&sni=nginx-f.pages.dev&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20787690
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.64.153.235:8443?security=tls&type=ws&path=/&host=nginx-f.pages.dev&sni=nginx-f.pages.dev&fp=chrome#
-vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.64.153.235:8443?security=tls&type=ws&path=/&host=nginx-f.pages.dev&sni=nginx-f.pages.dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20893156
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.64.153.235:8443?security=tls&type=ws&path=/&host=nginx-f.pages.dev&sni=nginx-f.pages.dev&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20147904
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@go.inmobi.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&encryption=none&insecure=0&host=nginx-f.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=nginx-f.pages.dev#
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@go.inmobi.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&encryption=none&insecure=0&host=nginx-f.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=nginx-f.pages.dev#
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@go.inmobi.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=ws&path=%2F&host=nginx-f.pages.dev&sni=nginx-f.pages.dev&fp=chrome#
@@ -188,7 +196,6 @@ vless://0967ffed-a71d-424c-9917-cd2bd2b5b3d9@91.107.245.32:3419?security=none&en
 vless://09696e0d-b2ff-48e7-862a-0cb8c56d93a5@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#
 vless://096e379d-c109-4fdf-9203-8bff139204e9@31.43.179.111:443?path=%2F&security=tls&encryption=none&insecure=0&host=rozitamuli.gozarino.com&type=ws&allowInsecure=0&sni=rozitamuli.gozarino.com#
 vless://096e379d-c109-4fdf-9203-8bff139204e9@31.43.179.111:443?path=/&security=tls&encryption=none&insecure=0&host=rozitamuli.gozarino.com&type=ws&allowInsecure=0&sni=rozitamuli.gozarino.com#
-vless://096e379d-c109-4fdf-9203-8bff139204e9@31.43.179.111:443?path=/&security=tls&encryption=none&insecure=0&host=rozitamuli.gozarino.com&type=ws&allowInsecure=0&sni=rozitamuli.gozarino.com#🇰🇿44819
 vless://09722a74-9b48-4bf3-eda3-bf0d2fa1b9e0@qw.mojavadd.space:48276?path=%2Fhalo&security=tls&encryption=none&host=soft98.ir&type=ws&sni=qw.mojavadd.space#
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443/?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&sid=365c07ed#
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443/?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&sid=365c07ed#hamedvpns-52-%F0%9F%87%AB%F0%9F%87%AE
@@ -229,11 +236,9 @@ vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@162.159.253.41:8443?Telegram=@Gozar
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@162.159.253.41:8443?path=%2Fuploader.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@162.159.253.41:8443?path=%2Fuploader.php&security=tls&encryption=none&host=maple.adaspoloandco.com&fp=chrome&type=ws&sni=maple.adaspoloandco.com#
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@162.159.253.41:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#
-vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@162.159.253.41:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@meliproxyy
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@162.159.253.41:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@162.159.253.41:8443?path=/uploader.php&security=tls&encryption=none&host=maple.adaspoloandco.com&fp=chrome&type=ws&sni=maple.adaspoloandco.com#
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@162.159.253.41:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#
-vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@162.159.253.41:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@meliproxyy
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@162.159.253.41:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#کانال
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@162.159.253.41:8443?type=ws&security=tls&sni=maple.adaspoloandco.com&host=maple.adaspoloandco.com&path=/uploader.php&fp=chrome#
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@172.64.155.209:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&sni=maple.adaspoloandco.com&host=maple.adaspoloandco.com&path=%2Fuploader.php&fp=chrome#
@@ -246,8 +251,3 @@ vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@173.245.59.191:8443?Telegram=@Gozar
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@173.245.59.191:8443?path=%2Fuploader.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@173.245.59.191:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#
 vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@188.114.99.160:8443?path=%2Fuploader.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#
-vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@188.114.99.160:8443?path=%2Fuploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#
-vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@188.114.99.160:8443?path=/uploader.php&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#
-vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@188.114.99.160:8443?type=ws&security=tls&sni=maple.adaspoloandco.com&host=maple.adaspoloandco.com&path=%2Fuploader.php&fp=chrome#
-vless://098f63f2-31cb-4110-b9f5-c52452cc6f74@188.114.99.160:8443?type=ws&security=tls&sni=maple.adaspoloandco.com&host=maple.adaspoloandco.com&path=/uploader.php&fp=chrome#
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=elenaaaaaaaaaa.cloudns.pro.&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&security=none&type=ws#
