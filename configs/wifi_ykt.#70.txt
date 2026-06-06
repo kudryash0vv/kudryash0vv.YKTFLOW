@@ -1,12 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#70
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-06 / 05:22 (YKT)
-vless://26524cce-d514-4014-a426-365fb266a14d@167.99.131.232:2053?allowInsecure=0&sni=c1mxc.api-gateway.fgfw.qzz.io&alpn=http/1.1&type=ws&host=c1mxc.api-gateway.fgfw.qzz.io&path=/danfeng-2cm3?ed=2560fp=firefox&security=tls#
-vless://26524cce-d514-4014-a426-365fb266a14d@168.138.180.178:44445?allowInsecure=0&sni=t39sed.gateway-api.sh21.eu.org&type=ws&host=t39sed.gateway-api.sh21.eu.org&path=/danfeng?ed=2560fp=firefox&security=tls#
-vless://26524cce-d514-4014-a426-365fb266a14d@168.138.46.67:443?&security=tls&fp=chrome&sni=_acme-challenge.443888.xyz&type=ws&headerType=none&host=_acme-challenge.443888.xyz&path=/danfeng#
-vless://26524cce-d514-4014-a426-365fb266a14d@168.138.46.67:443?&security=tls&fp=random&sni=_acme-challenge.443888.xyz&type=ws&headerType=none&host=_acme-challenge.443888.xyz&path=%2Fdanfeng#
-vless://26524cce-d514-4014-a426-365fb266a14d@169.150.210.158:20205?allowInsecure=0&sni=vfa9.cdn-stream.fgfw.indevs.in&type=ws&host=vfa9.cdn-stream.fgfw.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#
-vless://26524cce-d514-4014-a426-365fb266a14d@169.150.210.158:20205?sni=vfa9.cdn-stream.fgfw.indevs.in&type=ws&host=vfa9.cdn-stream.fgfw.indevs.in&path=/danfeng?ed=2560fp=firefoxsecurity=tls#
+# Update: 2026-06-06 / 13:33 (YKT)
 vless://26524cce-d514-4014-a426-365fb266a14d@172.104.239.152:443?allowInsecure=0&sni=x6n3ydn.mirror-cdn.danfeng.bond&type=ws&host=x6n3ydn.mirror-cdn.danfeng.bond&path=/danfengfp=firefox&security=tls#
 vless://26524cce-d514-4014-a426-365fb266a14d@172.104.250.194:443?sni=xfxl35a.node-edge.gfw.hidns.co&type=ws&host=xfxl35a.node-edge.gfw.hidns.co&path=/danfeng?edsecurity=tls#
 vless://26524cce-d514-4014-a426-365fb266a14d@172.208.36.45:443?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#
@@ -251,3 +245,9 @@ vless://26524cce-d514-4014-a426-365fb266a14d@51.21.59.130:8080?sni=i8dxb.media-c
 vless://26524cce-d514-4014-a426-365fb266a14d@52.69.80.161:443?allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&host=i8dxb.media-cdn-us.chinav.indevs.in&path=/danfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp=firefox&security=tls#
 vless://26524cce-d514-4014-a426-365fb266a14d@54.161.135.70:443?allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&host=i8dxb.media-cdn-us.chinav.indevs.in&path=/danfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp=firefox&security=tls#
 vless://26524cce-d514-4014-a426-365fb266a14d@54.161.135.70:443?path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&security=tls&encryption=none&insecure=0&host=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in#
+vless://26524cce-d514-4014-a426-365fb266a14d@54.161.135.70:443?path=/danfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp&security=tls&encryption=none&insecure=0&host=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in#
+vless://26524cce-d514-4014-a426-365fb266a14d@54.202.144.146:443?allowInsecure=0&sni=vfa9.cdn-stream.fgfw.indevs.in&type=ws&host=vfa9.cdn-stream.fgfw.indevs.in&path=/danfengfp=firefox&security=tls#
+vless://26524cce-d514-4014-a426-365fb266a14d@58.125.206.55:10101?allowInsecure=0&sni=qznql.node-proxy.chinat.indevs.in&type=ws&host=qznql.node-proxy.chinat.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#
+vless://26524cce-d514-4014-a426-365fb266a14d@58.125.206.55:10101?sni=qznql.node-proxy.chinat.indevs.in&type=ws&host=qznql.node-proxy.chinat.indevs.in&path=/danfeng?ed=2560fp=firefoxsecurity=tls#
+vless://26524cce-d514-4014-a426-365fb266a14d@58.125.244.137:10909?allowInsecure=0&sni=vfa9.cdn-stream.fgfw.indevs.in&type=ws&host=vfa9.cdn-stream.fgfw.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#
+vless://26524cce-d514-4014-a426-365fb266a14d@58.125.244.137:10909?sni=vfa9.cdn-stream.fgfw.indevs.in&type=ws&host=vfa9.cdn-stream.fgfw.indevs.in&path=/danfeng?ed=2560fp=firefoxfp=chrome&security=tls#
