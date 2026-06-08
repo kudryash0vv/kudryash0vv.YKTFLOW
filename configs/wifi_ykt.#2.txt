@@ -1,23 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#2
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-08 / 20:23 (YKT)
-vless://-----v2ray_fark-----@103.160.204.92:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#
-vless://-----v2ray_fark-----@104.16.199.186:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#
-vless://-----v2ray_fark-----@104.16.199.186:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#
-vless://-----v2ray_fark-----@104.16.48.41:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#
-vless://-----v2ray_fark-----@metrix.anvary.ir:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#
-vless://-----v2ray_fark-----@v2ray-fark.ddns.net:34671?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=philharmonie-konstanz.de&headerType=http&security=none#
-vless://-----v2ray_fark-----@v2ray-fark.ddns.net:443?type=grpc&serviceName=Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark&security=reality&fp=chrome&pbk=bS3_rNSmRqWK1kNHSZuqkuwraRy4bVfxboLTUgpWalQ&sni=mihanyas.ir&sid=635627db&spx=/#
-vless://-----v2ray_fark-----@v2ray-fark.ddns.net:443?type=grpc&serviceName=Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark&security=reality&fp=chrome&pbk=nyGptHaMClkq97XJeaHEe53YDL-f7A7INsUvL6jTWSs&sni=www.speedtest.net&sid=9ec9a56b&spx=/#
-vless://-----v2ray_fark-----@v2ray-fark.ddns.net:49819?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=kodular.io&headerType=http&security=none#
-vless://-----v2ray_fark-----@v2ray-fark.ddns.net:58082?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=bmw.com&headerType=http&security=none#
-vless://-----v2ray_fark-----@v2ray-fark.ddns.net:58082?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=mihanyas.ir&headerType=http&security=none#
-vless://-----v2ray_fark-----@v2ray-fark.ddns.net:58270?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=fast.com&headerType=http&security=none#
-vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#
-vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop#
-vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#
-vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop#
-vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#
+# Update: 2026-06-09 / 01:33 (YKT)
 vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=uy.foxnt-telegram-foxnt.shop#
 vless://-----v2ray_fark-----@v2ray-fark5.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop#
 vless://-----v2ray_fark-----@v2ray-fark5.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=uy.foxnt-telegram-foxnt.shop#
@@ -154,15 +137,13 @@ vless://00000000-0000-4000-8000-000000000000@140.235.10.14:30003?sni=rolaqoubhqt
 vless://00000000-0000-4000-8000-000000000000@140.238.33.0:33940?sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#
 vless://00000000-0000-4000-8000-000000000000@140.238.33.0:33940?sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chromesecurity=tls#
 vless://00000000-0000-4000-8000-000000000000@140.245.75.37:627?allowInsecure=1&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#
-vless://00000000-0000-4000-8000-000000000000@140.245.75.37:627?encryption=none&type=ws&path=%2F%40Marisa_kristi&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@140.245.75.37:627?encryption=none&type=ws&path=/@Marisa_kristi&host=nn9jdg-k7yewrrk.acg.xx.kg&security=tls&sni=nn9jdg-k7yewrrk.acg.xx.kg&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@140.245.75.37:627?encryption=none&type=ws&path=/@Marisa_kristi&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@140.245.75.37:627?encryption=none&type=ws&path=/@VPNine1&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@142.248.150.69:30000?sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chromefp=chrome&security=tls#
 vless://00000000-0000-4000-8000-000000000000@142.248.150.69:30000?sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chromefp=chromesecurity=tls#
-vless://00000000-0000-4000-8000-000000000000@142.248.151.249:17512?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=qi4rysu2u-e8j2zzhk.bsld.de5.net&type=ws&host=qi4rysu2u-e8j2zzhk.bsld.de5.net&path=/@Marisa_kristifp=chrome&security=tls#
-vless://00000000-0000-4000-8000-000000000000@142.248.151.249:17512?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=qi4rysu2u-e8j2zzhk.bsld.de5.net&type=ws&host=qi4rysu2u-e8j2zzhk.bsld.de5.net&path=/@Marisa_kristifp=chrome&security=tls#
 vless://00000000-0000-4000-8000-000000000000@142.248.151.249:17512?allowInsecure=0&sni=qi4rysu2u-e8j2zzhk.bsld.de5.net&type=ws&host=qi4rysu2u-e8j2zzhk.bsld.de5.net&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@142.248.151.249:17512?allowInsecure=0&sni=qi4rysu2u-e8j2zzhk.bsld.de5.net&type=ws&host=qi4rysu2u-e8j2zzhk.bsld.de5.net&path=/@Marisa_kristifp=chrome&security=tls#🇺🇸
 vless://00000000-0000-4000-8000-000000000000@142.248.151.249:17512?allowInsecure=0&sni=qi4rysu2u-e8j2zzhk.bsld.de5.net&type=ws&host=qi4rysu2u-e8j2zzhk.bsld.de5.net&path=/@VPNine1=chrome&security=tls#
 vless://00000000-0000-4000-8000-000000000000@142.248.151.249:17512?sni=qi4rysu2u-e8j2zzhk.bsld.de5.net&type=ws&host=qi4rysu2u-e8j2zzhk.bsld.de5.net&path=/@Marisa_kristifp=chromesecurity=tls#
 vless://00000000-0000-4000-8000-000000000000@142.248.151.249:39085?&security=tls&sni=rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me&type=ws&headerType=none&host=rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me&path=%2F%40Marisa_kristifp%3Dchrome#
@@ -190,7 +171,6 @@ vless://00000000-0000-4000-8000-000000000000@146.56.106.51:56271?allowInsecure=1
 vless://00000000-0000-4000-8000-000000000000@146.56.106.51:56271?encryption=none&type=ws&path=/@Marisa_kristi&host=nn9jdg-k7yewrrk.acg.xx.kg&security=tls&sni=nn9jdg-k7yewrrk.acg.xx.kg&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@146.56.106.51:56271?encryption=none&type=ws&path=/@Marisa_kristi&host=rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me&security=tls&sni=rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@146.70.20.110:20205?encryption=none&security=tls&sni=nn9jdg-k7yewrrk.acg.xx.kg&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F%40Marisa_kristi#
-vless://00000000-0000-4000-8000-000000000000@146.70.20.110:20205?encryption=none&type=ws&path=%2F%40Marisa_kristi&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@146.70.20.110:20205?encryption=none&type=ws&path=/@Marisa_kristi&host=nn9jdg-k7yewrrk.acg.xx.kg&security=tls&sni=nn9jdg-k7yewrrk.acg.xx.kg&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@146.70.20.110:20205?encryption=none&type=ws&path=/@Marisa_kristi&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@146.70.20.110:20205?encryption=none&type=ws&path=/@VPNine1&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
@@ -206,7 +186,6 @@ vless://00000000-0000-4000-8000-000000000000@152.53.178.240:8445?sni=57vanjkxjo3
 vless://00000000-0000-4000-8000-000000000000@152.53.178.240:8445?sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chromesecurity=tls#
 vless://00000000-0000-4000-8000-000000000000@154.17.237.73:37811?allowInsecure=1&sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chrome&security=tls#
 vless://00000000-0000-4000-8000-000000000000@154.17.237.73:37811?allowInsecure=1&sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chromesecurity=tls#
-vless://00000000-0000-4000-8000-000000000000@154.17.237.73:37811?encryption=none&type=ws&path=%2F%40Marisa_kristi&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@154.17.237.73:37811?encryption=none&type=ws&path=/@Marisa_kristi&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@154.17.237.73:37811?encryption=none&type=ws&path=/@VPNine1&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@154.17.237.73:37811?sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chromefp=chrome&security=tls#
@@ -238,7 +217,6 @@ vless://00000000-0000-4000-8000-000000000000@165.246.171.218:11019?sni=49ax00d7k
 vless://00000000-0000-4000-8000-000000000000@165.246.171.218:11019?sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&type=ws&host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&path=/@Marisa_kristifp=chromesecurity=tls#
 vless://00000000-0000-4000-8000-000000000000@166.88.167.206:30715?&security=tls&fp=chrome&sni=nn9jdg-k7yewrrk.acg.xx.kg&type=ws&headerType=none&host=nn9jdg-k7yewrrk.acg.xx.kg&path=%2F%40Marisa_kristi#
 vless://00000000-0000-4000-8000-000000000000@166.88.167.206:30715?encryption=none&security=tls&sni=nn9jdg-k7yewrrk.acg.xx.kg&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F%40Marisa_kristi#
-vless://00000000-0000-4000-8000-000000000000@166.88.167.206:30715?encryption=none&type=ws&path=%2F%40Marisa_kristi&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@166.88.167.206:30715?encryption=none&type=ws&path=/@Marisa_kristi&host=nn9jdg-k7yewrrk.acg.xx.kg&security=tls&sni=nn9jdg-k7yewrrk.acg.xx.kg&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@166.88.167.206:30715?encryption=none&type=ws&path=/@Marisa_kristi&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@166.88.167.206:30715?encryption=none&type=ws&path=/@VPNine1&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
@@ -251,3 +229,25 @@ vless://00000000-0000-4000-8000-000000000000@172.237.12.208:18836?Telegram=@Goza
 vless://00000000-0000-4000-8000-000000000000@172.237.12.208:18836?sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#
 vless://00000000-0000-4000-8000-000000000000@172.237.12.208:18836?type=ws&security=tls&path=/@Marisa_kristifp=chrome&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@173.249.203.40:16353?sni=r8wez3psbuhgs6lgju.sate.qzz.io&type=ws&host=r8wez3psbuhgs6lgju.sate.qzz.io&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@173.249.203.40:16353?sni=r8wez3psbuhgs6lgju.sate.qzz.io&type=ws&host=r8wez3psbuhgs6lgju.sate.qzz.io&path=/@Marisa_kristifp=chromefp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@173.249.203.40:16353?sni=r8wez3psbuhgs6lgju.sate.qzz.io&type=ws&host=r8wez3psbuhgs6lgju.sate.qzz.io&path=/@Marisa_kristifp=chromesecurity=tls#
+vless://00000000-0000-4000-8000-000000000000@173.249.203.40:16353?type=ws&security=tls&path=/@Marisa_kristifp=chrome&sni=r8wez3psbuhgs6lgju.sate.qzz.io&fp=chrome#
+vless://00000000-0000-4000-8000-000000000000@173.249.210.53:56671?&security=tls&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&headerType=none&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=%2F%40Marisa_kristifp%3Dchrome#
+vless://00000000-0000-4000-8000-000000000000@173.249.210.53:56671?allowInsecure=1&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@173.249.210.53:56671?sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chromefp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@175.118.151.148:30030?allowInsecure=1&sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@175.118.151.148:30030?allowInsecure=1&sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chromesecurity=tls#
+vless://00000000-0000-4000-8000-000000000000@175.199.174.127:30016?sni=n1bj62x9v5oinzz6jwxq5sz.misa.cc.cd&type=ws&host=n1bj62x9v5oinzz6jwxq5sz.misa.cc.cd&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@178.128.19.168:4399?security=tls&type=ws&path=%2F%40Marisa_kristifp%3Dchrome&host=adv2m5gy-wrhiahph85c.ovtc.qzz.io&sni=adv2m5gy-wrhiahph85c.ovtc.qzz.io&fp=chrome#
+vless://00000000-0000-4000-8000-000000000000@178.128.19.168:4399?sni=adv2m5gy-wrhiahph85c.ovtc.qzz.io&type=ws&host=adv2m5gy-wrhiahph85c.ovtc.qzz.io&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@178.128.19.168:4399?sni=adv2m5gy-wrhiahph85c.ovtc.qzz.io&type=ws&host=adv2m5gy-wrhiahph85c.ovtc.qzz.io&path=/@Marisa_kristifp=chromesecurity=tls#
+vless://00000000-0000-4000-8000-000000000000@178.62.81.144:12306?sni=rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me&type=ws&host=rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@185.104.151.190:44333?sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&type=ws&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@185.126.80.34:33619?sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&type=ws&host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@185.126.80.34:33619?sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&type=ws&host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&path=/@Marisa_kristifp=chromesecurity=tls#
+vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?fp=chrome&%3Bhost=sub.mot.ip-ddns.com&%3Bpath=/&%3Bsecurity=tls&%3Bsni=sub.mot.ip-ddns.com&%3Btype=ws#
+vless://00000000-0000-4000-8000-000000000000@188.166.217.179:386?sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&type=ws&host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&path=/@Marisa_kristifp=chromesecurity=tls#
+vless://00000000-0000-4000-8000-000000000000@192.204.110.170:40069?sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&type=ws&host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@192.204.110.170:40069?sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&type=ws&host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&path=/@Marisa_kristifp=chromesecurity=tls#
+vless://00000000-0000-4000-8000-000000000000@192.204.110.193:40092?sni=rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me&type=ws&host=rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@192.204.110.80:40133?sni=adv2m5gy-wrhiahph85c.ovtc.qzz.io&type=ws&host=adv2m5gy-wrhiahph85c.ovtc.qzz.io&path=/@Marisa_kristifp=chrome&security=tls#
