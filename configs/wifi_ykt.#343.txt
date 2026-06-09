@@ -1,13 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#343
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-09 / 05:37 (YKT)
-vless://Telegram-ipV2Ray-how@www.speedtest.net:80?host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=httpupgrade#
-vless://Telegram-ipV2Ray-hum@www.speedtest.net:80?encryption=none&host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=httpupgrade#
-vless://Telegram-ipV2Ray-hum@www.speedtest.net:80?host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&type=httpupgrade#
-vless://Telegram-ipV2Ray-let@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#
-vless://Telegram-ipV2Ray-mai@185.146.173.58:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=2.V2ray.ftp.debian.org.www.speedtest.net.免费上网68.Site.&type=ws#
-vless://Telegram-ipV2Ray-man@www.speedtest.net:80?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=c.4.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#
-vless://Telegram-ipV2Ray-plb@185.146.173.58:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=2.V2ray.ftp.debian.org.www.speedtest.net.免费上网68.Site.&type=ws#
+# Update: 2026-06-09 / 13:43 (YKT)
 vless://Telegram-ipV2Ray-pyt@185.146.173.58:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=V2ray.ftp.debian.org.www.speedtest.net.免费上网69.Site.&type=ws#
 vless://Telegram-ipV2Ray-rop@185.146.173.58:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=V2ray.ftp.debian.org.www.speedtest.net.免费上网69.Site.&type=ws#
 vless://Telegram-ipV2Ray-uim@185.146.173.58:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=V2ray.ftp.debian.org.www.speedtest.net.免费上网69.Site.&type=ws#
@@ -152,10 +145,13 @@ vless://a00047d1-b5c0-41a8-a2b9-1a7a38ff3edc@2.26.98.185:4443?alpn=h2,http/1.1&e
 vless://a00047d1-b5c0-41a8-a2b9-1a7a38ff3edc@2.26.98.185:4443?path=%2Fhtup&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=httpupgrade&allowInsecure=0&sni=2.26.98.185#
 vless://a0011204-1bd7-489b-b120-eeeab41b6e59@m1.designister.com:443/?type=tcp&encryption=none&flow=&sni=www.figma.com&fp=random&security=reality&pbk=HiEn07HkK8FRuKgmNDATj9TsEh6z6QwozRADLvV8SEE&sid=d6a146d7704f14#
 vless://a006163c-8752-4844-8020-0fd2c704a5f2@198.169.2.65:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2Fsubgift&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cinema.subgift.xyz&fp=chrome&type=xhttp&allowInsecure=0#
+vless://a006163c-8752-4844-8020-0fd2c704a5f2@198.169.2.65:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=/subgift&security=tls&alpn=h2,http/1.1&encryption=none&extra={
 vless://a006163c-8752-4844-8020-0fd2c704a5f2@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=cinema.subgift.xyz&path=%2Fsubgift&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#
 vless://a006163c-8752-4844-8020-0fd2c704a5f2@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=cinema.subgift.xyz&path=/subgift&mode=auto&extra={
 vless://a006163c-8752-4844-8020-0fd2c704a5f2@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=phantom.subgift.xyz&path=/subgift&mode=auto&extra={
+vless://a006163c-8752-4844-8020-0fd2c704a5f2@198.169.2.65:443?mode=auto&path=%2Fsubgift&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=cinema.subgift.xyz&fp=chrome&type=xhttp#
 vless://a006163c-8752-4844-8020-0fd2c704a5f2@198.169.2.65:443?mode=auto&path=%2Fsubgift&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cinema.subgift.xyz&fp=chrome&type=xhttp&allowInsecure=0#
+vless://a006163c-8752-4844-8020-0fd2c704a5f2@198.169.2.65:443?mode=auto&path=/subgift&security=tls&alpn=h2,http/1.1&encryption=none&extra={
 vless://a0064597-a864-42db-a26c-5b4309ebffbc@snapp.ir:80?path=%2F&security=none&encryption=none&host=arpm83.alirezapoormohammad.ir&type=ws#
 vless://a007a20d-603a-4cdb-80fe-2c04114462d2@hl.globalserver.ir:27416?type=tcp&encryption=none&path=/&host=snapp.ir&headerType=http&security=none#
 vless://a00b4428-a760-42f8-8b82-08cc06ef360a@45.141.148.191:8443?security=reality&type=tcp&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&pbk=CzI1Zft9ToNgciMIfMhtn_Q5RRO0Q3AyURYvrvnKL14&encryption=none#
@@ -218,9 +214,9 @@ vless://a01daac7-1e65-4645-854d-b47d226f6b08@172.64.155.209:443?path=/&security=
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?encryption=none&type=ws&host=y6-3cj.PAgES.DEV&path=%2F&security=tls&sni=y6-3cj.PAgES.DEV#
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#🇸🇬
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=/&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=/&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#🇨🇦57672
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.213.196.204:40443?encryption=none&security=tls&sni=y6-3cj.PAgES.DEV&insecure=0&allowInsecure=0&type=ws&host=y6-3cj.PAgES.DEV&path=/#
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.213.196.204:40443?security=tls&sni=y6-3cj.PAgES.DEV&type=ws&host=y6-3cj.PAgES.DEV&path=/&allowInsecure=0#
@@ -242,7 +238,6 @@ vless://a01e27df-a1f1-4b7f-a65b-50dd4b6ac10a@136.244.94.171:10443?encryption=non
 vless://a01e27df-a1f1-4b7f-a65b-50dd4b6ac10a@136.244.94.171:10443?encryption=none&type=tcp&headerType=none#
 vless://a01e27df-a1f1-4b7f-a65b-50dd4b6ac10a@136.244.94.171:10443?encryption=none&type=tcp&headerType=none#t.me%2Ffreekesha21
 vless://a022b6f6-c913-49cf-9bde-cbc911316f8f@185.242.19.249:443?encryption=none&type=xhttp&security=tls&host=top2197697635.mwscdn.ru&path=/xhttppath&mode=auto&extra=null&fp=chrome&sni=top2197697635.mwscdn.ru&alpn=h2,http/1.1#
-vless://a023be38-24ca-4384-97bb-9a01181abf77@176.109.87.34:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=%2Fgrpc&fp=chrome&sni=5post-gate.x5.ru&pbk=gEkBb04WCKpvyDowiwAd_6zMxYAHArFibO6KOw9FDH8&sid=2b6de111b96b8121&spx=%2F#
 vless://a023be38-24ca-4384-97bb-9a01181abf77@176.109.87.34:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=/grpc&fp=chrome&sni=5post-gate.x5.ru&pbk=gEkBb04WCKpvyDowiwAd_6zMxYAHArFibO6KOw9FDH8&sid=2b6de111b96b8121&spx=/#
 vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www.n.ahmadhamoumi.fun:443?fp=chrome&sni=autoconfig.internetwebhub.blog&alpn=h2%2Chttp%2F1.1&encryption=none&host=autoconfig.internetwebhub.bloG.&mode=auto&path=%2Fatrepellatnullaquosnamoptioimpedit&security=tls&type=xhttp&x_padding_bytes=100-1000#
 vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www.n.ahmadhamoumi.fun:443?fp=chrome&sni=autoconfig.internetwebhub.blog&alpn=h2,http/1.1&encryption=none&host=autoconfig.internetwebhub.bloG.&mode=auto&path=/atrepellatnullaquosnamoptioimpedit&security=tls&type=xhttp&x_padding_bytes=100-1000#
@@ -251,3 +246,8 @@ vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www.n.ahmadhamoumi.fun:443?mode=aut
 vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www.n.ahmadhamoumi.fun:443?mode=auto&path=%2Fatrepellatnullaquosnamoptioimpedit&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=autoconfig.internetwebhub.bloG.&fp=chrome&type=xhttp&allowInsecure=0&sni=autoconfig.internetwebhub.blog#
 vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www.n.ahmadhamoumi.fun:443?mode=auto&path=/atrepellatnullaquosnamoptioimpedit&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=autoconfig.internetwebhub.bloG.&fp=chrome&type=xhttp&allowInsecure=0&sni=autoconfig.internetwebhub.blog#
 vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www8.n.ahmadhamoumi.fun:443?fp=chrome&sni=autoconfig.internetwebhub.blog&alpn=h2%2Chttp%2F1.1&encryption=none&host=autoconfig.internetwebhub.bloG.&mode=auto&path=%2Fatrepellatnullaquosnamoptioimpedit&security=tls&type=xhttp&x_padding_bytes=100-1000#
+vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www8.n.ahmadhamoumi.fun:443?fp=chrome&sni=autoconfig.internetwebhub.blog&alpn=h2,http/1.1&encryption=none&host=autoconfig.internetwebhub.bloG.&mode=auto&path=/atrepellatnullaquosnamoptioimpedit&security=tls&type=xhttp&x_padding_bytes=100-1000#
+vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www8.n.ahmadhamoumi.fun:443?fp=chrome&sni=autoconfig.internetwebhub.blog&alpn=h2,http/1.1&encryption=none&host=autoconfig.internetwebhub.bloG.&mode=auto&path=/atrepellatnullaquosnamoptioimpedit&security=tls&type=xhttp&x_padding_bytes=100-1000#@VPsave
+vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www8.n.ahmadhamoumi.fun:443?mode=auto&path=%2Fatrepellatnullaquosnamoptioimpedit&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=autoconfig.internetwebhub.bloG.&fp=chrome&type=xhttp&sni=autoconfig.internetwebhub.blog#
+vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www8.n.ahmadhamoumi.fun:443?mode=auto&path=%2Fatrepellatnullaquosnamoptioimpedit&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=autoconfig.internetwebhub.bloG.&fp=chrome&type=xhttp&allowInsecure=0&sni=autoconfig.internetwebhub.blog#
+vless://a0246e3b-6430-4c4b-a02b-f2cefc4ad815@www8.n.ahmadhamoumi.fun:443?mode=auto&path=%2Fatrepellatnullaquosnamoptioimpedit&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=autoconfig.internetwebhub.bloG.&type=xhttp&allowInsecure=0&sni=autoconfig.internetwebhub.blog#
