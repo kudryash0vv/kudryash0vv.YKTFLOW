@@ -1,6 +1,11 @@
 # profile-title: kudryash0vv.WIFI.#151
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-11 / 20:06 (YKT)
+# Update: 2026-06-12 / 01:33 (YKT)
+vless://4235ec43-772d-405d-8bd8-8c4cdbccbc8d@158.160.50.102:443?type=tcp&security=reality&encryption=none&sni=web.max.ru&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F&flow=xtls-rprx-vision&headerType=none&allowInsecure=1#
+vless://4235ec43-772d-405d-8bd8-8c4cdbccbc8d@185.22.235.222:443?type=tcp&security=reality&encryption=none&sni=ads.x5.ru&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F&flow=xtls-rprx-vision&headerType=none&allowInsecure=1#
+vless://4235ec43-772d-405d-8bd8-8c4cdbccbc8d@84.201.128.39:443?type=tcp&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F&flow=xtls-rprx-vision&headerType=none&allowInsecure=1#
+vless://4235ec43-772d-405d-8bd8-8c4cdbccbc8d@84.201.128.39:443?type=tcp&security=reality&encryption=none&sni=web.max.ru&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F&flow=xtls-rprx-vision&headerType=none&allowInsecure=1#
+vless://42389e23-5f27-49cb-b0c9-eb336e7b129c@91.107.152.246:8443?security=none&encryption=none&headerType=none&type=tcp#
 vless://4239d44c-19c7-4b8b-ae07-16607c95b6fb@104.16.6.19:8880/?type=ws&encryption=none&host=gentle-night-12e3.hebe061103.workers.dev&path=%2F%3Fed%3D2560#
 vless://423a18a5-0798-46d9-83f1-5bec04a2f49e@vip1.proxystore11.news:2052?type=xhttp&path=%2Fprx11&host=&mode=auto&security=reality&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&fp=chrome&sni=vultr.com&sid=f8fcb589&spx=%2F#
 vless://423c1478-51ef-4762-8908-eb8b23ee8ff4@151.236.114.245:6443?flow=&fp=chrome&pbk=wfQg9xng5NedWJBv6hwvCkRqsafJnRuhCZWHgko6yUs&security=reality&sid=3142c760d3c88811&sni=max.ru&type=tcp#
@@ -144,6 +149,7 @@ vless://427d7d02-7edc-4e7b-9148-4617260c7d8e@198.169.2.1:443?mode=auto&path=%2Fa
 vless://427d85cd-a2a8-4668-8118-0d43d2d57f77@104.17.192.0:443?encryption=none&security=tls&sni=asmaos.uk&type=ws&host=asmaos.uk&path=%2F%3Fed%3D2560#
 vless://427d85cd-a2a8-4668-8118-0d43d2d57f77@104.17.192.0:443?encryption=none&security=tls&sni=asmaos.uk&type=ws&host=asmaos.uk&path=/?ed=2560#
 vless://427d85cd-a2a8-4668-8118-0d43d2d57f77@104.17.192.0:443?sni=asmaos.uk&type=ws&host=asmaos.uk&path=/?ed=2560security=tls#
+vless://427d85cd-a2a8-4668-8118-0d43d2d57f77@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=asmaos.uk&type=ws&allowInsecure=0&sni=asmaos.uk#RELAY🚩
 vless://427d85cd-a2a8-4668-8118-0d43d2d57f77@8.6.112.0:443?security=tls&sni=asmaos.uk&type=ws&host=asmaos.uk&path=%2F&allowInsecure=0#
 vless://427dfccd-6189-4134-8433-d1f6aae5f3a1@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#
 vless://427dfccd-6189-4134-8433-d1f6aae5f3a1@193.168.46.180:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&sni=rruu.persik.host#
@@ -176,16 +182,12 @@ vless://429b5b64-3a7f-49c8-b49b-920027afcf30@82.115.26.170:8085?encryption=none&
 vless://429b5b64-3a7f-49c8-b49b-920027afcf30@82.115.26.170:8085?encryption=none&host=&path=/&security=none&type=ws#
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN
-vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#🚀@VPNine1
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN
-vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#🚀@VPNine1
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN
-vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#🚀@VPNine1
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN
-vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#🚀@VPNine1
 vless://429f43ca-087a-4fbc-9d88-9d9007bf30bc@104.16.75.127:443?encryption=none&security=tls&sni=unnes.ac.id.cyylr.eu.cc&type=ws&host=unnes.ac.id.cyylr.eu.cc&path=%2Fmy-wbv#
 vless://429f43ca-087a-4fbc-9d88-9d9007bf30bc@104.16.75.127:443?encryption=none&security=tls&sni=unnes.ac.id.cyylr.eu.cc&type=ws&host=unnes.ac.id.cyylr.eu.cc&path=/my-wbv#
 vless://429f43ca-087a-4fbc-9d88-9d9007bf30bc@104.16.75.127:443?encryption=none&type=ws&security=tls&path=%2Fmy-wbv&host=unnes.ac.id.cyylr.eu.cc&sni=unnes.ac.id.cyylr.eu.cc&allowInsecure=1#
@@ -249,5 +251,3 @@ vless://42ba03da-78cf-413e-9e79-1128ee6ddb30@84.201.132.78:443?flow=xtls-rprx-vi
 vless://42ba03da-78cf-413e-9e79-1128ee6ddb30@88.119.176.125:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=lit2.o4ka-internet.com&type=tcp#
 vless://42ba03da-78cf-413e-9e79-1128ee6ddb30@eston5.o4ka-internet.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=eston5.o4ka-internet.com&type=tcp#
 vless://42ba03da-78cf-413e-9e79-1128ee6ddb30@eston5.o4ka-internet.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eston5.o4ka-internet.com&fp=random&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&spx=%2F#
-vless://42ba03da-78cf-413e-9e79-1128ee6ddb30@fin.o4ka-internet.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&security=reality&sid=5629431325884ff0&sni=fin.o4ka-internet.com&type=tcp#
-vless://42ba03da-78cf-413e-9e79-1128ee6ddb30@fin.o4ka-internet.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fin.o4ka-internet.com&fp=random&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0&spx=%2F#

@@ -1,6 +1,13 @@
 # profile-title: kudryash0vv.WIFI.#87
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-11 / 20:06 (YKT)
+# Update: 2026-06-12 / 01:33 (YKT)
+vless://26524cce-d514-4014-a426-365fb266a14d@142.248.219.203:2053?sni=w9rw8g1k.node-c.danfeng.gv.uy&type=ws&host=w9rw8g1k.node-c.danfeng.gv.uy&path=/danfengfp=firefoxsecurity=tls#
+vless://26524cce-d514-4014-a426-365fb266a14d@142.248.219.31:2053?encryption=none&security=tls&sni=mz0tgmxz.user-api.chinav.eu.org&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mz0tgmxz.user-api.chinav.eu.org&path=%2Fdanfeng%3Fed%3D2560#
+vless://26524cce-d514-4014-a426-365fb266a14d@142.248.219.34:2053?allowInsecure=0&sni=c1mxc.api-gateway.fgfw.qzz.io&alpn=http%252F1.1%250A&type=ws&host=c1mxc.api-gateway.fgfw.qzz.io&path=/danfeng-2cm3?ed=2560fp=firefox&security=tls#
+vless://26524cce-d514-4014-a426-365fb266a14d@142.248.219.34:2053?allowInsecure=0&sni=c1mxc.api-gateway.fgfw.qzz.io&alpn=http/1.1&type=ws&host=c1mxc.api-gateway.fgfw.qzz.io&path=/danfeng-2cm3?ed=2560fp=firefox&security=tls#
+vless://26524cce-d514-4014-a426-365fb266a14d@142.248.219.92:2053?allowInsecure=0&sni=w9rw8g1k.node-c.danfeng.gv.uy&type=ws&host=w9rw8g1k.node-c.danfeng.gv.uy&path=/danfengfp=firefox&security=tls#
+vless://26524cce-d514-4014-a426-365fb266a14d@142.248.219.92:2053?sni=w9rw8g1k.node-c.danfeng.gv.uy&type=ws&host=w9rw8g1k.node-c.danfeng.gv.uy&path=/danfengfp=firefoxsecurity=tls#
+vless://26524cce-d514-4014-a426-365fb266a14d@142.248.219.94:2053?sni=w9rw8g1k.node-c.danfeng.gv.uy&type=ws&host=w9rw8g1k.node-c.danfeng.gv.uy&path=/danfeng?ed=2560fp=firefoxsecurity=tls#
 vless://26524cce-d514-4014-a426-365fb266a14d@142.248.219.98:2053?allowInsecure=1&sni=t39sed.gateway-api.sh21.eu.org&type=ws&host=t39sed.gateway-api.sh21.eu.org&path=/danfeng?ed=2560fp=chrome&security=tls#
 vless://26524cce-d514-4014-a426-365fb266a14d@142.248.219.98:2053?allowInsecure=1&sni=t39sed.gateway-api.sh21.eu.org&type=ws&host=t39sed.gateway-api.sh21.eu.org&path=/danfeng?ed=2560fp=chromesecurity=tls#
 vless://26524cce-d514-4014-a426-365fb266a14d@142.248.219.98:2053?sni=t39sed.gateway-api.sh21.eu.org&type=ws&host=t39sed.gateway-api.sh21.eu.org&path=/danfeng?ed=2560fp=chromesecurity=tls#
@@ -244,10 +251,3 @@ vless://26524cce-d514-4014-a426-365fb266a14d@24.199.122.22:443?allowInsecure=0&s
 vless://26524cce-d514-4014-a426-365fb266a14d@27.100.148.98:11235?allowInsecure=0&sni=i8dxb.media-cdn-us.chinav.indevs.in&type=ws&host=i8dxb.media-cdn-us.chinav.indevs.in&path=/danfeng-lo9ew8-vfksib-hwrl-84fg5mvlfp=firefox&security=tls#
 vless://26524cce-d514-4014-a426-365fb266a14d@27.100.148.98:11235?encryption=none&security=tls&sni=i8dxb.media-cdn-us.chinav.indevs.in&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=i8dxb.media-cdn-us.chinav.indevs.in&path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvl#
 vless://26524cce-d514-4014-a426-365fb266a14d@27.100.148.98:11235?encryption=none&security=tls&sni=i8dxb.media-cdn-us.chinav.indevs.in&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=i8dxb.media-cdn-us.chinav.indevs.in&path=%2Fdanfeng-lo9ew8-vfksib-hwrl-84fg5mvl#qol_120
-vless://26524cce-d514-4014-a426-365fb266a14d@27.100.182.157:20005?allowInsecure=0&sni=t39sed.gateway-api.sh21.eu.org&type=ws&host=t39sed.gateway-api.sh21.eu.org&path=/danfeng?ed=2560fp=firefox&security=tls#
-vless://26524cce-d514-4014-a426-365fb266a14d@27.100.182.157:20005?sni=t39sed.gateway-api.sh21.eu.org&type=ws&host=t39sed.gateway-api.sh21.eu.org&path=/danfeng?ed=2560fp=firefoxfp=chrome&security=tls#
-vless://26524cce-d514-4014-a426-365fb266a14d@31.15.18.26:2053?path=%2Fdanfeng%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=WangCai.443888.xyz&fp=chrome&type=ws&allowInsecure=0&sni=WangCai.443888.xyz#
-vless://26524cce-d514-4014-a426-365fb266a14d@31.57.63.63:2053?allowInsecure=0&sni=x6n3ydn.mirror-cdn.danfeng.bond&type=ws&host=x6n3ydn.mirror-cdn.danfeng.bond&path=/danfengfp=firefox&security=tls#
-vless://26524cce-d514-4014-a426-365fb266a14d@31.57.63.63:2053?sni=x6n3ydn.mirror-cdn.danfeng.bond&type=ws&host=x6n3ydn.mirror-cdn.danfeng.bond&path=/danfengfp=firefoxsecurity=tls#
-vless://26524cce-d514-4014-a426-365fb266a14d@31.57.92.221:2053?fp=chrome&host=urfbqo42.danfeng.gv.uy&path=%2Fdanfeng%3Fed%3D2560&security=tls&sni=urfbqo42.danfeng.gv.uy&type=ws#
-vless://26524cce-d514-4014-a426-365fb266a14d@31.59.138.244:2053?encryption=none&security=tls&sni=mz0tgmxz.user-api.chinav.eu.org&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mz0tgmxz.user-api.chinav.eu.org&path=%2Fdanfeng%3Fed%3D2560#

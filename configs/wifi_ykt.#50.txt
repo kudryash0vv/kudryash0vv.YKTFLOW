@@ -1,14 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#50
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-11 / 20:06 (YKT)
-vless://15cbab96-197e-46a5-9042-073b3980c798@213.136.69.8:80?encryption=none&host=fsdns.ectunnelvpn.me&path=%2Fvless&security=none&type=ws#
-vless://15cbab96-197e-46a5-9042-073b3980c798@213.136.69.8:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#
-vless://15cbab96-197e-46a5-9042-073b3980c798@213.136.69.8:80?encryption=none&type=ws&host=fsdns.ectunnelvpn.me&path=%2Fvless&security=none#
-vless://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80?encryption=none&host=fsdns.ectunnelvpn.me&path=%2Fvless&security=none&type=ws#
-vless://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#
-vless://15cbab96-197e-46a5-9042-073b3980c798@fsdns.ectunnelvpn.me:80?encryption=none&host=fsdns.ectunnelvpn.me&path=/vless&security=none&type=ws#FR🇫🇷
-vless://15cc8d40-f0c0-4e5c-9f43-da04c368353c@104.24.251.4:443/?type=ws&encryption=none&host=66.sgfc.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=66.sgfc.dpdns.org#
-vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@141.98.169.145:8880?mode=gun&security=none&encryption=none&type=grpc#
+# Update: 2026-06-12 / 01:33 (YKT)
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638985047311782755.abadan-drcn-aaaai.info:8880?mode=gun&security=none&encryption=none&type=grpc#
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.117:8880/?type=grpc&encryption=none&flow=#
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.186:8880?mode=gun&security=none&encryption=none&type=grpc#
@@ -123,7 +115,6 @@ vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@104.18.31.168:443?path=/&security=t
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@104.18.31.168:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@ip.hamrahto.com:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@ip.hamrahto.com:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram
-vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@ip.hamrahto.com:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#🚀@VPNine1
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@s5.fastspeeds.ir:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@s5.fastspeeds.ir:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram
 vless://1609f08d-a125-4710-bdd3-273732f0bcec@site2.poudnc.shop:443?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=site2.poudnc.shop&type=tcp#
@@ -251,3 +242,12 @@ vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@185.143.234.122:2052?encryption=non
 vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@snapp.ir:2052?encryption=none&host=vpn.ksmrx.ir&path=%2FICVPNN&security=none&type=ws#
 vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@snapp.ir:2052?encryption=none&host=vpn.ksmrx.ir&path=/ICVPNN&security=none&type=ws#
 vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@snapp.ir:2052?encryption=none&security=none&type=ws&host=vpn.ksmrx.ir&path=%2FICVPNN#
+vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@snapp.ir:2052?encryption=none&security=none&type=ws&host=vpn.ksmrx.ir&path=/ICVPNN#
+vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@snapp.ir:2052?path=%2FICVPNN&security=none&encryption=none&host=vpn.ksmrx.ir&type=ws#
+vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@snapp.ir:2052?path=/ICVPNN&security=none&encryption=none&host=vpn.ksmrx.ir&type=ws#
+vless://16658809-215c-4709-ac09-5aaa48e4cbf3@sub.pardisvps.ir:2086?type=ws&security=none&path=%2F&host=connect.pardisvps.ir#
+vless://16658809-215c-4709-ac09-5aaa48e4cbf3@sub.pardisvps.ir:2086?type=ws&security=none&path=/&host=connect.pardisvps.ir#
+vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.196.173:10504/?type=ws&encryption=none&flow=&path=%2F#
+vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.196.173:10504?type=ws&security=none#
+vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@95.217.246.212:10504?type=ws&security=none#
+vless://16680b66-e416-4d8e-9a6e-59bfcf487f8b@158.160.206.199:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=AvSwsAIp3t2sTvNDZwTPkbcanvu9wtvLyZ6FCzIM-Rk&sid=7ada97abaa&spx=/#
