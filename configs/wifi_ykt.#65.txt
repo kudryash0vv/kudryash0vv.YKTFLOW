@@ -1,9 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#65
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-15 / 14:34 (YKT)
-vless://193dbff2-57a5-4569-af09-c54628f21d8e@46.8.209.215:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0&spx=/#
-vless://193dbff2-57a5-4569-af09-c54628f21d8e@46.8.209.215:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0&spx=/#
-vless://193dbff2-57a5-4569-af09-c54628f21d8e@5.188.115.29:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=id2bTxg98QfB21HhGUl5OBN1qifL-W_t5f_SJf8QACo&sid=e0850aee0392d49c&spx=/#
+# Update: 2026-06-15 / 21:47 (YKT)
 vless://193dbff2-57a5-4569-af09-c54628f21d8e@5.188.115.29:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=yandex.ru&pbk=id2bTxg98QfB21HhGUl5OBN1qifL-W_t5f_SJf8QACo&sid=e0850aee0392d49c&spx=/#
 vless://193dbff2-57a5-4569-af09-c54628f21d8e@51.250.83.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.vk.com&pbk=lM4aY7R07Gem9x-TKqvCuKcZSLuZU-_2lyZqxmQLHDs&sid=a9e95077bdf34209&spx=/#
 vless://193dbff2-57a5-4569-af09-c54628f21d8e@51.250.83.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.vk.com&pbk=lM4aY7R07Gem9x-TKqvCuKcZSLuZU-_2lyZqxmQLHDs&sid=a9e95077bdf34209&spx=/#
@@ -183,6 +180,7 @@ vless://197adfc2-903a-4f31-a4d5-7d0a02b6ed41@37.9.4.125:9443?encryption=none&typ
 vless://197adfc2-903a-4f31-a4d5-7d0a02b6ed41@37.9.4.125:9443?fp=chrome&pbk=-pNcR_wMIbwNYzMNv2Ql3WNhWAQ9Jq8hote4o33y4jw&security=reality&sid=846229eb47b3a5c9&sni=m.vk.ru&type=grpc#
 vless://197adfc2-903a-4f31-a4d5-7d0a02b6ed41@37.9.4.125:9443?type=grpc&security=reality&sni=m.vk.ru&fp=firefox&pbk=-pNcR_wMIbwNYzMNv2Ql3WNhWAQ9Jq8hote4o33y4jw&sid=846229eb47b3a5c9#
 vless://197adfc2-903a-4f31-a4d5-7d0a02b6ed41@5.188.115.153:443?encryption=none&type=grpc&security=reality&mode=gun&fp=firefox&sni=ads.x5.ru&pbk=FDrNbkUYPJS7uzUhgVsNuT8-TqXNeDm7bc24NgTM5GY&sid=846229eb47b3a5c9#
+vless://197adfc2-903a-4f31-a4d5-7d0a02b6ed41@5.188.115.153:443?type=grpc&security=reality&sni=ads.x5.ru&fp=firefox&pbk=FDrNbkUYPJS7uzUhgVsNuT8-TqXNeDm7bc24NgTM5GY&sid=846229eb47b3a5c9#
 vless://197adfc2-903a-4f31-a4d5-7d0a02b6ed41@5.188.115.153:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=firefox&sni=www.vk.com&pbk=FDrNbkUYPJS7uzUhgVsNuT8-TqXNeDm7bc24NgTM5GY&sid=846229eb47b3a5c9#
 vless://197adfc2-903a-4f31-a4d5-7d0a02b6ed41@78.159.250.109:443?encryption=none&type=grpc&security=reality&mode=gun&fp=firefox&sni=api.cs7777.vk.ru&pbk=YiKCLWIewCaWtYdpwAUd7fre63xVrkSiQUTalhFdA3w&sid=846229eb47b3a5c9#
 vless://197adfc2-903a-4f31-a4d5-7d0a02b6ed41@78.159.250.109:443?type=grpc&security=reality&sni=api.cs7777.vk.ru&fp=firefox&pbk=YiKCLWIewCaWtYdpwAUd7fre63xVrkSiQUTalhFdA3w&sid=846229eb47b3a5c9#
@@ -251,3 +249,5 @@ vless://19809c4b-9415-4676-ae82-82b80d5d1e39@51.250.66.16:443?flow=xtls-rprx-vis
 vless://19809c4b-9415-4676-ae82-82b80d5d1e39@84.201.156.242:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#
 vless://19809c4b-9415-4676-ae82-82b80d5d1e39@84.201.156.242:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#
 vless://19809c4b-9415-4676-ae82-82b80d5d1e39@84.201.156.242:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#
+vless://1986bf7a-dec6-4343-a70f-023e200f3a44@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#
+vless://1988a5e0-a4b0-4d80-a6f2-d2357db53f48@ip.sb:8880?encryption=none&security=none&fp=random&type=ws&host=918.hebav63406.workers.dev&path=%2F%3Fed%3D2048#

@@ -1,8 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#80
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-15 / 14:34 (YKT)
-vless://1ed6285f-1062-45d0-ac78-b0f4a3843468@158.160.208.250:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=zYJherUg8rsyTsumgWLweMea_Tp2j4ZpVuRlskKTwiY&sid=92df5620ac107be4#
-vless://1ed6285f-1062-45d0-ac78-b0f4a3843468@158.160.208.250:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8&sid=22730c666bd10642#
+# Update: 2026-06-15 / 21:47 (YKT)
 vless://1ed6285f-1062-45d0-ac78-b0f4a3843468@158.160.208.250:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=5QEC0YA__ppxXOhC_nMbA0lwi3BSO-PxCySRkWTXXGk&sid=5b1dde1bbe5b42b4#
 vless://1ed6285f-1062-45d0-ac78-b0f4a3843468@178.154.214.111:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=zYJherUg8rsyTsumgWLweMea_Tp2j4ZpVuRlskKTwiY&sid=92df5620ac107be4#
 vless://1ed6285f-1062-45d0-ac78-b0f4a3843468@178.154.214.111:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=zYJherUg8rsyTsumgWLweMea_Tp2j4ZpVuRlskKTwiY&sid=92df5620ac107be4#
@@ -241,7 +239,6 @@ vless://1f612173-7171-4e27-a51c-60dfee975f7a@varzesh3.com:80/?type=ws&encryption
 vless://1f61ccc1-cd38-49cd-97aa-a71771433976@cctvhikvision.center:2052?path=api-v1&%3Bencryption=none&%3Bhost=uwu.blueknightnet.qzz.io&%3Btype=ws#
 vless://1f61ccc1-cd38-49cd-97aa-a71771433976@cctvhikvision.center:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#
 vless://1f61ccc1-cd38-49cd-97aa-a71771433976@cctvhikvision.center:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#RELAY🚩
-vless://1f61ccc1-cd38-49cd-97aa-a71771433976@cctvhikvision.center:2052?path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#🌐سرور
 vless://1f61ccc1-cd38-49cd-97aa-a71771433976@cctvhikvision.center:2052?path=api-v1&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#
 vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#
 vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=api-v1&security=&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws#
@@ -251,3 +248,6 @@ vless://1f61ccc1-cd38-49cd-97aa-a71771433976@hikvision-plus.com:2052?path=api-v1
 vless://1f656a0a-b630-4ed7-8b10-4c0a8f43464e@127.0.0.1:40443?encryption=none&security=tls&sni=moonvpn0.rookari.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=moonvpn0.rookari.com&path=%2Ffree#
 vless://1f656a0a-b630-4ed7-8b10-4c0a8f43464e@moonvpn.rookari.com:443?path=%2Ffree&security=tls&encryption=none&insecure=0&host=moonvpn0.rookari.com&fp=chrome&type=ws&allowInsecure=0&sni=moonvpn0.rookari.com#
 vless://1f678d60-48d7-4eb0-9f85-35ed154d1cd5@chus.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cyberdrift.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#
+vless://1f678d60-48d7-4eb0-9f85-35ed154d1cd5@chus.nodes.rocketnetwork.ru:443?sni=cyberdrift.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#
+vless://1f678d60-48d7-4eb0-9f85-35ed154d1cd5@chus.nodes.rocketnetwork.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32&sni=cyberdrift.ru#
+vless://1f678d60-48d7-4eb0-9f85-35ed154d1cd5@fr.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=titanrealm.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#

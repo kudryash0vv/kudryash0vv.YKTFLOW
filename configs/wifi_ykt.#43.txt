@@ -1,11 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#43
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-15 / 14:34 (YKT)
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@104.21.80.190:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=/?ed=2048&fp=chrome#
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@104.21.80.190:8443?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048&fp=random#
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@104.21.80.190:8880?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@172.67.153.74:8880?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#
-vless://0ebb4dba-0288-4973-98a8-dfb0f127f5b0@62.192.174.162:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=C4kK4uxh9a5ym0-JmcaTwkUwkB0FTRjSAIlHLTKRHlo&security=reality&sid=84341e3e&sni=vk.com&type=tcp#
+# Update: 2026-06-15 / 21:47 (YKT)
 vless://0ebb4dba-0288-4973-98a8-dfb0f127f5b0@62.192.174.162:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=C4kK4uxh9a5ym0-JmcaTwkUwkB0FTRjSAIlHLTKRHlo&sni=vk.com&sid=84341e3e#
 vless://0ebb4dba-0288-4973-98a8-dfb0f127f5b0@62.192.174.162:443?type=tcp&security=reality&sni=vk.com&flow=xtls-rprx-vision&pbk=C4kK4uxh9a5ym0-JmcaTwkUwkB0FTRjSAIlHLTKRHlo&sid=84341e3e#
 vless://0ebc55ed-1123-40dd-aff8-96f72e325e55@dll7.chooktashakorabi.com:58892?security=&encryption=none&headerType=&type=tcp#
@@ -249,5 +244,10 @@ vless://0f4865d9-9405-4703-a282-46e326e6d9e7@bewildered-poem.seotoolsforyou.co.u
 vless://0f494b87-2fdd-4978-b467-04f58d7375ce@5.101.222.14:80?security=none&type=ws&host=ipcfgermany.dev&path=%2F%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF%2Fwild%2F%3Fed%3D2048#
 vless://0f494b87-2fdd-4978-b467-04f58d7375ce@80.93.223.61:80?type=ws&host=ipcfgermany.dev&path=%2F%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF%2Fwild%2F%3Fed%3D2048#
 vless://0f494b87-2fdd-4978-b467-04f58d7375ce@92.38.168.14:80?type=ws&host=ipcfgermany.dev&path=%2F%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF%2Fwild%2F%3Fed%3D2048#
+vless://0f4a2509-bd5c-46bf-939b-571ab33c76ff@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%236
 vless://0f4bfe10-b0df-4eac-bfb1-0ef4c2d3a81e@188.68.218.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=5d8e1a9c4f72b3#
 vless://0f4bfe10-b0df-4eac-bfb1-0ef4c2d3a81e@188.68.218.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=7e2a9d4c5f18b0#
+vless://0f4bfe10-b0df-4eac-bfb1-0ef4c2d3a81e@188.68.218.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=a9c4f17e3b62d8#
+vless://0f4bfe10-b0df-4eac-bfb1-0ef4c2d3a81e@188.68.218.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=c31f9a0e7d4b52#
+vless://0f4bfe10-b0df-4eac-bfb1-0ef4c2d3a81e@46.8.209.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=z67jBKrK0gsKfg-sz_8_CFMtKq9fAtWJPEJpHvo-OFU&sid=5d8e1a9c4f72b3#
+vless://0f4bfe10-b0df-4eac-bfb1-0ef4c2d3a81e@46.8.209.104:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=z67jBKrK0gsKfg-sz_8_CFMtKq9fAtWJPEJpHvo-OFU&sid=7e2a9d4c5f18b0#
