@@ -1,6 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#545
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-16 / 20:39 (YKT)
+# Update: 2026-06-17 / 02:29 (YKT)
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.12.75.140:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.22.116.134:2096?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.22.116.134:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#
@@ -18,7 +18,6 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.198:443?encryption=none&s
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.38:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.38:2096?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.38:2096?path=/?ed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.38:2096?path=/?ed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20774341
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.38:2096?path=/?ed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#🇩🇪73169
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@59.4.80.188:30040?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@66.235.200.158:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#
@@ -51,6 +50,7 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:8443?encryption=none
 vless://f7761699-6cbf-03e8-b7ce-2988f6f86d3f@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#
 vless://f7761699-6cbf-0bb8-b7ce-2988f6f86d3f@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#
 vless://f7761699-6cbf-2328-b7ce-2988f6f86d3f@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#
+vless://f779b6af-e5d2-534a-883b-4287d4d2e2f7@81.29.146.247:44864?flow=xtls-rprx-vision&fp=firefox&pbk=RFXvwtYDuhW-ehhs3lNKwxRd6m_PRQ7TjjinyOTBYXY&security=reality&sid=9e&sni=eh.vk.com&type=tcp#
 vless://f77d5141-a35a-4c78-a0cb-e65d55866397@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#
 vless://f782b30a-5f54-4709-9394-9bd1548d3b1f@blog.ghazatehran.ir:2096?mode=auto&path=/newyork&security=tls&alpn=h2,http/1.1&encryption=none&extra={
 vless://f78539b8-dcd6-4980-afed-1e2993348494@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#
@@ -106,6 +106,7 @@ vless://f7a85e5f-f3d7-453a-9f74-3c2ec75effcb@172.66.46.246:443?path=%2FELiV2-RAY
 vless://f7a85e5f-f3d7-453a-9f74-3c2ec75effcb@172.66.46.246:443?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=tls&encryption=none&host=elena.elena.ddns-ip.net&fp=chrome&type=ws&sni=elena.elena.ddns-ip.net#
 vless://f7a94052-c97e-413a-b45d-33464dbadd5e@37.152.187.201:443?alpn=h2,http/1.1&encryption=none&fp=chrome&headerType=http&host=&path=/&security=tls&sni=algorithmmarket.ir&type=tcp#
 vless://f7a94052-c97e-413a-b45d-33464dbadd5e@37.152.187.201:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=algorithmmarket.ir#
+vless://f7a94052-c97e-413a-b45d-33464dbadd5e@37.152.187.201:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=algorithmmarket.ir#RELAY🚩
 vless://f7a94052-c97e-413a-b45d-33464dbadd5e@37.152.187.201:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=algorithmmarket.ir#
 vless://f7a94052-c97e-413a-b45d-33464dbadd5e@37.152.187.201:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=algorithmmarket.ir#telegram
 vless://f7a94052-c97e-413a-b45d-33464dbadd5e@37.152.187.201:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=algorithmmarket.ir&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#
@@ -190,29 +191,30 @@ vless://f7e08961-ba18-4ac8-aac0-e925107417af@discord.gg:443?path=/&%3Bsecurity=t
 vless://f7e08961-ba18-4ac8-aac0-e925107417af@discord.gg:443?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=de.vpncustomize.Website&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=de.vpncustomize.Website#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2rayy_vpn13%20%231
 vless://f7e08961-ba18-4ac8-aac0-e925107417af@discord.gg:443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=de.vpncustomize.Website&fp=chrome&type=ws&sni=de.vpncustomize.Website#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.18.38.202:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.18.38.202:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20814354
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.18.38.202:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20256881
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:443?encryption=none&type=ws&host=pon.antalmani.mm.am&path=%2F%3Fed%3D3000&security=tls&fp=firefox&sni=pon.antalmani.mm.am#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:443?encryption=none&type=ws&host=pon.antalmani.mm.am&path=%2F%3Fed%3D3000&security=tls&fp=firefox&sni=pon.antalmani.mm.am#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#Channel%20id%3A%20%40ShadowProxy6`
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20439532
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20937032
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:80?encryption=none&type=ws&path=/?ed=3000&host=pon.antalmani.mm.am#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:80?security=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&encryption=none#
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:80?security=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:46.78ms
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@108.162.194.119:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@108.162.194.119:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20160838
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@108.162.194.119:80?encryption=none&security=none&type=ws&host=pon.antalmani.mm.am&path=/?ed=3000#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@141.193.213.10:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@141.193.213.10:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#Channel%20id%3A%20%40ShadowProxy6`
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@141.193.213.10:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@141.193.213.10:80?encryption=none&type=ws&path=/?ed=3000&host=pon.antalmani.mm.am#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=chrome&insecure=0&allowInsecure=0#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20855137
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:443?path=/?ed&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=firefox&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:443?path=/?ed=3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=chrome&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:443?path=/?ed=3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=chrome&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#@filembad
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:443?path=/?ed=3000&security=tls&encryption=none&insecure=0&host=pon.antalmani.mm.am&fp=chrome&type=ws&allowInsecure=0&sni=pon.antalmani.mm.am#🔵@chillguy_vpn
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?encryption=none&security=none&type=ws&host=pon.antalmani.mm.am&path=%2F%3Fed%3D3000#
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?encryption=none&security=none&type=ws&host=pon.antalmani.mm.am&path=/?ed=3000#
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?encryption=none&security=none&type=ws&host=pon.antalmani.mm.am&path=/?ed=3000#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20252308
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?encryption=none&security=none&type=ws&host=pon.antalmani.mm.am&path=/?ed=3000#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509005
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#Channel%20id%3A%20%40ShadowProxy6`
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
@@ -227,20 +229,21 @@ vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:443?encryption=none
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?encryption=none&type=ws&path=/?ed=3000&host=pon.antalmani.mm.am#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?path=%2F%3Fed%3D3000&security=none&encryption=none&host=pon.antalmani.mm.am&type=ws#
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?path=/%3Fed%3D3000&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=pon.antalmani.mm.am&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40red2ray%20%235
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?path=/%3Fed%3D3000&%3Bsecurity=none&%3Bencryption=none&%3Bhost=pon.antalmani.mm.am&%3Btype=ws#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?security=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&encryption=none#
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?security=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:81.97ms
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:443?path=/%3Fed%3D3000&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=pon.antalmani.mm.am&%3Bfp=firefox&%3Btype=ws&%3Bsni=pon.antalmani.mm.am#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:443?path=/%3Fed%3D3000&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=pon.antalmani.mm.am&%3Bfp=firefox&%3Btype=ws&%3Bsni=pon.antalmani.mm.am#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40red2ray%20%232
-vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:443?path=/%3Fed%3D3000&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=pon.antalmani.mm.am&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=pon.antalmani.mm.am#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40red2ray%20%232
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:80?encryption=none&type=ws&path=/?ed=3000&host=pon.antalmani.mm.am#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#Channel%20id%3A%20%40ShadowProxy6`
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:75.42ms
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=chrome&insecure=0&allowInsecure=0#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=/?ed=3000&host=pon.antalmani.mm.am&sni=pon.antalmani.mm.am&fp=firefox&insecure=0&allowInsecure=0#
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?encryption=none&security=none&type=ws&host=pon.antalmani.mm.am&path=%2F%3Fed%3D3000#
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?encryption=none&security=none&type=ws&host=pon.antalmani.mm.am&path=/?ed=3000#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#Channel%20id%3A%20%40ShadowProxy6`
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?encryption=none&type=ws&path=%2F%3Fed%3D3000&host=pon.antalmani.mm.am#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
@@ -248,6 +251,3 @@ vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?encryptio
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@www.speedtest.net:80?encryption=none&type=ws&path=/?ed=3000&host=pon.antalmani.mm.am#
 vless://f7e582a4-d577-4141-9de2-097787d56f79@uk-lhr-2.blook.network:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk-lhr-2.blook.network&fp=chrome&pbk=p0MkIIxkklgPs4vJJP5Qp9RxdqgMnjmgoIt5t8g6uSU&sid=794dbecd&spx=/&type=tcp&headerType=none#
 vless://f7ea63e3-6d32-4f75-8c88-2a669d88f1fe@104.17.163.123:8443?encryption=none&security=tls&sni=j9l7lpfpknfbzmjlgq7xqbsj9hzyhf24benvv7obgvzhj4gllf33r.zjde5.de5.net&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=j9l7lpfpknfbzmjlgq7xqbsj9hzyhf24benvv7obgvzhj4gllf33r.zjde5.de5.net&path=%2F%3Fed%3D2560#a_052
-vless://f7eaf9a5-981b-4245-8370-a3ceb0d9aa41@sub.digikalamobile.shop:8080?encryption=none&host=SL.amirux.shop&path=/login&security=none&type=ws#
-vless://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80/?type=ws&encryption=none&host=uuttrr.607f1dbb99.workers.dev&path=%2F%3Fed%3D2560#
-vless://f7f06dd6-fdbb-439d-b68e-11febb028664@79.175.149.248:52170?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#

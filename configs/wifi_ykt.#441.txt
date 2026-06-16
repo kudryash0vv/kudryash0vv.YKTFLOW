@@ -1,13 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#441
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-16 / 20:39 (YKT)
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.16.110.103:443?security=tls&sni=jz.ylks01.eu.org&type=ws&path=/blue#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&sni=ks.ylks.xyz&type=ws&path=%2Fblue#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&sni=ks.ylks.xyz&type=ws&path=/blue#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&type=ws&sni=jp033.ylks01.eu.org&path=/blue&encryption=none&headerType=none#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&type=ws&sni=kk033.ylks.link&path=/blue&encryption=none&headerType=none#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&type=ws&sni=zdy033.kpcloud.eu.org&path=/blue&encryption=none&headerType=none#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:8443?security=tls&type=ws&sni=jp033.ylks01.eu.org&path=/blue&encryption=none&headerType=none#
+# Update: 2026-06-17 / 02:29 (YKT)
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:8443?security=tls&type=ws&sni=kk033.ylks.link&path=/blue&encryption=none&headerType=none#
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.69:443?security=tls&type=ws&sni=jp033.ylks01.eu.org&path=/proxyip=proxyip.oracle.fxxk.dedyn.io&encryption=none&headerType=none#
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.26.242:443?security=tls&type=ws&sni=hk033.ylks.link&path=/blue&encryption=none&headerType=none#
@@ -247,7 +240,14 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.236.249.109:443?security=tls&sn
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.236.249.96:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2F%3Fed%3D2560#
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.84.2.206:443?security=tls&sni=ke.ylks.xyz&type=ws&path=%2F%3Fproxyip#
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.84.2.206:443?security=tls&sni=ke.ylks.xyz&type=ws&path=/?proxyip#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.84.2.206:443?security=tls&sni=ke.ylks.xyz&type=ws&path=/?proxyip#[77753]
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.84.2.206:443?security=tls&sni=kp.ylks.xyz&type=ws&path=%2F%3Fproxyip#
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.84.2.206:443?security=tls&sni=kp.ylks.xyz&type=ws&path=/?proxyip#
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.35.119.193:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2560#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.67.200.82:443?encryption=none&security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2Fblue#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.10:443?security=tls&sni=dd.ylks.xyz&type=ws&host=dd.ylks.xyz&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.113:443?security=tls&sni=cj.ylks.xyz&type=ws&host=cj.ylks.xyz&path=%2Fblue#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.116:443?allowInsecure=0&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=/bluesecurity=tls#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.116:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=%2Fblue#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.129:443?security=tls&sni=ln.ylka.us.kg&type=ws&host=ln.ylka.us.kg&path=%2F%3Fed%3D2560#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.130:443?security=tls&sni=cp.ylks.xyz&type=ws&host=cp.ylks.xyz&path=%2Fblue#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.197:443?security=tls&sni=ln.ylks01.eu.org&type=ws&host=ln.ylks01.eu.org&path=%2F%3Fed%3D2560#

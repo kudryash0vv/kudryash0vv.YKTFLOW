@@ -1,13 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#440
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-16 / 20:39 (YKT)
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.146.168.102:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.146.221.78:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.151.204.91:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.159.22.4:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=yq.ylks.us.kg&type=ws&path=%2F%3Fed#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.159.22.4:443?security=tls&%3Bsni=yq.ylks.us.kg&%3Btype=ws&%3Bpath=/%3Fed#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.159.22.4:443?security=tls&sni=yq.ylks.us.kg&type=ws&path=%2F%3Fed#
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.159.22.4:443?security=tls&sni=yq.ylks.us.kg&type=ws&path=/?ed#
+# Update: 2026-06-17 / 02:29 (YKT)
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.147:2052?security=none&type=ws&sni=hk033.ylks.link&path=/blue&encryption=none&headerType=none#
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.156:2082?security=none&type=ws&sni=hk033.ylks.link&path=/blue&encryption=none&headerType=none#
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.160:2082?security=none&type=ws&sni=hk033.ylks.link&path=/blue&encryption=none&headerType=none#
@@ -251,3 +244,10 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.148.105.55:443?security=tls&typ
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.148.105.55:443?security=tls&type=ws&sni=zdy033.kpcloud.eu.org&path=/blue&encryption=none&headerType=none#
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.16.110.103:443?security=tls&%3Bsni=jz.ylks01.eu.org&%3Btype=ws&%3Bpath=/blue#
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.16.110.103:443?security=tls&sni=jz.ylks01.eu.org&type=ws&path=%2Fblue#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.16.110.103:443?security=tls&sni=jz.ylks01.eu.org&type=ws&path=/blue#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&sni=ks.ylks.xyz&type=ws&path=%2Fblue#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&sni=ks.ylks.xyz&type=ws&path=/blue#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&type=ws&sni=jp033.ylks01.eu.org&path=/blue&encryption=none&headerType=none#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&type=ws&sni=kk033.ylks.link&path=/blue&encryption=none&headerType=none#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&type=ws&sni=zdy033.kpcloud.eu.org&path=/blue&encryption=none&headerType=none#
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:8443?security=tls&type=ws&sni=jp033.ylks01.eu.org&path=/blue&encryption=none&headerType=none#
