@@ -1,6 +1,23 @@
 # profile-title: kudryash0vv.WIFI.#40
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-18 / 19:51 (YKT)
+# Update: 2026-06-19 / 00:58 (YKT)
+vless://0c57b186-b8c7-4948-8d82-7548ad1af428@51.250.89.29:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=login.mts.ru&pbk=rSiZ_dNWfEPQBDkSs5XJmiDfxha5gQHDqFhTIDl2oEQ&sid=75560655ed32fd67#
+vless://0c57b186-b8c7-4948-8d82-7548ad1af428@de.alorvpn.fun:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.twitch.tv&fp=chrome&pbk=pjpXTyqfWOb3HylPzbFIEUdGoJA4R2I9fCtvc36sAyE&sid=a4faf295a3284012&flow=xtls-rprx-vision#
+vless://0c57b186-b8c7-4948-8d82-7548ad1af428@nl.alorvpn.fun:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=pX7I5VoRCR2tNKWz-c9pScz5q37XCXkX_1JTwBrXeHQ&sni=www.twitch.tv&sid=be981a043b486cd5#
+vless://0c57b186-b8c7-4948-8d82-7548ad1af428@nl.alorvpn.fun:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.twitch.tv&fp=chrome&pbk=pX7I5VoRCR2tNKWz-c9pScz5q37XCXkX_1JTwBrXeHQ&sid=be981a043b486cd5&flow=xtls-rprx-vision#
+vless://0c57c911-f1cc-4f0f-a90e-cc93e85df595@snapp.someoneofiran.xyz:2096?mode=auto&path=%2Fturkey&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=ir.f-a-r-z-a-d.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=ir.f-a-r-z-a-d.ir#
+vless://0c57c911-f1cc-4f0f-a90e-cc93e85df595@snapp.someoneofiran.xyz:2096?mode=auto&path=/turkey&security=tls&alpn=h2,http/1.1&encryption=none&extra={
+vless://0c5889fd-99eb-40d9-8e4f-c0f0a07dea12@localtestme.redirectme.net:112?encryption=none&security=none&type=tcp#
+vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&encryption=none&headerType=none&type=tcp#
+vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&type=tcp&packetEncoding=xudp&encryption=none#
+vless://0c6003a2-369d-4eca-95e6-85eb58dd95f5@158.160.238.201:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=LHcascaxOxugVSALgsYx46nB-vuhT7ANOneu0xb6SzQ&sid=3b25133dd9e5c23f#
+vless://0c6003a2-369d-4eca-95e6-85eb58dd95f5@158.160.238.201:443?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&pbk=LHcascaxOxugVSALgsYx46nB-vuhT7ANOneu0xb6SzQ&sid=3b25133dd9e5c23f#
+vless://0c6003a2-369d-4eca-95e6-85eb58dd95f5@217.16.18.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=LHcascaxOxugVSALgsYx46nB-vuhT7ANOneu0xb6SzQ&sid=5391b442b5339dc0#
+vless://0c6003a2-369d-4eca-95e6-85eb58dd95f5@217.16.18.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=LHcascaxOxugVSALgsYx46nB-vuhT7ANOneu0xb6SzQ&sid=5391b442b5339dc0#
+vless://0c6003a2-369d-4eca-95e6-85eb58dd95f5@217.16.18.42:443?type=tcp&security=reality&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=LHcascaxOxugVSALgsYx46nB-vuhT7ANOneu0xb6SzQ&sid=5391b442b5339dc0#
+vless://0c6003a2-369d-4eca-95e6-85eb58dd95f5@217.16.19.35:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=LHcascaxOxugVSALgsYx46nB-vuhT7ANOneu0xb6SzQ&sid=5391b442b5339dc0#
+vless://0c6003a2-369d-4eca-95e6-85eb58dd95f5@217.16.19.35:443?type=tcp&security=reality&sni=max.ru&fp=firefox&flow=xtls-rprx-vision&pbk=LHcascaxOxugVSALgsYx46nB-vuhT7ANOneu0xb6SzQ&sid=5391b442b5339dc0#
+vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443#
 vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443/?type=tcp&encryption=none&flow=#
 vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?Telegram=&security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none&note=#
 vless://0c61d46d-4c4d-421b-b0fb-d211415da368@52.14.47.44:443?Telegram=&security=none&allowInsecure=0&encryption=none&type=tcp&headerType=nonee=#
@@ -35,6 +52,7 @@ vless://0c6b3365-d935-4265-a027-2bc15d5c257a@snapp.ir:80?type=ws&security=none&p
 vless://0c6b96bc-5e3a-4500-8497-6dead1965609@172.67.219.254:443?encryption=none&security=tls&sni=A3B87cD8-6088-491d-89A7-ec62507C904f.661.Qzz.IO&fp=random&insecure=0&allowInsecure=0&type=ws&host=A3B87cD8-6088-491d-89A7-ec62507C904f.661.Qzz.IO&path=%2FQMV9N8sI6UlesbbZ1wwDhJ3#
 vless://0c6b96bc-5e3a-4500-8497-6dead1965609@172.67.219.254:443?encryption=none&security=tls&sni=A3B87cD8-6088-491d-89A7-ec62507C904f.661.Qzz.IO&type=ws&host=A3B87cD8-6088-491D-89a7-EC62507c904F.661.QZZ.io&path=/QMV9N8sI6UlesbbZ1wwDhJ3#
 vless://0c6fc2b3-2e0f-45ba-8c3b-402204fccbee@194.60.231.167:3070?security=none&type=tcp&host=telewebion.com&headerType=http#
+vless://0c73a33a-601a-4e5f-a881-5da52ca0859b@158.160.109.80:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=AvSwsAIp3t2sTvNDZwTPkbcanvu9wtvLyZ6FCzIM-Rk&sid=7ada97abaa&spx=%2F#
 vless://0c73a33a-601a-4e5f-a881-5da52ca0859b@158.160.109.80:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=AvSwsAIp3t2sTvNDZwTPkbcanvu9wtvLyZ6FCzIM-Rk&sid=7ada97abaa&spx=/#
 vless://0c73a33a-601a-4e5f-a881-5da52ca0859b@158.160.206.199:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=AvSwsAIp3t2sTvNDZwTPkbcanvu9wtvLyZ6FCzIM-Rk&sid=7ada97abaa&spx=/#
 vless://0c73a33a-601a-4e5f-a881-5da52ca0859b@158.160.232.92:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=AvSwsAIp3t2sTvNDZwTPkbcanvu9wtvLyZ6FCzIM-Rk&sid=7ada97abaa&spx=%2F#
@@ -72,6 +90,7 @@ vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@31.177.111.178:443?type=grpc&securi
 vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@31.177.111.178:443?type=grpc&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=gETV15JkIgc_-i8Yn8OwL2923FmbwDIoe08FBHEp-yE#
 vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@31.177.111.178:443?type=t.me/entryNET&security=reality&pbk=gETV15JkIgc_-i8Yn8OwL2923FmbwDIoe08FBHEp-yE&fp=chrome&sni=5post-gate.x5.ru&serviceName=t.me/entryNET&mode=gun#
 vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@62.152.58.86:443?type=grpc&security=reality&pbk=y0Daf6XqACgR39QLM9zaqZtTHix2vg19MiNrOmGeg1c&fp=chrome&sni=5post-gate.x5.ru&sid=aa19486790&serviceName=grpc&mode=gun#
+vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@62.152.58.86:443?type=grpc&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=y0Daf6XqACgR39QLM9zaqZtTHix2vg19MiNrOmGeg1c&sid=aa19486790#
 vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@WHITE:443?type=tcp&security=none#
 vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@aus-1.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=Ttb_VDtrJzhK5Wo6I2flNzlV6THweySWh4eOMmAIoxY&fp=chrome&sni=aus-1.pandaonline.org#
 vless://0c7fdb10-b893-4537-a37f-f6c30ded2f6d@aus-1.pandaonline.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=Ttb_VDtrJzhK5Wo6I2flNzlV6THweySWh4eOMmAIoxY&fp=firefox&sni=aus-1.pandaonline.org#
@@ -157,7 +176,6 @@ vless://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&encr
 vless://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&encryption=none&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN&host=Locke.check-speedtest-internet-dns-ping-ip.ir&security=tls&fp=chrome&alpn=http/1.1&sni=Locke.check-speedtest-internet-dns-ping-ip.ir&ech=AID+DQB8AAAgACDa3kymGZ++wd6/VngnXySNEStqWkMpKkoMMKOHQK3MIQAkAAEA#
 vless://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&encryption=none&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&security=tls&fp=chrome&alpn=http%2F1.1&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&ech=AID%2BDQB8AAAgACDa3kymGZ%2B%2Bwd6%2FVngnXySNEStqWkMpKkoMMKOHQK3MIQAkAAEA#
 vless://0c90175d-41df-4a62-c663-67b8652371c4@www.speedtest.net:2096?type=ws&encryption=none&path=/@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN--@LOCKEY_VPN&host=nginx.tehranspeedtestdncheckerinternetchecker.ir&security=tls&fp=chrome&alpn=http/1.1&sni=nginx.tehranspeedtestdncheckerinternetchecker.ir&ech=AID+DQB8AAAgACDa3kymGZ++wd6/VngnXySNEStqWkMpKkoMMKOHQK3MIQAkAAEA#
-vless://0c908227-379d-4d8b-af20-4d915a220c7e@158.160.35.135:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#
 vless://0c908227-379d-4d8b-af20-4d915a220c7e@158.160.35.135:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://0c908227-379d-4d8b-af20-4d915a220c7e@158.160.35.135:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://0c908227-379d-4d8b-af20-4d915a220c7e@158.160.35.135:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=sso.passport.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
@@ -182,7 +200,7 @@ vless://0c942b51-66f2-4788-98c3-8cf58954421d@91.107.159.32:444?mode=gun&security
 vless://0c94ca98-3643-4cb4-de75-6167815af665@hilnu.com:8443/?type=grpc&encryption=none&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&security=tls&sni=admin.kanal-tel-nufilter.store&fp=firefox#
 vless://0c94ca98-3643-4cb4-de75-6167815af665@hilnu.com:8443?mode=multi&%3Bsecurity=tls&%3Bencryption=none&%3Bfp=firefox&%3Btype=grpc&%3BserviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER%E2%80%A6%3C/div%3E#
 vless://0c94ca98-3643-4cb4-de75-6167815af665@hilnu.com:8443?mode=multi&%3Bsecurity=tls&%3Bencryption=none&%3Bfp=firefox&%3Btype=grpc&%3BserviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&%3Bsni=admin.kanal-tel-nufilter.store#
-vless://0c94ca98-3643-4cb4-de75-6167815af665@hilnu.com:8443?mode=multi&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bfp=firefox&amp%3Btype=grpc&amp%3BserviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp%3Bsni=admin.kanal-tel-nufilter.store#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vboxpanel%20%233
+vless://0c94ca98-3643-4cb4-de75-6167815af665@hilnu.com:8443?mode=multi&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bfp=firefox&amp%3Btype=grpc&amp%3BserviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp%3Bsni=admin.kanal-tel-nufilter.store#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40vboxpanel%20%236
 vless://0c94ca98-3643-4cb4-de75-6167815af665@hilnu.com:8443?mode=multi&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&sni=admin.kanal-tel-nufilter.store#
 vless://0c94ca98-3643-4cb4-de75-6167815af665@hilnu.com:8443?mode=multi&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=admin.kanal-tel-nufilter.store#
 vless://0c94ca98-3643-4cb4-de75-6167815af665@hilnu.com:8443?mode=multi&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER…#
@@ -233,21 +251,3 @@ vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.19.35.216:80?encryption=none&se
 vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.19.35.216:80?type=ws&host=amirvpn.amirhm00100.workers.dev&path=/?ed=2048#
 vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.19.54.173:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F%3Fed%3D2048#
 vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.21.0.190:80?encryption=none&type=ws&security=none&host=amirvpn.amirhm00100.workers.dev#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.21.0.190:80?type=ws&host=amirvpn.amirhm00100.workers.dev#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@162.159.34.121:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F%3Fed%3D2048#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@162.159.34.121:80?security=none&type=ws&path=/?ed=2048&host=amirvpn.amirhm00100.workers.dev&encryption=none#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@162.159.34.235:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F%3Fed%3D2048#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@162.159.34.235:80?type=ws&host=amirvpn.amirhm00100.workers.dev&path=/?ed=2048#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@162.159.34.60:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F%3Fed%3D2048#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@162.159.34.60:80?encryption=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#RELAY🚩
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@162.159.34.60:80?encryption=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F&security=none#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@162.159.34.60:80?encryption=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@162.159.34.60:80?type=ws&host=amirvpn.amirhm00100.workers.dev&path=/#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@162.159.34.60:80?type=ws&host=amirvpn.amirhm00100.workers.dev&path=/?ed=2048#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@172.67.128.54:80?security=none&type=ws&path=/&host=amirvpn.amirhm00100.workers.dev#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@188.114.97.3:80?encryption=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F%3Fed%3D2048&security=none#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@188.114.97.3:80?encryption=none&type=ws&security=none&path=/?ed=2048&host=amirvpn.amirhm00100.workers.dev#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@188.114.97.3:80?type=ws&host=amirvpn.amirhm00100.workers.dev&path=/?ed=2048#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@198.41.211.114:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F%3Fed%3D2048#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@198.41.211.114:80?security=none&type=ws&path=/?ed=2048&host=amirvpn.amirhm00100.workers.dev&encryption=none#
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@198.41.211.114:80?type=ws&host=amirvpn.amirhm00100.workers.dev&path=/?ed=2048#
