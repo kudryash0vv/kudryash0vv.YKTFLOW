@@ -1,8 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#14
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-18 / 14:12 (YKT)
-vless://030f6019-b8ce-4de8-911f-35b0ee11c33c@198.105.115.81:7443?security=reality&flow=xtls-rprx-vision&sni=chat.deepseek.com&type=raw&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#
-vless://030f6019-b8ce-4de8-911f-35b0ee11c33c@198.105.115.88:7443?security=reality&flow=xtls-rprx-vision&sni=chat.deepseek.com&type=raw&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#
+# Update: 2026-06-18 / 19:51 (YKT)
 vless://030f6019-b8ce-4de8-911f-35b0ee11c33c@45.13.226.103:7443?security=reality&flow=xtls-rprx-vision&sni=chat.deepseek.com&type=raw&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#
 vless://030f6019-b8ce-4de8-911f-35b0ee11c33c@45.13.226.124:7443?security=reality&flow=xtls-rprx-vision&sni=chat.deepseek.com&type=raw&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#
 vless://030f6019-b8ce-4de8-911f-35b0ee11c33c@45.13.226.160:7443?security=reality&flow=xtls-rprx-vision&sni=chat.deepseek.com&type=raw&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#
@@ -49,7 +47,6 @@ vless://0315a751-30f9-4544-96fa-ee581a7ef1a8@185.143.234.10:2052?type=ws&encrypt
 vless://03169156-319b-448a-b96a-206ce351ad96@37.32.27.85:80?path=/&security=none&encryption=none&host=a1.supreme-xfast.ir&type=ws#
 vless://03173744-c8fe-4df1-8c21-7aa707f5b193@51.250.15.175:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#
 vless://03173744-c8fe-4df1-8c21-7aa707f5b193@51.250.9.161:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#
-vless://03173744-c8fe-4df1-8c21-7aa707f5b193@51.250.9.161:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#
 vless://03173744-c8fe-4df1-8c21-7aa707f5b193@85.239.55.156:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#
 vless://03173744-c8fe-4df1-8c21-7aa707f5b193@85.239.55.156:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#
 vless://03192830-2b81-4e18-a7f3-cb77d4377325@104.17.147.22:443?path=%2F25425%2Fsha&security=tls&encryption=none&alpn=h2,http/1.1&host=faster.rainzone.ir&fp=firefox&allowinsecure=0&type=ws&sni=faster.rainzone.ir#
@@ -251,3 +248,6 @@ vless://0378bc14-36ed-47ac-a8f6-578be84f63ce@84.201.136.5:443?flow=xtls-rprx-vis
 vless://0378bc14-36ed-47ac-a8f6-578be84f63ce@84.201.144.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#
 vless://0378bc14-36ed-47ac-a8f6-578be84f63ce@84.201.168.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#
 vless://0378bc14-36ed-47ac-a8f6-578be84f63ce@84.201.168.220:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#
+vless://0378ff59-534b-49e6-84f6-538311db2a98@46.8.209.215:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0&spx=/#
+vless://0378ff59-534b-49e6-84f6-538311db2a98@46.8.209.215:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=yandex.ru&pbk=djV0ofrWaRYqyKIgjuXuDGZt3QmkfDwyBk-ro_nv1zs&sid=b175ae75e2a15bf0&spx=/#
+vless://0378ff59-534b-49e6-84f6-538311db2a98@46.8.209.224:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=yandex.ru&pbk=djV0ofrWaRYqyKIgjuXuDGZt3QmkfDwyBk-ro_nv1zs&sid=b175ae75e2a15bf0&spx=/#
