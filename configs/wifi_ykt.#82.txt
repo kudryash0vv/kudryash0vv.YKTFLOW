@@ -1,6 +1,12 @@
 # profile-title: kudryash0vv.WIFI.#82
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-20 / 00:46 (YKT)
+# Update: 2026-06-20 / 05:12 (YKT)
+vless://1c111ccf-bc41-4f4e-a641-ebefe04e6306@snapp.ir:80?type=ws&encryption=none&path=/&host=veryfast2.ir&security=none#@ReleaseNet
+vless://1c111ccf-bc41-4f4e-a641-ebefe04e6306@snapp.ir:80?type=ws&encryption=none&path=/&host=veryfast2.ir&security=none#@configprxy
+vless://1c111ccf-bc41-4f4e-a641-ebefe04e6306@veryfast2.ir:80?type=ws&encryption=none&path=/&host=veryfast2.ir&security=none#
+vless://1c11222d-1aca-4ef9-8872-bf0b8a55228d@172.66.44.152:443?security=tls&sni=pardazeshvpn-tg94.pages.dev&type=ws&host=pardazeshvpn-tg94.pages.dev&path=%2F&fp=chrome#
+vless://1c17ba34-0887-4cdc-a931-7e0ddab84a63@free.best-antiaging-reviews.com:2096/?type=tcp&encryption=none&security=tls&sni=free.best-antiaging-reviews.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#
+vless://1c17ba34-0887-4cdc-a931-7e0ddab84a63@free.best-antiaging-reviews.com:2096?security=tls&encryption=none&alpn=h3,h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=free.best-antiaging-reviews.com#
 vless://1c2109b2-1442-405f-9068-c88dfe858de1@snapp.ir:8080?encryption=none&host=de1.furoza2.ir&path=/&security=none&type=ws#
 vless://1c21a595-02cf-4643-bf77-1b02425cb670@51.250.35.99:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=fYLwKQ07NbsSJffz5aCvPi5nDxZVX95xIGZwiD07OAU&sid=1a2b3c4d5e6f7890#
 vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403/?type=tcp&encryption=none#
@@ -53,12 +59,12 @@ vless://1c32f285-fe49-426e-aae6-583899fbeb4b@fin.cafe-august.ir:443?path=/&secur
 vless://1c32f285-fe49-426e-aae6-583899fbeb4b@fin.cafe-august.ir:443?path=/&security=tls&encryption=none&insecure=0&host=fin.cafe-august.ir&type=ws&allowInsecure=0&sni=fin.cafe-august.ir#
 vless://1c32f285-fe49-426e-aae6-583899fbeb4b@ikco.ir:443?encryption=none&type=ws&host=fin.cafe-august.ir&path=/&security=tls&sni=fin.cafe-august.ir#
 vless://1c37368d-99d8-4cd7-a06d-cf80d695cdbc@sub.wantedhonor.ir:2082?encryption=none&security=none&type=tcp&headerType=none#
-vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&amp%3Bpath=/xn--q9jyb4c&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bextra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp%3Binsecure=0&amp%3Bhost=fi.dns.xn--q9jyb4c&amp%3Bfp=firefox&amp%3Btype=xhttp&amp%3BallowInsecure=0&amp%3Bsni=fi.dns.xn--q9jyb4c#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
+vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&%3Bpath=/xn--q9jyb4c&%3Bsecurity=tls&%3Bencryption=none&%3Bextra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&%3Binsecure=0&%3Bhost=fi.dns.xn--q9jyb4c&%3Bfp=firefox&%3Btype=xhttp&%3BallowInsecure=0&%3Bsni=fi.dns.xn--q9jyb4c#
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloud.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=cloud.dns.xn--q9jyb4c#
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloud.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=cloud.dns.xn--q9jyb4c#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fi.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=fi.dns.xn--q9jyb4c#
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fi.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=fi.dns.xn--q9jyb4c#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fi.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=fi.dns.xn--q9jyb4c#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:38ms
+vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fi.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=fi.dns.xn--q9jyb4c#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:35ms
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cloud.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=cloud.dns.xn--q9jyb4c#
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&extra={
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cloud.dns.xn--q9jyb4c&fp=chrome&type=xhttp&allowInsecure=0&sni=cloud.dns.xn--q9jyb4c#
@@ -68,7 +74,6 @@ vless://1c3927cb-6141-4473-a17d-4b290f7c6980@188.114.97.6:443?security=tls&type=
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@8.6.112.121:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fi.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=ProxyVPN11.dns.xn--q9jyb4c#
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@8.6.112.121:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&extra={
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@8.6.112.121:443?sni=ProxyVPN11.dns.xn--q9jyb4c&fp=chrome&security=tls#
-vless://1c3927cb-6141-4473-a17d-4b290f7c6980@8.6.112.121:443?sni=ProxyVPN11.dns.xn--q9jyb4c&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AEFI_3%7C2.5MB/s
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@www.speedtest.net:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fi.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=fi.dns.xn--q9jyb4c#
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@www.speedtest.net:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fi.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=fi.dns.xn--q9jyb4c#RELAY🚩
 vless://1c3927cb-6141-4473-a17d-4b290f7c6980@www.speedtest.net:443?mode=packet-up&path=/xn--q9jyb4c&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22:%22100-1000%22%7D&insecure=0&host=fi.dns.xn--q9jyb4c&fp=firefox&type=xhttp&allowInsecure=0&sni=fi.dns.xn--q9jyb4c#
@@ -246,8 +251,3 @@ vless://1c65bee4-bc54-364c-8988-6a5912fda891@[2401:c080:3800:39f7:5400:6ff:fe38:
 vless://1c65bee4-bc54-364c-8988-6a5912fda891@[2406:17c0:0:2::6762:5851]:443?encryption=none&type=tcp&headerType=&fp=&host=s473.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u723829us473.okgfw.top&serviceName=&mode=&alpn=#
 vless://1c65bee4-bc54-364c-8988-6a5912fda891@[2406:17c0:0:2::6762:5851]:443?encryption=none&type=tcp&headerType=&fp=&host=s481.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u723829us481.okgfw.top&serviceName=&mode=&alpn=#
 vless://1c65bee4-bc54-364c-8988-6a5912fda891@[2a14:1ec7:1038:76ec::1]:443?encryption=none&type=tcp&headerType=&fp=&host=s1219.csgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u723829us1219.csgfw.top&serviceName=&mode=&alpn=#
-vless://1c65bee4-bc54-364c-8988-6a5912fda891@[2a14:1ec7:1038:76ec::1]:443?encryption=none&type=tcp&headerType=&fp=&host=s1220.csgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u723829us1220.csgfw.top&serviceName=&mode=&alpn=#
-vless://1c65bee4-bc54-364c-8988-6a5912fda891@ipv6s235.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=ipv6s235.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u723829ue122ipv6s235.ccgfw.top&serviceName=&mode=&alpn=#
-vless://1c65bee4-bc54-364c-8988-6a5912fda891@ipv6s315.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=ipv6s315.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u723829u0c14ipv6s315.okgg.top&serviceName=&mode=&alpn=#
-vless://1c65bee4-bc54-364c-8988-6a5912fda891@ipv6s316.okgg.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=ipv6s316.okgg.top&path=&flow=xtls-rprx-vision&security=tls&sni=u723829u985aipv6s316.okgg.top&serviceName=&mode=&alpn=#
-vless://1c65bee4-bc54-364c-8988-6a5912fda891@ipv6s732.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=ipv6s732.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u723829ub3fcipv6s732.ccgfw.top&serviceName=&mode=&alpn=#
