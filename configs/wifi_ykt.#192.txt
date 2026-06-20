@@ -1,12 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#192
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-20 / 18:47 (YKT)
-vless://3fefc100-faed-43ad-b087-d47ddfe75121@104.21.47.122:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=%2F#
-vless://3fefc100-faed-43ad-b087-d47ddfe75121@172.67.147.162:443?encryption=none&security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=%2F#
-vless://3fefc100-faed-43ad-b087-d47ddfe75121@172.67.147.162:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=%2FPath%2FTelegram%40proxy_mtm%2F%3Fed%3D2048#
-vless://3fefc100-faed-43ad-b087-d47ddfe75121@nlservice.netspeedservice.xyz:443?type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=/&security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev#
-vless://3ff252d1-c1db-4b47-95fc-ee106bfd6282@mylink.youregxa.ir:80?path=%2F&security=none&encryption=none&host=regxagame-7c1b5bd4a9-regxagame.apps.ir-central1.arvancaas.ir&type=httpupgrade#
-vless://3ff252d1-c1db-4b47-95fc-ee106bfd6282@mylink.youregxa.ir:80?path=/&security=none&encryption=none&host=regxagame-7c1b5bd4a9-regxagame.apps.ir-central1.arvancaas.ir&type=httpupgrade#
+# Update: 2026-06-20 / 23:38 (YKT)
 vless://3ff672c6-6e12-481a-82be-0b6bf10a4be6@edge-gw-lb.cyberscaler.net:10022?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=nJhrThyrsiOOgKVKSkxsBwzsWEHqprdF8gejMucJSwQ&sid=1b&spx=/&type=tcp&headerType=none#
 vless://3ff8a900-6102-401d-a003-f65be762c1fc@45.130.125.160:8443?path=%2Fws&security=tls&encryption=none&insecure=0&host=AfarinBeShoma.x-upload.org&type=ws&allowInsecure=0&sni=AfarinBeShoma.x-upload.org#
 vless://3ff8a900-6102-401d-a003-f65be762c1fc@45.130.125.160:8443?path=/ws&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=AfarinBeShoma.x-upload.org&%3Btype=ws&%3BallowInsecure=0&%3Bsni=AfarinBeShoma.x-upload.org#
@@ -251,3 +245,9 @@ vless://4028f169-ae1d-4492-b264-95f16e436534@104.21.8.66:443?security=tls&sni=uc
 vless://4028f169-ae1d-4492-b264-95f16e436534@172.67.138.161:443?security=tls&sni=uciranir-arvanclud.detixi1932.workers.dev&type=ws&host=uciranir-arvanclud.detixi1932.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047#
 vless://402983af-52eb-44da-a9d9-a3d73739a47d@9lpgttledd74.dopgangster.com:51339?encryption=mlkem768x25519plus.native.0rtt.RJ3AOxCqdTsLENJVThSzP9cLla8_nP0AIvJDq_XT9zY&fp=chrome&pbk=rEWuocb2BTzk5GjzF6eYYCqK-9lxCE4rcdduYIQPIlg&security=reality&sid=580e9c54&sni=www.google.com&spx=/CoqylS4XxF09SeY&type=tcp#
 vless://4029c00b-ec5c-4cde-a45b-18ff0e094f29@104.17.147.22:80?security=none&type=httpupgrade&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey#
+vless://4029c00b-ec5c-4cde-a45b-18ff0e094f29@104.17.147.22:80?security=none&type=httpupgrade&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=/@VPNine1@VPNine1#
+vless://4029c00b-ec5c-4cde-a45b-18ff0e094f29@104.17.147.22:80?security=none&type=httpupgrade&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&path=/@Vpn_Mikey@Vpn_Mikey#
+vless://402a2d24-57bb-449c-90f5-e41dc0900dd6@xco.xonline.sbs:8443?type=xhttp&encryption=none&path=%2Fcocjslfnr&host=xco.trevor.ir&mode=auto&x_padding_bytes=100-1000&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&sni=xco.trevor.ir#
+vless://402a2d24-57bb-449c-90f5-e41dc0900dd6@xco.xonline.sbs:8443?type=xhttp&encryption=none&path=/cocjslfnr&host=xco.trevor.ir&mode=auto&x_padding_bytes=100-1000&extra={
+vless://402a3332-86ca-4985-a178-ba935e9a8973@104.19.229.21:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=aWESoME-oPInIonU2Uonob0Qi.SpoRTLAND.cOmPANy.&type=ws#
+vless://402c39f0-d079-42ce-be81-108db3884941@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#

@@ -1,15 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#340
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-20 / 18:47 (YKT)
-vless://71a813c9-7ad5-4152-9b18-353d3fff1482@sn.clasmateso.tr:443?allowInsecure=0&sni=sn.clasmateso.tr&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#
-vless://71a813c9-7ad5-4152-9b18-353d3fff1482@sn.clasmateso.tr:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=sn.clasmateso.tr&mode=auto&path=%2Fsni&security=tls&sni=sn.clasmateso.tr&type=xhttp&x_padding_bytes=100-1000#
-vless://71a82dad-a60f-4865-afe3-7e2bd2131926@snapp.ir:8080?type=ws&encryption=none&path=/&host=free.cdn-hio.mom&security=none#
-vless://71acfbcc-8825-484e-80e0-c1b920e726f0@blubank.sb24.ir:80?encryption=none&type=ws&path=/&host=static.aliyanserver.ir#
-vless://71ad3257-a307-03e8-9947-3835c4f597ea@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#
-vless://71ad3257-a307-0bb8-9947-3835c4f597ea@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#
-vless://71ad3257-a307-2328-9947-3835c4f597ea@89.208.231.191:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&alpn=h2,http/1.1#
-vless://71b008dc-7e85-4af8-94d6-f24125164ff0@31.57.63.238:10443?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=vqCGVkXZZFfjplv4bH0PJNzNYgMA68qCjLlueJ-12yA&sid=fd64a8cd6c&spx=/ZTKiEQBSyK2XXLa&type=tcp&headerType=none#
-vless://71b03803-5dfe-4dac-8406-a06e94b1bd70@176.109.94.202:9443/?type=ws&encryption=none&flow=&path=%2Fws&security=tls&sni=mms-2tets.hysteria.ltd&fp=qq#
+# Update: 2026-06-20 / 23:38 (YKT)
 vless://71b1411d-f242-4e84-83f6-a4d3ca912844@62.212.70.94:2025?type=tcp&security=reality&pbk=B6w7zRowM6YMjWfoo93HdAwngS7SxXa-K1msMet_P3U&fp=chrome&sni=tgju.org&sid=e9&spx=/-@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420#
 vless://71b7cafa-7d98-4190-ae0f-6654886edd5b@germany.playshoptv.com:9090?security=none&encryption=none&headerType=none&type=tcp#
 vless://71bd1c12-c021-42c4-ab15-f0d3c66e018c@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#
@@ -251,3 +242,12 @@ vless://723af53a-b131-3270-8ce0-13f8ecaaa322@188.119.64.120:443?encryption=none&
 vless://723af53a-b131-3270-8ce0-13f8ecaaa322@192.3.118.133:443?encryption=none&type=xhttp&headerType=&fp=random&host=s2316.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u723828us2316.csgfw.top&serviceName=&mode=&alpn=#
 vless://723af53a-b131-3270-8ce0-13f8ecaaa322@192.3.118.133:443?encryption=none&type=xhttp&headerType=&fp=random&host=s2317.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u723828us2317.csgfw.top&serviceName=&mode=&alpn=#
 vless://723af53a-b131-3270-8ce0-13f8ecaaa322@192.3.118.133:443?encryption=none&type=xhttp&headerType=&fp=random&host=s2318.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u723828us2318.csgfw.top&serviceName=&mode=&alpn=#
+vless://723af53a-b131-3270-8ce0-13f8ecaaa322@193.142.59.97:443?encryption=none&type=xhttp&headerType=&fp=random&host=s1243.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u723828us1243.csgfw.top&serviceName=&mode=&alpn=#
+vless://723af53a-b131-3270-8ce0-13f8ecaaa322@193.142.59.97:443?encryption=none&type=xhttp&headerType=&fp=random&host=s861.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u723828us861.csgfw.top&serviceName=&mode=&alpn=#
+vless://723af53a-b131-3270-8ce0-13f8ecaaa322@195.133.53.225:443?encryption=none&type=xhttp&headerType=&fp=random&host=s394.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u723828us394.csgfw.top&serviceName=&mode=&alpn=#
+vless://723af53a-b131-3270-8ce0-13f8ecaaa322@195.133.53.225:443?encryption=none&type=xhttp&headerType=&fp=random&host=s461.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u723828us461.csgfw.top&serviceName=&mode=&alpn=#
+vless://723af53a-b131-3270-8ce0-13f8ecaaa322@198.12.124.74:443?encryption=none&type=xhttp&headerType=&fp=random&host=s709.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u723828us709.csgfw.top&serviceName=&mode=&alpn=#
+vless://723af53a-b131-3270-8ce0-13f8ecaaa322@198.12.124.74:443?encryption=none&type=xhttp&headerType=&fp=random&host=s734.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u723828us734.csgfw.top&serviceName=&mode=&alpn=#
+vless://723af53a-b131-3270-8ce0-13f8ecaaa322@212.192.12.106:443?encryption=none&type=xhttp&headerType=&fp=random&host=s298.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u723828us298.csgfw.top&serviceName=&mode=&alpn=#
+vless://723af53a-b131-3270-8ce0-13f8ecaaa322@212.192.12.106:443?encryption=none&type=xhttp&headerType=&fp=random&host=s299.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u723828us299.csgfw.top&serviceName=&mode=&alpn=#
+vless://723af53a-b131-3270-8ce0-13f8ecaaa322@23.166.40.27:443?encryption=none&type=xhttp&headerType=&fp=random&host=s79.ccgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u723828us79.ccgfw.top&serviceName=&mode=&alpn=#

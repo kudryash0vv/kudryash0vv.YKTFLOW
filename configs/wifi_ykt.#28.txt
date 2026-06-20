@@ -1,12 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#28
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-20 / 18:47 (YKT)
-vless://06c209f6-d862-4615-828a-be7cba6ebb79@104.16.7.70:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=wwww.downloadboxs.com&fp=chrome&type=ws&allowInsecure=1&sni=wwww.downloadboxs.com#
-vless://06c209f6-d862-4615-828a-be7cba6ebb79@104.16.7.70:443?path=/wss?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=wwww.downloadboxs.com&fp=chrome&type=ws&allowInsecure=1&sni=wwww.downloadboxs.com#
-vless://06c209f6-d862-4615-828a-be7cba6ebb79@104.17.121.71:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=best.downloadin.sbs&fp=chrome&type=ws&allowInsecure=0&sni=best.downloadin.sbs#
-vless://06c209f6-d862-4615-828a-be7cba6ebb79@104.17.121.71:443?path=/wss?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=best.downloadin.sbs&fp=chrome&type=ws&allowInsecure=0&sni=best.downloadin.sbs#
-vless://06c209f6-d862-4615-828a-be7cba6ebb79@18.239.85.220:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=d1axj54leefkw.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1axj54leefkw.cloudfront.net#
-vless://06c209f6-d862-4615-828a-be7cba6ebb79@18.239.85.220:443?path=/wss?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=d1axj54leefkw.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1axj54leefkw.cloudfront.net#
+# Update: 2026-06-20 / 23:38 (YKT)
 vless://06c209f6-d862-4615-828a-be7cba6ebb79@69.84.182.21:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hope.skydriftzone.sbs&fp=chrome&type=ws&allowInsecure=0&sni=hope.skydriftzone.sbs#
 vless://06c209f6-d862-4615-828a-be7cba6ebb79@69.84.182.21:443?path=/wss?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=hope.skydriftzone.sbs&fp=chrome&type=ws&allowInsecure=0&sni=hope.skydriftzone.sbs#
 vless://06c440b1-6fa7-4c59-a375-0edc4a9ef41e@51.250.15.175:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#
@@ -251,3 +245,9 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F&security=tls&sni=2026.hhhhh.eu.org&type=ws#
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?encryption=none&type=ws&security=tls&path=%2F222.167.202.31%3A7443&host=2026.hhhhh.eu.org&sni=2026.hhhhh.eu.org&allowInsecure=1#
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?encryption=none&type=ws&security=tls&path=/222.167.202.31:7443&host=2026.hhhhh.eu.org&sni=2026.hhhhh.eu.org&allowInsecure=1#
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&type=ws&sni=2026.hhhhh.eu.org#
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:58.03ms
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.152.23:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org%2540#
