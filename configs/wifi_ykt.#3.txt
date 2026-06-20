@@ -1,6 +1,12 @@
 # profile-title: kudryash0vv.WIFI.#3
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-20 / 23:38 (YKT)
+# Update: 2026-06-21 / 05:02 (YKT)
+vless://-----v2ray_fark-----@zula.ir:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=uy.foxnt-telegram-foxnt.shop#
+vless://----DIGIV2RAY@190.93.247.155:2087?path=/DigiV?ed=2048&security=tls&encryption=none&alpn=h2&host=SpeedV2rayNg-ConneCtion.digiv2ray.shop&fp=chrome&type=ws&sni=SpeedV2rayNg-ConneCtion.digiv2ray.shop#
+vless://----DIGIV2RAY@198.41.202.5:2087/?type=ws&encryption=none&host=SpeedV2rayNg-ConneCtion.digiv2ray.shop&path=%2FDigiV%3Fed%3D2048&security=tls&sni=SpeedV2rayNg-ConneCtion.digiv2ray.shop&alpn=h2&fp=chrome#
+vless://----DIGIV2RAY@198.41.202.5:2087?path=%2FDigiV%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=SpeedV2rayNg-ConneCtion.digiv2ray.shop&fp=chrome&type=ws&sni=SpeedV2rayNg-ConneCtion.digiv2ray.shop#
+vless://----DIGIV2RAY@198.41.202.5:2087?path=/DigiV?ed=2048&security=tls&encryption=none&alpn=h2&host=SpeedV2rayNg-ConneCtion.digiv2ray.shop&fp=chrome&type=ws&sni=SpeedV2rayNg-ConneCtion.digiv2ray.shop#
+vless://----MsV2ray----@95.217.133.216:443?mode=multi&security=reality&encryption=none&pbk=vUt0xRjXoLmn0QGSJS5B3HQDYoH4ccg6wy_ccn4vaUs&fp=chrome&spx=/&type=grpc&serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&sni=tuyacn.com&sid=7576#
 vless://----telegram--ISVvpn----1@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=eDg.IsVcLoD.cOm&fp=chrome&type=ws&sni=eDg.IsVcLoD.cOm#
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=dEv.IsVcLoD.cOm&fp=chrome&type=ws&sni=dEv.IsVcLoD.cOm#
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=eDg.IsVcLoD.cOm&fp=chrome&type=ws&sni=eDg.IsVcLoD.cOm#
@@ -245,9 +251,3 @@ vless://00000000-0000-4000-8000-000000000000@166.88.167.206:30715?encryption=non
 vless://00000000-0000-4000-8000-000000000000@166.88.167.206:30715?encryption=none&type=ws&path=/@VPNine1&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@167.71.128.110:12306?sni=ooa858iqkhza12.mesa.ip-ddns.com&type=ws&host=ooa858iqkhza12.mesa.ip-ddns.com&path=/@Marisa_kristifp=chrome&security=tls#
 vless://00000000-0000-4000-8000-000000000000@167.71.128.110:12306?sni=ooa858iqkhza12.mesa.ip-ddns.com&type=ws&host=ooa858iqkhza12.mesa.ip-ddns.com&path=/@Marisa_kristifp=chromesecurity=tls#
-vless://00000000-0000-4000-8000-000000000000@167.71.222.177:12306?sni=guslef2w8oz12wv.ymj.xx.kg&type=ws&host=guslef2w8oz12wv.ymj.xx.kg&path=/@Marisa_kristifp=chromesecurity=tls#
-vless://00000000-0000-4000-8000-000000000000@168.143.101.145:42251?sni=nisav2de2t0ai8p-hd0.misa.cc.cd&type=ws&host=nisav2de2t0ai8p-hd0.misa.cc.cd&path=/@Marisa_kristifp=chrome&security=tls#
-vless://00000000-0000-4000-8000-000000000000@172.237.12.208:18836?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/@Marisa_kristifp=chrome&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&fp=chrome#
-vless://00000000-0000-4000-8000-000000000000@172.237.12.208:18836?sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#
-vless://00000000-0000-4000-8000-000000000000@172.237.12.208:18836?type=ws&security=tls&path=/@Marisa_kristifp=chrome&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&fp=chrome#
-vless://00000000-0000-4000-8000-000000000000@173.249.203.40:16353?sni=r8wez3psbuhgs6lgju.sate.qzz.io&type=ws&host=r8wez3psbuhgs6lgju.sate.qzz.io&path=/@Marisa_kristifp=chrome&security=tls#
