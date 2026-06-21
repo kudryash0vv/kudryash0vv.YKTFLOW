@@ -1,6 +1,9 @@
 # profile-title: kudryash0vv.WIFI.#17
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-21 / 05:02 (YKT)
+# Update: 2026-06-21 / 14:23 (YKT)
+vless://03d89129-c611-4beb-ae9b-1a41deaeed3e@fin-tun.a1mshop2.xyz:12000?security=none&type=tcp&headerType=http&path=%2F&host=aparat.com#
+vless://03d89129-c611-4beb-ae9b-1a41deaeed3e@fin-tun.a1mshop2.xyz:12000?security=none&type=tcp&headerType=http&path=/&host=aparat.com#
+vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@193.233.231.221:443/?type=grpc&encryption=none&serviceName=xyz&sni=eh.vk.ru&fp=chrome&security=reality&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=6ba85179e30d4fc2#
 vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@77.110.114.1:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=srv27.outlinekeys.com&security=reality&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ&sid=#
 vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@77.110.114.1:443?security=reality&encryption=none&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv27.outlinekeys.com#
 vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@83.147.255.191:448/?type=grpc&encryption=none&serviceName=xyz&sni=eh.vk.ru&fp=chrome&security=reality&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE&sid=#
@@ -81,12 +84,11 @@ vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:443?encryption=none&se
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:443?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=v0vhjyFJPMzOUrM5l1PgoQCr83mHd1rNAIK2hi8ID1s&sid=0e48&spx=%2FHA7iPX1cGjINB1S&type=xhttp&host=speedtest.com&path=%2Fbin&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#@meliproxyy
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:443?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=v0vhjyFJPMzOUrM5l1PgoQCr83mHd1rNAIK2hi8ID1s&sid=0e48&spx=/HA7iPX1cGjINB1S&type=xhttp&host=speedtest.com&path=/bin&mode=auto&extra={
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:443?encryption=none&type=xhttp&mode=auto&host=speedtest.com&path=%2Fbin&security=reality&fp=chrome&pbk=v0vhjyFJPMzOUrM5l1PgoQCr83mHd1rNAIK2hi8ID1s&sni=www.samsung.com&sid=0e3f3a&spx=%2F77KlQ2f0J1spIMw#
-vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:443?type=xhttp&security=reality&path=/bin&sni=www.samsung.com&fp=chrome&pbk=v0vhjyFJPMzOUrM5l1PgoQCr83mHd1rNAIK2hi8ID1s&sid=0e3f3a#
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80?encryption=none&host=speedtest.com&path=%2Fnotbin&security=none&type=ws#
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80?encryption=none&host=speedtest.com&path=%2Fnotbin&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%20114ms
-vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80?encryption=none&host=speedtest.com&path=%2Fnotbin&security=none&type=ws#🇫🇮
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80?encryption=none&host=speedtest.com&path=%2Fnotbin&security=none&type=ws#🇫🇮[openproxylist.com]
 vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80?encryption=none&host=speedtest.com&path=/notbin&security=none&type=ws#
+vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80?path=%2Fnotbin&security=&encryption=none&host=speedtest.com&type=ws#
 vless://042bcb1f-23dd-4ae9-9dc0-e301f89a5359@193.151.143.138:201?security=&encryption=none&headerType=none&type=tcp#
 vless://042c1f4d-1599-4816-b925-760cdabd5e9a@104.18.32.47:2096?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=snn.ir.kayhan.ir.entekhab.ir.yjc.ir.alalamtv.net.irandaily.ir.presstv.ir&allowInsecure=0&sni=magICAl-oRder668mk9ktrM.WindLEr.Co.Uk#
 vless://042c1f4d-1599-4816-b925-760cdabd5e9a@104.18.32.47:2096?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=grpc&security=tls&serviceName=snn.ir.kayhan.ir.entekhab.ir.yjc.ir.alalamtv.net.irandaily.ir.presstv.ir&sni=magICAl-oRder668mk9ktrM.WindLEr.Co.Uk&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#
@@ -249,5 +251,3 @@ vless://045acec8-7d9e-4793-9917-c909a4a70887@fan2d.portalcode.ir:11332?security=
 vless://045acec8-7d9e-4793-9917-c909a4a70887@ger1.portalcode.ir:11332?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=chrome&pbk=PwLfuXKEbt1nbT1xllVnqHiMLNaDL1lgzOCDkdGFQVw&sid=242b199360de3b55#
 vless://045acec8-7d9e-4793-9917-c909a4a70887@ger1.portalcode.ir:11332?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=chrome&pbk=PwLfuXKEbt1nbT1xllVnqHiMLNaDL1lgzOCDkdGFQVw&sid=242b199360de3b55&brand=@Arvand_soul#
 vless://045acec8-7d9e-4793-9917-c909a4a70887@ger1.portalcode.ir:11332?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=ios&pbk=PwLfuXKEbt1nbT1xllVnqHiMLNaDL1lgzOCDkdGFQVw&sid=242b199360de3b55#
-vless://045acec8-7d9e-4793-9917-c909a4a70887@ger1.portalcode.ir:11332?security=reality&encryption=none&pbk=PwLfuXKEbt1nbT1xllVnqHiMLNaDL1lgzOCDkdGFQVw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=630da3b65a5e03ec#
-vless://045acec8-7d9e-4793-9917-c909a4a70887@ger1.portalcode.ir:11332?security=reality&encryption=none&pbk=PwLfuXKEbt1nbT1xllVnqHiMLNaDL1lgzOCDkdGFQVw&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=630da3b65a5e03ec#
