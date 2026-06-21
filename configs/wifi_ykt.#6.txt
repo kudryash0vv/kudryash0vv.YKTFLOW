@@ -1,6 +1,7 @@
 # profile-title: kudryash0vv.WIFI.#6
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-21 / 23:40 (YKT)
+# Update: 2026-06-22 / 05:10 (YKT)
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?security=none&type=ws&path=/&host=max-gb1.global.ssl.fastly.net#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?type=tcp&encryption=none&security=none#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?type=ws&host=max-gb1.global.ssl.fastly.net&path=/#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80/?type=ws&encryption=none&flow=&host=max-gb1.global.ssl.fastly.net&path=%2F&packetEncoding=xudp#
@@ -145,6 +146,7 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080/?type=ws&encrypt
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?encryption=none&host=tr-cd.sublink-vip2.com&path=%2F&security=none&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?encryption=none&host=tr-cd.sublink-vip2.com&path=/&security=none&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?encryption=none&security=none&type=ws&host=tr-cd.sublink-vip2.com&path=/#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?encryption=none&type=ws&host=tr-cd.sublink-vip2.com&path=%2F&security=none#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#https://t.me/ShadowsocksM61
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#
@@ -185,7 +187,6 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F%3FTELEG
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F&security=&encryption=none&host=max-de1.global.ssl.fastly.net&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%40v2box
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#US🇺🇸
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=/&%3Bencryption=none&%3Bhost=max-gb1.global.ssl.fastly.net&%3Btype=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=/&%3Bsecurity=none&%3Bencryption=none&%3Bhost=max-gb1.global.ssl.fastly.net&%3Btype=ws#
@@ -250,4 +251,3 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?encryption=none&se
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?encryption=none&type=ws&path=%2F&host=max-de1.global.ssl.fastly.net#
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?encryption=none&type=ws&path=%2F&host=max-gb1.global.ssl.fastly.net#
