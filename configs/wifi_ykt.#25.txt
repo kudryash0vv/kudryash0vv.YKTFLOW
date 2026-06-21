@@ -1,7 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#25
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-21 / 14:23 (YKT)
-vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#Telegram
+# Update: 2026-06-21 / 19:08 (YKT)
 vless://05dde938-bb2d-41c3-b176-2a9d370489b4@151.101.109.223:443/?type=ws&encryption=none&host=pan1.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net#
 vless://05dde938-bb2d-41c3-b176-2a9d370489b4@151.101.109.223:443/?type=ws&encryption=none&host=pan1.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net#%E2%9C%85%20%284%29
 vless://05dde938-bb2d-41c3-b176-2a9d370489b4@151.101.109.223:443?encryption=none&flow=&host=pan1.global.ssl.fastly.net&path=%2F&security=tls&sni=default.ssl.fastly.net&type=ws#
@@ -172,6 +171,7 @@ vless://0629a712-9893-4088-a810-d16c6e32af75@84.201.156.242:443?flow=xtls-rprx-v
 vless://0629a712-9893-4088-a810-d16c6e32af75@84.201.156.242:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://0629a712-9893-4088-a810-d16c6e32af75@84.201.156.242:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=sso.passport.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://0629a712-9893-4088-a810-d16c6e32af75@84.201.156.242:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
+vless://0629a712-9893-4088-a810-d16c6e32af75@84.201.156.242:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#
 vless://0629d1df-a312-4370-bd44-5fa9563d900d@193.176.240.102:2052?security=none&type=ws&path=/#
 vless://0629d1df-a312-4370-bd44-5fa9563d900d@ursa.pardazwe.ir:2052?path=/&security=none&encryption=none&type=ws#
 vless://062b34e8-7156-41f7-a5b7-9387f80ee05b@panel.dayhostpro.com:20392?security=reality&encryption=none&pbk=RX19l5efFYFcVPaYhOnB8jlhfZ1SJNGZzfohQFjWwhE&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.reiss.com&sid=cd00e976#
@@ -223,12 +223,16 @@ vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@euro.connectingissues.ir:80?encrypt
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@euro.connectingissues.ir:80?encryption=none&extra={
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@euro.connectingissues.ir:80?encryption=none&security=none&type=xhttp&host=shirin-kose.de&path=%2F%3Fed%3D2048&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@euro.connectingissues.ir:80?encryption=none&security=none&type=xhttp&host=shirin-kose.de&path=/?ed=2048&mode=auto&extra={
+vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@euro.connectingissues.ir:80?host=shirin-kose.de&path=/?ed=2048&type=http#
+vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@euro.connectingissues.ir:80?host=shirin-kose.de&path=/?ed=2048&type=http#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:77ms
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@euro.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&extra={
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@global.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@global.connectingissues.ir:80?encryption=none&extra={
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@global.connectingissues.ir:80?encryption=none&security=none&type=xhttp&host=shirin-kose.de&path=%2F%3Fed%3D2048&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@global.connectingissues.ir:80?encryption=none&security=none&type=xhttp&host=shirin-kose.de&path=/?ed=2048&mode=auto&extra={
+vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@global.connectingissues.ir:80?host=shirin-kose.de&path=/?ed=2048&type=http#
+vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@global.connectingissues.ir:80?host=shirin-kose.de&path=/?ed=2048&type=http#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:82ms
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#
 vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={
@@ -247,7 +251,3 @@ vless://0650e3f2-ab16-44af-bc91-e8d30cda2d70@mci.connectingissues.ir:80?type=tcp
 vless://065268d3-c1a8-1231-8d5a-9ad95e9ded95@varzesh3.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn-reb-aaa.fasrgobar.ir#
 vless://065268d3-c1a8-1231-8d5a-9ad95e9ded95@varzesh3.com:443?security=tls&type=ws&headerType=none&encryption=none&path=/&host=&sni=cdn-reb-aaa.fasrgobar.ir&fp=chrome&alpn=h2,http/1.1#
 vless://06531686-bc44-49f6-9b6b-ff99c280ed65@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#
-vless://06533330-cec3-43ad-92b8-9347b0cafb11@95.38.165.201:80?security=reality&encryption=none&pbk=tiH1dLaidchanLZGsjGGbTd_cNdJoxYm1OTPZRI9Fn4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.filimo.com&sid=c5f755183bfc7420#
-vless://06533330-cec3-43ad-92b8-9347b0cafb11@95.38.165.201:80?security=reality&encryption=none&pbk=tiH1dLaidchanLZGsjGGbTd_cNdJoxYm1OTPZRI9Fn4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.filimo.com&sid=c5f755183bfc7420#
-vless://06533330-cec3-43ad-92b8-9347b0cafb11@95.38.165.201:80?security=reality&sni=www.filimo.com&type=tcp&fp=chrome&pbk=tiH1dLaidchanLZGsjGGbTd_cNdJoxYm1OTPZRI9Fn4&sid=c5f755183bfc7420#
-vless://06552628-3c4b-4c3b-a35a-dd5f0976e294@185.24.253.107:443?security=tls&type=xhttp&headerType=&path=&host=cdn.gapfilm.org&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=cdn.gapfilm.org&fp=chrome&pcs=610792abc1380f3fe53381ed3ba0c1a6a71a893755106d729b9d80e5930ae8be&allowInsecure=1#
