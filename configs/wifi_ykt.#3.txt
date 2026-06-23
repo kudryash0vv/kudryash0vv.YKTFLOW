@@ -1,9 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#3
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-23 / 13:38 (YKT)
-vless:///m1AXzkg4MuFf59igv2/aXVaAjTFsyfUGDVbUnFDVkabJerdwNNZHzzq3Xw0asln3V6AqAlslPJlxLzqNqztwI12EFzf5bOqp8GIEpocEvLcOZrpOcW3rXHnqXKVNzDpVOfJBPIjoP2lDXAAb8LM9OQJa9NQoXnm2uOr6N8Ekqlg1uRwv38NfYCjzEF1BG59fNFr+RxFIOjUsjgoYeKTiXVssz5SkhWDGbBNoFi/KlKIb8K1ZiaK+3/PHizvPqCAar-#
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=&encryption=none&headerType=&type=tcp#
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:443?security=reality&encryption=none&pbk=BvSCANUTu9IW-7vZrx-ZmcaMgU51bCxsuC2nEtCW5yc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=domain.com#
+# Update: 2026-06-23 / 19:08 (YKT)
 vless://00000000-0000-0000-0000-000000000000@104.17.3.81:80?&sni=r3xxe.eu.cc&type=ws&headerType=none&host=r3xxe.eu.cc&path=%2Fid-pusat#
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87
@@ -241,7 +238,7 @@ vless://00000000-0000-4000-8000-000000000000@213.179.69.150:35130?encryption=non
 vless://00000000-0000-4000-8000-000000000000@213.179.69.150:35130?mode=multi&security=tls&encryption=none&type=ws&flow=&fp=chrome&sni=uq2ox3bplnlgtr.myto.ip-ddns.com&path=/@Marisa_kristi&host=uq2ox3bplnlgtr.myto.ip-ddns.com#
 vless://00000000-0000-4000-8000-000000000000@213.179.69.150:35130?mode=multi&security=tls&encryption=none&type=ws&flow=&fp=chrome&sni=uq2ox3bplnlgtr.myto.ip-ddns.com&path=/@VPNine1&host=uq2ox3bplnlgtr.myto.ip-ddns.com#
 vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?security=tls&%3Bfp=chrome&%3Bsni=sub.mot.ip-ddns.com&%3Btype=ws&%3BheaderType=none&%3Bhost=sub.mot.ip-ddns.com&%3Bpath=/#
-vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?security=tls&amp%3Bfp=chrome&amp%3Bsni=sub.mot.ip-ddns.com&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bhost=sub.mot.ip-ddns.com&amp%3Bpath=/#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%235
+vless://00000000-0000-4000-8000-000000000000@37.114.50.157:4002?security=tls&amp%3Bfp=chrome&amp%3Bsni=sub.mot.ip-ddns.com&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bhost=sub.mot.ip-ddns.com&amp%3Bpath=/#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40mpproxy%20%233
 vless://00000000-0000-4000-8000-000000000000@4.216.102.153:38765?encryption=none&security=tls&sni=162q5rc5uyvd.rh8xe8d22f0k6t6ok0y1oi6qm29fr77ht70ntdbyx4jmbzn98.workers.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=162q5rc5uyvd.rh8xe8d22f0k6t6ok0y1oi6qm29fr77ht70ntdbyx4jmbzn98.workers.dev&path=%2F%40Marisa_kristi#
 vless://00000000-0000-4000-8000-000000000000@43.165.134.106:42841?allowInsecure=1&sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chrome&security=tls#
 vless://00000000-0000-4000-8000-000000000000@43.165.189.62:55309?encryption=none&type=ws&path=/@Marisa_kristi&host=6-4duf7t7tz2hxw9v.g43lodfymjzfsy1qm9w4pgjyekeipu8ifuld8knorbjz3vy9.workers.dev&security=tls&sni=6-4duf7t7tz2hxw9v.g43lodfymjzfsy1qm9w4pgjyekeipu8ifuld8knorbjz3vy9.workers.dev&fp=chrome#
@@ -251,3 +248,6 @@ vless://00000000-0000-4000-8000-000000000000@45.12.89.124:51055?encryption=none&
 vless://00000000-0000-4000-8000-000000000000@45.12.89.124:51055?encryption=none&type=ws&path=/@Marisa_kristi&host=nn9jdg-k7yewrrk.acg.xx.kg&security=tls&sni=nn9jdg-k7yewrrk.acg.xx.kg&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@45.12.89.124:51055?encryption=none&type=ws&path=/@Marisa_kristi&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@45.12.89.124:51055?encryption=none&type=ws&path=/@VPNine1&host=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&security=tls&sni=vfn-6o8h-kht7rpd.zipgd3vx91o.ddns-ip.net&fp=chrome#
+vless://00000000-0000-4000-8000-000000000000@45.12.89.124:51055?sni=ufo4dxyv6255yk8eh1ejyxgxc.worker.ddns-ip.net&type=ws&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@45.140.167.190:59801?allowInsecure=0&sni=ooa858iqkhza12.mesa.ip-ddns.com&type=ws&host=ooa858iqkhza12.mesa.ip-ddns.com&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@45.140.167.190:59801?sni=ooa858iqkhza12.mesa.ip-ddns.com&type=ws&host=ooa858iqkhza12.mesa.ip-ddns.com&path=/@Marisa_kristifp=chromesecurity=tls#
