@@ -1,12 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#431
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-24 / 05:30 (YKT)
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.197:2083?security=tls&sni=BPB-wOrKeR-pAnEl-Brh.PAGEs.dEv&type=ws&host=bpb-worker-panel-brh.pages.dev&path=%2F2HwPUy2BvnIRXUYb%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.197:2087?security=tls&sni=BPB-WOrker-paNEL-BRh.PagES.deV&type=ws&host=bpb-worker-panel-brh.pages.dev&path=%2FhpgIcareFuMCHS1a%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.197:2096?security=tls&sni=BPb-worker-paNeL-brh.pAgES.dev&type=ws&host=bpb-worker-panel-brh.pages.dev&path=%2FGSIEb4Zs4mbCWhqi%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.197:443?security=tls&sni=bpb-WORKer-paNEL-BrH.PagEs.dEv&type=ws&host=bpb-worker-panel-brh.pages.dev&path=%2FovUeFasYrTqkZqpj%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.198:2096?security=tls&sni=joinV2NGFasT-7Nr.pAgeS.DeV&type=ws&host=jOINV2ngfast-7nr.PAges.Dev&path=%2FmOD571okkDg4TqCz%3Fed%3D2560#
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.23:443?security=tls&%3Bsni=V2ngfASt-468.pAGes.Dev&%3Btype=ws&%3Bhost=v2NGfasT-468.pagES.dEV&%3Bpath=/8tRqgi71JomOLUyu%3Fed%3D2560#
+# Update: 2026-06-24 / 13:45 (YKT)
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.23:443?security=tls&sni=V2ngfASt-468.pAGes.Dev&type=ws&host=v2NGfasT-468.pagES.dEV&path=%2F8tRqgi71JomOLUyu%3Fed%3D2560#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.23:443?security=tls&sni=V2ngfASt-468.pAGes.Dev&type=ws&host=v2NGfasT-468.pagES.dEV&path=/8tRqgi71JomOLUyu?ed=2560#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.26:443?security=tls&sni=8c513cF9.GaZAALAm-PaneL.Pages.DEV&type=ws&host=8c513cF9.GazaaLam-panEL.PaGeS.Dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#
@@ -251,3 +245,9 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.44:443?security=tls&sni=m
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.50:443?security=tls&sni=behdasht.hrtc.ir&encryption=none@ShadowsocksM75&type=ws&host=behdasht.hrtc.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.58:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM33&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.60:443?security=tls&sni=mefa.ir&encryption=none@ShadowsocksM8&type=ws&host=mefa.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.68:443?security=tls&sni=mefa.ir&encryption=none@ShadowsocksM15&type=ws&host=mefa.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.74:443?security=tls&sni=behdasht.hrtc.ir&encryption=none@ShadowsocksM86&type=ws&host=behdasht.hrtc.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.77:443?security=tls&sni=behdasht.hrtc.ir&encryption=none@ShadowsocksM67&type=ws&host=behdasht.hrtc.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.78:443?security=tls&sni=behdasht.hrtc.ir&encryption=none@ShadowsocksM79&type=ws&host=behdasht.hrtc.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.79:443/?type=ws&encryption=none&host=mefa.ir&path=%2FH%3Fed%3D2560&security=tls&sni=mefa.ir&alpn=h2%2Chttp%2F1.1&fp=randomized#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.79:443?allowInsecure=1&sni=mefa.ir&type=ws&host=mefa.ir&path=/H?ed=2560fp=chrome&security=tls#
