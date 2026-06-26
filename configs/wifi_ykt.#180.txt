@@ -1,6 +1,10 @@
 # profile-title: kudryash0vv.WIFI.#180
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-26 / 18:56 (YKT)
+# Update: 2026-06-27 / 00:08 (YKT)
+vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?mode=auto&path=%2Ftake&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#
+vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?mode=auto&path=%2Ftake&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#
+vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?mode=auto&path=/take&security=tls&alpn=h2,http/1.1&encryption=none&extra={
+vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?mode=auto&path=/take&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#
 vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?sni=s3.alivpn.qzz.io&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#
 vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.98.76:8443?encryption=none&security=tls&sni=s3.alivpn.qzz.io&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=s3.alivpn.qzz.io&path=/take&mode=auto&extra={
 vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.98.76:8443?mode=auto&path=%2Ftake&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#
@@ -90,7 +94,7 @@ vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80?encryption=none&t
 vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#
 vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80?path=%2F&security=none&encryption=none&type=ws#
 vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
-vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80?path=%2F&security=none&encryption=none&type=ws#🌐سرور
+vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80?path=%2F&security=none&encryption=none&type=ws#RU🇷🇺
 vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80?path=/&security=none&encryption=none&type=ws#
 vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80?path=/&security=none&encryption=none&type=ws#@ReleaseNet
 vless://3693ece7-c0d1-4c5c-900c-11866029d183@185.147.27.105:80?path=/&security=none&encryption=none&type=ws#kurdconfig
@@ -152,7 +156,6 @@ vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers
 vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers.dev:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=002.inc-electrocell-001-002.workers.dev&path=%2FeyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&type=ws#
 vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers.dev:443?allowInsecure=1&alpn=http/1.1&encryption=none&host=002.inc-electrocell-001-002.workers.dev&path=/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&type=ws#
 vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers.dev:443?encryption=none&security=tls&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=002.inc-electrocell-001-002.workers.dev&path=%2FeyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#
-vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers.dev:443?encryption=none&security=tls&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=002.inc-electrocell-001-002.workers.dev&path=%2FeyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers.dev:443?path=/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=002.inc-electrocell-001-002.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV#
 vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers.dev:443?security=tls&encryption=none&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&alpn=http%2f1.1&type=ws&host=002.inc-electrocell-001-002.workers.dev&path=%2feyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3d#
 vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers.dev:443?security=tls&encryption=none&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&alpn=http/1.1&type=ws&host=002.inc-electrocell-001-002.workers.dev&path=/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=#
@@ -248,6 +251,3 @@ vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@151.236.29.97:443?host=linek.perry.
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@156.38.157.171:2053?host=linek.perry.us.kg&path=%2Fout&security=tls&sni=linek.perry.us.kg&type=ws#
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@156.38.157.171:2053?host=linek.perry.us.kg&path=/out&security=tls&sni=linek.perry.us.kg&type=ws#
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@156.38.157.171:8443?fp=chrome&host=linek.perry.us.kg&path=%2Fpdf%2Fregister%2Fteacher&security=tls&sni=linek.perry.us.kg&type=ws#
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@156.38.157.171:8443?fp=chrome&host=linek.perry.us.kg&path=/pdf/register/teacher&security=tls&sni=linek.perry.us.kg&type=ws#
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@176.124.220.32:443?fp=chrome&host=linek.perry.us.kg&path=%2Facg%2Fclass&security=tls&sni=linek.perry.us.kg&type=ws#
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@178.255.222.148:443?encryption=none&security=tls&sni=linek.perry.us.kg&insecure=0&allowInsecure=0&type=ws&host=linek.perry.us.kg&path=%2Fmobile%2Fabout%2Ffriends#
