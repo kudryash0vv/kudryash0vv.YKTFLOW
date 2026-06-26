@@ -1,14 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#32
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-27 / 00:08 (YKT)
-vless://05a458e1-bc26-476a-dcf1-156a17a6a27b@uae.speedvip.fun:51436?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#
-vless://05a5a797-682e-4f47-8d8b-7b8f00e102fd@213.165.41.156:443?encryption=mlkem768x25519plus.native.0rtt.03xvih101nr0rZpVBjxA51lgq4GSJsfJMMmtH3eLQmQ&type=ws&security=tls&path=%2F&host=213.165.41.156&sni=213.165.41.156&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#
-vless://05a5a797-682e-4f47-8d8b-7b8f00e102fd@213.165.41.156:443?encryption=mlkem768x25519plus.native.0rtt.03xvih101nr0rZpVBjxA51lgq4GSJsfJMMmtH3eLQmQ&type=ws&security=tls&path=/&host=213.165.41.156&sni=213.165.41.156&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#
-vless://05a8561f-54f5-4e62-822a-02aca0831666@190.93.247.155:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@HpV2Ray_official,@HpV2Ray_official,@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official،@HpV2Ray_official&sni=Punisher-V2rayCnc.radiotehran.org#
-vless://05a8561f-54f5-4e62-822a-02aca0831666@190.93.247.155:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serv…#
-vless://05aa69ae-02a2-44cd-b397-09fc6be883d3@158.160.203.114:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=2SnBxBmd9ZArafAYsCyzzz6gVdRoDe9uiVAwTG4qyTo&sid=27e53bbcab7593d7&spx=/#
-vless://05aa69ae-02a2-44cd-b397-09fc6be883d3@178.154.233.157:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=iCcg60DfXrWy3R5wOAbIhNZNnBqwgsCq9ZLUYh7lsB8&sid=27e53bbcab7593d7&spx=/#
-vless://05aa69ae-02a2-44cd-b397-09fc6be883d3@185.229.9.77:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=PtVVwDjgg1QGVPG6Frbwn96PyzrPin7izn8OKcclAmw&sid=27e53bbcab7593d7&spx=/#
+# Update: 2026-06-27 / 05:16 (YKT)
 vless://05aa69ae-02a2-44cd-b397-09fc6be883d3@51.250.37.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=I_mMGeQ8r529dq2LjFUzv0nb74zuux2zGWT2RfKuE14&sid=27e53bbcab7593d7&spx=/#
 vless://05aa69ae-02a2-44cd-b397-09fc6be883d3@51.250.37.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=vyzsQLMRAuySJxAg0sNHXzgJuT8PGRakCay3rzUbT3k&sid=27e53bbcab7593d7&spx=/#
 vless://05aa69ae-02a2-44cd-b397-09fc6be883d3@84.201.129.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=I_mMGeQ8r529dq2LjFUzv0nb74zuux2zGWT2RfKuE14&sid=27e53bbcab7593d7&spx=/#
@@ -16,7 +8,6 @@ vless://05aa69ae-02a2-44cd-b397-09fc6be883d3@84.201.129.65:443?flow=xtls-rprx-vi
 vless://05ac3cee-cc13-4cde-bfbe-928974baa2e3@212.113.119.31:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=nWGZxelG2CsJkJlZ2sJXxiLBQODS9xAetwdA4q0BwDI&sid=#
 vless://05ac3cee-cc13-4cde-bfbe-928974baa2e3@85.192.40.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=nWGZxelG2CsJkJlZ2sJXxiLBQODS9xAetwdA4q0BwDI&sid=#
 vless://05aeebd2-6031-4729-81e0-ebdf20c75f56@57.131.18.123:13355?encryption=none&security=none&type=tcp#
-vless://05aeebd2-6031-4729-81e0-ebdf20c75f56@57.131.18.123:13355?encryption=none&security=none&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20❔%20XX%20261ms
 vless://05aeebd2-6031-4729-81e0-ebdf20c75f56@57.131.18.123:13355?security=none&encryption=none&headerType=none&type=tcp#
 vless://05b1577f-7d86-42e9-b6e4-162d304a0e32@snapp.ir:2052/?type=ws&encryption=none&path=%2F&host=de31.fastplus11.ir&security=none#
 vless://05b1577f-7d86-42e9-b6e4-162d304a0e32@snapp.ir:2052?security=none&allowInsecure=0&encryption=none&type=ws&host=de31.fastplus11.ir&path=/#
@@ -41,6 +32,7 @@ vless://05b94a99-3f69-44a5-a216-4f422dd6adf9@158.160.59.97:443?flow=xtls-rprx-vi
 vless://05b94a99-3f69-44a5-a216-4f422dd6adf9@185.22.235.60:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://05b94a99-3f69-44a5-a216-4f422dd6adf9@185.22.235.60:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://05b94a99-3f69-44a5-a216-4f422dd6adf9@185.22.235.60:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
+vless://05b94a99-3f69-44a5-a216-4f422dd6adf9@185.22.235.60:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=qq&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#
 vless://05b94a99-3f69-44a5-a216-4f422dd6adf9@51.250.66.16:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://05b94a99-3f69-44a5-a216-4f422dd6adf9@79.174.90.31:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://05b94a99-3f69-44a5-a216-4f422dd6adf9@84.201.128.39:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
@@ -162,6 +154,7 @@ vless://05f69253-aedf-4b0e-9567-f1b9eed38726@manager.xyzxz.qzz.io:443?encryption
 vless://05f69253-aedf-4b0e-9567-f1b9eed38726@manager.xyzxz.qzz.io:443?encryption=none&security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=grpc&authority=manager.xyzxz.qzz.io&serviceName=/45447/mehdi&mode=gun#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://05f69253-aedf-4b0e-9567-f1b9eed38726@manager.xyzxz.qzz.io:443?encryption=none&type=grpc&serviceName=%2F45447%2Fmehdi&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=manager.xyzxz.qzz.io#
 vless://05f69253-aedf-4b0e-9567-f1b9eed38726@manager.xyzxz.qzz.io:443?encryption=none&type=grpc&serviceName=%2F45447%2Fmehdi&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=manager.xyzxz.qzz.io#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://05f69253-aedf-4b0e-9567-f1b9eed38726@news.xbxcdv.qzz.io:443?encryption=none&security=tls&sni=news.xbxcdv.qzz.io&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=grpc&authority=news.xbxcdv.qzz.io&serviceName=%2F45447%2Fmehdi&mode=gun#
 vless://05f93bd7-78ab-452b-98ed-079191c2ff09@158.160.210.43:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-3-2.nodes.ac&pbk=uk92pbvDM3dRNZqaTHUE-x06fZxubSyUA997NkB5tyk&sid=5a517ed4bfcd4a54#
 vless://05f93bd7-78ab-452b-98ed-079191c2ff09@158.160.233.50:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-3-3.nodes.ac&pbk=m5iF8IAFKw52ODQqdBE4fycHj5bAm6zTmnG3P7Mn2G8&sid=d8d3d1d87555e842#
 vless://05f93bd7-78ab-452b-98ed-079191c2ff09@158.160.240.83:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=wl-3-4.nodes.ac&pbk=fHypiMYrxed2PhUC0dZ91ioSv8Cd0dqijKQj16Jnb1M&sid=479898e66f5e7beb#
@@ -251,3 +244,10 @@ vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-
 vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=%2Fdl&security=tls&encryption=none&extra=&insecure=0&host=sg3.26cloud.ir&fp=random&type=xhttp&allowInsecure=0&sni=sg3.26cloud.ir#
 vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=/dl&security=tls&encryption=none&extra=&insecure=0&host=sg3.26cloud.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=sg3.26cloud.ir#
 vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=/dl?id=44505&security=tls&encryption=none&extra=&insecure=0&host=us3.26cloud.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=us3.26cloud.ir#
+vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=/dl?id=5556&security=tls&encryption=none&extra=&insecure=0&host=ca4.26cloud.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=ca4.26cloud.ir#
+vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=/dl?id=5556&security=tls&encryption=none&extra=&insecure=0&host=ca4.26cloud.ir&fp=random&type=xhttp&allowInsecure=0&sni=ca4.26cloud.ir#
+vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=/dl?main=55223&security=tls&alpn=h3,h2&encryption=none&extra=&insecure=0&host=in2.26cloud.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=in2.26cloud.ir#
+vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=/dl?main=55223&security=tls&alpn=h3,h2&encryption=none&extra=&insecure=0&host=in2.26cloud.ir&fp=random&type=xhttp&allowInsecure=0&sni=in2.26cloud.ir#
+vless://0608aa4a-2a93-4464-9716-86b997d3a499@151.101.2.216:80?security=none&type=ws&host=speedtestv2.com&path=/@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY%3Fed%3D2048#
+vless://0608aa4a-2a93-4464-9716-86b997d3a499@151.101.2.216:80?type=ws&path=/@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY-@PQV2RAY%3Fed%3D2048&host=speedtestv2.com&security=none#
+vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#
