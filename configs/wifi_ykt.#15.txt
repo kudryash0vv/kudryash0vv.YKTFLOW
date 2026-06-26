@@ -1,6 +1,8 @@
 # profile-title: kudryash0vv.WIFI.#15
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-26 / 13:48 (YKT)
+# Update: 2026-06-26 / 18:56 (YKT)
+vless://00ebd128-5720-43ab-a048-71333e794a71@87.228.101.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=5post-gate.x5.ru&pbk=kDGigLxn2RUJ8HqhPVUb8pRAcjn5zMhR0-QrORmbIDk&sid=be6abde66d48cd13&spx=/#
+vless://00ebd128-5720-43ab-a048-71333e794a71@87.228.101.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=kDGigLxn2RUJ8HqhPVUb8pRAcjn5zMhR0-QrORmbIDk&sid=be6abde66d48cd13&spx=%2F#
 vless://00ebd128-5720-43ab-a048-71333e794a71@87.228.101.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=kDGigLxn2RUJ8HqhPVUb8pRAcjn5zMhR0-QrORmbIDk&sid=be6abde66d48cd13&spx=/#
 vless://00ebd128-5720-43ab-a048-71333e794a71@87.228.101.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api.yandex.ru&pbk=HhzAvJmqEjt_CeifAJmDfg7DgeD2t2cvzWqvyyPSVz0&sid=664b8a28e735af5f&spx=/#
 vless://00ebd128-5720-43ab-a048-71333e794a71@87.228.101.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=m.vk.com&pbk=HhzAvJmqEjt_CeifAJmDfg7DgeD2t2cvzWqvyyPSVz0&sid=664b8a28e735af5f&spx=/#
@@ -249,5 +251,3 @@ vless://013704b2-3029-475b-bc01-9de077ac427a@188.40.237.132:8443?mode=auto&path=
 vless://013704b2-3029-475b-bc01-9de077ac427a@188.40.237.132:8443?mode=auto&path=/cdn-cgi&security=reality&encryption=none&pbk=nW_BXjdhh-WWF94rW5-FmfwJJ7zUKSu3naCPVuC_AQE&fp=firefox&spx=/favicon.ico&type=xhttp&sni=www.yahoo.com&sid=0ef0909acd#
 vless://013704b2-3029-475b-bc01-9de077ac427a@188.40.237.132:8443?type=xhttp&security=reality&path=/cdn-cgi&sni=www.yahoo.com&fp=firefox&pbk=nW_BXjdhh-WWF94rW5-FmfwJJ7zUKSu3naCPVuC_AQE&sid=0ef0909acd#
 vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.16.150.228:2096?encryption=none&host=cfoo-n0d.pages.dev&path=%2Fproxyip%3D159.60.146.82%2C159.60.146.81&security=tls&sni=cfoo-n0d.pages.dev&type=ws#
-vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.16.150.228:2096?encryption=none&host=cfoo-n0d.pages.dev&path=/proxyip=159.60.146.82,159.60.146.81&security=tls&sni=cfoo-n0d.pages.dev&type=ws#
-vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.16.150.228:2096?path=%2F&security=tls&encryption=none&insecure=0&host=cfoo-n0d.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfoo-n0d.pages.dev#
