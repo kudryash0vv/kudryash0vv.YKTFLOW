@@ -1,18 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#462
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-27 / 13:31 (YKT)
-vless://89a3ba3e-10a8-4e75-be4d-8a584e2e7181@v2ray-fark2.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@v2ray_fark-@v2ray_fark&sni=qq.tm-foxnt-joinbede.fun#
-vless://89a6b4dd-1d99-4fbb-b378-2d8fe12afa97@158.160.51.70:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#
-vless://89a6b4dd-1d99-4fbb-b378-2d8fe12afa97@51.250.102.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#
-vless://89a6b4dd-1d99-4fbb-b378-2d8fe12afa97@51.250.24.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#
-vless://89aa057d-5459-4ea7-9ee1-654543e6f5ba@217.16.27.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5#
-vless://89aa057d-5459-4ea7-9ee1-654543e6f5ba@217.16.27.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5#
-vless://89aa057d-5459-4ea7-9ee1-654543e6f5ba@217.16.27.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5#
-vless://89ae54a0-201d-4494-aa11-2993a07da4e6@5.75.207.247:44004?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#
-vless://89ae54a0-201d-4494-aa11-2993a07da4e6@5.75.207.247:44004?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=77b0689f#
-vless://89ae54a0-201d-4494-aa11-2993a07da4e6@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#
-vless://89ae54a0-201d-4494-aa11-2993a07da4e6@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=/&flow=xtls-rprx-vision#
-vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=&encryption=none&headerType=none&type=tcp#
+# Update: 2026-06-27 / 18:10 (YKT)
 vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&encryption=none&headerType=none&type=tcp#
 vless://89b15b70-70b8-4555-b3e6-5eb52e750eb2@f1.webdw.online:443?mode=gun&security=reality&encryption=none&pbk=aBBb86CtF_njXBhO3nq4I2CsEuH5NIz9WI2wH7qhu3k&fp=chrome&spx=%2F&type=grpc&serviceName=wallex.ir&sni=zula.ir&sid=15cbffa6#
 vless://89b2805a-19b0-4129-a827-c12ca1ef9772@188.114.96.3:8443?path=%2FeyJqdW5rIjoiZ2JITGlpRzUyOWFFN0d6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=v2ngnet-bhui.moharam1405.workers.dev&fp=chrome&type=ws&sni=V2nGnet-bHuI.MohAraM1405.WORKers.dev#
@@ -251,3 +239,15 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.27.7.224:2053?Telegram=@Gozarga
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.27.7.224:2053?path=%2Frjg4TCTS0bycCI9t%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=MaHdIsErver-8KQ.pagES.dEV&fp=randomized&type=ws&sni=MAHDiSERver-8KQ.PagEs.DeV#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.27.7.224:2053?path=/rjg4TCTS0bycCI9t?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=MaHdIsErver-8KQ.pagES.dEV&fp=chrome&type=ws&sni=MAHDiSERver-8KQ.PagEs.DeV#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.27.7.224:2053?security=tls&sni=MAHDiSERver-8KQ.PagEs.DeV&type=ws&host=MaHdIsErver-8KQ.pagES.dEV&path=%2Frjg4TCTS0bycCI9t%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.27.7.224:2053?security=tls&sni=MAHDiSERver-8KQ.PagEs.DeV&type=ws&host=MaHdIsErver-8KQ.pagES.dEV&path=/rjg4TCTS0bycCI9t?ed=2560&fp=chrome&alpn=h2,http/1.1#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.31.16.113:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mRaRSHa-ShAItaanm0Th3Rs-iNsTinCT-chAll3NgErS.pagEs.dEV&fp=randomized&type=ws&sni=mRARsHa-sHAItAANm0Th3rS-iNStincT-ChaLl3nGeRs.PAGES.DEV#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.31.16.113:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mRaRSHa-ShAItaanm0Th3Rs-iNsTinCT-chAll3NgErS.pagEs.dEV&fp=chrome&type=ws&sni=mRARsHa-sHAItAANm0Th3rS-iNStincT-ChaLl3nGeRs.PAGES.DEV#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.31.16.113:443?path=/Telegram@VPNine1/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mRaRSHa-ShAItaanm0Th3Rs-iNsTinCT-chAll3NgErS.pagEs.dEV&fp=chrome&type=ws&sni=mRARsHa-sHAItAANm0Th3rS-iNStincT-ChaLl3nGeRs.PAGES.DEV#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@108.162.193.212:2053?security=tls&sni=MaHdiSErvEr-cby.PageS.DeV&type=ws&host=mahDIServeR-CBy.pageS.DeV&path=%2Faq5aNJRwUWdypsvQ%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@108.162.193.212:443?security=tls&sni=mAhdiseRver-7Q5.pAgES.Dev&type=ws&host=MahDisErvER-7q5.pages.deV&path=%2Fprvfxe0d5JC9gUNn%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@108.162.194.178:80/?type=ws&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@129.213.136.180:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=%3Fed%3D2744&security=tls&sni=pvg.aghabeiki.homes#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@130.250.137.94:443/?type=ws&encryption=none&path=%2F%3Fproxyip&security=tls&sni=vz.ylks.xyz#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.226.7.222:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@138.2.154.177:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=%3Fed%3D2744&security=tls&sni=pvg.aghabeiki.homes#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.238.214.247:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=%3Fed%3D2744&security=tls&sni=pvg.aghabeiki.homes#
