@@ -1,28 +1,12 @@
 # profile-title: kudryash0vv.WIFI.#23
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-27 / 23:11 (YKT)
-vless://04006079-93a0-472e-b20f-40a099e94359@5.161.130.135:56875?security=&encryption=none&headerType=&type=tcp#
-vless://04032c7a-f743-4002-a79d-0090c35a8d5d@87.120.106.53:443?encryption=none&fp=chrome&pbk=yWghK99aOrdGIQ8O2SLm_9d3gFtLiiW8gBG6lmdokz0&security=reality&sid=59f7c76c57875c&sni=Www.turkiye.gov.tr&spx=%2FJVYTor2GSbj8lm7&type=tcp#
-vless://04032c7a-f743-4002-a79d-0090c35a8d5d@87.120.106.53:443?encryption=none&fp=chrome&pbk=yWghK99aOrdGIQ8O2SLm_9d3gFtLiiW8gBG6lmdokz0&security=reality&sid=59f7c76c57875c&sni=Www.turkiye.gov.tr&spx=/JVYTor2GSbj8lm7&type=tcp#
-vless://04072283-f96c-480c-9f61-21a03bfdef17@snapp.ir:2082?encryption=none&host=sub1.pavps.ir&path=/e&security=none&type=ws#
-vless://04095541-db0f-4478-8f3c-9c2fa52fcaf4@aparat.amojimi.ir:443?mode=auto&path=/zula-2096&security=tls&alpn=h2,http/1.1&encryption=none&extra={
-vless://040c7fc7-65aa-440e-864e-8c89b91bf63c@91.107.141.204:5030?mode=gun&security=reality&encryption=none&authority=&pbk=u-PCnNfSY3DvfouSNpGvowXrB3bkaC8gZkQsryP-3Vs&fp=chrome&type=grpc&serviceName=SARDAR&sni=MAp.GooGlE.COM&sid=0db32cc0cc8078a9#
-vless://040c7fc7-65aa-440e-864e-8c89b91bf63c@91.107.141.204:5030?security=reality&sni=MAp.GooGlE.COM&type=grpc&serviceName=SARDAR&fp=chrome&pbk=u-PCnNfSY3DvfouSNpGvowXrB3bkaC8gZkQsryP-3Vs&sid=0db32cc0cc8078a9#
-vless://040c7fc7-65aa-440e-864e-8c89b91bf63c@91.107.141.204:5030?security=reality&sni=MAp.GooGlE.COM&type=grpc&serviceName=SARDAR&fp=firefox&pbk=u-PCnNfSY3DvfouSNpGvowXrB3bkaC8gZkQsryP-3Vs&sid=0db32cc0cc8078a9#
-vless://0412ef77-c9f3-4b2e-a128-9bcd67e127c9@185.242.19.250:443?encryption=none&type=xhttp&security=tls&host=top2197697635.mwscdn.ru&path=/xhttppath&mode=auto&extra=null&fp=chrome&sni=top2197697635.mwscdn.ru&alpn=h2,http/1.1#
-vless://0413702d-739b-4c8a-80b1-8296ba54cfe6@gb1.vnet500.xyz:32030?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#
-vless://0416d09f-a24f-46a2-a913-b0f2be57c009@151.101.33.212:443/?type=ws&encryption=none&host=aklisvpn.com&path=%2F%40aklisvpn%40aklisvpn%40aklisvpn&security=tls&sni=map.google.com&fp=chrome#
-vless://0417be58-2ea8-49de-8083-9eff9b0137e5@v2ray.codefyinc.com:443/?type=ws&encryption=none&flow=&host=v2ray.codefyinc.com&path=%2Fvlessws&security=tls&sni=v2ray.codefyinc.com#
-vless://0417be58-2ea8-49de-8083-9eff9b0137e5@v2ray.codefyinc.com:443?path=%2Fvlessws&security=tls&encryption=none&host=v2ray.codefyinc.com&type=ws&sni=v2ray.codefyinc.com#
+# Update: 2026-06-28 / 04:51 (YKT)
 vless://0417be58-2ea8-49de-8083-9eff9b0137e5@v2ray.codefyinc.com:443?path=/vlessws&security=tls&encryption=none&host=v2ray.codefyinc.com&type=ws&sni=v2ray.codefyinc.com#
 vless://0417be58-2ea8-49de-8083-9eff9b0137e5@v2ray.codefyinc.com:443?security=tls&sni=v2ray.codefyinc.com&type=ws&path=/vlessws&host=v2ray.codefyinc.com&packetEncoding=xudp&encryption=none#
 vless://0419bf6f-55fd-48c0-a045-b8b29aba75bc@50.62.172.93:443?type=ws&encryption=none&path=%2Fws%3Fed%3D2048&host=slidesync.ir&security=tls&fp=chrome&alpn=&sni=slidesync.ir#
 vless://0419bf6f-55fd-48c0-a045-b8b29aba75bc@50.62.172.93:443?type=ws&encryption=none&path=/ws?ed=2048&host=slidesync.ir&security=tls&fp=chrome&alpn=&sni=slidesync.ir#
 vless://041bd415-36f9-4d48-bcea-4ceec0335046@65.20.96.210:443?alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.9tevCLfhGn_LEf2isdGwRivFBoOChDBK8wDGNvRHhkQ&fp=chrome&host=&path=/avs&security=tls&sni=65.20.96.210&type=ws#
 vless://041e8ebc-6559-4663-9f2f-cebfbe20d682@104.19.229.21:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=snn.ir.donya-e-eqtesad.com.presstv.ir.irna.ir.ifpnews.com.presstv.ir.farsnews.ir&allowInsecure=0&sni=evIL-enGIneuY3xe3ewjn.SportLaND.CoMPaNy#
-vless://041f36c4-60c3-4873-8658-c729166128be@46.182.24.106:443?encryption=none&type=grpc&security=reality&mode=gun&fp=qq&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=a9c4f17e3b62d8#
-vless://041f36c4-60c3-4873-8658-c729166128be@46.254.16.156:443?encryption=none&type=grpc&security=reality&mode=gun&fp=firefox&sni=ads.x5.ru&pbk=6NHx7OBkTEppAb58ke8XhLDoBrutczt_JPUWP_h9DRE&sid=c31f9a0e7d4b52#
-vless://041f36c4-60c3-4873-8658-c729166128be@84.201.150.157:443?encryption=none&type=grpc&security=reality&mode=gun&fp=qq&sni=ads.x5.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#
 vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?allowInsecure=1&sni=zmaoz.faculty.ucdavis.edu&alpn=http/1.1&type=ws&host=Falcunargo.net&path=/Telegram@V2ray_Alpha/?ed=2087fp=randomizedfp=chrome&security=tls#
 vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?allowInsecure=1&sni=zmaoz.faculty.ucdavis.edu&alpn=http/1.1&type=ws&host=Falcunargo.net&path=/Telegram@V2ray_Alpha/?ed=2087izedfp=chrome&security=tls#
 vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?allowInsecure=1&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=Falcunargo.net&path=/Telegram@V2ray_Alpha/?ed=2087fp=chrome&security=tls#
@@ -145,7 +129,6 @@ vless://044aa4fc-d4e4-45e8-94cf-dd597e972b82@199.181.197.176:8443?mode=auto&path
 vless://044aa4fc-d4e4-45e8-94cf-dd597e972b82@199.181.197.176:8443?mode=auto&path=/@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-&security=tls&encryption=none&extra={
 vless://044aa4fc-d4e4-45e8-94cf-dd597e972b82@199.181.197.176:8443?mode=auto&path=/@VPNine1-@VPNine1-@VPNine1-@VPNine1-@VPNine1-@VPNine1-@VPNine1-&security=tls&encryption=none&extra={
 vless://044aa4fc-d4e4-45e8-94cf-dd597e972b82@199.181.197.176:8443?mode=auto&path=/@VPNine1-@VPNine1-@VPNine1-@VPNine1-@VPNine1-@VPNine1-@VPNine1-&security=tls&encryption=none&extra={#
-vless://044aa4fc-d4e4-45e8-94cf-dd597e972b82@199.181.197.176:8443?type=tcp&encryption=none&security=none#
 vless://044bec59-d632-5e4a-992b-70397572434a@47.250.195.154:13993?security=&encryption=none&headerType=&type=tcp#
 vless://044bec59-d632-5e4a-992b-70397572434a@47.250.195.219:23063?encryption=none&security=none&type=tcp#
 vless://044bec59-d632-5e4a-992b-70397572434a@47.250.195.227:36202?security=&encryption=none&headerType=&type=tcp#
@@ -251,3 +234,20 @@ vless://045f59e4-ccc2-4024-90ba-f611e0073efa@snapp.ir:80?type=ws&path=/&host=kab
 vless://04600c5d-97ad-49fa-8eec-6c081f4981b0@45.12.136.165:40285?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-h15uIzFS1x8R-Qv6-g1fN7vI5REzBIUc0ev5zL11lE&security=reality&sid=0a&sni=ozon.ru&type=tcp#
 vless://04600c5d-97ad-49fa-8eec-6c081f4981b0@45.12.136.165:40285?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=-h15uIzFS1x8R-Qv6-g1fN7vI5REzBIUc0ev5zL11lE&sni=ozon.ru&sid=0a#
 vless://04600c5d-97ad-49fa-8eec-6c081f4981b0@45.12.136.165:40285?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=-h15uIzFS1x8R-Qv6-g1fN7vI5REzBIUc0ev5zL11lE&sid=0a&sni=ozon.ru#
+vless://0464408a-3db1-4685-92ee-d938d2b58e97@104.16.1.106:2082?encryption=none&type=ws&host=DEADSEECtelegram.khasispc.ir&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#
+vless://04648e46-bb05-48e8-8a0e-c8ba9f74ae43@54.38.136.47:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#
+vless://04648e46-bb05-48e8-8a0e-c8ba9f74ae43@54.38.136.47:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#
+vless://04648e46-bb05-48e8-8a0e-c8ba9f74ae43@54.38.136.47:80?encryption=none&security=none&type=tcp#
+vless://04648e46-bb05-48e8-8a0e-c8ba9f74ae43@54.38.136.47:80?encryption=none&security=none&type=tcp&headerType=none#
+vless://04648e46-bb05-48e8-8a0e-c8ba9f74ae43@54.38.136.47:80?security=none&encryption=none&headerType=none&type=tcp#
+vless://0465b99a-01f8-46dc-b896-e090f60ec3a2@chatgpt.com:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=fr.hknet.pro&type=ws&sni=fr.hknet.pro#
+vless://0465b99a-01f8-46dc-b896-e090f60ec3a2@chatgpt.com:2087?path=/&security=tls&alpn=http/1.1&encryption=none&host=fr.hknet.pro&type=ws&sni=fr.hknet.pro#
+vless://0465b99a-01f8-46dc-b896-e090f60ec3a2@fr.hknet.pro:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=fr.hknet.pro&type=ws&sni=fr.hknet.pro#
+vless://0465b99a-01f8-46dc-b896-e090f60ec3a2@fr.hknet.pro:2087?path=/&security=tls&alpn=http/1.1&encryption=none&host=fr.hknet.pro&type=ws&sni=fr.hknet.pro#
+vless://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eleven.dilik.co#
+vless://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eleven.dilik.co#
+vless://0468a043-e12c-466e-881c-7d685c1b3950@31.76.106.50:8443?security=reality&type=tcp&sni=roz1r.skystreamgame.com&fp=chrome&flow=xtls-rprx-vision&sid=4326&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&encryption=none#
+vless://0468a043-e12c-466e-881c-7d685c1b3950@roz1r.skystreamgame.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=roz1r.skystreamgame.com&type=tcp#
+vless://0468a043-e12c-466e-881c-7d685c1b3950@roz1r.skystreamgame.com:8443?security=reality&type=tcp&sni=roz1r.skystreamgame.com&fp=chrome&flow=xtls-rprx-vision&sid=4326&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&encryption=none#
+vless://047002bf-b578-44d6-8bfb-a09900a3fb53@cpanel.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=www.GozargahVPN.top&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%3Fed%3D2048&security=tls&sni=www.GozargahVPN.top&type=ws#
+vless://04710550-b58f-4b76-8b1e-b786779625d8@Hillsboro.solen.top:2083?alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.o9ixi6g7WEguj7lQG54txhOVuG7LpE-rXE0wojwJNR4&extra={
