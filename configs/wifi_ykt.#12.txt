@@ -1,6 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#12
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-28 / 13:58 (YKT)
+# Update: 2026-06-28 / 18:39 (YKT)
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?security=none&type=ws&headerType=&path=%2F&host=tr-cd.sublink-vip2.com#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?security=none&type=ws&headerType=&path=/&host=tr-cd.sublink-vip2.com#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.parsvds.com:8080?type=ws&security=none&host=tr-cd.sublink-vip2.com&path=/#
@@ -43,6 +43,7 @@ vless://00677475-035f-43eb-bf28-43e94d3b2853@49.44.37.117:443?type=tcp&encryptio
 vless://00694321-8701-40de-895d-75c06c81be5a@158.160.50.102:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://00694321-8701-40de-895d-75c06c81be5a@158.160.50.102:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=sso.passport.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://00694321-8701-40de-895d-75c06c81be5a@158.160.50.102:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
+vless://00694321-8701-40de-895d-75c06c81be5a@158.160.50.102:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=qq&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#
 vless://00694321-8701-40de-895d-75c06c81be5a@185.22.235.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://00694321-8701-40de-895d-75c06c81be5a@185.22.235.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://00694321-8701-40de-895d-75c06c81be5a@185.22.235.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=sso.passport.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
@@ -209,7 +210,6 @@ vless://00bbd34a-6fd0-4222-a582-1a1df9a934e2@porkstream.com:443?Telegram=@Gozarg
 vless://00bbd34a-6fd0-4222-a582-1a1df9a934e2@porkstream.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=ios&sni=&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#
 vless://00bc439b-0e6c-4450-8744-58dc27fe92ac@varzesh3.com:8080?path=%2Fcdn&security=&encryption=none&host=Za.movizdl.ir&type=ws#
 vless://00bc53ff-c447-42fd-8b85-1843985e729a@1492.fixpr.top:443?flow=xtls-rprx-vision&sni=api-maps.yandex.ru&security=reality&pbk=DWfec3JDXHMXmEz3iVtz6_HTzJD_Vl0QWniXWjDF2i0&sid=a1b2c3d4e5f60003&fp=chrome#
-vless://00bc53ff-c447-42fd-8b85-1843985e729a@1492.fixpr.top:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=DWfec3JDXHMXmEz3iVtz6_HTzJD_Vl0QWniXWjDF2i0&sid=a1b2c3d4e5f60003#
 vless://00c0ad9b-dbcc-4194-9344-d618fdb51e36@ru-node.vopn.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-node.vopn.net&fp=chrome&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&sid=acb5cbaad2c6650b&type=tcp&headerType=none#
 vless://00c0ad9b-dbcc-4194-9344-d618fdb51e36@ru-node.vopn.net:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&sid=acb5cbaad2c6650b&sni=ru-node.vopn.net&type=tcp&headerType=none#
 vless://00c1df78-ac3c-42c9-8b04-49a4763e2ef9@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=%2F&flow=xtls-rprx-vision#

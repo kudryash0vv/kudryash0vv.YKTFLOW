@@ -1,6 +1,17 @@
 # profile-title: kudryash0vv.WIFI.#93
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-28 / 13:58 (YKT)
+# Update: 2026-06-28 / 18:39 (YKT)
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.200.3.58:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.200.3.63:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.200.5.89:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.200.8.190:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.200.8.83:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.10.134:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.105.2:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.106.191:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.106.30:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.109.236:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.113.222:8686?security=reality&type=tcp&sni=www.apple.com&fp=chrome&sid=628b3c90c98ead4f&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&encryption=none#
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.113.222:8686?type=tcp&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f&headerType=none&allowInsecure=1#
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.114.114:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.114.124:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#
@@ -235,19 +246,8 @@ vless://1a25ab7e-a732-43ba-af54-41df68759a3b@sni.avaaal.ir:8443?alpn=http%2F1.1&
 vless://1a25ab7e-a732-43ba-af54-41df68759a3b@sni.avaaal.ir:8443?alpn=http/1.1&encryption=none&fp=chrome&host=ssss2.avaaal.ir&path=/720f09dba195249b423f771661162528/workers/services/view/Avaal/production/settings&security=tls&sni=ssss2.avaaal.ir&type=ws#
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.19.73.126:2053?encryption=none&security=tls&sni=sni.111000.dynv6.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.19.73.126:2053?type=ws&encryption=none&host=sni.111000.dynv6.net&path=/?ed=2560&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1#
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.101.90.96:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.101.90.96:2053?path=/&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.101.90.97:2053?path=/&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.101.90.98:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.101.90.98:2053?path=/&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.101.90.99:2053?path=/&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.193.213.21:2053?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.144.133:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.cc.cd#
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.146.20:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.148.107.148:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.rocks&type=ws&sni=sni.111000.v6.rocks#
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.158.133.158:2096/?type=ws&encryption=none&flow=&host=sni.111000.de5.net&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.de5.net#
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.158.133.158:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.158.133.158:2096?path=/?ed=2560&Telegram+@WangCai2&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.158.133.158:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.159.247.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.dns.army&type=ws&sni=sni.111000.dns.army#
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.162.231.148:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.rocks&type=ws&sni=sni.111000.v6.rocks#
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.193.28.168:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.army&type=ws&sni=sni.111000.v6.army#
