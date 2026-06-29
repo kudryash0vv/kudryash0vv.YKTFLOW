@@ -1,10 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#230
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-29 / 20:29 (YKT)
-vless://3efcf06e-83e1-47e1-83b9-5100a0b7bde1@84.201.177.246:3002?encryption=none&type=xhttp&security=reality&path=/api/v2/config/sync&mode=auto&extra={
-vless://3efd3dbe-413a-4727-becb-d1ca8fbc795a@91.107.175.52:44728?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=chrome&sni=www.cloudflare.com&sid=dbb6ea0b&spx=/&flow=xtls-rprx-vision#
-vless://3efd3dbe-413a-4727-becb-d1ca8fbc795a@91.107.175.52:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=chrome&sni=www.cloudflare.com&sid=dbb6ea0b&spx=/&flow=xtls-rprx-vision#
-vless://3efd3dbe-413a-4727-becb-d1ca8fbc795a@91.107.175.52:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=www.cloudflare.com&sid=dbb6ea0b&spx=%2F&flow=xtls-rprx-vision#
+# Update: 2026-06-30 / 01:22 (YKT)
 vless://3efd3dbe-413a-4727-becb-d1ca8fbc795a@91.107.175.52:44728?type=tcp&encryption=none&security=reality&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&fp=random&sni=www.cloudflare.com&sid=dbb6ea0b&spx=/&flow=xtls-rprx-vision#
 vless://3f00f3a1-6d20-49a0-b4c6-8e2c0fea7c2f@176.65.144.119:443?flow=xtls-rprx-vision&fp=firefox&pbk=eBlCwqJEBYKCccONG3D1vSFfsdY-10tbX5j5BBgNayE&security=reality&sid=a98d4613326a02b6&sni=yandex.ru&type=tcp#
 vless://3f00f3a1-6d20-49a0-b4c6-8e2c0fea7c2f@2.26.10.83:8443?flow=xtls-rprx-vision&fp=firefox&pbk=n4U9lAmz6u4axXP2i4of5iFKMwl8e2yA-6DfeyV57xc&security=reality&sni=yandex.ru&type=tcp#
@@ -170,6 +166,7 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&fp=chrome#
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com#
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?encryption=none&security=tls&sni=hetz.x-smm.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292#
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#channel%20%3A%20%40freedomofinfor
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&fp=chrome#
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096/?type=ws&encryption=none&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com#
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?encryption=none&host=hetz.x-smm.com&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&type=ws#
@@ -251,3 +248,6 @@ vless://3f2a8ac5-f359-4333-865a-7064e31c2537@104.26.14.85:443?security=tls&sni=n
 vless://3f2a8ac5-f359-4333-865a-7064e31c2537@monitor.tgju.org:443/?type=ws&encryption=none&host=nufilter.pages.dev&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=nufilter.pages.dev&fp=randomized#
 vless://3f2a8ac5-f359-4333-865a-7064e31c2537@monitor.tgju.org:443/?type=ws&encryption=none&host=nufilter.pages.dev&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=tls&sni=nufilter.pages.dev&fp=chrome#
 vless://3f2a8ac5-f359-4333-865a-7064e31c2538@172.67.73.163:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=nufilterok.pages.dev&fp=randomized&type=ws&sni=nufilterok.pages.dev#
+vless://3f2a8ac5-f359-4333-865a-7064e31c2538@172.67.73.163:443?security=tls&%3Bsni=nufilterok.pages.dev&%3Btype=ws&%3Bhost=nufilterok.pages.dev&%3Bpath=/%3Fed%3D2048&%3Bfp=randomized#
+vless://3f2a8ac5-f359-4333-865a-7064e31c2538@172.67.73.163:443?security=tls&sni=nufilterok.pages.dev&type=ws&host=nufilterok.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#
+vless://3f2a8ac5-f359-4333-865a-7064e31c2538@172.67.73.163:443?security=tls&sni=nufilterok.pages.dev&type=ws&host=nufilterok.pages.dev&path=/?ed=2048&fp=chrome#

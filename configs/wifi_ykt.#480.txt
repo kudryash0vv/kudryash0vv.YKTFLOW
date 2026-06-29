@@ -1,6 +1,11 @@
 # profile-title: kudryash0vv.WIFI.#480
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-29 / 20:29 (YKT)
+# Update: 2026-06-30 / 01:22 (YKT)
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@18.183.224.152:443?security=tls&sni=auv.vavava.kdns.fr&alpn=&fp=random&type=ws&host=auv.vavava.kdns.fr&path=%2F%3Fed%3D2560&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@209.33.160.242:443?security=tls&sni=auv.vavava.kdns.fr&alpn=&fp=random&type=ws&host=auv.vavava.kdns.fr&path=%2F%3Fed%3D2560&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@209.33.166.199:443?type=ws&security=tls&fp=random&sni=auv.vavava.kdns.fr&path=/%3Fed%3D2560&host=auv.vavava.kdns.fr#
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@216.236.38.234:443?security=tls&sni=auv.vavava.kdns.fr&alpn=&fp=random&type=ws&host=auv.vavava.kdns.fr&path=%2F%3Fed%3D2560&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@23.105.195.30:443?type=ws&security=tls&fp=chrome&sni=auv.vavava.kdns.fr&path=/?ed=2560&host=auv.vavava.kdns.fr#
 vless://890cb407-0d00-4337-9e5d-b4df06a1635c@38.75.221.32:443?encryption=none&security=tls&sni=auv.vavava.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=auv.vavava.kdns.fr&path=/#
 vless://890cb407-0d00-4337-9e5d-b4df06a1635c@38.75.221.32:443?encryption=none&security=tls&sni=auv.vavava.kdns.fr&fp=random&insecure=0&allowInsecure=0&type=ws&host=auv.vavava.kdns.fr&path=%2F#
 vless://890cb407-0d00-4337-9e5d-b4df06a1635c@38.75.221.42:443?security=tls&sni=auv.vavava.kdns.fr&alpn=&fp=random&type=ws&host=auv.vavava.kdns.fr&path=%2F%3Fed%3D2560&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#
@@ -128,7 +133,6 @@ vless://891d999f-7864-45c5-8db9-3c69f35dcb96@172.67.148.150:2083/?type=ws&encryp
 vless://891d999f-7864-45c5-8db9-3c69f35dcb96@172.67.148.150:2083?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047#
 vless://891d999f-7864-45c5-8db9-3c69f35dcb96@188.114.97.3:2083?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047#
 vless://891f03db-33a7-4130-b584-e9a79f0748c7@GerGame2.soltankabos.ir:34821?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#
-vless://891f03db-33a7-4130-b584-e9a79f0748c7@GerGame2.soltankabos.ir:34821?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#https://t.me/AarazV2ray
 vless://8920f7cb-cf0e-4150-93f6-e1325872b758@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#
 vless://89215f73-ba58-434e-8338-67898f14bde7@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#
 vless://89222c0d-d263-4b77-c696-8dcce4190fce@public.alpanel.top:1380?mode=gun&security=reality&encryption=none&pbk=u2Xf8Og6H4iPcoYIZC8Cm8ziH2LA4ifvpHxEpp8bfUw&fp=chrome&spx=%2F&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=www.iranserver.com&sid=4c5aaad0#
@@ -247,7 +251,3 @@ vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@104.25.0.86:8080?headerType=&host=w
 vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@104.25.0.86:8080?headerType=&host=www.speedtest.net.whiteber.insistom.d6625996.v29.simansanat.ir.&path=&security=none&type=ws#
 vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@104.25.0.86:8080?security=none&%3Btype=ws&%3Bhost=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V15.SiMansaNaT.Ir.#
 vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@104.25.0.86:8080?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V15.SiMansaNaT.Ir.#
-vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@104.25.0.86:8080?security=none&type=ws&host=www.speedtest.net.whiteber.insistom.d6625996.v28.simansanat.ir.#
-vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80?headerType=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V04.SiMansaNaT.Ir.&path=&security=none&type=ws#
-vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80?headerType=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V06.SiMansaNaT.Ir.&path=&security=none&type=ws#
-vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80?headerType=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V20.SiMansaNaT.Ir.&path=&security=none&type=ws#

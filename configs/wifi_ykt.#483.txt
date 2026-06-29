@@ -1,6 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#483
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-06-29 / 20:29 (YKT)
+# Update: 2026-06-30 / 01:22 (YKT)
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.38.180:80?security=&encryption=none&host=en.mfa.gov.ir&type=ws&sni=en.mfa.gov.ir#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.38.180:80?security=none&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.122:443/?type=ws&encryption=none&host=metrix.ir&security=tls&sni=metrix.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#
@@ -88,7 +88,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?alpn=h2%2Chttp%2
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?encryption=none&host=cXrolvpn.pagEs.DEv&path=%2Ftelegram-%40proxy_mtm%2F%3Fed%3D2560&security=tls&sni=cXrOLvPn.PAgEs.dev&type=ws#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=/&%3Bsecurity=tls&%3Bencryption=none&%3Balpn=h2%2Chttp/1.1&%3Bhost=cXrolvpn.pagEs.DEv&%3Bfp=randomized&%3Btype=ws&%3Bsni=cXrOLvPn.PAgEs.dev#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=/&security=tls&encryption=none&alpn=h2%2Chttp/1.1&host=cXrolvpn.pagEs.DEv&fp=randomized&type=ws&sni=cXrOLvPn.PAgEs.dev#
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=/&security=tls&encryption=none&alpn=h2%2Chttp/1.1&host=cXrolvpn.pagEs.DEv&fp=randomized&type=ws&sni=cXrOLvPn.PAgEs.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40iran_access%20%232%20%5Bfast%5D
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=cXrolvpn.pagEs.DEv&fp=randomized&type=ws&sni=cXrOLvPn.PAgEs.dev#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?security=tls&sni=cXrOLvPn.PAgEs.dev&type=ws&host=cXrolvpn.pagEs.DEv&path=%2Ftelegram-%40proxy_mtm%2F%3Fed%3D2560#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.54:443?security=tls&sni=AzaDNeT-CVk.PaGeS.dEv&type=ws&host=AZADnet-Cvk.PAGes.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#
@@ -143,7 +142,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?path=/Telegram-pr
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?path=/telegram-@v2ray_alpha/?ed=2560&security=tls&encryption=none&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?security=tls&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&path=%2Ftelegram-%40v2ray_alpha%2F%3Fed%3D2560#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?type=tcp&encryption=none&security=none#
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?type=tcp&encryption=none&security=none#🚀@VPNine1
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.252:443?security=tls&sni=94391e80.uvPN-OrG.PAGes.Dev&type=ws&host=94391e80.uvPN-OrG.PAGes.Dev&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.101:443?security=tls&sni=0F4c3270.vpNHAVEn.PAgEs.dEV&type=ws&host=0F4c3270.vPNHAVEN.PagES.DEV&path=%2F2KyJr0JkqUQNFF3O%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.103:443?security=tls&sni=20FB0424.bpb-WorKEr-PaNEl-1Xd.PaGes.DeV&type=ws&host=20fb0424.bpb-worker-panel-1xd.pages.dev&path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#
@@ -251,3 +249,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.178.18:443?security=tls&sni=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.179.112:443?security=tls&sni=pPAlo3.LaXOV42932.worKERs.dEv&type=ws&host=PpalO3.laXOv42932.wORKErS.DEv&path=%2FiDgGp8M0DIAJrSTV%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.185.103:443?security=tls&sni=pPal03.Molli-mAKara.WOrkers.dEV&type=ws&host=PPaL03.molli-MakARa.WOrKErS.Dev&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.185.121:443?security=tls&sni=pPAl03.LACahev115.wORkers.DEV&type=ws&host=PpaL03.LAcAHEV115.workeRs.Dev&path=%2FRTeRkaCiW3rgdqei%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.186.81:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=PpaL03.LeXandER-sHUbHam.wORKerS.DEV&type=ws&host=PpaL03.lexandeR-sHUBhAM.WORkERS.deV&path=/66M4b979cyne6C23?ed=2560&fp=chrome&alpn=h2,http/1.1#
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.186.81:443?security=tls&%3Bsni=PpaL03.LeXandER-sHUbHam.wORKerS.DEV&%3Btype=ws&%3Bhost=PpaL03.lexandeR-sHUBhAM.WORkERS.deV&%3Bpath=/66M4b979cyne6C23%3Fed%3D2560&%3Bfp=randomized&%3Balpn=h2%2Chttp/1.1#
