@@ -1,7 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#37
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-02 / 13:38 (YKT)
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@154.17.5.177:443?encryption=none&type=ws&sni=sni.skylee4.cloudns.ch&security=tls&fp=chrome&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.net#
+# Update: 2026-07-02 / 18:41 (YKT)
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@154.21.95.34:443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&type=ws&host=sn1.skylee5.cloudns.ch&path=%2Fproxyip%3Dproxyip.cmliussss.net#
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@154.21.95.34:443?encryption=none&security=tls&sni=sn1.skylee5.cloudns.ch&type=ws&host=sn1.skylee5.cloudns.ch&path=/proxyip=proxyip.cmliussss.net#
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@154.219.104.17:443?sni=sni.skylee4.cloudns.ch&type=ws&host=sni.skylee4.cloudns.ch&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#
@@ -251,3 +250,4 @@ vless://06c209f6-d862-4615-828a-be7cba6ebb79@104.16.7.70:443?path=/wss?ed=2048&s
 vless://06c209f6-d862-4615-828a-be7cba6ebb79@104.17.121.71:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=best.downloadin.sbs&fp=chrome&type=ws&allowInsecure=0&sni=best.downloadin.sbs#
 vless://06c209f6-d862-4615-828a-be7cba6ebb79@104.17.121.71:443?path=/wss?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=best.downloadin.sbs&fp=chrome&type=ws&allowInsecure=0&sni=best.downloadin.sbs#
 vless://06c209f6-d862-4615-828a-be7cba6ebb79@18.239.85.220:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=d1axj54leefkw.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1axj54leefkw.cloudfront.net#
+vless://06c209f6-d862-4615-828a-be7cba6ebb79@18.239.85.220:443?path=/wss?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=d1axj54leefkw.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=d1axj54leefkw.cloudfront.net#

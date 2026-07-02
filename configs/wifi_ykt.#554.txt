@@ -1,15 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#554
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-02 / 13:38 (YKT)
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?encryption=none&type=tcp&security=reality&headerType=none&sni=api-maps.yandex.ru&fp=firefox&insecure=1&allowInsecure=1&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&sid=17a2a5e0&flow=xtls-rprx-vision#
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?encryption=none&type=tcp&security=reality&headerType=none&sni=api-maps.yandex.ru&fp=firefox&insecure=1&allowInsecure=1&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&sid=17a2a5e0&flow=xtls-rprx-vision#REALITY|IT🇮🇹
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?security=reality&encryption=none&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=17a2a5e0#
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?security=reality&encryption=none&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=17a2a5e0#
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&sid=17a2a5e0#
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@92.53.74.158:443?flow=xtls-rprx-vision&fp=chrome&pbk=U__j2tLl5Kl7R7zICEWGQLTxV9SZk_Lj0k_338xDWGQ&security=reality&sid=8fb53b24&sni=api-maps.yandex.ru#
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@92.53.74.158:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=U__j2tLl5Kl7R7zICEWGQLTxV9SZk_Lj0k_338xDWGQ&sid=8fb53b24#
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@92.53.74.158:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=U__j2tLl5Kl7R7zICEWGQLTxV9SZk_Lj0k_338xDWGQ&sid=8fb53b24#
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@95.173.199.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0&sid=735093d7&type=tcp&headerType=none#
+# Update: 2026-07-02 / 18:41 (YKT)
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@95.173.199.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0&sid=735093d7&type=tcp&headerType=none#
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@95.173.199.110:443?security=reality&encryption=none&pbk=DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=735093d7#
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@95.173.199.110:443?security=reality&encryption=none&pbk=DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=735093d7#
@@ -148,7 +139,6 @@ vless://9313b9e8-9b6b-4dee-8999-f73ef0929278@5.75.196.174:443?security=reality&e
 vless://9314580d-c11e-4f32-d544-566e6142565a@104.26.13.31:8080/?type=ws&encryption=none&host=0612.heweiyi.dpdns.org&path=%2F#
 vless://9314580d-c11e-4f32-d544-566e6142565a@104.26.13.31:8080?security=&type=ws&path=/&host=0612.heweiyi.dpdns.org&encryption=none#
 vless://9316bdbe-64c3-11f1-a103-aef63c7126b0@5.129.250.210:2053?fp=firefox&mode=gun&pbk=waaYYZNd0vgbsNi8BO5e0FFjxFJMWnumuOdaarKsnQs&security=reality&serviceName=grpc-direct&sid=e4fb18c16a95e52d&sni=cam-msk-6.videomonitor.cloud&type=grpc#
-vless://9316bdbe-64c3-11f1-a103-aef63c7126b0@5.129.250.210:2053?fp=firefox&mode=gun&pbk=waaYYZNd0vgbsNi8BO5e0FFjxFJMWnumuOdaarKsnQs&security=reality&serviceName=grpc-direct&sid=e4fb18c16a95e52d&sni=cam-msk-6.videomonitor.cloud&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://9316bdbe-64c3-11f1-a103-aef63c7126b0@5.129.250.210:2053?fp=firefox&mode=gun&pbk=waaYYZNd0vgbsNi8BO5e0FFjxFJMWnumuOdaarKsnQs&security=reality&serviceName=grpc-direct&sid=e4fb18c16a95e52d&sni=cam-msk-6.videomonitor.cloud&type=grpc#t.me%2Ffreekesha21
 vless://9316bdbe-64c3-11f1-a103-aef63c7126b0@5.129.250.210:2053?fp=firefox&pbk=waaYYZNd0vgbsNi8BO5e0FFjxFJMWnumuOdaarKsnQs&security=reality&serviceName=grpc-direct&sid=e4fb18c16a95e52d&sni=cam-msk-6.videomonitor.cloud&type=grpc#t.me%2Ffreekesha21
 vless://9316bdbe-64c3-11f1-a103-aef63c7126b0@cam-msk-6.videomonitor.cloud:2053?mode=gun&security=reality&encryption=none&authority=&pbk=waaYYZNd0vgbsNi8BO5e0FFjxFJMWnumuOdaarKsnQs&fp=chrome&allowinsecure=0&type=grpc&serviceName=grpc-direct&sni=cam-msk-6.videomonitor.cloud&sid=e4fb18c16a95e52d#
@@ -251,3 +241,13 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:8443?encryption=non
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:8443?security=tls&%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:8443?security=tls&%3Bencryption=none&%3Binsecure=0&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3BallowInsecure=0#
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:8443?security=tls&%3Bencryption=none&%3Binsecure=0&%3BheaderType=none&%3Btype=tcp&%3BallowInsecure=0&%3Bsni=cdn3-25.vk-cdnvideo.com#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn9-33.vk-cdnvideo.com#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=safari&type=tcp&allowInsecure=0#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-25.vk-cdnvideo.com#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:8443?security=tls&encryption=none&sni=cdn3-25.vk-cdnvideo.com&type=tcp&headerType=none&path=/&allow_insecure=0#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:8443?type=tcp&encryption=none&security=none#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.199:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&headerType=none&fp=safari&type=tcp#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.199:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.199:8443?allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&security=tls#
