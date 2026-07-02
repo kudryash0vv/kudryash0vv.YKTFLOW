@@ -1,12 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#350
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-02 / 18:41 (YKT)
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.252:443?security=tls&type=ws&path=/api/v1/stream&host=sync.amordad.xyz&sni=sync.amordad.xyz&fp=chrome#
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/stream#
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/stream&packetEncoding=xudp#
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@192.200.160.3:443?sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/streamfp=chrome&security=tls#
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.205:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/stream#
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.205:443?encryption=none&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream&security=tls&sni=sync.amordad.xyz#
+# Update: 2026-07-02 / 23:36 (YKT)
 vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.205:443?path=/api/v1/stream&security=tls&encryption=none&insecure=0&host=sync.amordad.xyz&type=ws&allowInsecure=0&sni=sync.amordad.xyz#
 vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=%2Fapi%2Fv1%2Fstream#
 vless://5b6be23b-dff4-428f-8a60-4f11568abe12@63.141.128.3:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/stream#
@@ -172,7 +166,6 @@ vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed%3D20
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tlsh&encryption=none&insecure=0&host=t01.tzteam.online&fp=firefox&type=ws&allowInsecure=0&sni=t01.tzteam.online#
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed&security=tls&encryption=none&host=t02.tzteam.online&fp=firefox&type=ws&sni=t02.tzteam.online#
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=t02.tzteam.online&fp=firefox&type=ws&allowInsecure=0&sni=t02.tzteam.online#
-vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=t02.tzteam.online&fp=firefox&type=ws&allowInsecure=0&sni=t02.tzteam.online#RELAY🚩
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=/%3Fed%3D2048&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=t03.tzteam.online&%3Bfp=firefox&%3Btype=ws&%3BallowInsecure=0&%3Bsni=t03.tzteam.online#
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=/%3Fed&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=t02.tzteam.online&%3Bfp=firefox&%3Btype=ws&%3Bsni=t02.tzteam.online#
 vless://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=/%3Fed&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Bhost=t02.tzteam.online&%3Bfp=firefox&%3Btype=ws&%3BallowInsecure=0&%3Bsni=t02.tzteam.online#
@@ -251,3 +244,10 @@ vless://5b9fa73b-b549-480b-add9-c45e650d236f@8.35.211.32:443?allowInsecure=1&enc
 vless://5b9fa73b-b549-480b-add9-c45e650d236f@8.35.211.32:443?allowInsecure=1&sni=gddy.hhlfy.de5.net&type=ws&host=gddy.hhlfy.de5.net&path=/fp=firefox&security=tls#
 vless://5b9fa73b-b549-480b-add9-c45e650d236f@cf.130519.xyz:443?allowInsecure=1&sni=gddy.hhlfy.de5.net&type=ws&host=gddy.hhlfy.de5.net&path=/fp=chrome&security=tls#
 vless://5b9fa73b-b549-480b-add9-c45e650d236f@cf.130519.xyz:443?allowInsecure=1&sni=gddy.hhlfy.de5.net&type=ws&host=gddy.hhlfy.de5.net&path=/fp=chromesecurity=tls#
+vless://5b9fa73b-b549-480b-add9-c45e650d236f@cf.877774.xyz:443?allowInsecure=1&sni=gddy.hhlfy.de5.net&type=ws&host=gddy.hhlfy.de5.net&path=/fp=firefox&security=tls#
+vless://5b9fa73b-b549-480b-add9-c45e650d236f@cloudflare-ip.mofashi.ltd:443?allowInsecure=1&sni=gddy.hhlfy.de5.net&type=ws&host=gddy.hhlfy.de5.net&path=/fp=firefox&security=tls#
+vless://5b9fa73b-b549-480b-add9-c45e650d236f@nexusmods.com:443?allowInsecure=1&encryption=none&host=gddy.hhlfy.de5.net&path=%2Ffp%3Dfirefox&security=tls&sni=gddy.hhlfy.de5.net&type=ws#
+vless://5b9fa73b-b549-480b-add9-c45e650d236f@nexusmods.com:443?allowInsecure=1&encryption=none&host=gddy.hhlfy.de5.net&path=/fp=chrome&security=tls&sni=gddy.hhlfy.de5.net&type=ws#
+vless://5b9fa73b-b549-480b-add9-c45e650d236f@nexusmods.com:443?allowInsecure=1&encryption=none&host=gddy.hhlfy.de5.net&path=/fp=firefox&security=tls&sni=gddy.hhlfy.de5.net&type=ws#
+vless://5b9fa73b-b549-480b-add9-c45e650d236f@nexusmods.com:443?allowInsecure=1&sni=gddy.hhlfy.de5.net&type=ws&host=gddy.hhlfy.de5.net&path=/fp=firefox&security=tls#
+vless://5b9fa73b-b549-480b-add9-c45e650d236f@nexusmods.com:443?allowInsecure=1&sni=gddy.hhlfy.de5.net&type=ws&host=gddy.hhlfy.de5.net&path=/fp=firefoxsecurity=tls#
