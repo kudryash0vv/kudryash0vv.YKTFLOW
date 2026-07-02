@@ -1,6 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#11
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-02 / 23:36 (YKT)
+# Update: 2026-07-03 / 04:59 (YKT)
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=/&security=none&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?encryption=none&security=none&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#
@@ -13,6 +13,7 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F%3FTELEG
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F&security=&encryption=none&host=max-de1.global.ssl.fastly.net&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%40v2box
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#US🇺🇸
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=/&%3Bencryption=none&%3Bhost=max-gb1.global.ssl.fastly.net&%3Btype=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?path=/&%3Bsecurity=none&%3Bencryption=none&%3Bhost=max-gb1.global.ssl.fastly.net&%3Btype=ws#
@@ -250,4 +251,3 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?Telegram=@Go
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?encryption=none&security=none&type=ws&host=tr-cd.sublink-vip2.com&path=%2F#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?encryption=none&type=ws&host=tr-cd.sublink-vip2.com&path=%2F&security=none#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?encryption=none&type=ws&host=tr-cd.sublink-vip2.com&path=/#
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#
