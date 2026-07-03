@@ -1,21 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#522
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-03 / 18:40 (YKT)
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.251.47:2083?type=tcp&encryption=none&security=none#
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.251.69:2083?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=/&flow=xtls-rprx-vision#
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.251.69:2083?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=/&flow=xtls-rprx-vision#
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.251.69:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.251.69:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#
-vless://89049f79-trojan://SoftNetConnect@83.228.230.226:443?mode=auto&path=/&security=reality&extra={
-vless://8909af53-a87c-47a2-835a-30ff7a7225eb@172.64.35.157:443/?type=ws&encryption=none&host=1b5ujx.alligator27app.com&path=%2Fwss&security=tls&sni=1b5ujx.alligator27app.com&alpn=http%2F1.1#
-vless://8909ef26-1180-4d28-9fd7-ceaf9719fd6f@104.16.144.24:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=meh.dorostify.com&path=%2F&security=tls&sni=meh.dorostify.com&type=ws#
-vless://8909ef26-1180-4d28-9fd7-ceaf9719fd6f@104.16.144.24:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=meh.dorostify.com&path=/&security=tls&sni=meh.dorostify.com&type=ws#
-vless://8909ef26-1180-4d28-9fd7-ceaf9719fd6f@104.16.204.205:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=meh.dorostify.com&path=%2F&security=tls&sni=meh.dorostify.com&type=ws#
-vless://8909ef26-1180-4d28-9fd7-ceaf9719fd6f@104.16.204.205:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=meh.dorostify.com&path=/&security=tls&sni=meh.dorostify.com&type=ws#
-vless://8909ef26-1180-4d28-9fd7-ceaf9719fd6f@104.17.13.181:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=meh.dorostify.com&path=%2F&security=tls&sni=meh.dorostify.com&type=ws#
-vless://8909ef26-1180-4d28-9fd7-ceaf9719fd6f@104.17.13.181:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=meh.dorostify.com&path=/&security=tls&sni=meh.dorostify.com&type=ws#
-vless://8909ef26-1180-4d28-9fd7-ceaf9719fd6f@104.17.19.142:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=meh.dorostify.com&path=%2F&security=tls&sni=meh.dorostify.com&type=ws#
-vless://8909ef26-1180-4d28-9fd7-ceaf9719fd6f@104.17.223.104:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=meh.dorostify.com&path=%2F&security=tls&sni=meh.dorostify.com&type=ws#
+# Update: 2026-07-03 / 23:38 (YKT)
 vless://8909ef26-1180-4d28-9fd7-ceaf9719fd6f@104.18.206.148:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=meh.dorostify.com&path=%2F&security=tls&sni=meh.dorostif`#
 vless://8909ef26-1180-4d28-9fd7-ceaf9719fd6f@104.18.206.148:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=meh.dorostify.com&path=/&security=tls&sni=meh.dorostif#
 vless://8909ef26-1180-4d28-9fd7-ceaf9719fd6f@104.19.109.243:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=meh.dorostify.com&path=%2F&security=tls&sni=meh.dorostify.com&type=ws#
@@ -125,7 +110,6 @@ vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?encryption
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%F0%9F%87%A6%F0%9F%87%B1%40FreakConfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🆔lrnbymaa%20🔓%20VL-WS-N/A%20❔%20XX%20down
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#🌐سرور
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless%…#
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#
@@ -133,8 +117,6 @@ vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vles
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#kurdconfig
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇦🇱95573
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇦🇱@FreakConfig
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#🇦🇱@V2rayng_Fast
-vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=/vles…#
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?security=none&type=ws&path=/vless/&host=pq-Albania1.09vpn.com#
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?security=none&type=ws&path=/vless/&host=pq-Albania1.09vpn.com&encryption=none#
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?security=none&type=ws&path=/vless/&host=pq-albania1.09vpn.com#
@@ -251,3 +233,21 @@ vless://8937c203-8ec6-477f-830b-939992cba4eb@cell.connectingissues.ir:80?mode=au
 vless://8937c203-8ec6-477f-830b-939992cba4eb@cell.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#
 vless://8937c203-8ec6-477f-830b-939992cba4eb@cell.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={
 vless://8937c203-8ec6-477f-830b-939992cba4eb@cell.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=shirin-kose.de&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&host=shirin-kose.de&type=xhttp#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&host=shirin-kose.de&type=xhttp#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={
+vless://8937c203-8ec6-477f-830b-939992cba4eb@euro.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@global.connectingissues.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@global.connectingissues.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@global.connectingissues.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@global.connectingissues.ir:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp&x_padding_bytes=100-1000#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@global.connectingissues.ir:80?encryption=none&type=xhttp&path=%2F%3Fed%3D2048&host=shirin-kose.de&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#
+vless://8937c203-8ec6-477f-830b-939992cba4eb@global.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&host=shirin-kose.de&type=xhttp#
