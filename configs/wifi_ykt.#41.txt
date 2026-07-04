@@ -1,16 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#41
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-04 / 13:09 (YKT)
-vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=raw&security=reality&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=www.icloud.com#
-vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=&fp=chrome&insecure=1&sni=www.icloud.com&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sid=#
-vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=tcp&security=reality&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sni=www.icloud.com#
-vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080/?type=ws&encryption=none&host=WQ.R5Kt41PbPO.zuLAIR.orG.&path=%2F%3Fed%3D2048#
-vless://0706a762-3fd5-4205-b5b9-42f746a3119f@104.26.14.85:8080?encryption=none&security=none&sni=WQ.R5Kt41PbPO.zuLAIR.orG.&type=ws&host=WQ.R5Kt41PbPO.zuLAIR.orG.&path=%2F#
-vless://07073a15-006a-47ac-8ed5-ddadf7c93a36@104.17.105.231:2083?encryption=none&security=tls&sni=test0.testregular0.workers.dev&fp=random&type=ws&host=test0.testregular0.workers.dev&path=%2F%3Fu%3D0999a8fa74#
-vless://07073a15-006a-47ac-8ed5-ddadf7c93a36@104.17.105.231:2083?path=%2F%3Fu%3D0999a8fa74&security=tls&encryption=none&insecure=0&host=test0.testregular0.workers.dev&fp=random&type=ws&allowInsecure=0&sni=test0.testregular0.workers.dev#
-vless://07073a15-006a-47ac-8ed5-ddadf7c93a36@104.17.105.231:2083?path=/?u=0999a8fa74&security=tls&encryption=none&insecure=0&host=test0.testregular0.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=test0.testregular0.workers.dev#
-vless://07073a15-006a-47ac-8ed5-ddadf7c93a36@104.17.106.140:2053?encryption=none&security=tls&sni=test0.testregular0.workers.dev&fp=chrome&type=ws&host=test0.testregular0.workers.dev&path=/?u=0999a8fa74#
-vless://07073a15-006a-47ac-8ed5-ddadf7c93a36@104.17.106.140:2053?encryption=none&security=tls&sni=test0.testregular0.workers.dev&fp=random&type=ws&host=test0.testregular0.workers.dev&path=%2F%3Fu%3D0999a8fa74#
+# Update: 2026-07-04 / 18:03 (YKT)
 vless://07073a15-006a-47ac-8ed5-ddadf7c93a36@104.17.166.6:2087?encryption=none&security=tls&sni=test0.testregular0.workers.dev&fp=random&type=ws&host=test0.testregular0.workers.dev&path=%2F%3Fu%3D0999a8fa74#
 vless://07073a15-006a-47ac-8ed5-ddadf7c93a36@104.17.166.6:2087?path=%2F%3Fu%3D0999a8fa74&security=tls&encryption=none&insecure=0&host=test0.testregular0.workers.dev&fp=random&type=ws&allowInsecure=0&sni=test0.testregular0.workers.dev#
 vless://07073a15-006a-47ac-8ed5-ddadf7c93a36@104.17.166.6:2087?path=/?u=0999a8fa74&security=tls&encryption=none&insecure=0&host=test0.testregular0.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=test0.testregular0.workers.dev#
@@ -92,12 +82,13 @@ vless://072baf2f-574e-4939-8b20-ccd89c17fefb@95.85.229.201:8443?type=tcp&securit
 vless://072baf2f-574e-4939-8b20-ccd89c17fefb@95.85.229.226:8443?type=tcp&security=reality&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&sni=eh.vk.com#
 vless://072baf2f-574e-4939-8b20-ccd89c17fefb@95.85.229.227:8443?type=tcp&security=reality&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&sni=eh.vk.com#
 vless://072f4db4-d89d-420d-9d9e-045ed8d5c9cc@104.21.42.250:443/?type=ws&encryption=none&host=10e.191268.xyz&security=tls&sni=10e.191268.xyz&fp=chrome#
+vless://07306c34-1afc-4be1-8168-5a6d047c28a4@46.8.209.215:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0&spx=%2F#
 vless://07306c34-1afc-4be1-8168-5a6d047c28a4@46.8.209.215:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0&spx=/#
 vless://07306c34-1afc-4be1-8168-5a6d047c28a4@46.8.209.224:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0&spx=/#
+vless://07306c34-1afc-4be1-8168-5a6d047c28a4@51.250.83.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.vk.com&pbk=lM4aY7R07Gem9x-TKqvCuKcZSLuZU-_2lyZqxmQLHDs&sid=a9e95077bdf34209&spx=%2F#
 vless://07306c34-1afc-4be1-8168-5a6d047c28a4@51.250.83.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.vk.com&pbk=lM4aY7R07Gem9x-TKqvCuKcZSLuZU-_2lyZqxmQLHDs&sid=a9e95077bdf34209&spx=/#
 vless://07306c34-1afc-4be1-8168-5a6d047c28a4@51.250.83.32:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=yandex.ru&pbk=a-pxMyDrgkZ4eAM_I7k0mJiBn3AN0eyqeiSGtV03F1U&sid=d30f4e10dc056830&spx=/#
 vless://07306c34-1afc-4be1-8168-5a6d047c28a4@51.250.95.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=73LOtZvtJoUx42LIIHdr6GTrzZkA_5RJy_olEG2qQXQ&sid=e11822a0958dd1a3&spx=/#
-vless://07306c34-1afc-4be1-8168-5a6d047c28a4@51.250.95.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=qpyc7QJdCOHqHOkdzoQeH7leZKi8c_ldUAhPmxImWFo&sid=e11822a0958dd1a3&spx=%2F#
 vless://07306c34-1afc-4be1-8168-5a6d047c28a4@51.250.95.42:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=qpyc7QJdCOHqHOkdzoQeH7leZKi8c_ldUAhPmxImWFo&sid=e11822a0958dd1a3&spx=/#
 vless://07306c34-1afc-4be1-8168-5a6d047c28a4@84.201.131.127:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=smartcaptcha.yandexcloud.net&pbk=RJtIKw17_0x-zmAL0vL4FrgeKqxHt2Faai-oSTBPmWI&sid=ef276a7580e24ac8&spx=/#
 vless://07306c34-1afc-4be1-8168-5a6d047c28a4@84.201.136.40:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=73LOtZvtJoUx42LIIHdr6GTrzZkA_5RJy_olEG2qQXQ&sid=e11822a0958dd1a3&spx=/#
@@ -131,15 +122,16 @@ vless://0738fe83-bff8-49d7-829c-d856a24d1de2@188.114.97.6:443?path=%2Fsg-amz&sec
 vless://0738fe83-bff8-49d7-829c-d856a24d1de2@188.114.97.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=www.genflix.co.id.cyylr.eu.cc&type=ws&allowInsecure=0&sni=www.genflix.co.id.cyylr.eu.cc#
 vless://073cd748-6e47-43f6-9134-bb78018bea44@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20139598
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.148.22:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.148.22:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20623827
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&%3Beh=Sec-WebSocket-Protocol&%3Bencryption=none&%3Bhost=octopusss.net&%3Bpath=/odiyfws&%3Bsecurity=tls&%3Bsni=octopusss.net&%3Btype=ws#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20405179
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20939367
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#EPODONIOS
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#🇳🇱
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?encryption=none&fp=chrome&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?encryption=none&fp=chrome&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#
@@ -165,7 +157,7 @@ vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?Telegram=@Gozarg
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?encryption=none&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?encryption=none&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#🇳🇱[openproxylist.com]
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?encryption=none&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?encryption=none&security=tls&sni=octopusss.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss.net&path=%2Fodiyfws#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?encryption=none&security=tls&sni=octopusss.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss.net&path=/odiyfws#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?encryption=none&type=ws&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net#
@@ -174,8 +166,8 @@ vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%24Free%20184%20%40Outline_Vpn
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%3E%3E%40outline_vpn%3A%3AFR
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20399566
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%3E%3E%40outline_vpn%3A%3AXX
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20167754
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#EPODONIOS
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#RELAY🚩
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
@@ -185,7 +177,7 @@ vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&se
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.netfreenettirUnited
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.netfreenettirUnited#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20864132
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20465183
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#@v2rayNplus
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#EPODONIOS
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?security=tls&sni=octopusss.net&allowInsecure=1&fp=chrome&type=ws&path=%2Fodiyfws&host=octopusss.net&encryption=none#
@@ -194,6 +186,7 @@ vless://073d1d50-8478-47bf-a828-7a1b381931d5@172.64.32.75:443?Telegram=@Gozargah
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@172.64.32.75:443?encryption=none&fp=chrome&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@172.64.32.75:443?encryption=none&fp=chrome&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@172.64.32.75:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@172.64.32.75:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@172.64.32.75:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#🇫🇷[openproxylist.com]
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@172.64.32.75:443?encryption=none&host=octopusss.net&path=/odiyfws&security=tls&sni=octopusss.net&type=ws#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@172.64.32.75:443?encryption=none&security=tls&sni=octopusss.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss.net&path=%2Fodiyfws#
@@ -216,6 +209,7 @@ vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?encryption=none&s
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?encryption=none&security=tls&sni=octopusss.net&fp=chrome&type=ws&host=octopusss.net&path=/odiyfws&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?encryption=none&type=ws&host=octopusss.net&path=%2Fodiyfws&security=tls&fp=chrome&sni=octopusss.net#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?encryption=none&type=ws&security=tls&path=%2Fodiyfws&host=octopusss.net&sni=octopusss.net&fp=chrome&insecure=0&allowInsecure=0#
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?encryption=none&type=ws&security=tls&path=%2Fodiyfws&host=octopusss.net&sni=octopusss.net&fp=chrome&insecure=0&allowInsecure=0#🇳🇱[openproxylist.com]
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#
@@ -251,3 +245,9 @@ vless://073d1d50-8478-47bf-a828-7a1b381931d5@www.speedtest.net:443?path=/odiyfws
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@www.speedtest.net:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#🔵@chillguy_vpn
 vless://073e74f3-ae5d-425a-815d-02f369820504@www80.nowbest.cf:42922?type=grpc&security=tls&serviceName=&sni=www80.nowbest.cf&fp=chrome#
 vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443/?type=tcp&encryption=none&flow=&sni=digg.com&fp=firefox&security=reality&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&sid=99d38a68#
+vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?security=reality&%3Bencryption=none&%3Bpbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&%3BheaderType=none&%3Bfp=firefox&%3Bspx=/&%3Btype=tcp&%3Bsni=digg.com&%3Bsid=99d38a68#
+vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?security=reality&encryption=none&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=digg.com&sid=99d38a68#
+vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?security=reality&encryption=none&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&headerType=none&fp=firefox&spx=/&type=tcp&sni=digg.com&sid=99d38a68#
+vless://07424c7b-b963-4785-b065-3c5cf04d6d3a@188.114.97.6:8443?alpn=h2&%3Bencryption=none&%3Bfp=chrome&%3Bpath=/amirvpn3&%3Bsecurity=tls&%3Bsni=sub2.amirserver.shop&%3Btype=ws#
+vless://07424c7b-b963-4785-b065-3c5cf04d6d3a@188.114.97.6:8443?alpn=h2&encryption=none&fp=chrome&host=&path=%2Famirvpn3&security=tls&sni=sub2.amirserver.shop&type=ws#
+vless://07424c7b-b963-4785-b065-3c5cf04d6d3a@188.114.97.6:8443?alpn=h2&encryption=none&fp=chrome&host=&path=/amirvpn3&security=tls&sni=sub2.amirserver.shop&type=ws#
