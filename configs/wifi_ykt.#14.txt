@@ -1,11 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#14
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-05 / 13:37 (YKT)
-vless://0106e870-86d5-459b-8bd6-a7a30ecf1c25@51.250.18.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#
-vless://0106e870-86d5-459b-8bd6-a7a30ecf1c25@51.250.18.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=c31f9a0e7d4b52#
-vless://0107e7ff-a576-4bb4-85fc-5a0ff84ac328@ARVAN1.FASTSPEEDS.IR:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=PPL1.xuiprospeed.ir&mode=multi&sni=PPL1.xuiprospeed.ir&fp=chrome&alpn=h2,http/1.1#
-vless://0107e7ff-a576-4bb4-85fc-5a0ff84ac328@ARVAN1.FASTSPEEDS.IR:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=PPL1.xuiprospeed.ir&mode=multi&sni=PPL1.xuiprospeed.ir&fp=chrome&alpn=h2,http/1.1#
-vless://0107e7ff-a576-4bb4-85fc-5a0ff84ac328@ARVAN2.FASTSPEEDS.IR:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=PPL2.xuiprospeed.ir&mode=multi&sni=PPL2.xuiprospeed.ir&fp=chrome&alpn=h2,http/1.1#
+# Update: 2026-07-05 / 18:25 (YKT)
 vless://0107e7ff-a576-4bb4-85fc-5a0ff84ac328@ARVAN2.FASTSPEEDS.IR:443?encryption=none&security=tls&type=grpc&headerType=none&serviceName=vless&authority=PPL2.xuiprospeed.ir&mode=multi&sni=PPL2.xuiprospeed.ir&fp=chrome&alpn=h2,http/1.1#
 vless://0107e7ff-a576-4bb4-85fc-5a0ff84ac328@x.x.x.x:2083?encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=fri.xuiprospeed.ir&mode=auto&sni=fri.xuiprospeed.ir&fp=chrome&alpn=h2,http/1.1#
 vless://01081bf7-5cb4-4b06-6d1c-2736837732fe@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#
@@ -114,7 +109,6 @@ vless://01254717-9b04-41de-9010-8c6039d51c18@snapp.ir:443?encryption=none&securi
 vless://01254717-9b04-41de-9010-8c6039d51c18@snapp.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=51.tarvar.ir&sni=51.tarvar.ir#
 vless://012570d4-4ab4-489f-b843-0cc4cab3df14@193.151.138.118:28935?type=tcp&encryption=none&security=none#
 vless://01273555-eb93-4398-b5b9-9c7e25e65fd9@198.41.209.2:8443?security=tls&sni=meta1.modinso.ir&type=grpc&serviceName=%40metavpnn&fp=firefox&alpn=h2%2Chttp%2F1.1#
-vless://01283f28-9102-487c-84a9-343e5b090c57@aws1.best-domain-1.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.com&fp=edge&pbk=S_mO5k2VEliCApgm35J0lcZ221ysNjtI_84cIH4-1CE&sid=6f4b78a2&spx=%2F&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA100267%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?encryption=none&security=none&type=tcp&headerType=none#
 vless://0128b29c-1359-4da4-c181-5125415188c7@148.113.180.24:44809?security=none&encryption=none&headerType=none&type=tcp#
 vless://012f56d3-ec46-4d7c-b5ea-995b66fb7368@62.152.58.204:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=0k11W7Kb0ncWPcknoD0xJikoESlU5ApDYySG7X7OZCU&sid=27e53bbcab7593d7&spx=%2F#
@@ -251,3 +245,9 @@ vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.17.213.252:2087?path=%2F&securi
 vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.18.36.245:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&encryption=none&insecure=0&host=cfoo-n0d.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfoo-n0d.pages.dev#
 vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.18.36.245:2053?encryption=none&host=cfoo-n0d.pages.dev&path=%2F&security=tls&sni=cfoo-n0d.pages.dev&type=ws#
 vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.18.36.245:2053?encryption=none&host=cfoo-n0d.pages.dev&path=/&security=tls&sni=cfoo-n0d.pages.dev&type=ws#
+vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.18.36.245:2053?path=%2F&security=tls&encryption=none&insecure=0&host=cfoo-n0d.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfoo-n0d.pages.dev#
+vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.18.36.245:2053?path=%2F&security=tls&encryption=none&insecure=0&host=cfoo-n0d.pages.dev&type=ws&allowInsecure=0&sni=cfoo-n0d.pages.dev#
+vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.18.36.245:2053?path=/&security=tls&encryption=none&insecure=0&host=cfoo-n0d.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfoo-n0d.pages.dev#
+vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.19.41.46:2083/?type=ws&encryption=none&flow=&host=cfoo-n0d.pages.dev&path=%2F&security=tls&sni=cfoo-n0d.pages.dev&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome#
+vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.19.41.46:2083/?type=ws&encryption=none&flow=&host=cfoo-n0d.pages.dev&path=/&security=tls&sni=cfoo-n0d.pages.dev&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome#
+vless://0137ab09-0728-4c44-8dc4-f2ac1847bffd@104.19.41.46:2083?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&encryption=none&insecure=0&host=cfoo-n0d.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=cfoo-n0d.pages.dev#

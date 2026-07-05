@@ -1,12 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#11
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-05 / 13:37 (YKT)
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?encryption=none&type=ws&host=tr-cd.sublink-vip2.com&path=%2F&security=none#
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?encryption=none&type=ws&path=%2F&host=tr-cd.sublink-vip2.com#
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#%24Free%20201%20%40Outline_Vpn
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=/&%3Bencryption=none&%3Bhost=tr-cd.sublink-vip2.com&%3Btype=ws#
+# Update: 2026-07-05 / 18:25 (YKT)
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=/&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=/&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@172.67.69.236:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#
@@ -251,3 +245,9 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&dns=https%3A%2F%2Fdns.google%2Fdns-query&direct=https%3A%2F%2Fdns.google%2Fdns-query&domain=max-gb1.global.ssl.fastly.net&sni=max-gb1.global.ssl.fastly.net#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&sni=max-gb1.global.ssl.fastly.net#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&%3Bsecurity=none&%3Bencryption=none&%3Bhost=max-gb1.global.ssl.fastly.net&%3Btype=ws#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=&encryption=none&host=max-de1.global.ssl.fastly.net&type=ws#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=/&security=none&encryption=none&host=max-de1.global.ssl.fastly.net&type=ws#

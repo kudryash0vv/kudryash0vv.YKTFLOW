@@ -1,11 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#5
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-05 / 13:37 (YKT)
-vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-api.org:443?encryption=none&security=reality&sni=api.yandex-api.org&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#
-vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-dev.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.yandex-dev.online&fp=chrome&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#
-vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-dev.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.yandex-dev.online&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#
-vless://00078220-ce04-451d-b64c-74429d14b1e3@us2.c2horizon.app:443?encryption=none&security=reality&sni=us2.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#
-vless://0009312f-7926-495e-b18f-fc957621513a@95.38.164.55:24550?security=tls&sni=l.furyvpn.top&type=ws&host=google.com&path=/&fp=chrome&allowInsecure=0#
+# Update: 2026-07-05 / 18:25 (YKT)
 vless://0009312f-7926-495e-b18f-fc957621513a@l.furyvpn.top:24550?path=%2F&security=tls&encryption=none&insecure=0&host=google.com&fp=chrome&type=ws&allowInsecure=0&sni=l.furyvpn.top#
 vless://00095073-27ce-4e9c-bb38-23d264650d6e@185.143.233.5:2083?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#
 vless://000a67a2-7b2f-4b1c-98fb-fd157fcb7c01@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#
@@ -76,7 +71,6 @@ vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@mkh.v2plus.ovh:443?path=%2F&securit
 vless://00460172-ac10-4ea1-89a5-12d2c1e2be9c@62.113.43.195:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#
 vless://00460172-ac10-4ea1-89a5-12d2c1e2be9c@62.113.43.195:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#
 vless://00460172-ac10-4ea1-89a5-12d2c1e2be9c@62.113.43.195:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.com&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#
-vless://00460172-ac10-4ea1-89a5-12d2c1e2be9c@62.113.43.195:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&flow=xtls-rprx-vision&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128#
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.14:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.14:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B3%F0%9F%87%B1%C2%AE%EF%B8%8FThe%20Netherlands%C2%A9%EF%B8%8FAmsterdam%F0%9F%85%BF%EF%B8%8Fping%3A44.28ms
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.14:8443?__rand=ea1f5b7b&flow=xtls-rprx-vision&fp=firefox&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=6f15101ff2cc4887&sni=storage.yandex.net&type=tcp#
@@ -109,6 +103,7 @@ vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.240:8443?flow=xtls-rprx-
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.240:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.26:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=6f15101ff2cc4887&sni=storage.yandex.net&type=tcp#
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.26:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=6f15101ff2cc4887&sni=storage.yandex.net&type=tcp#EPODONIOS
+vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.26:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=6f15101ff2cc4887&sni=storage.yandex.net&type=tcp#🌐سرور
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.26:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=6f15101ff2cc4887&sni=storage.yandex.net&type=tcp#🪼63@oneclickvpnkeys
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.26:8443?type=tcp&security=reality&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.9:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#
@@ -121,11 +116,11 @@ vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.9:8443?flow=xtls-rprx-vi
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.9:8443?type=tcp&encryption=none&security=none#
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.9:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#
-vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23454
-vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20881837
+vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23309
+vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20905747
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=ab4cc4f5aa354fa4#
-vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=ab4cc4f5aa354fa4#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23455
-vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=ab4cc4f5aa354fa4#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20942718
+vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=ab4cc4f5aa354fa4#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23318
+vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=storage.yandex.net&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=ab4cc4f5aa354fa4#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20371076
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@178.248.232.186:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@cherry-nll-01.live:8443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@cherry-nll-01.live:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#
@@ -251,3 +246,8 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&hos
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&host=tr-cd.sublink-vip2.com&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&host=tr-cd.sublink-vip2.com&path=/?TELEGRAM-v2ray_configs_pools?ed=512&security=none&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&host=tr-cd.sublink-vip2.com&security=none&type=ws#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&security=none&type=ws&host=tr-cd.sublink-vip2.com&path=%2F#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&security=none&type=ws&host=tr-cd.sublink-vip2.com&path=/#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&type=ws&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&host=tr-cd.sublink-vip2.com#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&type=ws&path=%2F&host=tr-cd.sublink-vip2.com#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?encryption=none&type=ws&path=/&host=tr-cd.sublink-vip2.com#

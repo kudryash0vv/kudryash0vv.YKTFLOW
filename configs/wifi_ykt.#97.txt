@@ -1,6 +1,21 @@
 # profile-title: kudryash0vv.WIFI.#97
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-05 / 13:37 (YKT)
+# Update: 2026-07-05 / 18:25 (YKT)
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@172.67.73.14:443?path=/131.186.26.129=30443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@172.67.73.14:443?security=tls&type=ws&path=/&host=afrcloud22.mmv.kr&sni=afrcloud22.mmv.kr&fp=chrome&encryption=none#
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F#
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F131.186.26.129%3D30443#
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/131.186.26.129=30443#
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F#
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F131.186.26.129%3D30443#
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/131.186.26.129=30443#
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?path=%2F131.186.26.129%3D30443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?path=/131.186.26.129=30443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?path=/131.186.26.129=30443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#
+vless://160732bc-4336-47c0-b2da-cf1dbdd59fc1@217.16.27.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5#
+vless://160732bc-4336-47c0-b2da-cf1dbdd59fc1@217.16.27.113:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5#
+vless://1608d941-0716-4190-ae2e-1bcd7dc72cc6@104.16.1.110:2053?security=tls&type=ws&path=/eyJqdW5rIjoiNkQ2ZXpucnFScHFzdCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ&host=super-term-8650.persiana-sport1.workers.dev&sni=super-term-8650.persiana-sport1.workers.dev&fp=chrome#
+vless://1608d941-0716-4190-ae2e-1bcd7dc72cc6@104.16.1.25:8443?encryption=none&fp=chrome&host=super-term-8650.persiana-sport1.workers.dev&path=%2FeyJqdW5rIjoiNkQ2ZXpucnFScHFzdCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ%3D%3D&security=tls&sni=super-term-8650.persiana-sport1.workers.dev&type=ws#
 vless://1608d941-0716-4190-ae2e-1bcd7dc72cc6@104.16.1.25:8443?encryption=none&fp=chrome&host=super-term-8650.persiana-sport1.workers.dev&path=/eyJqdW5rIjoiNkQ2ZXpucnFScHFzdCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==&security=tls&sni=super-term-8650.persiana-sport1.workers.dev&type=ws#
 vless://1608d941-0716-4190-ae2e-1bcd7dc72cc6@104.16.1.25:8443?path=/eyJqdW5rIjoiNkQ2ZXpucnFScHFzdCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ%3D%3D&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=super-term-8650.persiana-sport1.workers.dev&%3Bfp=chrome&%3Btype=ws&%3Bsni=super-term-8650.persiana-sport1.workers.dev#
 vless://1608d941-0716-4190-ae2e-1bcd7dc72cc6@104.16.1.25:8443?security=tls&type=ws&path=/eyJqdW5rIjoiNkQ2ZXpucnFScHFzdCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ%3D%3D&host=super-term-8650.persiana-sport1.workers.dev&sni=super-term-8650.persiana-sport1.workers.dev&fp=chrome#
@@ -109,7 +124,6 @@ vless://16227db7-1914-4a97-bb6b-7bf98e6b525b@185.143.232.201:443?path=/&security
 vless://16227db7-1914-4a97-bb6b-7bf98e6b525b@185.143.232.201:443?path=/&security=tls&encryption=none&insecure=0&host=zapzap.mc.filimo.cam&type=ws&allowInsecure=0&sni=zapzap.mc.filimo.cam#EPODONIOS
 vless://16227db7-1914-4a97-bb6b-7bf98e6b525b@185.143.232.201:443?path=/&security=tls&encryption=none&insecure=0&host=zapzap.mc.filimo.cam&type=ws&allowInsecure=0&sni=zapzap.mc.filimo.cam#Tel-@ProxyMtAlpha🍤
 vless://16227db7-1914-4a97-bb6b-7bf98e6b525b@185.143.232.201:443?path=/&security=tls&encryption=none&insecure=0&host=zapzap.mc.filimo.cam&type=ws&allowInsecure=0&sni=zapzap.mc.filimo.cam#telegram
-vless://16227db7-1914-4a97-bb6b-7bf98e6b525b@185.143.232.201:443?path=/&security=tls&encryption=none&insecure=0&host=zapzap.mc.filimo.cam&type=ws&allowInsecure=0&sni=zapzap.mc.filimo.cam#🔵@chillguy_vpn
 vless://16227db7-1914-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#
 vless://16227db7-1914-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://1623737f-dd69-42b5-9cf7-26ff55b49dd2@136.244.104.232:48153?security=none&encryption=none&headerType=none&type=tcp#
@@ -237,17 +251,3 @@ vless://165faa00-04d1-4159-b491-7be1d446d8b3@speedtestnetggogleyahoo.abczy.ir:44
 vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@185.143.233.122:2052?encryption=none&security=none&type=ws&host=vpn.ksmrx.ir&path=/ICVPNN#
 vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@185.143.234.122:2052?encryption=none&security=none&type=ws&host=vpn.ksmrx.ir&path=/ICVPNN#
 vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@snapp.ir:2052?encryption=none&host=vpn.ksmrx.ir&path=%2FICVPNN&security=none&type=ws#
-vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@snapp.ir:2052?encryption=none&host=vpn.ksmrx.ir&path=/ICVPNN&security=none&type=ws#
-vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@snapp.ir:2052?encryption=none&security=none&type=ws&host=vpn.ksmrx.ir&path=%2FICVPNN#
-vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@snapp.ir:2052?encryption=none&security=none&type=ws&host=vpn.ksmrx.ir&path=/ICVPNN#
-vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@snapp.ir:2052?path=%2FICVPNN&security=none&encryption=none&host=vpn.ksmrx.ir&type=ws#
-vless://1662f026-bca9-4db7-8f85-e2c76d7073ff@snapp.ir:2052?path=/ICVPNN&security=none&encryption=none&host=vpn.ksmrx.ir&type=ws#
-vless://16658809-215c-4709-ac09-5aaa48e4cbf3@sub.pardisvps.ir:2086?type=ws&security=none&path=%2F&host=connect.pardisvps.ir#
-vless://16658809-215c-4709-ac09-5aaa48e4cbf3@sub.pardisvps.ir:2086?type=ws&security=none&path=/&host=connect.pardisvps.ir#
-vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.196.173:10504/?type=ws&encryption=none&flow=&path=%2F#
-vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.196.173:10504?type=ws&security=none#
-vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@95.217.246.212:10504?type=ws&security=none#
-vless://16680b66-e416-4d8e-9a6e-59bfcf487f8b@158.160.206.199:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=AvSwsAIp3t2sTvNDZwTPkbcanvu9wtvLyZ6FCzIM-Rk&sid=7ada97abaa&spx=/#
-vless://16680b66-e416-4d8e-9a6e-59bfcf487f8b@158.160.53.173:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8&sid=bd3cda1117aa&spx=/#
-vless://16680b66-e416-4d8e-9a6e-59bfcf487f8b@51.250.26.148:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8&sid=bd3cda1117aa&spx=/#
-vless://16680b66-e416-4d8e-9a6e-59bfcf487f8b@51.250.7.246:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=AvSwsAIp3t2sTvNDZwTPkbcanvu9wtvLyZ6FCzIM-Rk&sid=7ada97abaa&spx=/#

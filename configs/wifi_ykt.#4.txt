@@ -1,11 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#4
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-05 / 13:37 (YKT)
-vless://00000000-0000-4000-8000-000000000000@173.249.210.53:56671?mode=multi&security=tls&encryption=none&type=ws&flow=&fp=chrome&sni=uq2ox3bplnlgtr.myto.ip-ddns.com&path=/@VPNine1&host=uq2ox3bplnlgtr.myto.ip-ddns.com#
-vless://00000000-0000-4000-8000-000000000000@173.249.210.53:56671?sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chromefp=chrome&security=tls#
-vless://00000000-0000-4000-8000-000000000000@175.118.151.148:30030?allowInsecure=1&sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chrome&security=tls#
-vless://00000000-0000-4000-8000-000000000000@175.118.151.148:30030?allowInsecure=1&sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chromesecurity=tls#
-vless://00000000-0000-4000-8000-000000000000@178.128.19.168:4399?security=tls&type=ws&path=%2F%40Marisa_kristifp%3Dchrome&host=adv2m5gy-wrhiahph85c.ovtc.qzz.io&sni=adv2m5gy-wrhiahph85c.ovtc.qzz.io&fp=chrome#
+# Update: 2026-07-05 / 18:25 (YKT)
 vless://00000000-0000-4000-8000-000000000000@178.128.19.168:4399?sni=adv2m5gy-wrhiahph85c.ovtc.qzz.io&type=ws&host=adv2m5gy-wrhiahph85c.ovtc.qzz.io&path=/@Marisa_kristifp=chrome&security=tls#
 vless://00000000-0000-4000-8000-000000000000@178.128.19.168:4399?sni=adv2m5gy-wrhiahph85c.ovtc.qzz.io&type=ws&host=adv2m5gy-wrhiahph85c.ovtc.qzz.io&path=/@Marisa_kristifp=chromesecurity=tls#
 vless://00000000-0000-4000-8000-000000000000@178.62.81.144:12306?sni=rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me&type=ws&host=rvbtoc55o588ipfx2qieoygyk0hur.saghv.filegear-sg.me&path=/@Marisa_kristifp=chrome&security=tls#
@@ -251,3 +246,8 @@ vless://00031753-49cb-4cf3-bd11-7da554e19b44@87.120.106.53:443?encryption=none&f
 vless://0003e7f6-a775-405a-abe5-cb6cca2cc034@anten.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ws&security=&encryption=mlkem768x25519plus.random.0rtt.Pbq_ppp5sZDBncfRD3r81MWVXy8W5F5_Uv_js_abZ0o&host=wsb.kalak.ca&type=ws#
 vless://0003e7f6-a775-405a-abe5-cb6cca2cc034@anten.ir:80?path=%2Fws&security=&encryption=mlkem768x25519plus.random.0rtt.Pbq_ppp5sZDBncfRD3r81MWVXy8W5F5_Uv_js_abZ0o&host=wsb.kalak.ca&type=ws#
 vless://0003e7f6-a775-405a-abe5-cb6cca2cc034@anten.ir:80?path=/ws&security=&encryption=mlkem768x25519plus.random.0rtt.Pbq_ppp5sZDBncfRD3r81MWVXy8W5F5_Uv_js_abZ0o&host=wsb.kalak.ca&type=ws#
+vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-api.org:443?encryption=none&security=reality&sni=api.yandex-api.org&fp=edge&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#
+vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-dev.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.yandex-dev.online&fp=chrome&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#
+vless://00078220-ce04-451d-b64c-74429d14b1e3@api.yandex-dev.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.yandex-dev.online&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#
+vless://00078220-ce04-451d-b64c-74429d14b1e3@us2.c2horizon.app:443?encryption=none&security=reality&sni=us2.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#
+vless://0009312f-7926-495e-b18f-fc957621513a@95.38.164.55:24550?security=tls&sni=l.furyvpn.top&type=ws&host=google.com&path=/&fp=chrome&allowInsecure=0#
