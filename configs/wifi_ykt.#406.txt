@@ -1,6 +1,11 @@
 # profile-title: kudryash0vv.WIFI.#406
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-06 / 13:48 (YKT)
+# Update: 2026-07-06 / 20:10 (YKT)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.42.40:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=/?https://t.me/wangcai2=&security=tls&sni=sni.111000.v6.army&type=ws#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.42.40:443?encryption=none&host=sni.111000.v6.army&path=%2F%3Fhttps%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&sni=sni.111000.v6.army&type=ws#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.42.98:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.42.98:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:2053?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:2053?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:443?path=/?Telegram+@WangCai2=&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#
@@ -246,8 +251,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&sec
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Ftelegram%25f0%259f%2587%25a8%25f0%259f%2587%25b3%2540wangcai2%3D#
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Ftelegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2%3D#
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram@wangcai2#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.v6.army&insecure=1&type=ws&host=sni.111000.v6.army&path=%2F%3Fhttps%253a%252f%252ft.me%252fwangcai2%25f0%259f%2587%25a8%25f0%259f%2587%25b3%3D#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.v6.army&insecure=1&type=ws&host=sni.111000.v6.army&path=/?https%3a%2f%2ft.me%2fwangcai2%f0%9f%87%a8%f0%9f%87%b3=#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.v6.navy&fp=chrome&insecure=1&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@127.0.0.1:40443?encryption=none&security=tls&sni=sni.111000.v6.navy&fp=chrome&insecure=1&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#

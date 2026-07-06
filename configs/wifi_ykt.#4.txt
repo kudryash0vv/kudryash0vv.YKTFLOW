@@ -1,6 +1,10 @@
 # profile-title: kudryash0vv.WIFI.#4
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-06 / 13:48 (YKT)
+# Update: 2026-07-06 / 20:10 (YKT)
+vless://00000000-0000-4000-8000-000000000000@209.38.196.1:486?security=tls&type=ws&path=%2F%40Marisa_kristifp%3Dchrome&host=nisav2de2t0ai8p-hd0.misa.cc.cd&sni=nisav2de2t0ai8p-hd0.misa.cc.cd&fp=chrome#
+vless://00000000-0000-4000-8000-000000000000@209.38.196.1:486?sni=nisav2de2t0ai8p-hd0.misa.cc.cd&type=ws&host=nisav2de2t0ai8p-hd0.misa.cc.cd&path=/@Marisa_kristifp=chrome&security=tls#
+vless://00000000-0000-4000-8000-000000000000@209.38.196.1:486?sni=nisav2de2t0ai8p-hd0.misa.cc.cd&type=ws&host=nisav2de2t0ai8p-hd0.misa.cc.cd&path=/@Marisa_kristifp=chromesecurity=tls#
+vless://00000000-0000-4000-8000-000000000000@209.38.241.0:12306?&security=tls&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&headerType=none&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=%2F%40Marisa_kristifp%3Dchrome#
 vless://00000000-0000-4000-8000-000000000000@209.38.241.0:12306?encryption=none&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=%2F%40Marisa_kristifp%3Dchrome&security=tls&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws#
 vless://00000000-0000-4000-8000-000000000000@209.38.241.0:12306?encryption=none&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws#
 vless://00000000-0000-4000-8000-000000000000@209.38.241.0:12306?sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#
@@ -247,7 +251,3 @@ vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443/?type=xhttp&encryp
 vless://0013d3a3-6b4b-4161-a051-592490392c6a@104.17.121.71:2096?encryption=none&type=grpc&security=tls&serviceName=iribnews.ir.eghtesadonline.com.mizanonline.com.tabnak.ir.rajanews.com.tabnak.ir.fararu.com&sni=fLamboyanT-PeRsoNAp6F0m17Id.WinDLEr.CO.uK&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#
 vless://0013d3a3-6b4b-4161-a051-592490392c6a@104.17.121.71:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=iribnews.ir.eghtesadonline.com.mizanonline.com.tabnak.ir.rajanews.com.tabnak.ir.fararu.com&allowInsecure=0&sni=fLamboyanT-PeRsoNAp6F0m17Id.WinDLEr.CO.uK#
 vless://001443d2-2b80-4c30-9c5e-231a9cf7ea35@95.179.166.190:58132?encryption=mlkem768x25519plus.native.0rtt.C3fL0oSkGeuYI-qyKstsDKBwPCaYuUeTBbB2AtjAATE&security=none&type=tcp#
-vless://00161c65-9f53-40fa-14e1-c5878f7ff53f@subbb.garkao.ir:8080?encryption=none&type=ws&path=/&host=cdn-665e-o0g.fars-rehan.ir#
-vless://00161c65-9f53-40fa-14e1-c5878f7ff53f@subbb.garkao.ir:8080?security=none&type=ws&headerType=none&encryption=none&path=%2F&host=cdn-665e-o0g.fars-rehan.ir#
-vless://00161c65-9f53-40fa-14e1-c5878f7ff53f@subbb.garkao.ir:8080?security=none&type=ws&headerType=none&encryption=none&path=/&host=cdn-665e-o0g.fars-rehan.ir#
-vless://001a4a4e-d324-4964-ad5c-0e32c9a0d6e6@195.209.87.198:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=edge&sni=s43362.cdn.ngenix.net&alpn=http/1.1#

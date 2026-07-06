@@ -1,8 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#394
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-06 / 13:48 (YKT)
-vless://5eb55116-4f97-4719-919e-577c9e93cb42@185.22.235.219:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=web.max.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
-vless://5eb55116-4f97-4719-919e-577c9e93cb42@51.250.82.20:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#
+# Update: 2026-07-06 / 20:10 (YKT)
 vless://5eb55116-4f97-4719-919e-577c9e93cb42@51.250.82.20:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://5eb55116-4f97-4719-919e-577c9e93cb42@84.201.172.95:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
 vless://5eb55116-4f97-4719-919e-577c9e93cb42@84.201.172.95:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=/#
@@ -251,3 +249,5 @@ vless://5f0c9583-7dab-4288-908f-9fa86b82d0bc@151.101.66.219:443?security=tls&sni
 vless://5f0c9583-7dab-4288-908f-9fa86b82d0bc@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=kingstore.ir&path=Join:@VPNine1-telegram:@VPNine1-join-chanel:@VPNine1-join:@VPNine1-telegram:@VPNine1/?ed=1024&fp=chrome&alpn=h2,http/1.1#
 vless://5f0c9583-7dab-4288-908f-9fa86b82d0bc@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=kingstore.ir&path=Join:@oPeTa_v2ray-telegram:@oPeTa_v2ray-join-chanel:@oPeTa_v2ray-join:@opeta_v2ray-telegram:@opeta_v2ray/?ed=1024&fp=chrome&alpn=h2,http/1.1#
 vless://5f102c23-d35a-4c05-b5de-6d467272a1fc@hostioko.online:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fapi%2Fcpanel%2FCPnHeezFoAZcv3jcS7E6N02HfkRN%3Fed%3D2560&host=hostioko.online&sni=hostioko.online&fp=chrome&alpn=http%2F1.1#
+vless://5f102c23-d35a-4c05-b5de-6d467272a1fc@snapp.ir:443?encryption=none&%3Bsecurity=tls&%3Btype=ws&%3BheaderType=none&%3Bpath=/graphql%3Fed%3D2560&%3Bhost=g13.derakcloud.org&%3Bsni=g13.derakcloud.org&%3Bfp=chrome&%3Balpn=h3%2Ch2%2Chttp/1.1#
+vless://5f102c23-d35a-4c05-b5de-6d467272a1fc@snapp.ir:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=g13.derakcloud.org&sni=g13.derakcloud.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#
