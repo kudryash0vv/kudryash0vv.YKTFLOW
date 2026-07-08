@@ -1,6 +1,12 @@
 # profile-title: kudryash0vv.WIFI.#28
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-08 / 12:52 (YKT)
+# Update: 2026-07-08 / 18:04 (YKT)
+vless://04541184-12a8-4919-a5dc-a80c7eccdcd2@172.67.220.1:2083?path=%2Flogin&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=panel.jarorobo.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.jarorobo.ir#
+vless://04541184-12a8-4919-a5dc-a80c7eccdcd2@172.67.220.1:2083?path=/login&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=panel.jarorobo.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.jarorobo.ir#
+vless://04541184-12a8-4919-a5dc-a80c7eccdcd2@172.67.220.1:2087?path=%2Fstream&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&host=auth.tahataghi.ir&fp=chrome&type=ws&allowInsecure=0&sni=auth.tahataghi.ir#
+vless://04541184-12a8-4919-a5dc-a80c7eccdcd2@172.67.220.1:2087?path=/stream&security=tls&alpn=http/1.1,h2&encryption=none&insecure=0&host=auth.tahataghi.ir&fp=chrome&type=ws&allowInsecure=0&sni=auth.tahataghi.ir#
+vless://04541184-12a8-4919-a5dc-a80c7eccdcd2@172.67.220.1:8443?path=%2Fwp-admin&security=tls&alpn=h2&encryption=none&insecure=0&host=dashboard.amirmeti.ir&fp=chrome&type=ws&allowInsecure=0&sni=dashboard.amirmeti.ir#
+vless://04541184-12a8-4919-a5dc-a80c7eccdcd2@172.67.220.1:8443?path=/wp-admin&security=tls&alpn=h2&encryption=none&insecure=0&host=dashboard.amirmeti.ir&fp=chrome&type=ws&allowInsecure=0&sni=dashboard.amirmeti.ir#
 vless://04541184-12a8-4919-a5dc-a80c7eccdcd2@173.245.58.84:2083?path=%2Flogin&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=panel.jarorobo.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.jarorobo.ir#
 vless://04541184-12a8-4919-a5dc-a80c7eccdcd2@173.245.58.84:2083?path=/login&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=panel.jarorobo.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.jarorobo.ir#
 vless://04541184-12a8-4919-a5dc-a80c7eccdcd2@173.245.58.84:2087?path=%2Fstream&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&host=auth.tahataghi.ir&fp=chrome&type=ws&allowInsecure=0&sni=auth.tahataghi.ir#
@@ -112,6 +118,7 @@ vless://04600c5d-97ad-49fa-8eec-6c081f4981b0@45.12.136.165:40285?type=tcp&securi
 vless://0464408a-3db1-4685-92ee-d938d2b58e97@104.16.1.106:2082?encryption=none&type=ws&host=DEADSEECtelegram.khasispc.ir&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#
 vless://0464609f-a702-4d2b-9667-76b892b4788d@104.16.75.207:443?encryption=none&security=tls&sni=amir.amirrad.qzz.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&type=xhttp&host=amir.amirrad.qzz.io&path=%2FAmirrad&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#
 vless://0464609f-a702-4d2b-9667-76b892b4788d@104.16.75.207:443?encryption=none&security=tls&sni=amir.amirrad.qzz.io&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&fm={
+vless://0464609f-a702-4d2b-9667-76b892b4788d@45.130.125.198:443?encryption=none&security=tls&sni=amir.amirrad.qzz.io&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%221%22%2C%22maxSplit%22%3A%22%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&type=xhttp&host=amir.amirrad.qzz.io&path=%2FAmirrad&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#🌐سرور
 vless://0464609f-a702-4d2b-9667-76b892b4788d@45.130.125.198:443?encryption=none&security=tls&sni=amir.amirrad.qzz.io&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&fm={
 vless://04648e46-bb05-48e8-8a0e-c8ba9f74ae43@54.38.136.47:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=none#
 vless://04648e46-bb05-48e8-8a0e-c8ba9f74ae43@54.38.136.47:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#
@@ -231,23 +238,16 @@ vless://049a2b6b-0c09-4f07-a4b7-7893e50bbe27@46.254.17.72:443?flow=xtls-rprx-vis
 vless://049a2b6b-0c09-4f07-a4b7-7893e50bbe27@62.152.56.73:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=wl-12.nodes.ac&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&sid=cf43c0c197cd464a#
 vless://049a2b6b-0c09-4f07-a4b7-7893e50bbe27@62.152.58.114:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-13-1.nodes.ac&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&sid=3130197867c23edb#
 vless://049bd3f6-fdcd-440c-835b-109ffc7d3b34@italy-seren.serendpiti.ir:1098?sid=7bba64a7eb72a71b&pbk=-Hc8DumzuU3vH_3mhQjpM1GjzFI7Sjrpw7KRIX_7VyE&fp=chrome&host=yahoo.com&security=reality&type=xhttp&path=%2Fpath&sni=yahoo.com&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&mode=auto&encryption=none#
-vless://049bda3c-3fee-4c96-89ec-567b6a5da1e4@195.208.65.150:443?fp=chrome&host=s46270.cdn.ngenix.net&path=%2Fv1%2Fdata%2Fsync%2F&security=tls&sni=s46270.cdn.ngenix.net&type=ws#
 vless://049bda3c-3fee-4c96-89ec-567b6a5da1e4@195.208.65.150:443?type=ws&security=tls&fp=chrome&sni=s46270.cdn.ngenix.net&path=/v1/data/sync/&host=s46270.cdn.ngenix.net#
 vless://049c72a2-8948-441c-af27-fb738c6d8551@185.152.92.50:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#
 vless://049c72a2-8948-441c-af27-fb738c6d8551@85.239.55.203:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=/vless/&security=none&type=ws#
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20591736
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20777347
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&path=/vless/&security=none&type=ws#
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20717213
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&path=/vless/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20266098
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&type=ws&path=/vless/#
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=%2Fvless%2F&security=&encryption=none&host=OV-Italy1.09vpn.com&type=ws#
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=/vless/&encryption=none&host=OV-Italy1.09vpn.com&type=ws#
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=/vless/&encryption=none&type=ws#
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=/vless/&security=&encryption=none&type=ws#
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?security=none&type=ws&host=OV-Italy1.09vpn.com&path=%2Fvless%2F#
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?security=none&type=ws&path=/vless/&encryption=none#
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?type=ws&path=/vless/&host=OV-Italy1.09vpn.com#
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/vless/&security=&encryption=none&type=ws#

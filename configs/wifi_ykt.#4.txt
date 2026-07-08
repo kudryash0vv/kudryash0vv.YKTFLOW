@@ -1,6 +1,8 @@
 # profile-title: kudryash0vv.WIFI.#4
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-08 / 12:52 (YKT)
+# Update: 2026-07-08 / 18:04 (YKT)
+vless://-----v2ray_fark-----@v2ray-fark.ddns.net:58270?type=tcp&path=/---@v2ray_fark@v2ray_fark&host=fast.com&headerType=http&security=none#
+vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#
 vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop#
 vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop#
 vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop#
@@ -249,5 +251,3 @@ vless://00000000-0000-4000-8000-000000000000@160.16.72.181:8081?Telegram=@Gozarg
 vless://00000000-0000-4000-8000-000000000000@160.16.72.181:8081?encryption=none&type=ws&path=%2F%40Marisa_kristi&host=6-4duf7t7tz2hxw9v.g43lodfymjzfsy1qm9w4pgjyekeipu8ifuld8knorbjz3vy9.workers.dev&security=tls&sni=6-4duf7t7tz2hxw9v.g43lodfymjzfsy1qm9w4pgjyekeipu8ifuld8knorbjz3vy9.workers.dev&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@160.16.72.181:8081?encryption=none&type=ws&path=/@Marisa_kristi&host=6-4duf7t7tz2hxw9v.g43lodfymjzfsy1qm9w4pgjyekeipu8ifuld8knorbjz3vy9.workers.dev&security=tls&sni=6-4duf7t7tz2hxw9v.g43lodfymjzfsy1qm9w4pgjyekeipu8ifuld8knorbjz3vy9.workers.dev&fp=chrome#
 vless://00000000-0000-4000-8000-000000000000@162.141.130.233:24443?encryption=none&security=tls&sni=guslef2w8oz12wv.ymj.xx.kg&insecure=0&allowInsecure=0&type=ws&path=%2F%40Marisa_kristi#
-vless://00000000-0000-4000-8000-000000000000@162.141.130.233:24443?encryption=none&security=tls&sni=guslef2w8oz12wv.ymj.xx.kg&type=ws&host=guslef2w8oz12wv.ymj.xx.kg&path=%2F%40Marisa_kristi#
-vless://00000000-0000-4000-8000-000000000000@162.141.130.233:24443?sni=guslef2w8oz12wv.ymj.xx.kg&type=ws&host=guslef2w8oz12wv.ymj.xx.kg&path=/@Marisa_kristifp=chromesecurity=tls#
