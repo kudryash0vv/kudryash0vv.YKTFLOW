@@ -1,27 +1,21 @@
 # profile-title: kudryash0vv.WIFI.#8
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-12 / 13:05 (YKT)
-vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?security=reality&encryption=none&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net&sid=9891d7#EPODONIOS
-vless://04b861c6-b23c-4d4e-b98c-56743df7b89a@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#
-vless://04ba133d-1f99-4f5c-b942-bed79cddd0a0@146.75.123.82:80/?type=xhttp&encryption=none#
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.147.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#
-vless://04bc391e-1531-4ba9-bf6f-a1096ac3cb22@213.226.112.213:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-7-5.nodes.ac&pbk=sXOFKo2LTiE3qg7Z68FIiwTYvhNNSAOTx9AYMuUoUnk&sid=07d3a29177aefcb6#
-vless://04bc391e-1531-4ba9-bf6f-a1096ac3cb22@37.143.14.212:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-8-1.nodes.ac&pbk=knrqm393ghxJNYj-4qu2BYpwpG5_zOG5h5-H7yyyR38&sid=0be28edc1b0278d6#
-vless://04bc391e-1531-4ba9-bf6f-a1096ac3cb22@37.9.4.224:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-2-1.legendary.ac&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&sid=aa03ec59c9695e91#
-vless://04bc391e-1531-4ba9-bf6f-a1096ac3cb22@45.11.26.233:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-7-4.nodes.ac&pbk=68wQdK61R38B7NqXnaTh9KMgKx12UNiXLjVVnskVwGs&sid=cf17fba21273fe11#
-vless://04bc391e-1531-4ba9-bf6f-a1096ac3cb22@45.11.26.234:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=edge&sni=wl-7-6.nodes.ac&pbk=QxW0nwrOXYHuEeL4PXObUDEackg-ebQ_9Vgl01IwsxM&sid=77173c666c84bec1#
-vless://04bc391e-1531-4ba9-bf6f-a1096ac3cb22@62.152.56.73:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=edge&sni=wl-12.nodes.ac&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&sid=cf43c0c197cd464a#
+# Update: 2026-07-12 / 17:36 (YKT)
 vless://04bc391e-1531-4ba9-bf6f-a1096ac3cb22@62.152.58.114:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-13-1.nodes.ac&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&sid=3130197867c23edb#
 vless://04bd2301-8fea-462f-b74b-e244c514135d@a.ru.maviks.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.ru&fp=chrome&security=reality&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#
 vless://04bd2301-8fea-462f-b74b-e244c514135d@a.ru.maviks.ru:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=0f917152a871e9c0#
 vless://04c16649-bbf3-41fc-99eb-7507668221d2@77.221.154.152:8444?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#
 vless://04c32902-5c34-4edb-8e5b-9cead06b4ce0@51.250.26.148:443?type=grpc&security=reality&sni=ads.x5.ru&fp=chrome&pbk=DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8&sid=bd3cda1117aa#
-vless://04c32902-5c34-4edb-8e5b-9cead06b4ce0@84.201.165.188:443?type=grpc&security=reality&sni=ads.x5.ru&fp=chrome&pbk=DpJfEeCD3JpT18qNZQbNzi-tye_6ibubpKNIf6lonB8&sid=bd3cda1117aa#
 vless://04c73880-8479-4164-bd2c-e7d49eb82c2c@freedom.panelmarzban.com:1300/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=chrome&security=reality&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA&sid=#
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?security=tls&type=ws&path=/?ed=2560fp=chrome&host=misaka.cndyw.ggff.net&packetEncoding=xudp&sni=misaka.cndyw.ggff.net&fp=chrome#
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@japan.com:443?encryption=none&security=tls&sni=misaka.cndyw.ggff.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=misaka.cndyw.ggff.net&path=/#
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@japan.com:443?encryption=none&security=tls&sni=misaka.cndyw.ggff.net&fp=random&insecure=0&allowInsecure=0&type=ws&host=misaka.cndyw.ggff.net&path=%2F#
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@japan.com:443?encryption=none&security=tls&sni=misaka.cndyw.ggff.net&fp=random&insecure=0&allowInsecure=0&type=ws&host=misaka.cndyw.ggff.net&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@japan.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@japan.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@shopify.com:443?security=tls&type=ws&path=/?ed=2560fp=random&host=misaka.cndyw.ggff.net&packetEncoding=xudp&sni=misaka.cndyw.ggff.net&fp=chrome#
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?security=tls&type=ws&path=/?ed=2560fp=random&host=misaka.cndyw.ggff.net&packetEncoding=xudp&sni=misaka.cndyw.ggff.net&fp=chrome#
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#
@@ -251,3 +245,9 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.167.148:22224?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.167.148:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.18.183:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.201.137:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.158.18.102:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.131.212:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.252.86:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.16.16:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.175.3:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.111.41:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
