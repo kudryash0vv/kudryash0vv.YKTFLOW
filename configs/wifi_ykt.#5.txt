@@ -1,15 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#5
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-14 / 12:42 (YKT)
-vless://018bec03-d598-415f-a8b1-40a24616c75d@176.109.85.112:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5#
-vless://018bec03-d598-415f-a8b1-40a24616c75d@217.16.27.113:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5#
-vless://018bec03-d598-415f-a8b1-40a24616c75d@217.16.27.113:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=ads.x5.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5#
-vless://018bec03-d598-415f-a8b1-40a24616c75d@217.16.27.113:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=eh.vk.com&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5#
-vless://018bec03-d598-415f-a8b1-40a24616c75d@217.16.27.113:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=max.ru&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&sid=a1b2c3d4e5#
-vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@162.159.136.234:2053/?type=grpc&encryption=none&serviceName=2053vless&security=tls&sni=sub1.ailreza.org.tr&fp=chrome#
-vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@194.76.18.253:2087/?type=grpc&encryption=none&serviceName=%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80Free%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80&security=tls&sni=qauuf2.telzirrr.com.tr&fp=chrome#
-vless://0197e8de-a0c5-4d0a-a982-e04748ca1e8f@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#
-vless://01997b9d-a1f7-e188-981a-c665b723cfef@185.158.133.43:2096?encryption=none&security=tls&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets&mux=false&packetEncoding=none#
+# Update: 2026-07-14 / 17:33 (YKT)
 vless://01997b9d-a1f7-e188-981a-c665b723cfef@185.158.133.43:2096?encryption=none&security=tls&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets&mux=false&packetEncoding=none#qol_25
 vless://019ce7a2-37ea-464b-98da-8c6e28dc4e5c@tnl36.radvinmax.ir:8764?encryption=none&security=none&type=tcp&headerType=http#
 vless://019deb98-eef7-4a69-983a-1f9fd77f5280@172.67.197.9:2095?encryption=none&security=none&type=ws&host=worker-gentle-unit-1324.db126b023f83.workers.dev&path=%2F%3Fed%3D2048#
@@ -84,6 +75,7 @@ vless://01b794fb-fa59-46a4-8140-50c63dda3621@VPNCUSTOMIZE.fastly80-3.hosting-ip.
 vless://01b794fb-fa59-46a4-8140-50c63dda3621@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws#
 vless://01b9bb98-ee11-4362-b397-8666d2abc97b@snapp.ir:8080?path=/wp-content/addons/downloader.php&security=none&encryption=none&host=pro.babayaroabasino.ir&type=ws#
 vless://01c2fb74-10b5-452d-b893-67cb528b6a8d@162.159.46.0:8880?encryption=none&type=ws&host=lucky-field-0220.191-de2.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#
+vless://01c2fb74-10b5-452d-b893-67cb528b6a8d@162.159.46.0:8880?encryption=none&type=ws&host=lucky-field-0220.191-de2.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://01c2fb74-10b5-452d-b893-67cb528b6a8d@162.159.46.0:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=lucky-field-0220.191-de2.workers.dev&packetEncoding=xudp#
 vless://01c2fb74-10b5-452d-b893-67cb528b6a8d@162.159.46.0:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=lucky-field-0220.191-de2.workers.dev&packetEncoding=xudp#
 vless://01c2fb74-10b5-452d-b893-67cb528b6a8d@162.159.46.0:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=lucky-field-0220.191-de2.workers.dev&packetEncoding=xudp#t.me%2Ffreekesha21
@@ -99,12 +91,15 @@ vless://01cf905a-234c-4f0b-b538-74501aaebcd9@arazlink.marzgozar.com:6400?securit
 vless://01cf905a-234c-4f0b-b538-74501aaebcd9@arazlink.mymarzban.com:6400?security=reality&encryption=none&pbk=0WcBGfCxVDJDCkiDjLPhAQg4sZJ1dvyPpH9-CRlJlz0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e251f5ea64441c6f#
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.chandplus.com#
 vless://01dfcada-2cef-4b85-86f2-7183df189918@104.16.72.105:443?&security=tls&fp=chrome&sni=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&type=ws&headerType=none&host=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh#
+vless://01dfcada-2cef-4b85-86f2-7183df189918@104.16.72.105:443?encryption=none&type=ws&host=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&fp=chrome&sni=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev#
 vless://01dfcada-2cef-4b85-86f2-7183df189918@104.16.72.105:80?security=none&type=ws&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&host=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&packetEncoding=xudp&sni=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&encryption=none#
 vless://01dfcada-2cef-4b85-86f2-7183df189918@104.17.223.228:443?&security=tls&fp=chrome&sni=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&type=ws&headerType=none&host=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh#
 vless://01dfcada-2cef-4b85-86f2-7183df189918@104.19.184.2:443?&security=tls&fp=chrome&sni=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&type=ws&headerType=none&host=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh#
 vless://01dfcada-2cef-4b85-86f2-7183df189918@104.19.184.2:443?encryption=none&security=tls&sni=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh#
 vless://01dfcada-2cef-4b85-86f2-7183df189918@104.19.184.2:443?encryption=none&security=tls&sni=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&type=ws&host=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&mux=false&packetEncoding=none#
 vless://01dfcada-2cef-4b85-86f2-7183df189918@104.19.184.2:443?encryption=none&security=tls&sni=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&type=ws&host=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&mux=false&packetEncoding=none#qol_05
+vless://01dfcada-2cef-4b85-86f2-7183df189918@199.181.197.73:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&fp=android&type=ws&allowInsecure=0&sni=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev#
+vless://01dfcada-2cef-4b85-86f2-7183df189918@199.181.197.73:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev&fp=android&type=ws&allowInsecure=0&sni=zeus-panel-ib4w5o.mrs-nazir-sherzad.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%7C%20%5BBL%5D
 vless://01e1eccc-0e7e-418d-a996-fd2cf33c7c40@sv3.tsteam99.top:60003?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#
 vless://01e1eccc-0e7e-418d-a996-fd2cf33c7c40@sv3.tsteam99.top:60003?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#@KAFING_2
 vless://01e1eccc-0e7e-418d-a996-fd2cf33c7c40@sv3.tsteam99.top:60003?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#EPODONIOS
@@ -200,7 +195,6 @@ vless://024e3a74-bb03-43a9-8b86-260ae888adcb@amin.sylixteam.ir:8443?encryption=n
 vless://024e3a74-bb03-43a9-8b86-260ae888adcb@amin.sylixteam.ir:8443?encryption=none&extra={
 vless://024e3a74-bb03-43a9-8b86-260ae888adcb@amin.sylixteam.ir:8443?mode=auto&path=%2Fccc&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A30%2C%22hMaxRequestTimes%22%3A%222000-2300%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A%2216%22%7D%7D&pbk=v6EuCPV1jYoSkTYuZ3G98xQE_DECYRvaBKZslRWgLCI&host=amin.sylixteam.ir&fp=chrome&spx=%2FDVhsMA3QWc4PPfE&type=xhttp&sni=www.samsung.com&sid=e3f1#
 vless://024e3a74-bb03-43a9-8b86-260ae888adcb@amin.sylixteam.ir:8443?mode=auto&path=/ccc&security=reality&encryption=none&extra={
-vless://024e3a74-bb03-43a9-8b86-260ae888adcb@amin.sylixteam.ir:8443?type=xhttp&security=reality&path=/ccc&sni=www.samsung.com&fp=chrome&pbk=v6EuCPV1jYoSkTYuZ3G98xQE_DECYRvaBKZslRWgLCI&sid=e3f1#
 vless://0251d827-a6c8-41cf-ae3d-4a3540d96ad5@sedfxyz.s16.viptelbot.top:80?path=%2Fwatson.php&security=none&encryption=none&type=ws#
 vless://02529660-52bf-4896-951a-1857c88d1dba@129.212.143.246:47542?mode=gun&security=reality&encryption=none&pbk=krsHuR6-NfPzTvW8uE9b_Xbjj-48yI91kLqhx4tWPUg&fp=chrome&spx=%2F&type=grpc&sni=zula.ir&sid=7a6d1a#
 vless://025805d8-0d0a-46d6-ac73-018d608d0be3@stdata.aghayradical.space:55974?security=reality&encryption=none&pbk=dD0ZPqZZR8OTjYiXDUBbeiSQ-hdN5IGymB3yj-jseUM&headerType=none&fp=ios&type=tcp&sni=stdata.aghayradical.space&sid=536c1575aa324737#
@@ -251,3 +245,9 @@ vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?encryption=none&f
 vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=CJoXyyPzLgs7qeqEjvrnMlpYOPVfNHqPF0uuZpq_QUU&sni=www.google.com&sid=abcd1234#
 vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?security=reality&type=raw&packetEncoding=xudp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&sid=abcd1234&pbk=CJoXyyPzLgs7qeqEjvrnMlpYOPVfNHqPF0uuZpq_QUU&encryption=none#
 vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&sid=abcd1234&pbk=CJoXyyPzLgs7qeqEjvrnMlpYOPVfNHqPF0uuZpq_QUU#
+vless://0281c1be-e123-480a-a104-d0b506ecfc7d@147.45.78.118:443?type=tcp&security=reality&sni=www.google.com&fp=firefox&flow=xtls-rprx-vision&pbk=CJoXyyPzLgs7qeqEjvrnMlpYOPVfNHqPF0uuZpq_QUU&sid=abcd1234#
+vless://028caef1-1852-4074-884b-993e8baf4fd7@89.187.187.10:80/?type=splithttp&encryption=none#
+vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&encryption=none&headerType=none&type=tcp#
+vless://029886a2-e786-4345-83c4-be50c83a90cd@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#
+vless://029b9b4f-d930-4e87-abe9-0c8195ea00fa@tnl39.vipradvin.ir:8220?encryption=none&security=none&type=tcp&headerType=http#
+vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878/?encryption=none&host=confingplus&type=tcp&headerType=http#
