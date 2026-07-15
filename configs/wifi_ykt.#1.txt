@@ -1,6 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#1
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-15 / 04:50 (YKT)
+# Update: 2026-07-15 / 12:43 (YKT)
 ss://Y2hhY2hh
 ss://Y2hhY2hhM
 ss://Y2hhY2hhMjAta
@@ -197,8 +197,8 @@ vless://%40MAconnectt@66.33.22.223:55876?mode=auto&path=/&security=reality&encry
 vless://%40MAconnectt@66.33.22.226:34100?mode=auto&path=/&security=reality&encryption=none&extra={
 vless://%40MAconnectt@acela.proxy.rlwy.net:34100?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&pbk=c6Odo5Abci1KiOQxUTETIVIxxYSFXp1DC0N2oZccYUE&fp=firefox&spx=%2F&type=xhttp&sni=is1-ssl.mzstatic.com&sid=585c6291#
 vless://%40MAconnectt@acela.proxy.rlwy.net:34100?mode=auto&path=%2F&security=reality&encryption=none&pbk=c6Odo5Abci1KiOQxUTETIVIxxYSFXp1DC0N2oZccYUE&fp=firefox&spx=%2F&type=xhttp&sni=is1-ssl.mzstatic.com&sid=585c6291#
-vless://%40MAconnectt@acela.proxy.rlwy.net:34100?mode=auto&path=%2F&security=reality&encryption=none&pbk=c6Odo5Abci1KiOQxUTETIVIxxYSFXp1DC0N2oZccYUE&fp=firefox&spx=%2F&type=xhttp&sni=is1-ssl.mzstatic.com&sid=585c6291#%40V2RAYROZ%20%F0%9F%8C%B1
 vless://%40MAconnectt@acela.proxy.rlwy.net:34100?mode=auto&path=/&security=reality&encryption=none&extra={
+vless://%40MAconnectt@acela.proxy.rlwy.net:34100?type=xhttp&security=reality&path=/&sni=is1-ssl.mzstatic.com&fp=firefox&pbk=c6Odo5Abci1KiOQxUTETIVIxxYSFXp1DC0N2oZccYUE&sid=585c6291#
 vless://%40MAconnectt@hayabusa.proxy.rlwy.net:45900?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=c0xMn5XvlwQaY7eR6Vvcbi2gyDZWfvHYH1Qs33UIgQo&fp=chrome&spx=%2FRQZeAVndTETMg5z&type=xhttp&sni=is1-ssl.mzstatic.com&sid=3ca0d2376d0c5ba1#
 vless://%40MAconnectt@hayabusa.proxy.rlwy.net:45900?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=c0xMn5XvlwQaY7eR6Vvcbi2gyDZWfvHYH1Qs33UIgQo&fp=chrome&spx=%2FRQZeAVndTETMg5z&type=xhttp&sni=is1-ssl.mzstatic.com&sid=3ca0d2376d0c5ba1#
 vless://%40MAconnectt@hayabusa.proxy.rlwy.net:45900?mode=stream-up&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=3Qrlf_ww96hYRMg-qo6s5PevYgW6ON_87kzZA1wtwRU&fp=firefox&spx=%2FBP4ElyUvrbooowl&type=xhttp&sni=is1-ssl.mzstatic.com&sid=7be33fb2c4#
@@ -221,7 +221,6 @@ vless://%40V2ConfigPro@172.67.69.211:2087?mode=auto&path=%2F&security=tls&encryp
 vless://%40V2ConfigPro@172.67.69.211:2087?sni=vamosargentina.dpdns.org&fp=chrome&security=tls#
 vless://%40V2ConfigPro@188.114.99.109:2087?encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&security=tls&sni=v2configpro0.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=v2configpro0.dpdns.org&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#
 vless://%40V2ConfigPro@188.114.99.109:2087?mode=auto&path=%2F&security=tls&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=v2configpro0.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=v2configpro0.dpdns.org#
-vless://%40V2ConfigPro@188.114.99.109:2087?mode=auto&path=%2F&security=tls&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=v2configpro0.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=v2configpro0.dpdns.org#%F0%9F%87%A9%F0%9F%87%AA%20%40FreakConfig
 vless://%40V2ConfigPro@188.114.99.250:2087?mode=auto&path=%2F&security=tls&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=rr.v2configpro.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=rr.v2configpro.dpdns.org#
 vless://%40V2ConfigPro@69.46.46.44:443?encryption=mlkem768x25519plus.native.0rtt.FYHRSRS1GpJXM64zli8_cljMYHDnO0yf3UuCYvRyVUs&security=tls&sni=3x-ui-upgrade-production-ca14.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=3x-ui-upgrade-production-ca14.up.railway.app&path=%2F#
 vless://%40V2ConfigPro@69.46.46.69:443?path=%2F&security=tls&encryption=none&insecure=0&host=3x-ui-upgrade-production-0857.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=3x-ui-upgrade-production-0857.up.railway.app#
@@ -230,6 +229,7 @@ vless://%40Vip_fragment_v2ray1@162.159.152.4:443?path=%2FtanjazeroMenoximSoonPwr
 vless://%40Vip_fragment_v2ray@chatgpt.com:443?path=%2FtanjazeroMenoximSoonPwrSuber11&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de01.u3er1.ir&fp=chrome&type=ws&allowInsecure=0&sni=de01.u3er1.ir#
 vless://%40Vip_fragment_v2ray@chatgpt.com:443?type=ws&encryption=none&path=%2FtanjazeroMenoximSoonPwrSuber11&host=de01.u3er1.ir&security=tls&fp=chrome&alpn=http%2F1.1&sni=de01.u3er1.ir#
 vless://%40W%61NCLOUDF%61@5.160.128.97:44446?security=reality&encryption=none&pbk=MW5Sg0LSYkG9RYtZ5C4NSoBbSSpidSk644klNxy_HRI&headerType=none&fp=chrome&spx=%2FDl78%23adw6se7&type=tcp&sni=digikala.com&sid=09#
+vless://%40W%61NCLOUDF%61@5.160.128.97:44446?type=tcp&security=reality&sni=digikala.com&fp=chrome&pbk=MW5Sg0LSYkG9RYtZ5C4NSoBbSSpidSk644klNxy_HRI&sid=09#
 vless://%40X_Her0%40X_Her0%40X_Her0%40X_Her0@star0.kharabetam.de:2053?type=ws&path=%2FNoBodyKnowS&host=cld.kharabetam.de&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=cld.kharabetam.de#
 vless://%40free_conf_iran@104.16.75.127:2095?path=%2Fed%3D2560&security=&encryption=none&host=fr.mamish.ir&type=ws#
 vless://%40free_conf_iran@104.16.75.127:2095?path=%2Fed%3D2560&security=none&encryption=none&host=fr.mamish.ir&type=ws#

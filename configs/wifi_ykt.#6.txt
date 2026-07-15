@@ -1,7 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#6
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-15 / 04:50 (YKT)
-vless://005330e9-536f-4722-b9d1-dd42cbd31d15@srv1.kiava.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=antivirus.avira.com&fp=chrome&pbk=i9CDu5o-Fz4tmp4pbVexYhszfkQJhzx9R6Ew_SjRIS4&spx=%2F&type=tcp&headerType=none#
+# Update: 2026-07-15 / 12:43 (YKT)
 vless://005330e9-536f-4722-b9d1-dd42cbd31d15@srv1.kiava.fun:443?security=reality&encryption=none&pbk=i9CDu5o-Fz4tmp4pbVexYhszfkQJhzx9R6Ew_SjRIS4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=antivirus.avira.com#
 vless://005330e9-536f-4722-b9d1-dd42cbd31d15@srv2.kiava.fun:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=KlQKXBT-nSVaT1doo5JVNRFyd1o8yYpieKpPmqAfegY&sid=#
 vless://005330e9-536f-4722-b9d1-dd42cbd31d15@srv2.kiava.fun:443?type=tcp&security=reality&pbk=KlQKXBT-nSVaT1doo5JVNRFyd1o8yYpieKpPmqAfegY&fp=chrome&sni=aws.amazon.com&spx=%2Fcloudfront&flow=xtls-rprx-vision#
@@ -73,7 +72,6 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?encryption=none&
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?encryption=none&type=ws&path=%2F&host=max-gb1.global.ssl.fastly.net#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%40v2box
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#US🇺🇸
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&domain=max-gb1.global.ssl.fastly.net&sni=max-gb1.global.ssl.fastly.net#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&sni=max-gb1.global.ssl.fastly.net#
@@ -146,8 +144,6 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F%3FTELEGRAM-M
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85💋
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%40v2box
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#US🇺🇸
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&domain=max-gb1.global.ssl.fastly.net&sni=max-gb1.global.ssl.fastly.net#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
@@ -237,7 +233,6 @@ vless://006f2949-ea6f-4b19-8cae-1fafe2f617e9@mtn.rxv2ray.space:2087?mode=multi&s
 vless://006f2949-ea6f-4b19-8cae-1fafe2f617e9@tel.RxV2ray.space:2087?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@RxV2ray&sni=tel.RxV2ray.space#
 vless://006f752c-42fe-41dd-a224-e2f7c48b72a9@de.shvurgceo.online:14357/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&security=reality&pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&sid=ab12cd34#
 vless://006f752c-42fe-41dd-a224-e2f7c48b72a9@de.shvurgceo.online:14357?security=reality&encryption=none&pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=ab12cd34#
-vless://00708bba-2e5c-4262-8916-60bc0e871fe5@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%2316
 vless://0070d%65c0-2%65d6-4fd4-%61904-b56d27153b74@194.182.79.158:23721?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON%3F%65d%3D2048#
 vless://0070dec0-2ed6-4fd4-a904-b56d27153b74@194.182.79.158:23721?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#
 vless://00710d99-0563-432c-ce25-d64a1c74ff94@www.speedtest.net:80?security=&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D8880&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev-vpn.com&encryption=none#
@@ -251,3 +246,8 @@ vless://0074c6e7-f197-459d-b8d5-628dc5240f0f@iran.configforvpn.online:54106?secu
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server14536067534454301.tas-bazi.com:443?type=xhttp&path=%2Fsc&host=&mode=stream-one&security=none#
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server18477021984150715.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=&encryption=none&type=xhttp#
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?type=xhttp&path=%2Fsc&host=&mode=stream-one&security=none#
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server320258253370151493.tas-bazi.com:443?type=xhttp&path=%2Fsc&host=&mode=stream-one&security=none#
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server362377532674352905.tas-bazi.com:443?type=xhttp&path=%2Fsc&host=&mode=stream-one&security=none#
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server498903092565972722.tas-bazi.com:443?type=xhttp&path=%2Fsc&host=&mode=stream-one&security=none#
