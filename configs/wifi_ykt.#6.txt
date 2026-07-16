@@ -1,16 +1,10 @@
 # profile-title: kudryash0vv.WIFI.#6
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-16 / 04:43 (YKT)
-vless://005330e9-536f-4722-b9d1-dd42cbd31d15@srv3.kiava.fun:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=JudBgLFzeXDpOMQRYQXNg0c1Dtye80fqE_bSRGaNHQw&sid=#
-vless://005330e9-536f-4722-b9d1-dd42cbd31d15@srv3.kiava.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=JudBgLFzeXDpOMQRYQXNg0c1Dtye80fqE_bSRGaNHQw&spx=%2Fcloudfront&type=tcp&headerType=none#
-vless://005330e9-536f-4722-b9d1-dd42cbd31d15@srv4.kiava.fun:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=antivirus.avira.com&fp=chrome&security=reality&pbk=ESNbLIy4maaQUJnRJ26fYxvy2oUuNmvUmpmcS5KfYyM&sid=#
-vless://005330e9-536f-4722-b9d1-dd42cbd31d15@srv4.kiava.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=antivirus.avira.com&fp=chrome&pbk=ESNbLIy4maaQUJnRJ26fYxvy2oUuNmvUmpmcS5KfYyM&spx=%2F&type=tcp&headerType=none#
-vless://0053c51b-b1f6-4d11-a087-ad795f65bec1@185.143.233.43:8880?path=%2F&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#
-vless://0053c51b-b1f6-4d11-a087-ad795f65bec1@185.143.233.43:8880?path=%2F&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#@V2rayNG3
+# Update: 2026-07-16 / 12:45 (YKT)
 vless://0053c51b-b1f6-4d11-a087-ad795f65bec1@185.143.233.43:8880?path=/&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#
 vless://00552535-8f12-441e-9bd2-f5ebb5ec16d2@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#
 vless://00556af6-feca-47e5-93c8-0d6b81c48bcc@pg.nexorainnovationhub.ir:80?encryption=none&type=ws&path=/&host=a31.restaurantnetwork.ir#
-vless://00567faa-8a11-4b95-98b5-ec4a39319476@5.188.115.241:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=svet2015.shop&pbk=BA2abAfdUdsFSjeiJMMJJtCX-fm1W-93eTU8mf0Eb2w&sid=5678#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23422
+vless://00567faa-8a11-4b95-98b5-ec4a39319476@5.188.115.241:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=svet2015.shop&pbk=BA2abAfdUdsFSjeiJMMJJtCX-fm1W-93eTU8mf0Eb2w&sid=5678#
 vless://0057983b-1342-40ce-a570-ad08046977e5@static.iirose.cn:443?path=%2F15284%2Fcoffee%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=xh.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#
 vless://0057983b-1342-40ce-a570-ad08046977e5@static.iirose.cn:443?path=%2F15284%2Fcoffee&security=tls&encryption=none&host=xh.mmadcoffee.info&fp=chrome&type=ws&sni=sni.mmadcoffee.info#
 vless://0057983b-1342-40ce-a570-ad08046977e5@static.iirose.cn:443?path=/15284/coffee&security=tls&encryption=none&host=xh.mmadcoffee.info&fp=chrome&type=ws&sni=sni.mmadcoffee.info#
@@ -251,3 +245,9 @@ vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server14536067534454301.tas-bazi.co
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server18477021984150715.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=&encryption=none&type=xhttp#
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?type=xhttp&path=%2Fsc&host=&mode=stream-one&security=none#
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server320258253370151493.tas-bazi.com:443?type=xhttp&path=%2Fsc&host=&mode=stream-one&security=none#
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server362377532674352905.tas-bazi.com:443?type=xhttp&path=%2Fsc&host=&mode=stream-one&security=none#
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server498903092565972722.tas-bazi.com:443?type=xhttp&path=%2Fsc&host=&mode=stream-one&security=none#
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#

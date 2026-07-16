@@ -1,8 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#660
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-16 / 04:43 (YKT)
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@uae1.codesystem.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@uae1.codesystem.ir:8080?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
+# Update: 2026-07-16 / 12:45 (YKT)
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@uae1.codesystem.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@uae1.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#
 vless://f8cae104-2eaa-4b16-b258-65be28281b70@uae1.codesystem.ir:8080?security=none&encryption=none…#
@@ -251,3 +249,5 @@ vless://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?path=%
 vless://f956952d-dde1-4bc6-861e-22a9dc4554c4@cosmin.ns.cloudflare.com:443?path=%2Fxjfclmws&security=tls&encryption=none&type=ws&sni=638996506447943078.soul-amsih.info#
 vless://f956ca80-1840-11ee-aa29-1239d0255272@[::ffff:88f4:5aca]:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vlgrpc&sni=us5.socifiles.com#
 vless://f957b12c-4a97-4612-a42a-13fe04683c8b@irannargoo.xrayshop2.site:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#
+vless://f959efd5-a990-419c-b7c5-1700e9a72465@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638989344111482969.fit-amshx.info&type=ws&host=638989344111482969.fit-amshx.info&path=/zkcdjgws#
+vless://f95d8e71-9d31-4d04-8cfc-bacf2030c90b@128.199.48.57:39889?path=%2F&security=&encryption=none&type=ws#
