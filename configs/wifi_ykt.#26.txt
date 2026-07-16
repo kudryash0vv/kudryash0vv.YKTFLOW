@@ -1,9 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#26
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-16 / 23:30 (YKT)
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@172.64.33.117:8443?allowInsecure=1&alpn=h3&encryption=none&host=m1.mwu.de5.net&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&type=ws#
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@172.64.35.32:8443?allowInsecure=1&alpn=h3&encryption=none&host=m1.mwu.de5.net&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&type=ws#
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@172.64.52.81:443?allowInsecure=1&alpn=h3&encryption=none&host=m1.mwu.de5.net&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&type=ws#
+# Update: 2026-07-17 / 04:39 (YKT)
 vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@172.64.52.97:443?allowInsecure=1&alpn=h3&encryption=none&host=m1.mwu.de5.net&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&type=ws#
 vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@172.64.53.218:2087?allowInsecure=1&alpn=h3&encryption=none&host=m1.mwu.de5.net&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&type=ws#
 vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@172.64.53.96:8443?allowInsecure=1&alpn=h3&encryption=none&host=m1.mwu.de5.net&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&type=ws#
@@ -216,7 +213,6 @@ vless://05af6faf-7ba3-46e7-9ece-fc17e2de288d@195.209.90.4:443?encryption=none&ty
 vless://05af6faf-7ba3-46e7-9ece-fc17e2de288d@195.209.90.4:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=edge&sni=s43362.cdn.ngenix.net&alpn=http/1.1#
 vless://05af6faf-7ba3-46e7-9ece-fc17e2de288d@78.41.111.242:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=edge&sni=s43362.cdn.ngenix.net&alpn=http/1.1#
 vless://05b0555e-1401-11ee-adb6-2eb5a363657c@mci.saintink.eu.org:443?path=%40freeconfigv2&security=tls&encryption=none&alpn=h2,http/1.1&host=vls2.saintink.eu.org&fp=chrome&type=ws&sni=vls2.saintink.eu.org#
-vless://05b232dc-185b-48ed-8813-8c96d9d5d7f0@138.124.123.198:443?type=tcp&security=reality&sni=api.max.ru&fp=chrome&pbk=a28gKquRbugXlI13fv5HeiiZ2yTPrqtQfNFqcAiHE1I&sid=76f547961a8ca082#
 vless://05b232dc-185b-48ed-8813-8c96d9d5d7f0@138.124.98.150:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=agZZLk3GNH8CME1dobmtO1UwIrXYL-WrEuLREy_EqnA&sid=aefe467c7b22f190&sni=ads.x5.ru#t.me%2Ffreekesha21
 vless://05b232dc-185b-48ed-8813-8c96d9d5d7f0@31.76.91.139:443?type=tcp&security=reality&sni=api.ok.ru&fp=firefox&pbk=acCL8V-6UTGRuUs7CVk33xV26ZUY6wRjStNy273DmUY&sid=aefe467c7b22f190#
 vless://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#
@@ -231,6 +227,8 @@ vless://05b82a5c-025f-448c-8157-12693319f693@108.61.203.76:443?encryption=none&f
 vless://05b8a85c-544f-4909-b8f4-2aa15bacd6d5@54.154.16.89:443?security=reality&encryption=none&pbk=sjRxGwIkob8VBPJscdmrthnT7m8tvVByJkNJuZhFj2o&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=microsoft.com&sid=6ac5f147#
 vless://05b94ecf-803a-be03-817e-e4f4bcc2512d@holand2-mrsoul.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/05b94ecf-803a-be03-817e-e4f4bcc2512d&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=holand2-mrsoul.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=holand2-mrsoul.up.railway.app#
 vless://05b94ecf-803a-be03-817e-e4f4bcc2512d@holand2-mrsoul.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/05b94ecf-803a-be03-817e-e4f4bcc2512d&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=holand2-mrsoul.up.railway.app&fp=ios&type=xhttp&allowInsecure=0&sni=holand2-mrsoul.up.railway.app#
+vless://05be8278-fbf1-4b9d-a3ff-35a1b19ffe4c@nodejs.org:443?path=%2FeyJqdW5rIjoic0ExVlRWMnNRMCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ez-fb84e1.handelmn.workers.dev&fp=chrome&type=ws&sni=Ez-FB84e1.HandeLMN.Workers.DEv#
+vless://05be8278-fbf1-4b9d-a3ff-35a1b19ffe4c@nodejs.org:443?path=%2FeyJqdW5rIjoic0ExVlRWMnNRMCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX…#
 vless://05be8278-fbf1-4b9d-a3ff-35a1b19ffe4c@nodejs.org:443?path=/eyJqdW5rIjoic0ExVlRWMnNRMCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-fb84e1.handelmn.workers.dev&fp=chrome&type=ws&sni=Ez-FB84e1.HandeLMN.Workers.DEv#
 vless://05bf0981-e760-4675-b9e6-b5d81714d530@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=HOsPItaBLe-CHoIcE.oNeEat.Co.&type=ws#
 vless://05bf8722-42e1-4fd5-8db7-bc7ad9912b21@t2.cesar2.click:443?security=none&encryption=none&host=divarcdn.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#
@@ -244,10 +242,12 @@ vless://05c5989b-e824-418a-a6c5-6b3e5e109598@91.99.216.9:80/?type=xhttp&encrypti
 vless://05c6217f-b78d-4d18-855c-a7769115e3c5@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kennywall.pages.dev&fp=randomized&type=ws&sni=kennywall.pages.dev#
 vless://05c8e0e2-f833-4327-a539-54cbe8a3b074@itconetmt.ddns.net:2087?type=grpc&serviceName=Telegram:@RayVPS,@RayVPS,@RayVPS,@RayVPS,@RayVPS,@RayVPS&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=d7.rayvps.sbs#
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&path=%2F&security=none&type=ws#
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20252775
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&path=%2F&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20543258
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&path=/&security=none&type=ws#
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20914685
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20333851
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&security=none&type=ws#
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&security=none&type=ws&path=%2F#
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&type=ws&path=/#
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20818770
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&type=ws&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20367048
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&type=ws&path=/&packetEncoding=xudp#
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&encryption=none&type=ws#
