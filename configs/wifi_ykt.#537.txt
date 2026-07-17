@@ -1,11 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#537
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-17 / 23:10 (YKT)
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#
+# Update: 2026-07-18 / 04:38 (YKT)
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#EPODONIOS
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#TEL;Father_vpn
@@ -129,8 +124,11 @@ vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@158.160.96.198:443?flow=xtls-rprx-v
 vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@158.160.96.198:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=edge&sni=wde3.whitedeu.org#
 vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@158.160.96.198:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=firefox&sni=wde3.whitedeu.org#
 vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@158.160.96.198:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=qq&sni=wde3.whitedeu.org#
-vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@93.77.188.102:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=edge&sni=wde3.whitedeu.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2353
-vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@93.77.188.102:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=safari&sni=wde3.whitedeu.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2378
+vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@93.77.188.102:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=edge&sni=wde3.whitedeu.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2318
+vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@93.77.188.102:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=firefox&sni=wde3.whitedeu.org#
+vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@93.77.188.102:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=firefox&sni=wde3.whitedeu.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2326
+vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@93.77.188.102:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=firefox&sni=wde3.whitedeu.org#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20512653
+vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@93.77.188.102:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=safari&sni=wde3.whitedeu.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2323
 vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@bs1.whitehost.org:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=wde3.whitedeu.org&fp=qq&type=tcp&headerType=none#
 vless://cad9e325-44ea-442d-b292-0436dfcf25f9@15.236.34.57:123?mode=gun&security=reality&encryption=none&authority=&pbk=3A9fyH_8UIX11F1WL_ZahX8KSXZfl-IsjciwJNE8MyA&fp=chrome&type=grpc&serviceName=%40zabuza_shop&sni=mosifantastic.ir&sid=a2#
 vless://cadabee9-d354-4ce7-f77c-99388c746574@www.speedtest.net:2087?path=%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2F%54%65%6C%65%67%72%61%6D%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64%2FTelegram%2C%40%41%72%63%68%69%76%65%5F%41%6E%64%72%6F%69%64&security=tls&alpn=http%2F1.1&encryption=none&host=amin.amin-app.ir&fp=chrome&type=ws&sni=amin.amin-app.ir#
@@ -251,3 +249,5 @@ vless://cb211e44-7725-4ddc-b52e-6a0059162fde@190.93.246.241:443?path=%2F%3Fed&se
 vless://cb211e44-7725-4ddc-b52e-6a0059162fde@discord.gg:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=MoZ.SOFt98.dEdyn.Io&fp=chrome&type=ws&sni=moZ.soft98.deDYn.io#
 vless://cb211e44-7725-4ddc-b52e-6a0059162fde@discord.gg:443?path=%2F%3Fed&security=tls&encryption=none&host=MoZ.SOFt98.dEdyn.Io&fp=chrome&type=ws&sni=moZ.soft98.deDYn.io#
 vless://cb211e44-7725-4ddc-b52e-6a0059162fde@kitab.fun:443?path=%40NETMelliAnti%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=MoZ.SOFt98.dEdyn.Io&fp=ios&type=ws&sni=moZ.soft98.deDYn.io#
+vless://cb211e44-7725-4ddc-b52e-6a0059162fde@zula.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=MoZ.SOFt98.dEdyn.Io&fp=chrome&type=ws&sni=moZ.soft98.deDYn.io#
+vless://cb211e44-7725-4ddc-b52e-6a0059162fde@zula.ir:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=MoZ.SOFt98.dEdyn.Io&fp=chrome&type=ws&sni=moZ.soft98.deDYn.io#

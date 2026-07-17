@@ -1,8 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#538
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-17 / 23:10 (YKT)
-vless://cb211e44-7725-4ddc-b52e-6a0059162fde@zula.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=MoZ.SOFt98.dEdyn.Io&fp=chrome&type=ws&sni=moZ.soft98.deDYn.io#
-vless://cb211e44-7725-4ddc-b52e-6a0059162fde@zula.ir:443?path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=MoZ.SOFt98.dEdyn.Io&fp=chrome&type=ws&sni=moZ.soft98.deDYn.io#
+# Update: 2026-07-18 / 04:38 (YKT)
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082/?type=ws&encryption=none&flow=&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev#
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082/?type=ws&encryption=none&flow=&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F#
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.2.11:2082?encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F&security=none&type=ws#
@@ -108,7 +106,6 @@ vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.83:443?security=reality&ty
 vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.83:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AnxTrBjoS2NYl9efpns6l_e4JrN7jws-KnXcu6DCDCc&sid=42f27f4d688d79d4&sni=www.twitch.tv#
 vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.89:443?security=reality&encryption=none&pbk=Ulq3VvXRo14PiLx8Ymy8Z-UooTTAU6rjdJ_tIrJcJwA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=e9fa03f679854462#
 vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.89:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ulq3VvXRo14PiLx8Ymy8Z-UooTTAU6rjdJ_tIrJcJwA&sid=e9fa03f679854462&sni=yastatic.net#
-vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.89:443?type=tcp&security=reality&sni=yastatic.net&fp=chrome&flow=xtls-rprx-vision&pbk=Ulq3VvXRo14PiLx8Ymy8Z-UooTTAU6rjdJ_tIrJcJwA&sid=e9fa03f679854462#
 vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.151:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.twitch.tv&fp=chrome&pbk=IDX70F6aZLh_PruvqfOVRp3bzxzSkCer9ePN-0ZgWAc&sid=e08909dd3362afd1&flow=xtls-rprx-vision#
 vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.151:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IDX70F6aZLh_PruvqfOVRp3bzxzSkCer9ePN-0ZgWAc&sid=e08909dd3362afd1&sni=www.twitch.tv#
 vless://cb784d00-d34a-4389-b938-8717f7b28353@31.76.251.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.twitch.tv&fp=chrome&security=reality&pbk=iGgm7VMLJvgZgGcU5HrgQnXxx8ZvMpVfu2iVJsi8U28&sid=70e24f75fa26f6c7#
@@ -251,3 +248,6 @@ vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@3.seysisi.ir:443?security=reality&e
 vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@3.seysisi.ir:443?security=reality&encryption=none&pbk=uavwmT5NFqZs45yG4eV0x_Id0Qmr7oU8CjZCyiU6LSs&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=3df2abe8c93418a6#EPODONIOS
 vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@3.seysisi.ir:443?sni=play.google.com&fp=chrome&type=tcp&headerType=none&spx=/&pbk=uavwmT5NFqZs45yG4eV0x_Id0Qmr7oU8CjZCyiU6LSs&security=reality&encryption=none&sid=3df2abe8c93418a6#
 vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@3.tstbarber.ir:443?pbk=ms2tZO34oA_uneOtKA3WT1zRCOHNA4y0a12XUYVHnyY&security=reality&spx=/&type=grpc&encryption=none&sni=play.google.com&mode=gun&fp=chrome&sid=e08b70c6da27a774#
+vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@5.abidar51.ir:443?pbk=Z7Tj1NXWB6ky7srugyd0qzDJ_TDTMUiURGDf5GuXwWM&flow=xtls-rprx-vision&security=reality&spx=/&type=tcp&encryption=none&sni=play.google.com&fp=chrome&headerType=none&sid=c175baba698b8f6b#
+vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@ad.gemeni24.ir:443?security=reality&encryption=none&pbk=TOVVq8OSwpjCMbPebBOUj0ZVRX8HvKgAhym-yos1byA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.google.com&sid=def0260f9cf8a7e8#
+vless://cbb4d9c9-6a8f-4acc-9aa1-2974015e0279@ad.gemeni24.ir:443?security=reality&encryption=none&pbk=TOVVq8OSwpjCMbPebBOUj0ZVRX8HvKgAhym-yos1byA&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=def0260f9cf8a7e8#

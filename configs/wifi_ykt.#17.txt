@@ -1,6 +1,18 @@
 # profile-title: kudryash0vv.WIFI.#17
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-17 / 23:10 (YKT)
+# Update: 2026-07-18 / 04:38 (YKT)
+vless://053e30a7-c672-4889-bbfb-26a83e4156b6@5.75.197.198:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Yv4AM7MSpCtNiiByTTWFA6gaLV1w4gkVaGRK8f5zr2U&sid=ddc43e29#
+vless://0541471d-82ee-4b98-a01e-ed45fc3858b7@ge14.v2rez.tech:443?mode=gun&security=reality&encryption=none&pbk=CWeDmEjp_1oGbpcySTwpjwVq1h_V28BdmOBmBYKW2xE&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,&sni=sourceforge.net&sid=66956f8f#
+vless://05424a75-9533-470b-a152-55998bb4d94c@Zmaoz.Faculty.UcdavIS.Edu:443?allowInsecure=false&alpn=h2%2Chttp%2F1.1&fp=firefox&host=meloch-de.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws#
+vless://054344a4-da26-4ee8-ae43-59e67960f205@188.114.98.224:80?type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.st1lol.ir.&path=/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&security=none#
+vless://054344a4-da26-4ee8-ae43-59e67960f205@arpc.mashti.link:80?type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.st1lol.ir.&path=/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&security=none#
+vless://0544aa82-56a0-452c-899b-d5df53a673a3@de2-ws.xvless.xyz:80?path=%2Fwebsocket&security=none&encryption=none&host=de2-ws.xvless.xyz&type=ws#
+vless://05475943-1848-4415-6c1a-d7c64fd3ecd6@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#
+vless://0548b0ba-dca2-466a-8bff-faa0b0b90cab@shop.bizinesmezon.xyz:31732?security=none&encryption=none&headerType=http&type=tcp#
+vless://0549c0f0-934e-4228-dc7f-5ef62b32543d@195.133.15.149:26832?encryption=none&security=none&type=tcp#
+vless://054a8c92-59df-47aa-feac-4bbb4d8ca1e0@v2rayfroshmtnn.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=new.in-case-jadid-mane-follow-nemikone-vali-fane.site#
+vless://054b5166-3a16-4f9c-bb27-1723b357a14d@ccad2.nexgate.my:443?encryption=none&security=tls&sni=ccsnnl.nexgate.my&allowInsecure=1&type=ws&host=ccsnnl.nexgate.my&path=%2FNL%2F%40TheVIPSell#
+vless://054b5166-3a16-4f9c-bb27-1723b357a14d@ccad2.nexgate.my:443?encryption=none&security=tls&sni=ccsnse.nexgate.my&allowInsecure=1&type=ws&host=ccsnse.nexgate.my&path=%2FSE%2F%40TheVIPSell#
 vless://054b9fdb-4ca8-4b2e-9855-c1515c4937c5@188.114.98.0:443?allowInsecure=1&encryption=none&host=ekhtelal120.mobailfarid4.ir&path=%2F&security=tls&sni=ekhtelal120.mobailfarid4.ir&type=ws#
 vless://054b9fdb-4ca8-4b2e-9855-c1515c4937c5@188.114.98.0:443?encryption=none&fp=chrome&host=ekhtelal120.mobailfarid4.ir&security=tls&sni=ekhtelal120.mobailfarid4.ir&type=ws#
 vless://054d503d-4748-47a6-8118-71a96c51f2d9@172.66.168.197:443?path=%2FVLESS&security=tls&encryption=none&host=Nl2-FulL.PrIvAteiP.NeT&type=ws&sni=Nl2-FulL.PrIvAteiP.NeT#
@@ -13,7 +25,6 @@ vless://05509bc5-ddd8-4bd8-bca2-056f6fb9f1a5@f.tehran-game.ir:443?encryption=non
 vless://05509bc5-ddd8-4bd8-bca2-056f6fb9f1a5@f.tehran-game.ir:443?encryption=none&security=none&type=ws&host=tehran-game.ir&path=/#
 vless://05509bc5-ddd8-4bd8-bca2-056f6fb9f1a5@f.tehran-game.ir:443?encryption=none&security=none&type=ws&host=tehran-game.ir&path=/#Channel
 vless://05509bc5-ddd8-4bd8-bca2-056f6fb9f1a5@f.tehran-game.ir:443?encryption=none&security=none&type=ws&host=tehran-game.ir&path=/#EPODONIOS
-vless://05509bc5-ddd8-4bd8-bca2-056f6fb9f1a5@f.tehran-game.ir:443?path=/&security=none&encryption=none&host=tehran-game.ir&type=ws#
 vless://0550f298-5b80-4762-83cc-2e5ecdb30c1e@217.198.190.3:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@100.28.71.137:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@108.128.206.94:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#
@@ -240,14 +251,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.9.135:22224?type=ws&security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.90.19:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.94.158:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.94.36:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.96.120:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.97.170:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.144.105:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.144.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.147.171:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.149.14:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.149.57:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.152.198:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.154.88:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.154.94:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.156.135:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#

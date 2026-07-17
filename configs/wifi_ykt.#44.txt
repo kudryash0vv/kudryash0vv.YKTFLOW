@@ -1,21 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#44
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-17 / 23:10 (YKT)
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&encryption=none&flow=#
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?flow=&type=tcp#
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&encryption=none&headerType=none&type=tcp#
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@18.197.31.34:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=uFpCAKBpFzkMi_2VgmkDkH-mRUaAAlxHcDn5abCL3Eg&sid=#
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@18.197.31.34:443?security=reality&encryption=none&pbk=uFpCAKBpFzkMi_2VgmkDkH-mRUaAAlxHcDn5abCL3Eg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv10.kiava.fun:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=U08a1PYtP_L4RxrSL0Ib5ItYrKxlluPOMzXCF5sbzm0&sid=#
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv10.kiava.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=U08a1PYtP_L4RxrSL0Ib5ItYrKxlluPOMzXCF5sbzm0&spx=%2Fcloudfront&type=tcp&headerType=none#
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv10.kiava.fun:443?security=reality&encryption=none&pbk=U08a1PYtP_L4RxrSL0Ib5ItYrKxlluPOMzXCF5sbzm0&headerType=none&fp=chrome&spx=%2Fcloudfront&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv11.kiava.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=jn2FbQPpq6Va5nhiJ5eLjEC-MAaYcE6x0k8ef_EmTlc&spx=%2Fcloudfront&type=tcp&headerType=none#
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv12.kiava.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=uFpCAKBpFzkMi_2VgmkDkH-mRUaAAlxHcDn5abCL3Eg&spx=%2Fcloudfront&type=tcp&headerType=none#
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv13.kiava.fun:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=eF6GORS7_n3cacDhCtHS-ghKmucFlRE5rPw2r1DXQQw&sid=#
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv13.kiava.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=eF6GORS7_n3cacDhCtHS-ghKmucFlRE5rPw2r1DXQQw&spx=%2Fcloudfront&type=tcp&headerType=none#
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv13.kiava.fun:443?security=reality&encryption=none&pbk=eF6GORS7_n3cacDhCtHS-ghKmucFlRE5rPw2r1DXQQw&headerType=none&fp=chrome&spx=%2Fcloudfront&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv18.kiava.fun:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=9fd5hB99g09kBSaTlmubbr_2pRGKH5XBcrPwCOvEMAw&sid=#
-vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv18.kiava.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=9fd5hB99g09kBSaTlmubbr_2pRGKH5XBcrPwCOvEMAw&spx=%2Fcloudfront&type=tcp&headerType=none#
+# Update: 2026-07-18 / 04:38 (YKT)
 vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv18.kiava.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=9fd5hB99g09kBSaTlmubbr_2pRGKH5XBcrPwCOvEMAw&type=tcp&headerType=none#
 vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv18.kiava.fun:443?security=reality&encryption=none&pbk=9fd5hB99g09kBSaTlmubbr_2pRGKH5XBcrPwCOvEMAw&headerType=none&fp=chrome&spx=%2Fcloudfront&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#
 vless://0cd2b87a-de35-4dfb-f252-8c8572a6d281@srv19.kiava.fun:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=b7Ov6T5oG9oK7-HjtHEP1x9hSMOaCi9RcXddRB_fSzQ&sid=#
@@ -251,3 +236,18 @@ vless://0d828131-9220-4d1e-fe7a-495dc6b15bed@195.254.165.163:2052?security=&encr
 vless://0d828131-9220-4d1e-fe7a-495dc6b15bed@speedxp.jaricopen.fun:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#
 vless://0d828131-9220-4d1e-fe7a-495dc6b15bed@speedxp.jaricopen.fun:2052?type=grpc&serviceName=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&authority=&security=none#
 vless://0d8294c1-a837-4630-b9b6-d06fe9d61149@88.135.47.60:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#
+vless://0d82c2a7-876b-4763-8235-f7b86d24ba9a@[2001:41d0:801:1000::21f0]:443/?type=grpc&encryption=none&serviceName=d4F8FHjdk3VEkrubpa3sW9a&security=tls&sni=khar-maddar-kasi-kefilter-kone-v6.hajalii.com&alpn=h2&fp=chrome#
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mahdiv2.pages.dev&fp=randomized&type=ws&sni=mahdiv2.pages.dev#
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mahdiv2.pages.dev&type=ws&sni=mahdiv2.pages.dev#
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?security=tls&sni=mahdiv2.pages.dev&type=ws&host=mahdiv2.pages.dev&path=%2F%3Fed%3D2048#
+vless://0d8420f5-7aac-4835-db36-ff8fa4578587@amin.4en1.net:1777?mode=gun&security=reality&encryption=none&pbk=jkJpzKFOelmStHPCJNnzmoFzAIBn0AQM3UUmKC1TWm4&fp=chrome&spx=%2F&type=grpc&serviceName=%2F%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM----------%40V%50N_%52OOM--------%40V%50N_%52OOM%3Fed%3D2048&sni=globalsign.com#
+vless://0d84a5f5-8182-4385-a2aa-dc39b842bfd7@104.31.16.8:80?path=%2Ferror&security=none&encryption=none&host=finANCE.MICROSOfTS.doWnLOAD&type=ws#
+vless://0d84cdbd-c0fb-47c6-ab5d-a25587df2a4a@185.143.233.5:80?path=%2Fxray&security=none&encryption=none&host=bot.vipiranian.de&type=ws#
+vless://0d8558ab-6b66-4bb4-a905-a7e1c95fdea0@45.91.169.229:2083?security=reality&encryption=none&pbk=grdKosNih3AG5ChgVxaUDJWeOWtFToqs98b_pChfOEc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.dioptima.nl&sid=c58c0a6421dc87ae#
+vless://0d86ea08-5ad6-4155-a473-86755c5224f5@172.232.147.55:443?encryption=none&security=tls&sni=gsmarena.com&alpn=h2&fp=firefox&type=ws&host=se-full.privateip.net&path=%2FVLESS#
+vless://0d86ea08-5ad6-4155-a473-86755c5224f5@172.232.147.55:443?path=%2FVLESS&security=tls&encryption=none&alpn=h2&host=se-full.privateip.net&fp=firefox&type=ws&sni=cms.accuweather.com#
+vless://0d891268-002f-40be-b583-4290834a3255@194.87.39.142:56246?security=none&encryption=none&headerType=none&type=tcp#
+vless://0d892bbc-b789-455f-bb03-73f4f9371793@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#
+vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@103.116.7.100:2087?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&path=%2F%3Fed%3D2048#
+vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@103.116.7.103:2083?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&path=%2F%3Fed%3D2048#
+vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@103.116.7.152:2096?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&path=%2F%3Fed%3D2048#
