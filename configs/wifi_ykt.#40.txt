@@ -1,6 +1,13 @@
 # profile-title: kudryash0vv.WIFI.#40
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-18 / 17:15 (YKT)
+# Update: 2026-07-18 / 22:55 (YKT)
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=/au-do#
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fau-do#
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws&host=unnes.ac.id.yxls.eu.cc&path=/au-do&packetEncoding=xudp#
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?encryption=none&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fau-do&security=tls&sni=unnes.ac.id.yxls.eu.cc#
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?encryption=none&type=ws&security=tls&path=%2Fau-do&host=unnes.ac.id.yxls.eu.cc&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0#
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?encryption=none&type=ws&security=tls&path=/au-do&host=unnes.ac.id.yxls.eu.cc&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0#
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?path=%2Fau-do&security=tls&encryption=none&host=unnes.ac.id.yxls.eu.cc&type=ws&sni=unnes.ac.id.yxls.eu.cc#
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?path=%2Fau-do&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?path=%2Fau-do&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#RELAY🚩
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?path=/au-do&security=tls&encryption=none&host=unnes.ac.id.yxls.eu.cc&type=ws&sni=unnes.ac.id.yxls.eu.cc#
@@ -14,10 +21,8 @@ vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?alpn=networld_vpn-
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl#
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl#🆔surfboardv2ray%20🔒%20VL-WS-N/A%20❔%20XX%202ms
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&security=tls&sni=unnes.ac.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl#
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#RELAY🚩
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=/ca-cl&security=tls&encryption=none&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&sni=unnes.ac.id.yxls.eu.cc#
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#
@@ -32,6 +37,11 @@ vless://0ac23c1f-e075-4104-b8bb-28d0b836d136@193.57.136.73:19792?mode=gun&securi
 vless://0ac52c7d-89fc-44ce-9603-caa3dfb1fb36@195.209.87.198:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=edge&sni=s43362.cdn.ngenix.net&alpn=http%2F1.1#
 vless://0ac52c7d-89fc-44ce-9603-caa3dfb1fb36@78.41.111.242:443?type=ws&security=tls&encryption=none&path=%2Fv1%2Fdata%2Fsync%2F&sni=s43362.cdn.ngenix.net&fp=edge&alpn=http%2F1.1&headerType=none#
 vless://0ac69c4a-cc2d-4f80-e066-fe7e2be181e5@dori.hilordslash.pw:41313?type=tcp&security=none&path=%2F&headerType=http#
+vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=tmesubgift.up.railway.app&type=ws&headerType=none&host=tmesubgift.up.railway.app&path=%2Fws%2F0ac6ad68-45cb-cd9e-459b-446568d15f69#
+vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?encryption=none&security=tls&type=ws&host=tmesubgift.up.railway.app&path=/ws/0ac6ad68-45cb-cd9e-459b-446568d15f69&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1#
+vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?encryption=none&security=tls&type=ws&host=tmesubgift.up.railway.app&path=/ws/0ac6ad68-45cb-cd9e-459b-446568d15f69&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1#107
+vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?encryption=none&security=tls&type=ws&host=tmesubgift.up.railway.app&path=/ws/0ac6ad68-45cb-cd9e-459b-446568d15f69&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
+vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?encryption=none&type=ws&host=tmesubgift.up.railway.app&path=%2Fws%2F0ac6ad68-45cb-cd9e-459b-446568d15f69&security=tls&alpn=http%2F1.1&fp=chrome&sni=tmesubgift.up.railway.app#
 vless://0ac7faff-5358-453e-a2a4-ef0818ca19f5@217.60.239.58:26165?path=telegram%3A%20%40summertimeus&security=none&encryption=none&type=ws#
 vless://0ac818a4-9e41-4083-9eba-58588fae760d@89.208.86.65:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#
 vless://0ac849bf-7d42-4619-b741-41124c601fb2@c1.vact.ir:443?path=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH?ed=2048&security=reality&encryption=none&pbk=BDsBcQ0GzxU-pGwN0H6zRVIbOhdL5dJy7cUd44xnayI&fp=chrome&spx=/&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=dfb4dc18a1#
@@ -145,11 +155,6 @@ vless://0af0090b-4223-4e21-84a6-46b192ff2a60@212.64.199.79:443?mode=gun&security
 vless://0af0090b-4223-4e21-84a6-46b192ff2a60@212.64.199.79:443?security=reality&sni=trendyol.com&fp=chrome&pbk=6JqJJ-wIZpy62AitE3hxzdv1DiosZ3UCPwaJQhuq4Qg&sid=de&type=grpc&serviceName=@Catvpns&encryption=none#
 vless://0af150f1-63f1-46cb-8307-162f12249236@65.21.57.232:23327?security=&encryption=none&headerType=&type=tcp#
 vless://0af22a12-c555-4bd0-873f-bf14ab943482@mci.buzzmuzzpanel.online:443?path=%2FeyJqdW5rIjoiRTZkZGRJZXdjWjZ4ZWoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=053.electrocellco-cf-053.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=053.ElectroCELlco-cf-053.WoRKERs.deV#
-vless://0af38805-b9b0-0152-8cf5-d07da0427179@xnod3x.artemida.live:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZRTNgwFRP8viY4SQOgPTfWlLWJCwY3dr0aawA7vHwhU&sid=a1b2c3d4e5f6a7b8&sni=xnod3x.artemida.live#t.me%2Ffreekesha21
-vless://0af38805-b9b0-06b0-8cf5-d07da0427179@xnod3x.artemida.live:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZRTNgwFRP8viY4SQOgPTfWlLWJCwY3dr0aawA7vHwhU&sid=a1b2c3d4e5f6a7b8&sni=xnod3x.artemida.live#t.me%2Ffreekesha21
-vless://0af38805-b9b0-44da-8cf5-d07da0427179@xnod3x.artemida.live:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=ZRTNgwFRP8viY4SQOgPTfWlLWJCwY3dr0aawA7vHwhU&sid=a1b2c3d4e5f6a7b8&sni=xnod3x.artemida.live#t.me%2Ffreekesha21
-vless://0af38805-b9b0-efb2-8cf5-d07da0427179@xnod3x.artemida.live:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZRTNgwFRP8viY4SQOgPTfWlLWJCwY3dr0aawA7vHwhU&sid=a1b2c3d4e5f6a7b8&sni=xnod3x.artemida.live#t.me%2Ffreekesha21
-vless://0af38805-b9b0-fde8-8cf5-d07da0427179@xnod3x.artemida.live:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZRTNgwFRP8viY4SQOgPTfWlLWJCwY3dr0aawA7vHwhU&sid=a1b2c3d4e5f6a7b8&sni=xnod3x.artemida.live#t.me%2Ffreekesha21
 vless://0af4454f-5bf5-43ee-8d37-05b4fe7dc5c6@account.zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=ay.football0001.online#
 vless://0af48676-03f4-48ff-b1a4-d33f11b12d50@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=blacK-OcCASiON.oNEeat.cO.&type=ws#
 vless://0af6538b-5d48-4210-af01-fba284050a08@195.209.87.198:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=edge&sni=s43362.cdn.ngenix.net&alpn=http/1.1#
@@ -169,12 +174,13 @@ vless://0afca3c1-8310-4255-b880-a9497f6f344d@213.176.1.95:2005?security=none&enc
 vless://0afca3c1-8310-4255-b880-a9497f6f344d@213.176.1.95:2005?type=tcp&security=none#
 vless://0afe2106-0550-4c44-ba83-caa8fc45a178@goldenarsha.darkproplus.cf:37028?encryption=none&security=tls&sni=ebank.bmi.ir&alpn=h2&type=grpc&serviceName=Telegram-id-DarkVPNpro&mode=gun#
 vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?&packet-encoding=xudp&type=ws&headerType=none&host=square-tree-3dbf.285.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#
+vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?&security=false&fp=chrome&type=ws&headerType=none&host=square-tree-3dbf.285.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%5B%F0%9F%87%B8%F0%9F%87%AC%5D%20%5Bvl-no-ws%5D%20%5B260718-115604.787%5D
 vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?&type=ws&headerType=none&host=square-tree-3dbf.285.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#
 vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?encryption=none&security=none&type=ws&host=square-tree-3dbf.285.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#
 vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?encryption=none&security=none&type=ws&host=square-tree-3dbf.285.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#
 vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?encryption=none&type=ws&host=square-tree-3dbf.285.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#
+vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?encryption=none&type=ws&host=square-tree-3dbf.285.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?encryption=none&type=ws&host=square-tree-3dbf.285.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#
-vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?encryption=none&type=ws&host=square-tree-3dbf.285.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=square-tree-3dbf.285.workers.dev&packetEncoding=xudp#
 vless://0b01d4d8-656d-4d55-8ad5-ed2a362788b5@104.18.34.245:8880?type=ws&host=square-tree-3dbf.285.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#
 vless://0b029087-c165-40db-88a1-3c492ed226f7@62.60.175.173:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.chess.com&alpn=h2&fp=chrome&pbk=x9rWeinvxgdr93AxfNxKS3aj9cbdlt4tL8RPMBK2dkQ&sid=edd1705cda&type=tcp&headerType=None#
@@ -222,10 +228,8 @@ vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.16.107.139:8880?&security=none&
 vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.16.107.139:8880?&security=none&type=ws&headerType=&host=orange-math-9c83.371.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#t.me%2Ffreekesha21
 vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.16.107.139:8880?encryption=none&type=ws&host=orange-math-9c83.371.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none#
 vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.16.107.139:8880?encryption=none&type=ws&host=orange-math-9c83.371.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&packetEncoding=xudp#
-vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.16.107.139:8880?encryption=none&type=ws&host=orange-math-9c83.371.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.16.107.139:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=orange-math-9c83.371.workers.dev&packetEncoding=xudp#
 vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.21.23.72:8880?encryption=none&type=ws&host=orange-math-9c83.371.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&packetEncoding=xudp#
-vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.21.23.72:8880?encryption=none&type=ws&host=orange-math-9c83.371.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.21.23.72:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=orange-math-9c83.371.workers.dev&type=ws#
 vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.21.23.72:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=orange-math-9c83.371.workers.dev&type=ws#
 vless://0b17eb47-587b-4e46-86a7-e1681cbbe76c@104.21.23.72:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=orange-math-9c83.371.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#
@@ -247,7 +251,3 @@ vless://0b2b00c2-be56-4be6-abda-5e329afb7bce@37.156.44.111:443?security=reality&
 vless://0b2c18f0-3739-2479-013e-1637cb9f9f4a@5.160.58.129:50019?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=alabama-tigr.info&path=%2Ftrue&security=tls&sni=alabama-tigr.info&type=ws#
 vless://0b2f0dd1-248a-4f3c-b125-6609c52e98ba@www.parsvds.ir:8080?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#
 vless://0b2f19d7-451d-454b-a09f-032a1cfc2394@188.114.97.6:443?path=%2Fwatson&security=tls&encryption=none&insecure=0&host=watson.ferrarikingfr.ir&fp=firefox&type=ws&allowInsecure=0&sni=watson.ferrarikingfr.ir#
-vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?encryption=none&type=tcp&headerType=none#
-vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=&encryption=none&headerType=none&type=tcp#
-vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=none&encryption=none&headerType=none&type=tcp#
-vless://0b307dac-43a0-4a8f-acba-50a8ebe8b76f@mtu.silentbreath.world:5053?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#
