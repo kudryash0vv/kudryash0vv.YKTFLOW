@@ -1,7 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#8
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-19 / 04:39 (YKT)
-vless://01007737-b549-4a1a-9371-de2b320c263f@mtn.VPNPROSEC.com:2083/?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=fnd.SvnNvs.Online#
+# Update: 2026-07-19 / 13:02 (YKT)
 vless://01032652-654a-4420-9aa7-e7d896eecfe4@193.168.46.180:443?type=raw&security=reality&encryption=none&sni=rruu.persik.host&fp=qq&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&flow=xtls-rprx-vision&headerType=none#
 vless://010497f1-6128-4515-bfa1-2f917925a40c@ser.abiiidar.tech:37804/?encryption=none&flow=&host=abiiidar.divarcdn.com.wallex.ir&type=tcp&headerType=http#
 vless://0106d747-4ff3-415f-966f-27cd641c0d2c@45.146.82.216:50360?security=tls&type=ws&path=/@Marisa_kristi&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&packetEncoding=xudp&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome&encryption=none#
@@ -251,3 +250,4 @@ vless://0149d47c-2360-4b77-8e24-882b62a3ddd6@185.193.28.183:443?path=/ZEUS_PANEL
 vless://0149d47c-2360-4b77-8e24-882b62a3ddd6@185.193.28.187:2087?path=/ZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=ez-ab51a8.ezaccess153ab11.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-ab51a8.ezaccess153ab11.workers.dev#
 vless://0149d47c-2360-4b77-8e24-882b62a3ddd6@185.193.28.187:443?path=/ZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=ez-ab51a8.ezaccess153ab11.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-ab51a8.ezaccess153ab11.workers.dev#
 vless://0149d47c-2360-4b77-8e24-882b62a3ddd6@185.193.28.190:443?path=/ZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=ez-ab51a8.ezaccess153ab11.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-ab51a8.ezaccess153ab11.workers.dev#
+vless://0149d47c-2360-4b77-8e24-882b62a3ddd6@185.193.28.194:2087?path=/ZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=ez-ab51a8.ezaccess153ab11.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-ab51a8.ezaccess153ab11.workers.dev#
