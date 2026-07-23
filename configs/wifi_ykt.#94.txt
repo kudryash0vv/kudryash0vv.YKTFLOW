@@ -1,6 +1,15 @@
 # profile-title: kudryash0vv.WIFI.#94
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-23 / 18:05 (YKT)
+# Update: 2026-07-23 / 23:39 (YKT)
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.1:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=2560&fp=chrome&alpn=h3#
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.1:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/Telegram-@V2ray_Alpha/?ed=2560&fp=chrome&alpn=h3#
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.1:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/Telegram-@V2ray_Alpha/?ed=2560&fp=random&alpn=h3#
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.203:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.203:443?path=/TELEGRAM-MARAMBASHI/?ed=2048&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=chrome&type=ws&sni=pages.teasalo.cloudns.org#
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.203:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=random&alpn=h3#
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.203:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/TELEGRAM-MARAMBASHI/%3Fed%3D2048&fp=random&alpn=h3#
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.203:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/TELEGRAM-MARAMBASHI/?ed=2048&fp=chrome&alpn=h3#
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.212:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.224:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&fp=random&alpn=h3#
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.228:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.229:443?encryption=none&security=tls&sni=pages.teasalo.cloudns.org&alpn=h3&fp=random&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560#
@@ -14,6 +23,7 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.231:443?security=tls&sn
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.231:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=TELEGRAM-MARAMBASHI/?ed=2048&fp=chrome&alpn=h3#@Hope_Net-join-us-on-Telegram
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.231:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=TELEGRAM-MARAMBASHI/?ed=2048&fp=chrome&alpn=h3#EPODONIOS
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.231:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=TELEGRAM-MARAMBASHI/?ed=2048&fp=random&alpn=h3#
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.231:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=/?ed=TELEGRAM-MARAMBASHI/?ed=2048&fp=random&alpn=h3#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20374943
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.233:443?encryption=none&security=tls&sni=pages.teasalo.cloudns.org&alpn=h3&fp=random&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io#
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.233:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.233:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io&fp=random&alpn=h3#
@@ -138,7 +148,6 @@ vless://1d778a64-49be-4842-90b6-dc888a2eefa6@95.217.245.192:50108?security=none&
 vless://1d778a64-49be-4842-90b6-dc888a2eefa6@95.217.245.192:50108?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#
 vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#
 vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#
-vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85🚙
 vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@prrofile_purple
 vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://1d798021-6b6e-4bff-8e8c-b7efc51d51b9@alapo.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#US🇺🇸
@@ -242,12 +251,3 @@ vless://1d8916e2-681d-4b6a-959d-af466905e293@soskeynets.realm-of-ultramar.ru:443
 vless://1d8916e2-681d-4b6a-959d-af466905e293@soskeynets.realm-of-ultramar.ru:443?security=reality&encryption=none&pbk=KrJoipVmgkTbWVQVLAgETeuJ1bsx39WTdTlNqdqkwUU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aendros.realm-of-ultramar.ru&sid=d8304b069cdca8e4#
 vless://1d8916e2-681d-4b6a-959d-af466905e293@soskeynets.realm-of-ultramar.ru:443?security=reality&encryption=none&pbk=gSA4OFeSBlSdPd8MMPXhC9s1ylt9B2yX7hfG7mEIfBE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tuesen.realm-of-ultramar.ru&sid=54b27d6fc272d4be#
 vless://1d8916e2-681d-4b6a-959d-af466905e293@talas.realm-of-ultramar.ru:443?mode=gun&security=reality&encryption=none&pbk=bL3667MRr_X2BxjBlzNblnbDI-2OTfgohyTRbQ8suBc&fp=chrome&type=grpc&serviceName=grpc&sni=talas.realm-of-ultramar.ru#
-vless://1d8916e2-681d-4b6a-959d-af466905e293@tuesen.realm-of-ultramar.ru:443?security=reality&encryption=none&pbk=gSA4OFeSBlSdPd8MMPXhC9s1ylt9B2yX7hfG7mEIfBE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=&sid=54b27d6fc272d4be#
-vless://1d8916e2-681d-4b6a-959d-af466905e293@tuesen.realm-of-ultramar.ru:443?security=reality&encryption=none&pbk=gSA4OFeSBlSdPd8MMPXhC9s1ylt9B2yX7hfG7mEIfBE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tuesen.realm-of-ultramar.ru&sid=54b27d6fc272d4be#
-vless://1d8916e2-681d-4b6a-959d-af466905e293@tuesen.realm-of-ultramar.ru:443?security=reality&encryption=none&pbk=gSA4OFeSBlSdPd8MMPXhC9s1ylt9B2yX7hfG7mEIfBE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=tuesen.realm-of-ultramar.ru&sid=54b27d6fc272d4be#
-vless://1d8916e2-681d-4b6a-959d-af466905e293@vespator.realm-of-ultramar.ru:443?mode=gun&security=reality&encryption=none&pbk=ZT_e5ecWscWb4x94PEEqIU_Wb4djSngCxjM-2CO4FjY&fp=chrome&type=grpc&serviceName=grpc&sni=vespator.realm-of-ultramar.ru&sid=cda50d3ed181fcaa#
-vless://1d899f90-8f52-42f6-9b55-747a69566c48@207.246.106.29:8080?type=ws&security=none&path=%2F#
-vless://1d8d3c76-6def-42bb-bf54-189aa5c7d1e5@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=avocado.hadouken.space&path=/assets/static/rktt29/&mode=packet-up&extra={
-vless://1d8d3c76-6def-42bb-bf54-189aa5c7d1e5@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=banana.dragonborn.space&path=/resources/app/vendor-42c1/&mode=packet-up&extra={
-vless://1d8d3c76-6def-42bb-bf54-189aa5c7d1e5@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=cherry.benzogangmoney.space&path=/media/cache/thumbs-b82f/&mode=packet-up&extra={
-vless://1d8d3c76-6def-42bb-bf54-189aa5c7d1e5@195.209.90.8:443?encryption=none&type=xhttp&security=tls&host=s36828.cdn.ngenix.net&path=/api/v4/client/events/stream/&mode=packet-up&extra={
