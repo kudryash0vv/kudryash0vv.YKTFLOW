@@ -1,13 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#9
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-23 / 04:51 (YKT)
-vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@join.kiava.cloud.ohbah.com:2083?encryption=none&security=tls&sni=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&alpn=h2&fp=chrome&type=xhttp&host=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&path=%2F&mode=auto#
-vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@join.kiava.cloud.ohbah.com:2083?mode=auto&path=%2F%3FTelegram%20%3A&security=tls&alpn=h2&encryption=none&host=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&fp=chrome&type=xhttp&sni=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live#
-vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@join.kiava.cloud.ohbah.com:2083?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&host=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&fp=chrome&type=xhttp&sni=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live#
-vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@join.kiava.cloud.ohbah.com:2083?mode=auto&path=/&security=tls&alpn=h2&encryption=none&host=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live&fp=chrome&type=xhttp&sni=01941d0e-91b8-787a-8437-909be7e77f1c.kiava.live#
-vless://011fb39c-15ed-4700-a338-67497533f94e@217.16.24.53:443?security=reality&encryption=none&pbk=wECjZXPpzOIAcE2my_sCH2zluFB4p9a3jpTugXhJ7gI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=69f3807321#
-vless://01200f5c-5321-d946-7028-0661ea0a2c0e@69.46.46.48:443?security=tls&sni=x4g-production-c71f.up.railway.app&type=ws&host=x4g-production-c71f.up.railway.app&path=/ws/01200f5c-5321-d946-7028-0661ea0a2c0e&fp=chrome&alpn=http/1.1&allowInsecure=0#
-vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443/?type=ws&encryption=none&flow=&host=x4g-production-c71f.up.railway.app&path=/ws/01200f5c-5321-d946-7028-0661ea0a2c0e&security=tls&sni=x4g-production-c71f.up.railway.app&alpn=http/1.1#
+# Update: 2026-07-23 / 12:51 (YKT)
 vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443?&security=tls&fp=chrome&sni=x4g-production-c71f.up.railway.app&type=ws&headerType=none&host=x4g-production-c71f.up.railway.app&path=%2Fws%2F01200f5c-5321-d946-7028-0661ea0a2c0e#
 vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443?alpn=http%2F1.1&encryption=none&host=x4g-production-c71f.up.railway.app&path=%2Fws%2F01200f5c-5321-d946-7028-0661ea0a2c0e&security=tls&sni=x4g-production-c71f.up.railway.app&type=ws#
 vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443?alpn=http/1.1&encryption=none&host=x4g-production-c71f.up.railway.app&path=/ws/01200f5c-5321-d946-7028-0661ea0a2c0e&security=tls&sni=x4g-production-c71f.up.railway.app&type=ws#
@@ -251,3 +244,10 @@ vless://01675f3b-e863-44ba-bd69-d0509aaf067c@soskeynets.list.nonpath.ir:42542?en
 vless://01675f3b-e863-44ba-bd69-d0509aaf067c@sv3.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
 vless://01675f3b-e863-44ba-bd69-d0509aaf067c@sv9.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
 vless://01675f3b-e863-44ba-bd69-d0509aaf067c@us-google.mobileemdad.top:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#
+vless://01675f3b-e863-44ba-bd69-d0509aaf067c@us-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#
+vless://01675f3b-e863-44ba-bd69-d0509aaf067c@us-google.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#
+vless://01675f3b-e863-44ba-bd69-d0509aaf067c@us.mobileemdad.top:42538?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
+vless://01675f3b-e863-44ba-bd69-d0509aaf067c@us.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
+vless://016b6f1c-fe66-4e99-b9a6-a1dbba92b1a5@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=glOriouS-ComPArISoN.OnEEAT.cO.&type=ws#
+vless://016cb139-6b35-4dd8-92f5-336f7a57a15d@51.195.92.49:80?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=lunavow5d444ef.global.ssl.fastly.net&type=ws#
+vless://016cb454-6d84-4071-b34a-49d428133078@khhf2853SHJVs.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#

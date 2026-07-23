@@ -1,7 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#63
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-23 / 04:51 (YKT)
-vless://12ea484c-e93b-43f1-8c95-40f0f601143e@x.zapts3.ir:30049?type=tcp&encryption=none&security=reality&pbk=HQhi7ri0ENVJuZhOE2utvx_spmjocTI7ETpPI6VPiVw&fp=chrome&sni=www.speedtest.net&sid=ebf65c8d&spx=%2F#
+# Update: 2026-07-23 / 12:51 (YKT)
 vless://12ea484c-e93b-43f1-8c95-40f0f601143e@x.zapts3.ir:30049?type=tcp&encryption=none&security=reality&pbk=HQhi7ri0ENVJuZhOE2utvx_spmjocTI7ETpPI6VPiVw&fp=chrome&sni=www.speedtest.net&sid=ebf65c8d&spx=/#
 vless://12eac926-c4ec-4040-8fb8-f316e9fc0fd6@129.212.143.33:19001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&sid=#
 vless://12eac926-c4ec-4040-8fb8-f316e9fc0fd6@129.212.143.33:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&security=reality&sni=www.speedtest.net&type=tcp#
@@ -35,6 +34,8 @@ vless://13022f47-3f63-423c-a636-ae699a6627de@193.33.195.205:8443?security=realit
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?encryption=none&security=none&type=ws&path=%2F#
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?encryption=none&type=ws&path=%2F#
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?encryption=none&type=ws&path=/#
+vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?encryption=none&type=ws&path=/#EPODONIOS
+vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?encryption=none&type=ws&path=/#🔵@chillguy_vpn
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?path=%2F&security=none&encryption=none&type=ws#
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@5.202.8.12:80?security=none&allowInsecure=0&encryption=none&type=ws&path=/#
 vless://1303b62b-2fab-4771-bdec-059b5d65fd4c@s1.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#
@@ -250,4 +251,3 @@ vless://13998a36-160f-f413-d3e9-94686ae2cbcf@x4g-production-ed65.up.railway.app:
 vless://13998a36-160f-f413-d3e9-94686ae2cbcf@x4g-production-ed65.up.railway.app:443?path=%2Fws%2F13998a36-160f-f413-d3e9-94686ae2cbcf&security=tls&alpn=http%2…
 vless://13998a36-160f-f413-d3e9-94686ae2cbcf@x4g-production-ed65.up.railway.app:443?path=%2Fws%2F13998a36-160f-f413-d3e9-94686ae2cbcf&security=tls&alpn=http%2…#
 vless://13998a36-160f-f413-d3e9-94686ae2cbcf@x4g-production-ed65.up.railway.app:443?path=/ws/13998a36-160f-f413-d3e9-94686ae2cbcf&security=tls&alpn=http%2#
-vless://13998a36-160f-f413-d3e9-94686ae2cbcf@x4g-production-ed65.up.railway.app:443?path=/ws/13998a36-160f-f413-d3e9-94686ae2cbcf&security=tls&alpn=http%252%E2%80%A6#
