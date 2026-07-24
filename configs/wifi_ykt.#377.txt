@@ -1,18 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#377
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-24 / 23:19 (YKT)
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@162.159.44.58:8443?&security=tls&fp=random&sni=cf12.evan00.dpdns.org&type=ws&headerType=none&host=cf12.evan00.dpdns.org&path=%2Fproxyip%3DProxyIP.US.cmliussss.net#
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@162.159.6.235:443?allowInsecure=0&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=/proxyip=ProxyIP.US.cmliussss.netfp=randomsecurity=tls#
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@162.159.6.235:443?security=tls&type=ws&path=/proxyip=ProxyIP.US.cmliussss.net&host=cf11.evan00.dpdns.org&packetEncoding=xudp&alpn=h3&sni=cf11.evan00.dpdns.org&fp=random&encryption=none#
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@162.159.6.235:443?sni=cf11.evan00.dpdns.org&alpn=h3&type=ws&host=cf11.evan00.dpdns.org&path=/proxyip=ProxyIP.US.cmliussss.netfp=random&security=tls#
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@164.38.155.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws#
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@164.38.155.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram#
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@164.38.155.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@167.68.11.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws#
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@167.68.5.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws#
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@167.68.5.20:443?security=tls&type=ws&path=/Telegram
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@167.68.5.20:443?security=tls&type=ws&path=/Telegram#
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@172.64.146.59:2087/?type=ws&encryption=none&flow=&host=cf11.evan00.dpdns.org&path=%2Fproxyip%3DProxyIP.US.cmliussss.net&security=tls&sni=cf11.evan00.dpdns.org&alpn=h3&fp=chrome#
+# Update: 2026-07-25 / 04:53 (YKT)
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@172.64.146.59:2087?&security=tls&fp=firefox&alpn=h3&sni=cf11.evan00.dpdns.org&type=ws&headerType=none&host=cf11.evan00.dpdns.org&path=%2Fproxyip%3DProxyIP.US.cmliussss.net#
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@172.64.146.59:2087?encryption=none&type=ws&host=cf11.evan00.dpdns.org&path=%2Fproxyip%3DProxyIP.US.cmliussss.net&security=tls&alpn=h3&fp=firefox&sni=cf11.evan00.dpdns.org#
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@172.64.146.59:2087?path=%2Fproxyip%3DProxyIP.US.cmliussss.net&security=tls&alpn=h3&encryption=none&insecure=0&host=cf11.evan00.dpdns.org&fp=firefox&type=ws&allowInsecure=0&sni=cf11.evan00.dpdns.org#
@@ -251,3 +239,15 @@ vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@27.50.49.20:443?security=tls&sni=cf
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@27.50.49.20:443?security=tls&sni=cf11.evan00.dpdns.org&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2&host=cf11.evan00.dpdns.org&encryption=none#
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@27.50.49.20:443?security=tls&sni=cf11.evan00.dpdns.org&type=ws&path=Telegram+@WangCai2&host=cf11.evan00.dpdns.org&encryption=none#
 vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@27.50.49.20:443?security=tls&sni=cf11.evan00.dpdns.org&type=ws&path=Telegram+@soskeynets&host=cf11.evan00.dpdns.org&encryption=none#
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@27.50.49.20:443?security=tls&type=ws&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&host=cf11.evan00.dpdns.org&packetEncoding=xudp&sni=cf11.evan00.dpdns.org&fp=chrome&encryption=none#
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@31.43.179.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws#
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@37.153.171.20:443/?type=ws&encryption=none&flow=&host=cf11.evan00.dpdns.org&path=Telegram&security=tls&sni=cf11.evan00.dpdns.org#
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@37.153.171.20:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=cf11.evan00.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=cf11.evan00.dpdns.org&path=Telegram#
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@37.153.171.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws#
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@37.153.171.20:443?encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cf11.evan00.dpdns.org&type=ws#
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@37.153.171.20:443?encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cf11.evan00.dpdns.org&type=ws#RELAY🚩
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@37.153.171.20:443?encryption=none&host=cf11.evan00.dpdns.org&path=Telegram&security=tls&sni=cf11.evan00.dpdns.org&type=ws#
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@37.153.171.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=cf11.evan00.dpdns.org&path=Telegram#
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@37.153.171.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3#
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@37.153.171.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram#
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@37.153.171.20:443?encryption=none&security=tls&sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#

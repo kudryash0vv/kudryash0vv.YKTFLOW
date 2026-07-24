@@ -1,18 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#380
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-24 / 23:19 (YKT)
-vless://7627df5b-8101-4230-dd73-47266d588ccd@77.81.81.69:16032?type=tcp#
-vless://7627df5b-8101-4230-dd73-47266d588ccd@77.81.81.69:49822?security=none&encryption=none&headerType=none&type=tcp#
-vless://7627df5b-8101-4230-dd73-47266d588ccd@77.81.81.69:49822?type=tcp#
-vless://7627df5b-8101-4230-dd73-47266d588ccd@88.209.249.84:38282?security=none&encryption=none&headerType=none&type=tcp#
-vless://7627df5b-8101-4230-dd73-47266d588ccd@88.209.249.84:38282?type=tcp#
-vless://762a2616-e337-4a28-af5f-fbd62abab9d7@104.17.148.22:2086?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&sni=se1.v2vless.site&type=ws&host=www-domain.se1.v2vless.sitespeedtest.net&path=/vless#
-vless://762a2616-e337-4a28-af5f-fbd62abab9d7@104.17.148.22:2086?security=none&sni=se1.v2vless.site&type=ws&host=www-domain.se1.v2vless.sitespeedtest.net&path=%2Fvless#
-vless://762a2616-e337-4a28-af5f-fbd62abab9d7@104.17.148.22:2086?security=none&sni=se1.v2vless.site&type=ws&host=www-domain.se1.v2vless.sitespeedtest.net&path=/vless#
-vless://762c8c13-e8d4-4769-b965-98d8a5225dbf@ser.coolfrog-bot.ir:8080?type=ws&encryption=none&path=%2Fsteam&host=ser.coolfrog-bot.ir&security=none#
-vless://762c8c13-e8d4-4769-b965-98d8a5225dbf@ser.coolfrog-bot.ir:8080?type=ws&encryption=none&path=/steam&host=ser.coolfrog-bot.ir&security=none#
-vless://762ca06a-daba-4510-8533-7ba0667fb1f1@188.137.230.245:8880?encryption=none&host=188.137.230.245&path=%2F&security=none&type=ws#
-vless://762ca06a-daba-4510-8533-7ba0667fb1f1@188.137.230.245:8880?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#
+# Update: 2026-07-25 / 04:53 (YKT)
 vless://762ca06a-daba-4510-8533-7ba0667fb1f1@188.137.230.245:8880?path=%2F&security=none&encryption=none&host=188.137.230.245&type=ws#
 vless://762ca06a-daba-4510-8533-7ba0667fb1f1@188.137.230.245:8880?path=%2F&security=none&encryption=none&type=ws#
 vless://762e080b-5992-4f32-91e8-f8c33a31009e@188.68.218.110:443?encryption=none&type=xhttp&security=tls&host=api.madapp.cc&path=/api/v2/&mode=packet-up&extra={
@@ -142,6 +130,7 @@ vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?security=reality
 vless://765e0908-5ec4-41e9-8bd0-6482425e4247@152.53.139.226:443?type=tcp&security=reality&sni=ads.x5.ru&flow=xtls-rprx-vision&pbk=3TrzFrsFzfZAeYOclG39atVKrsJcN7Beoa4VhN5D-j4&sid=19ffa83bd83eb32d#
 vless://765e6bb1-72b4-460a-a5aa-0277d75b1b07@116.202.3.108:4431?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#
 vless://765e6bb1-72b4-460a-a5aa-0277d75b1b07@95.217.16.41:4432?security=reality&encryption=none&pbk=Di0QmKK7rRWwAzTMLtVX4-ND6jEYU_pNLmX4e3ES52Q&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=2a7f6b8788caca70#
+vless://765e6bb1-72b4-460a-a5aa-0277d75b1b07@95.217.16.41:4432?security=reality&encryption=none&pbk=Di0QmKK7rRWwAzTMLtVX4-ND6jEYU_pNLmX4e3ES52Q&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=2a7f6b8788caca70#EPODONIOS
 vless://765e6bb1-72b4-460a-a5aa-0277d75b1b07@95.217.16.41:4432?security=reality&encryption=none&pbk=Di0QmKK7rRWwAzTMLtVX4-ND6jEYU_pNLmX4e3ES52Q&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=2a7f6b8788caca70#🇫🇮
 vless://765e6bb1-72b4-460a-a5aa-0277d75b1b07@95.217.16.41:4432?security=reality&type=tcp&packetEncoding=xudp&sni=play.google.com&fp=chrome&sid=2a7f6b8788caca70&pbk=Di0QmKK7rRWwAzTMLtVX4-ND6jEYU_pNLmX4e3ES52Q&encryption=none#
 vless://765fbf39-2462-443a-990e-a7d36df61d7e@195.209.86.152:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=edge&sni=s43362.cdn.ngenix.net&alpn=http/1.1#
@@ -173,6 +162,7 @@ vless://766f6c65-0000-4000-8000-787000000002@104.21.93.99:2083?encryption=none&s
 vless://766f6c65-0000-4000-8000-787000000002@104.21.93.99:2083?encryption=none&security=tls&sni=volexproxy.karjadidd.workers.dev&fp=chrome&type=ws&host=volexproxy.karjadidd.workers.dev&path=/volexprosy&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://766f6c65-0000-4000-8000-787000000002@172.67.208.166:2083?encryption=none&security=tls&sni=volexproxy.karjadidd.workers.dev&fp=chrome&type=ws&host=volexproxy.karjadidd.workers.dev&path=/volexprosy&packetEncoding=xudp#
 vless://766f6c65-0000-4000-8000-787000000002@172.67.208.166:2083?encryption=none&security=tls&sni=volexproxy.karjadidd.workers.dev&fp=chrome&type=ws&host=volexproxy.karjadidd.workers.dev&path=/volexprosy&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://766f6c65-0000-4000-8000-787000000002@volexproxy.karjadidd.workers.dev:2083?&security=tls&fp=chrome&packet-encoding=xudp&sni=volexproxy.karjadidd.workers.dev&type=ws&headerType=none&host=volexproxy.karjadidd.workers.dev&path=%2Fvolexprosy#US_698%7C2.3MB%2Fs%7CB007-260618%2001
 vless://766f6c65-0000-4000-8000-787000000002@volexproxy.karjadidd.workers.dev:2083?encryption=none&security=tls&sni=volexproxy.karjadidd.workers.dev&fp=chrome&type=ws&host=volexproxy.karjadidd.workers.dev&path=/volexprosy&packetEncoding=xudp#
 vless://766f6c65-0000-4000-8000-787000000002@volexproxy.karjadidd.workers.dev:2083?encryption=none&security=tls&sni=volexproxy.karjadidd.workers.dev&fp=chrome&type=ws&host=volexproxy.karjadidd.workers.dev&path=/volexprosy&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://766f6c65-0000-4000-8000-787000000002@volexproxy.karjadidd.workers.dev:2083?path=%2Fvolexprosy&security=tls&encryption=none&insecure=0&host=volexproxy.karjadidd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=volexproxy.karjadidd.workers.dev#
@@ -232,22 +222,32 @@ vless://7675a0a3-7ad2-4650-a1c5-153bc95b6fe0@104.21.75.237:443?security=tls&sni=
 vless://7679ab74-44e6-459f-823c-bdd7dc9accba@s5.cnavippanel.com:8090?type=tcp&headerType=http&security=none&host=www.icloud.com&encryption=none#
 vless://767ac0d8-aaba-42ec-9888-72e75c49cb7e@185.229.9.32:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=I_mMGeQ8r529dq2LjFUzv0nb74zuux2zGWT2RfKuE14&security=reality&sid=27e53bbcab7593d7&sni=api.ok.ru&spx=/&type=raw#
 vless://767ac0d8-aaba-42ec-9888-72e75c49cb7e@185.229.9.32:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&security=reality&sid=27e53bbcab7593d7&sni=www.vk.com&spx=/&type=raw#
-vless://767ac0d8-aaba-42ec-9888-72e75c49cb7e@185.229.9.32:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs&security=reality&sid=27e53bbcab7593d7&sni=yandex.ru&spx=%2F&type=raw#
 vless://767ac0d8-aaba-42ec-9888-72e75c49cb7e@185.229.9.32:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=r6LKP3g2W5ruKICTDfH8rwM1PbMjdcgHU7cG6jppxTs&security=reality&sid=27e53bbcab7593d7&sni=yandex.ru&spx=/&type=raw#
-vless://767ac0d8-aaba-42ec-9888-72e75c49cb7e@51.250.7.122:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&security=reality&sid=27e53bbcab7593d7&sni=yandex.ru&spx=%2F&type=raw#
 vless://767ac0d8-aaba-42ec-9888-72e75c49cb7e@51.250.7.122:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&security=reality&sid=27e53bbcab7593d7&sni=yandex.ru&spx=/&type=raw#
 vless://767ac0d8-aaba-42ec-9888-72e75c49cb7e@51.250.7.122:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&security=reality&sid=27e53bbcab7593d7&sni=www.vk.com&spx=/&type=raw#
 vless://767ac0d8-aaba-42ec-9888-72e75c49cb7e@84.201.164.23:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=I_mMGeQ8r529dq2LjFUzv0nb74zuux2zGWT2RfKuE14&security=reality&sid=27e53bbcab7593d7&sni=ads.x5.ru&spx=/&type=raw#
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@104.26.12.140:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@104.26.13.140:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@104.26.13.140:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20872802
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443/?type=ws&encryption=none&flow=&host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev#
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443/?type=ws&encryption=none&flow=&host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev#EPODONIOS
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443/?type=ws&encryption=none&flow=&host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&fp=chrome#
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-tl-ws%5D%20%5B260723-233628.601%5D
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-tl-ws%5D%20%5B260724-124341.218%5D
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6120447%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6120496%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20244405
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20245570
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20576278
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#EPODONIOS
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20764349
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#EPODONIOS
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#📪64@oneclickvpnkeys
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#RELAY🚩
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&security=tls&sni=c7dabe95.proxy-978.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=c7dabe95.proxy-978.pages.dev&path=%2F#
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&type=ws&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev#
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&type=ws&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev#
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&type=ws&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?path=%2F&security=tls&encryption=none&insecure=0&host=c7dabe95.proxy-978.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=c7dabe95.proxy-978.pages.dev#
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?path=%2F&security=tls&encryption=none&insecure=0&host=c7dabe95.proxy-978.pages.dev&type=ws&allowInsecure=0&sni=c7dabe95.proxy-978.pages.dev#
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?path=/&security=tls&encryption=none&insecure=0&host=c7dabe95.proxy-978.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=c7dabe95.proxy-978.pages.dev#

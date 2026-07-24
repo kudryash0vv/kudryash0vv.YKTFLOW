@@ -1,9 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#38
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-24 / 23:19 (YKT)
-vless://08ad8317-3c0e-4883-ba59-d017e2429d50@213.219.212.200:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=random&sni=z8.nnmm.me&alpn=http/1.1#
-vless://08ad8317-3c0e-4883-ba59-d017e2429d50@213.219.212.200:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=random&sni=z9.nnmm.me&alpn=http/1.1#
-vless://08ad8317-3c0e-4883-ba59-d017e2429d50@213.219.212.238:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=random&sni=z3.nnmm.me&alpn=http/1.1#
+# Update: 2026-07-25 / 04:53 (YKT)
 vless://08ad8317-3c0e-4883-ba59-d017e2429d50@213.219.212.238:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=random&sni=z5.nnmm.me&alpn=http/1.1#
 vless://08ad8317-3c0e-4883-ba59-d017e2429d50@213.219.212.238:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=random&sni=z7.nnmm.me&alpn=http/1.1#
 vless://08ad8317-3c0e-4883-ba59-d017e2429d50@213.219.212.238:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=random&sni=z8.nnmm.me&alpn=http/1.1#
@@ -21,6 +18,11 @@ vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fc
 vless://08b89fd6-b7e7-4701-a66f-793b30f92dca@cp3.independenttherapeutics.com:8443?encryption=none&security=tls&sni=cp3.independenttherapeutics.com&alpn=http%2F1.1&fp=chrome&type=ws&host=cp3.independenttherapeutics.com&path=%2Fclient-area#
 vless://08b906c9-2093-4a53-9957-d535304729e8@snapp.ir:80?path=%2F&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#
 vless://08ba699a-550c-4933-a5de-d32a452a557d@5.188.115.159:8446?type=grpc&security=reality&encryption=none&sni=360.yandex.ru&fp=firefox&pbk=rUCHk3_64Wv_f_v46OfVNYldKu9fUqHpX937bmGeeDs&headerType=none&mode=gun#
+vless://08bc2f46-c8ae-421e-93cc-e1225923fa50@151.101.34.144:443?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=Vistitrohamfastvipnexttt.net&mode=auto&path=%2F&security=tls&sni=global.fastly.com&type=xhttp&x_padding_bytes=100-1000#
+vless://08bc2f46-c8ae-421e-93cc-e1225923fa50@199.232.245.94:443?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=Vistitrohamfastvipnexttt.net&mode=auto&path=%2F&security=tls&sni=global.fastly.com&type=xhttp&x_padding_bytes=100-1000#
+vless://08bc2f46-c8ae-421e-93cc-e1225923fa50@199.232.77.215:443?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=Vistitrohamfastvipnexttt.net&mode=auto&path=%2F&security=tls&sni=global.fastly.com&type=xhttp&x_padding_bytes=100-1000#
+vless://08bc2f46-c8ae-421e-93cc-e1225923fa50@199.232.78.150:443?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=Vistitrohamfastvipnexttt.net&mode=auto&path=%2F&security=tls&sni=global.fastly.com&type=xhttp&x_padding_bytes=100-1000#
+vless://08bc2f46-c8ae-421e-93cc-e1225923fa50@199.232.78.155:443?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=Vistitrohamfastvipnexttt.net&mode=auto&path=%2F&security=tls&sni=+global.fastly.com&type=xhttp&x_padding_bytes=100-1000#
 vless://08be1f01-5bdd-4658-f5a6-a999f215e681@sp6.kiava.fun:8443?encryption=none&security=tls&sni=sp6.kiava.fun&alpn=http%2F1.1&fp=chrome&type=ws&host=sp6.kiava.fun&path=%2F#
 vless://08be5d08-de17-4bac-939d-d57a91028a60@139.59.168.171:443?encryption=none&security=tls&sni=api.avito.ru&insecure=0&allowInsecure=0&type=ws&path=%2Fuirexwws#
 vless://08be5d08-de17-4bac-939d-d57a91028a60@139.59.168.171:443?path=%2Fuirexwws&security=tls&encryption=none&type=ws&sni=api.avito.ru#
@@ -219,9 +221,10 @@ vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryptio
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&type=ws&security=tls&path=%2Fvless%2F&host=ov-canada1.09vpn.com&sni=ov-canada1.09vpn.com&fp=chrome&insecure=0&allowInsecure=0#
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&type=ws&security=tls&path=%2Fvless%2F&host=ov-canada1.09vpn.com&sni=ov-canada1.09vpn.com&fp=chrome&insecure=0&allowInsecure=0#CA🇨🇦
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&type=ws&security=tls&path=/vless/&host=ov-canada1.09vpn.com&sni=ov-canada1.09vpn.com&fp=chrome&insecure=0&allowInsecure=0#
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&type=ws&security=tls&path=/vless/&host=ov-canada1.09vpn.com&sni=ov-canada1.09vpn.com&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?encryption=none&type=ws&security=tls&path=/vless/&host=ov-canada1.09vpn.com&sni=ov-canada1.09vpn.com&fp=chrome&insecure=0&allowInsecure=0#🇨🇦
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&host=ov-canada1.09vpn.com&fp=chrome&type=ws&allowInsecure=0&sni=ov-canada1.09vpn.com#
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%40v2box
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&%3Bsecurity=tls&%3Bencryption=none&%3Binsecure=0&%3Btype=ws&%3BallowInsecure=0#
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&;security=tls&;encryption=none&;insecure=0&;type=ws&;allowInsecure=0#
@@ -248,6 +251,3 @@ vless://09036778-56fa-4489-945b-dcb66fa304a9@5.75.207.247:2886?encryption=none&f
 vless://09036778-56fa-4489-945b-dcb66fa304a9@5.75.207.247:443?security=reality&encryption=none&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&headerType=none&fp=random&spx=%2FfFTTCWB0FzkLkC5&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=6d7781633a113e#
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#
-vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#
-vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed&security=tls&encryption=none&alpn=http/1.1&host=who-cares.BacheBiaPain.IR&fp=randomized&type=ws&sni=who-cares.BacheBiaPain.IR#
-vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@go.inmobi.com:8443?encryption=none&fp=chrome&host=nginx-f.pages.dev&path=%2F&security=tls&sni=nginx-f.pages.dev&type=ws#
