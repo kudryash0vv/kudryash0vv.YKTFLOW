@@ -1,13 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#428
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-26 / 23:06 (YKT)
-vless://806e6674-98f7-4008-e7e9-bdd197483bf7@91.228.10.55:8443?type=tcp&security=reality&pbk=xp9MdcYSXBA5aMYdKww8kYUVNsbUMD48c6raNYNUdQo&fp=firefox&sni=n.sni-347-default.ssl.fastly.net&spx=%2F#
-vless://806fd778-b55e-41a2-bbef-dba8fdcadbc9@178.176.128.128:443?alpn=h2,http/1.1&encryption=none&extra={
-vless://806fd778-b55e-41a2-bbef-dba8fdcadbc9@188.72.103.3:443?alpn=h2,http/1.1&encryption=none&extra={
-vless://806fd778-b55e-41a2-bbef-dba8fdcadbc9@5.188.115.69:443?alpn=http/1.1&encryption=none&fp=chrome&path=/ws&security=tls&sni=amogus.razkur.dev&type=ws#
-vless://806fd778-b55e-41a2-bbef-dba8fdcadbc9@5.188.115.69:443?alpn=http/1.1&encryption=none&fp=safari&path=/ws&security=tls&sni=amogus.razkur.dev&type=ws#
-vless://806fd778-b55e-41a2-bbef-dba8fdcadbc9@5.188.115.69:443?encryption=none&fp=safari&path=/ws&security=tls&sni=amogus.razkur.dev&type=ws#
-vless://80746ab5-6c08-4a35-c2f8-558577613f64@185.229.251.44:8080?path=%2F&security=none&encryption=none&type=ws#
+# Update: 2026-07-27 / 04:41 (YKT)
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2F&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Foqlixwai6lzpnumq&security=tls&encryption=none&host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&fp=chrome&type=ws&sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv#
@@ -150,6 +143,8 @@ vless://80ce8c17-f249-471b-b78a-17a60f17b1be@104.21.19.124:80?path=/telegram/id/
 vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@104.17.191.15:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=flat-fire-40ed.96-042.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#US_1163%7C1.3MB%2Fs%7CF003-260618%2001
 vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@104.17.191.15:8880?&security=false&fp=chrome&type=ws&headerType=none&host=flat-fire-40ed.96-042.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5B%F0%9F%87%B0%F0%9F%87%B7%5D%20%5Bvl-no-ws%5D%20%5B260726-123948.037%5D
 vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@104.17.191.15:8880?encryption=none&security=none&type=ws&host=flat-fire-40ed.96-042.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#
+vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@104.17.191.15:8880?encryption=none&security=none&type=ws&host=flat-fire-40ed.96-042.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#
+vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@104.17.191.15:8880?encryption=none&security=none&type=ws&host=flat-fire-40ed.96-042.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20759772
 vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@104.17.191.15:8880?encryption=none&type=ws&host=flat-fire-40ed.96-042.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none#
 vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@104.17.191.15:8880?host=flat-fire-40ed.96-042.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&type=ws#
 vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@104.17.191.15:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=flat-fire-40ed.96-042.workers.dev&packetEncoding=xudp#
@@ -164,7 +159,6 @@ vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@icook.tw:8880?encryption=none&secur
 vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@icook.tw:8880?encryption=none&security=none&type=ws&host=flat-fire-40ed.96-042.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#
 vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@icook.tw:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=flat-fire-40ed.96-042.workers.dev&packetEncoding=xudp#
 vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@icook.tw:8880?type=ws&host=flat-fire-40ed.96-042.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#
-vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@icook.tw:8880?type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=flat-fire-40ed.96-042.workers.dev&sni=icook.tw#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
 vless://80d1534e-3f2f-4781-a7bf-c216b4609015@ser.coolfrog-bot.ir:80?type=ws&encryption=none&path=/stream&host=ser.coolfrog-bot.ir&security=none#
 vless://80d1f%6559-60f4-4272-%61280-820%651%65f0%61754@104.16.53.11:443?path=%2F%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y%3Fed%3D2048&security=tls&encryption=none=&host=tfs733.p%61g%65s.d%65%76&type=ws&sni=pages.dev#
 vless://80d1f%6559-60f4-4272-%61280-820%651%65f0%61754@104.17.147.22:443?path=%2F%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y%3Fed%3D2048&security=tls&encryption=none&host=www.sp%65%65dt%65st.n%65t.googl%65.com.b%69ng.com.y%61hoo.com.pubgmob%69l%65.dns-dyn%61m%69c.n%65t&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#
@@ -251,3 +245,9 @@ vless://80f8bfef-bfe2-4152-8d09-624049988d40@188.245.179.99:443?security=reality
 vless://80f8bfef-bfe2-4152-8d09-624049988d40@www-gm.svnmobile.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#
 vless://80f965d0-ba38-41fd-a7eb-2d68027bcc2e@zula.ir:443?path=%2Fvless&security=tls&encryption=none&host=uk2-vless.sshmax.xyz&type=ws&sni=uk2-vless.sshmax.xyz#
 vless://80f965d0-ba38-41fd-a7eb-2d68027bcc2e@zula.ir:80?path=%2Fvless&security=none&encryption=none&host=uk2-vless.sshmax.xyz&type=ws#
+vless://80fa4a90-e4eb-483a-80af-fe3ba9f46e5e@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#
+vless://80fa4b0a-53bf-4387-8a49-992ea9f301c4@188.72.103.3:443?encryption=none&type=xhttp&security=tls&host=shops.sale-stars.com&path=/live/media/manifest-7d2b9f&mode=packet-up&extra={
+vless://80fa5052-99ab-41cd-85f2-94b346c56674@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#
+vless://80fa5052-99ab-41cd-85f2-94b346c56674@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#
+vless://80fbb3e8-d705-4eca-a519-fd82fd6d319a@46.38.137.141:38554?type=tcp&encryption=none&security=none#
+vless://80fc669b-20b4-40df-b193-5c7dde59f01d@176.109.85.65:16321?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=n4OsCrs1bDcu_TI95_W-D4K9s5i2ga_g5L3uskwA1VU&security=reality&sid=78b2ebdb7007ecee&sni=yandex.ru&type=tcp#

@@ -1,13 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#355
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-26 / 23:06 (YKT)
-vless://69ccabf0-4818-4068-a8a5-3b077b52cceb@bitbarg.com:80?type=ws&encryption=none&path=/ws&host=dust.gameisworld.ir&security=none#
-vless://69ce1e21-8069-4ff7-a00d-bd28b57d5f27@172.232.148.91:2003?encryption=none&security=tls&sni=atrsun.com&alpn=h2&fp=firefox&type=grpc&serviceName=GRPC&mode=gun#
-vless://69ce1e21-8069-4ff7-a00d-bd28b57d5f27@172.232.148.91:2003?encryption=none&security=tls&sni=cdn.accuweather.com&alpn=h2&fp=firefox&type=grpc&serviceName=GRPC&mode=gun#
-vless://69ce1e21-8069-4ff7-a00d-bd28b57d5f27@172.232.148.91:2003?encryption=none&security=tls&sni=www.tradingview.com&alpn=h2&fp=firefox&type=grpc&serviceName=GRPC&mode=gun#
-vless://69d10276-31bf-44c1-afbb-5e40cd5f71e3@217.60.241.87:11025?security=none&encryption=none&headerType=none&type=tcp#
-vless://69d179c2-538a-4176-9f38-b742ba37d3ae@128.140.105.111:2080?mode=auto&path=%2F%40v2ryNG01&security=reality&encryption=none&pbk=wlPxU9P1fUny_aPX8BTv-ujgUlfw4hQ1l1KsK0Pv2kw&fp=chrome&spx=%2F&type=xhttp&sni=speedtest.net&sid=db5a#
-vless://69d1f346-4158-4e1c-a332-2f3f8865442a@212.193.153.93:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=chrome&sni=s88046.cdn.ngenix.net&alpn=http/1.1#
+# Update: 2026-07-27 / 04:41 (YKT)
 vless://69d1f346-4158-4e1c-a332-2f3f8865442a@62.152.59.10:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#
 vless://69d1f346-4158-4e1c-a332-2f3f8865442a@62.152.59.10:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=m.vk.com&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#
 vless://69d299dd-d9bb-4032-9a97-53f4f2cb53e5@185.91.54.126:8445?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ns&authority=360.yandex.ru&fp=qq&sni=360.yandex.ru&pbk=-22oLFCHao66M820QocQMqCdKF0ckLuVYMtcth92vjk#
@@ -29,18 +22,17 @@ vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?&security=false&f
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&host=sfsl.ardomains1.dpdns.org&security=none&type=ws#
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F#
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F#%3E%3E%40configshub2%3A%3AUS
-vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20546417
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20991636
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F#EPODONIOS
-vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=/#
-vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20611450
-vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F&security=none#
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20786390
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&type=ws&security=none&host=sfsl.ardomains1.dpdns.org&path=/#
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?security=none&type=ws&path=%2F&host=sfsl.ardomains1.dpdns.org&packetEncoding=xudp&encryption=none#
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?security=none&type=ws&path=/&host=sfsl.ardomains1.dpdns.org&packetEncoding=xudp&encryption=none#
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.37.104:80?encryption=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F%3Fed%3D2048&security=none#
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.19.238.22:80?encryption=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F%3Fed%3D2048&security=none#
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.27.30.20:443?encryption=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F%3Fed%3D2048security%3Dtlssecurity%3Dtls&security=tls&sni=sfsl.ardomains1.dpdns.org#
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.27.30.20:443?security=tls&type=ws&path=/&host=sfsl.ardomains1.dpdns.org&packetEncoding=xudp&sni=sfsl.ardomains1.dpdns.org&fp=chrome#
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.27.30.20:80?encryption=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F&security=none#
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@172.67.111.41:443?allowInsecure=1&encryption=none&host=sfsl.ardomains1.dpdns.org&path=%2F&security=tls&sni=sfsl.ardomains1.dpdns.org&type=ws#
 vless://69d38faa-21a1-4d18-82cb-796a942c181b@172.67.111.41:443?security=tls&type=ws&path=%2F&host=sfsl.ardomains1.dpdns.org&packetEncoding=xudp&sni=sfsl.ardomains1.dpdns.org&fp=chrome&encryption=none#
@@ -251,3 +243,11 @@ vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@cdn.sjdpictures.ir:8443?path=%2F45.
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=delta090.qzz.io&fp=chrome&type=ws&sni=delta090.qzz.io#
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=delta090.qzz.io#
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#%40Easy_Free_VPN
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@soskeynets-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#
+vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@soskeynets-ma.rainzone.site:443?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#
+vless://6a5e52bd-c308-49e8-aab7-b1ce9b32e58b@94.182.103.8:8070?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#
+vless://6a5fb830-a114-410e-df1f-9c36f841dc41@151.101.128.155:80?security=none&type=ws&host=%55NLIMITEDDEV.channel-telegram-1.ir&path=%40%55nlimitedDev----%40%55nlimitedDev-----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev%3Fed%3D2480#
+vless://6a5fb830-a114-410e-df1f-9c36f841dc41@unlimiteddev.fastly80-2.hosting-ip.com:80?security=none&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&host=UNLIMITEDDEV.channel-telegram-1.ir&encryption=none#
