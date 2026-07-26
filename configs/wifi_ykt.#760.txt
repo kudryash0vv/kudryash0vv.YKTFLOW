@@ -1,6 +1,8 @@
 # profile-title: kudryash0vv.WIFI.#760
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-26 / 04:40 (YKT)
+# Update: 2026-07-26 / 13:04 (YKT)
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.35:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.67:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.84:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.85.118.187:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.85.118.85:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#
@@ -249,5 +251,3 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@thaddeus.ns.cloudflare.com:443?secu
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@theo.ns.cloudflare.com:443/?type=ws&encryption=none&host=edmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edmk.ambercc.filegear-sg.me#
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@theo.ns.cloudflare.com:443?encryption=none&security=tls&sni=edgc.aimercc.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=edgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@theo.ns.cloudflare.com:443?path=%2F%3Fproxyip%3Dts.hpc.tw&security=tls&encryption=none&host=edmz.aimercc.filegear-sg.me&type=ws&sni=edmz.aimercc.filegear-sg.me#
-vless://ee6817f6-50fe-4114-b7ff-ce853b144282@45.136.129.109:59999?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&security=reality&sid=7c8d9e0f&sni=yastatic.net&type=tcp#
-vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@45.89.106.4:443?security=reality&encryption=none&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=972e3378#

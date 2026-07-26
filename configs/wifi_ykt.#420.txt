@@ -1,7 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#420
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-26 / 04:40 (YKT)
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.166:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#
+# Update: 2026-07-26 / 13:04 (YKT)
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.166:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c#
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.167:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c#
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.167:8443?type=tcp&security=reality&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c#
@@ -251,3 +250,4 @@ vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.23:8443/?type=tcp&encryp
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.23:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.23:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#
 vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.23:8443?type=tcp&security=reality&sni=storage.yandex.net&flow=xtls-rprx-vision&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c#
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.240:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c#

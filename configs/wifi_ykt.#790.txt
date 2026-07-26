@@ -1,18 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#790
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-26 / 04:40 (YKT)
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.76:2087?mode=auto&path=/path&security=tls&alpn=h2,http/1.1&encryption=none&extra={
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@45.130.125.76:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dl-pack.motionbetter.ir#
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@chatgpt.com:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=dl-pack.motionbetter.ir&path=%2F&security=none&type=ws#
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@chatgpt.com:80?path=%2F&security=&encryption=none&host=dl-pack.motionbetter.ir&type=ws#
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@chatgpt.com:80?path=/&security=&encryption=none&host=dl-pack.motionbetter.ir&type=ws#
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@chatgpt.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=dl-pack.motionbetter.ir&path=/#
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@www.speedtest.net:80?path=/&security=&encryption=none&host=dl-pack.motionbetter.ir&type=ws#
-vless://ef0c3e81-5b8e-4cf8-b7d5-46932e9c9c42@37.202.248.51:3333?security=none&encryption=none&headerType=none&type=tcp#
-vless://ef0d09e7-75d9-4252-8a42-6bd70a3b40f5@89.105.210.100:443?security=reality&flow=xtls-rprx-vision&sni=ru-1.videoproeditor.com&type=tcp&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#
-vless://ef0d09e7-75d9-4252-8a42-6bd70a3b40f5@89.105.210.101:443?security=reality&flow=xtls-rprx-vision&sni=ru-1.videoproeditor.com&type=tcp&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#
-vless://ef0d09e7-75d9-4252-8a42-6bd70a3b40f5@89.105.210.102:443?security=reality&flow=xtls-rprx-vision&sni=ru-1.videoproeditor.com&type=tcp&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#
-vless://ef0d09e7-75d9-4252-8a42-6bd70a3b40f5@89.105.210.98:443?security=reality&flow=xtls-rprx-vision&sni=ru-1.videoproeditor.com&type=tcp&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#
+# Update: 2026-07-26 / 13:04 (YKT)
 vless://ef0d09e7-75d9-4252-8a42-6bd70a3b40f5@89.105.210.99:443?security=reality&flow=xtls-rprx-vision&sni=ru-1.videoproeditor.com&type=tcp&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#
 vless://ef0d09e7-75d9-4252-8a42-6bd70a3b40f5@ru-1.videoproeditor.com:443?&security=reality&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&fp=chrome&sni=ru-1.videoproeditor.com&type=tcp&headerType=none&host=ru-1.videoproeditor.com&path=%2F#
 vless://ef0d09e7-75d9-4252-8a42-6bd70a3b40f5@ru-1.videoproeditor.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=ru-1.videoproeditor.com&type=tcp#
@@ -251,3 +239,15 @@ vless://ef267958-2200-4ef5-b115-10bba6b5a26f@151.101.194.219:443?Telegram=@Gozar
 vless://ef267958-2200-4ef5-b115-10bba6b5a26f@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=i-am-melo.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#
 vless://ef267958-2200-4ef5-b115-10bba6b5a26f@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=i-am-melo.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#
 vless://ef267958-2200-4ef5-b115-10bba6b5a26f@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=i-am-melo.com&path=/@VPNine1/ws?ed=2048&fp=chrome&alpn=h2,http/1.1#
+vless://ef267958-2200-4ef5-b115-10bba6b5a26f@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=i-am-melo.com&path=/@VPNine1/ws?ed=2048&fp=firefox&alpn=h2,http/1.1#
+vless://ef267958-2200-4ef5-b115-10bba6b5a26f@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=i-am-melo.com&path=/@melov2ray/ws?ed=2048&fp=chrome&alpn=h2,http/1.1#
+vless://ef267958-2200-4ef5-b115-10bba6b5a26f@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=i-am-melo.com&path=/@melov2ray/ws?ed=2048&fp=firefox&alpn=h2,http/1.1#
+vless://ef267958-2200-4ef5-b115-10bba6b5a26f@151.101.2.219:443?security=tls&sni=speedtestcustom.com&type=ws&host=melofin.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1&allowInsecure=false#
+vless://ef267958-2200-4ef5-b115-10bba6b5a26f@151.101.2.219:443?security=tls&sni=speedtestcustom.com&type=ws&host=melofin.ir&path=/%40melov2ray/ws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp/1.1&allowInsecure=false#
+vless://ef267958-2200-4ef5-b115-10bba6b5a26f@151.101.2.219:443?security=tls&sni=speedtestcustom.com&type=ws&host=melofin.ir&path=/@VPNine1/ws?ed=2048&fp=chrome&alpn=h2,http/1.1&allowInsecure=false#
+vless://ef267958-2200-4ef5-b115-10bba6b5a26f@151.101.2.219:443?security=tls&sni=speedtestcustom.com&type=ws&host=melofin.ir&path=/@melov2ray/ws?ed=2048&fp=chrome&alpn=h2,http/1.1&allowInsecure=false#
+vless://ef267958-2200-4ef5-b115-10bba6b5a26f@speedtest.net:443?allowInsecure=false&alpn=h2%2Chttp%2F1.1&fp=firefox&host=i-am-melo.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&sni=speedtest.net&type=ws#
+vless://ef267958-2200-4ef5-b115-10bba6b5a26f@speedtestcustom.com:443?allowInsecure=false&alpn=h2%2Chttp%2F1.1&fp=firefox&host=melofin.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&sni=speedtestcustom.com&type=ws#
+vless://ef26fe1e-abb0-4b37-b45b-d999a91ebc46@m3.fastspeeds.ir:2053?encryption=none&security=tls&sni=aslan-nl.ip-venzo.com&insecure=0&allowInsecure=0&type=ws&path=%2Fws#
+vless://ef275137-f512-4558-ae7b-131fad6b292e@91.107.147.112:20993?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.160.117:80?security=reality&encryption=none&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=94aa1bdc#
