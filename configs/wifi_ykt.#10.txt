@@ -1,6 +1,11 @@
 # profile-title: kudryash0vv.WIFI.#10
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-26 / 13:04 (YKT)
+# Update: 2026-07-26 / 17:43 (YKT)
+vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443?encryption=none&type=ws&security=tls&path=/ws/01200f5c-5321-d946-7028-0661ea0a2c0e&host=x4g-production-c71f.up.railway.app&sni=x4g-production-c71f.up.railway.app&alpn=http/1.1&insecure=0&allowInsecure=0#
+vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443?path=%2Fws%2F01200f5c-5321-d946-7028-0661ea0a2c0e&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-c71f.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=x4g-production-c71f.up.railway.app#
+vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443?path=%2Fws%2F01200f5c-5321-d946-7028-0661ea0a2c0e&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-c71f.up.railway.app&type=ws&allowInsecure=0&sni=x4g-production-c71f.up.railway.app#
+vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443?path=/ws/01200f5c-5321-d946-7028-0661ea0a2c0e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-c71f.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-c71f.up.railway.app#
+vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443?path=/ws/01200f5c-5321-d946-7028-0661ea0a2c0e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-c71f.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=x4g-production-c71f.up.railway.app#
 vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443?path=/ws/01200f5c-5321-d946-7028-0661ea0a2c0e&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-c71f.up.railway.app&type=ws&allowInsecure=0&sni=x4g-production-c71f.up.railway.app#
 vless://01200f5c-5321-d946-7028-0661ea0a2c0e@x4g-production-c71f.up.railway.app:443?security=tls&type=ws&path=/ws/01200f5c-5321-d946-7028-0661ea0a2c0e&host=x4g-production-c71f.up.railway.app&packetEncoding=xudp&alpn=http/1.1&sni=x4g-production-c71f.up.railway.app&fp=chrome&encryption=none#
 vless://012116a8-7d92-4c5f-b3f2-13a0e9b37ba9@www.speedtest.net:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.hu1.v2vless.sitespeedtest.net&type=ws#
@@ -246,8 +251,3 @@ vless://01675f3b-e863-44ba-bd69-d0509aaf067c@i.nonpath.ir:42542?Telegram=@Gozarg
 vless://01675f3b-e863-44ba-bd69-d0509aaf067c@i.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
 vless://01675f3b-e863-44ba-bd69-d0509aaf067c@myip.check.nonpath.ir:42542?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
 vless://01675f3b-e863-44ba-bd69-d0509aaf067c@myip.check.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
-vless://01675f3b-e863-44ba-bd69-d0509aaf067c@new1.list.nonpath.ir:42542?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
-vless://01675f3b-e863-44ba-bd69-d0509aaf067c@new1.list.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
-vless://01675f3b-e863-44ba-bd69-d0509aaf067c@soskeynets.check.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
-vless://01675f3b-e863-44ba-bd69-d0509aaf067c@soskeynets.list.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
-vless://01675f3b-e863-44ba-bd69-d0509aaf067c@sv3.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#
