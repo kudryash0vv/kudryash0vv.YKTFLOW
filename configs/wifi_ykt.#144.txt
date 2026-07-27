@@ -1,12 +1,11 @@
 # profile-title: kudryash0vv.WIFI.#144
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-27 / 13:11 (YKT)
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?path=/tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?path=/tg@zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
+# Update: 2026-07-27 / 19:14 (YKT)
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.52:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.186.244.184:81?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.0:443?path=tg%40zdyz2security&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.139:443?path=tg%40zdyz2fp&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.139:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.144:443?path=tg%40zdyz2security&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.144:443?path=tg@zdyz2security&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.158:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2security#
@@ -22,6 +21,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.159:8443?path=/tg@zdyz2&
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.159:8443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@VPNine1=chrome&security=tls#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.159:8443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@soskeynets=chrome&security=tls#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.159:8443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2securityfp=chrome&security=tls#
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.178:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.178:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chromefp=chrome&security=tls#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.178:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chromefp=chrome&security=tls#@v2ray_configs_pools-join-us-on-Telegram
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.178:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chromefp=chrome&security=tls#EPODONIOS
@@ -72,11 +72,13 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.155:443?sni=cfed.tgzdyz2.
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.155:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.159:443?path=tg%40zdyz2security&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.159:443?path=tg@zdyz2security&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.198:443?allowInsecure=0&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2security=tls#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.198:443?path=tg%40zdyz2security&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.198:443?path=tg@zdyz2security&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.208:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.225:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.245:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.42:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@35.240.184.147:8092?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.180.10.150:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.180.10.150:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#
@@ -134,7 +136,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2security#@v2ray_configs_pools-join-us-on-Telegram
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2security#EPODONIOS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2securityfp%3Dchrome&security=tls#
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2securityfp%3Dchrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40hope_net%20%231%20%5Bfast%5D
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@VPNine1=chrome&security=tls#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@soskeynets=chrome&security=tls#
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2securityfp=chrome&security=tls#
@@ -180,10 +181,11 @@ vless://2cebce2b-5f2d-47c7-9a10-53418fe49f5c@164.92.210.82:2096?mode=gun&securit
 vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?&security=none&type=ws&headerType=&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#
 vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#
 vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20698975
+vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20343985
 vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#EPODONIOS
+vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&host=flat-butterfly-d503.411-d1e.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#
-vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&host=flat-butterfly-d503.411-d1e.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20595087
+vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&host=flat-butterfly-d503.411-d1e.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20656765
 vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&type=ws&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#
 vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&type=ws&host=flat-butterfly-d503.411-d1e.workers.dev&path=/pyip%3DProxyIP.US.CMLiussss.net&packetEncoding=xudp#
 vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=flat-butterfly-d503.411-d1e.workers.dev&packetEncoding=xudp#
@@ -191,6 +193,7 @@ vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?security=none&type
 vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=flat-butterfly-d503.411-d1e.workers.dev&packetEncoding=xudp&encryption=none#
 vless://2ced390a-4252-4541-8985-730f7a06bb45@www.gov.ua:8880?&security=none&type=ws&headerType=&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#
 vless://2ced390a-4252-4541-8985-730f7a06bb45@www.gov.ua:8880?encryption=none&type=ws&host=flat-butterfly-d503.411-d1e.workers.dev&path=/pyip%3DProxyIP.US.CMLiussss.net&packetEncoding=xudp#
+vless://2ced390a-4252-4541-8985-730f7a06bb45@www.gov.ua:8880?encryption=none&type=ws&host=flat-butterfly-d503.411-d1e.workers.dev&path=/pyip%3DProxyIP.US.CMLiussss.net&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://2ced390a-4252-4541-8985-730f7a06bb45@www.gov.ua:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=flat-butterfly-d503.411-d1e.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#
 vless://2ced390a-4252-4541-8985-730f7a06bb45@www.gov.ua:8880?type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=flat-butterfly-d503.411-d1e.workers.dev&sni=www.gov.ua#
 vless://2ceebcdc-ecc3-463f-8de7-b7e8afecbfd0@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#
@@ -248,6 +251,3 @@ vless://2d0c13f6-5b99-4%65d8-9f88-3%616972f85%659f@141.227.168.52:33288?mode=gun
 vless://2d0c13f6-5b99-4ed8-9f88-3a6972f85e9f@141.227.168.52:33288?mode=gun&security=none&encryption=none&authority=MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&type=grpc&serviceName=%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-bia-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E-%5A%45%44%4D%4F%44%45%4F%4E#
 vless://2d0c13f6-5b99-4ed8-9f88-3a6972f85e9f@141.227.168.52:33288?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#
 vless://2d0c58db-8e93-41b4-bc37-00e27e6f83f7@1.1.1.1:80?security=none&type=tcp&headerType=none&path=&host=#
-vless://2d0c58db-8e93-41b4-bc37-00e27e6f83f7@s1.cnavippanel.com:4568?security=none&type=tcp&headerType=http&path=%2F&host=www.icloud.com#
-vless://2d0c58db-8e93-41b4-bc37-00e27e6f83f7@s1.cnavippanel.com:4568?security=none&type=tcp&headerType=http&path=/&host=www.icloud.com#
-vless://2d0c58db-8e93-41b4-bc37-00e27e6f83f7@s2.cnavippanel.com:4568?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#

@@ -1,19 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#95
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-27 / 13:11 (YKT)
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#
-vless://1b9e3af9-2864-4d4c-8afd-aa46c0df5674@45.130.125.69:443?security=tls&alpn=h2,http/1.1&encryption=none&host=hello.aihoshbartar.ir&fp=chrome&type=xhttp&path=/&sni=hello.aihoshbartar.ir#
-vless://1ba07669-2597-4d8d-9553-e660e46f9913@185.220.227.173:443?security=tls&sni=m4vibamk72e8.dopraxrocks.com&type=tcp&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#
-vless://1ba07669-2597-4d8d-9553-e660e46f9913@185.220.227.173:443?security=tls&sni=m4vibamk72e8.dopraxrocks.com&type=tcp&fp=chrome&alpn=h3,h2,http/1.1#
-vless://1ba34eac-fa07-46f9-8dba-0ec05317902d@81.94.148.75:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ads.x5.ru&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#
-vless://1ba35aec-8ae1-43fc-9f96-5a49f2e6dda4@8.208.26.224:2087?mode=multi&security=tls&encryption=none&type=grpc&serviceName=mat2.v2rayiern.fun&sni=mat2.v2rayiern.fun#
-vless://1ba5bfb7-c012-481a-9d1e-e92b3125ad1c@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#
-vless://1ba68295-bc56-4af3-929b-255426db2312@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=s2.limitless-cloud.ir&fp=chrome&type=ws&sni=s2.limitless-cloud.ir#
-vless://1ba6bb71-98f2-4c63-aae3-9e419c801e35@104.19.253.213:8080?path=%2F13111%2FNextlife&security=none&encryption=none&host=n2w3nv2app4.clockdeny.eu&type=ws#
-vless://1ba6f222-db8f-41ee-89ea-c40c51e3bf96@snapp.ir:2052?path=%2F&security=none&encryption=none&host=s1.gill-offroad.ir&type=ws#
-vless://1ba706d2-8ab1-4441-8d57-6715f6bf695c@dl6.3cdn.ir:80?path=stream%3Fed%3D2560&security=&encryption=none&host=www.w-movies.ir&type=ws#
-vless://1ba706d2-8ab1-4441-8d57-6715f6bf695c@dl6.3cdn.ir:80?path=stream?ed=2560&security=&encryption=none&host=www.w-movies.ir&type=ws#
-vless://1ba72f40-2c70-412f-b6c5-8da85eda7a2d@151.101.3.8:80?mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#
+# Update: 2026-07-27 / 19:14 (YKT)
 vless://1ba77343-3832-4959-914c-ddc5a133acc1@158.160.249.252:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=ads.x5.ru&pbk=v6rib0-2FxBd1MnBxdylbIRIhvXywSj56QEtCkaEuBo&sid=27e53bbcab7593d7&spx=/#
 vless://1ba77343-3832-4959-914c-ddc5a133acc1@158.160.249.252:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&sid=27e53bbcab7593d7&spx=/#
 vless://1ba77343-3832-4959-914c-ddc5a133acc1@185.229.9.235:49003?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=ads.x5.ru&pbk=Zd4UabMvO_1QQny7BzwBZa7T3eeY1GXC7MKZprZ-pGY&sid=27e53bbcab7593d7&spx=/#
@@ -79,7 +66,7 @@ vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@104.16.72.41:8880?path=/pyip&securi
 vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@104.16.72.41:8880?security=none&type=ws&path=/pyip&host=super-mud-8b38.114-a90.workers.dev&packetEncoding=xudp&encryption=none#
 vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@162.159.48.193:8880?encryption=none&host=super-mud-8b38.114-a90.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#
 vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@162.159.48.193:8880?encryption=none&host=super-mud-8b38.114-a90.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@162.159.48.193:8880?encryption=none&host=super-mud-8b38.114-a90.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20498209
+vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@162.159.48.193:8880?encryption=none&host=super-mud-8b38.114-a90.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20636641
 vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@162.159.48.193:8880?encryption=none&host=super-mud-8b38.114-a90.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#EPODONIOS
 vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@162.159.48.193:8880?encryption=none&host=super-mud-8b38.114-a90.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#
 vless://1bc8fb2a-3bee-4ae0-aa12-957885e63e18@162.159.48.193:8880?encryption=none&type=ws&host=super-mud-8b38.114-a90.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#
@@ -251,3 +238,16 @@ vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?encryption=none&
 vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?encryption=none&type=ws#
 vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?encryption=none&type=ws&path=%2F&security=none#
 vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=%2F&security=&encryption=none&type=ws#
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=%2F&security=none&encryption=none&type=ws#
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=%2F&type=ws&security=none&encryption=none#
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=&encryption=none&type=ws#
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&host=&type=ws#
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&type=ws#
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&type=ws#@Net2ray
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&type=ws#@erfanandroid
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&type=ws#EPODONIOS
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&type=ws&security=none&encryption=none#
+vless://1c405762-61d8-4654-abf0-1ab168a237eb@91.107.253.64:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#
+vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#
