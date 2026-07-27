@@ -1,6 +1,7 @@
 # profile-title: kudryash0vv.WIFI.#69
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-27 / 19:14 (YKT)
+# Update: 2026-07-28 / 00:21 (YKT)
+vless://13c6b0bf-ca82-4140-a336-a48c974d87d4@213.219.212.200:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=random&sni=z8.nnmm.me&alpn=http/1.1#
 vless://13c6b0bf-ca82-4140-a336-a48c974d87d4@213.219.212.200:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=random&sni=z9.nnmm.me&alpn=http/1.1#
 vless://13c6b0bf-ca82-4140-a336-a48c974d87d4@213.219.212.238:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=random&sni=z1.nnmm.me&alpn=http/1.1#
 vless://13c6b0bf-ca82-4140-a336-a48c974d87d4@213.219.212.238:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=random&sni=z2.nnmm.me&alpn=http/1.1#
@@ -82,8 +83,6 @@ vless://13ce37df-0738-4130-9b02-a87658921feb@95.217.159.175:2087?security=none&e
 vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#
 vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#
 vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?encryption=none&type=tcp&headerType=http&path=/&host=play.google.com#
-vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?encryption=none&type=tcp&headerType=http&path=/&host=play.google.com#EPODONIOS
-vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?encryption=none&type=tcp&headerType=http&path=/&host=play.google.com#🇩🇪
 vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#
 vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#
 vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?security=none&type=tcp&headerType=http&path=/&host=play.google.com&packetEncoding=xudp&encryption=none#
@@ -251,3 +250,4 @@ vless://14202ac6-fda1-525c-a359-58d69199f997@104.21.51.208:80?Telegram=@Gozargah
 vless://14202ac6-fda1-525c-a359-58d69199f997@104.21.51.208:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/join-@ELiV2ry-@ELiV2ry-/?ed=2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.com.se1.vless.Sitespeedtest.net&type=ws#
 vless://14202ac6-fda1-525c-a359-58d69199f997@104.21.51.208:80?path=%2Fjoin-%40ELiV2ry-%40ELiV2ry-%2F%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.com.se1.vless.Sitespeedtest.net&type=ws#
 vless://14202ac6-fda1-525c-a359-58d69199f997@104.21.51.208:80?path=/join-@ELiV2ry-@ELiV2ry-%2F%3Fed%3D2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.com.se1.vless.Sitespeedtest.net&type=ws#
+vless://14202ac6-fda1-525c-a359-58d69199f997@104.21.51.208:80?path=/join-@ELiV2ry-@ELiV2ry-/?ed=2048&security=none&encryption=none&host=Rubika.ir.joinTelegram.ELiV2ry.com.se1.vless.Sitespeedtest.net&type=ws#
