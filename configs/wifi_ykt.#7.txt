@@ -1,7 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#7
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-07-28 / 12:44 (YKT)
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws&domain=max-gb1.global.ssl.fastly.net&sni=max-gb1.global.ssl.fastly.net#
+# Update: 2026-07-28 / 18:14 (YKT)
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/?@Selinc?ed=2048&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#
@@ -151,8 +150,6 @@ vless://0081a47d-9396-48ac-a3e5-d4fce010e33f@mci-iTV2RAY.ddns.net:2087?mode=gun&
 vless://008213c4-a9c5-4e7b-d2a0-0897aeb5983c@1790-Join-V2RayTz.SiNoTz.Tk:8080?security=none&encryption=none&headerType=none&type=tcp#
 vless://00832579-b508-4a21-a982-12e480e6a482@104.18.202.232:8080?path=%2F&security=none&encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&type=ws#
 vless://00853089-eeee-408a-9001-c84732e9c77e@164.92.239.30:1418?security=none&encryption=none&host=www.play.google.com&headerType=http&type=tcp#
-vless://00853089-eeee-408a-9001-c84732e9c77e@164.92.239.30:1418?security=none&encryption=none&host=www.play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://00853089-eeee-408a-9001-c84732e9c77e@164.92.239.30:1418?security=none&encryption=none&host=www.play.google.com&headerType=http&type=tcp#test
 vless://0086769e-fc75-4256-9788-cfdfb3656063@mci.0919.eu.org:443?encryption=none&security=tls&sni=4.saintink.eu.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=4.saintink.eu.org&path=de1vl.xservs.xyz%2Fvless#
 vless://00874e80-0d25-4ff6-c25d-edb5a28546e6@195.201.169.164:2096?sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#
 vless://008ba5df-c4d8-4bd5-8516-0b1c9e07961e@104.17.169.114:80?security=none&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&encryption=none#
@@ -251,3 +248,6 @@ vless://00a84cc6-073c-454b-9487-f0b7238e715f@95.85.240.216:443?encryption=none&f
 vless://00a84cc6-073c-454b-9487-f0b7238e715f@95.85.240.216:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=yo4lSUn_5i7HCFBG6rszy8LZWCV_WuYuV_312M8tihk&security=reality&sid=b006669e43ae5c1f&sni=stepik.org&type=raw#
 vless://00a84cc6-073c-454b-9487-f0b7238e715f@95.85.240.216:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=stepik.org&pbk=yo4lSUn_5i7HCFBG6rszy8LZWCV_WuYuV_312M8tihk&sid=b006669e43ae5c1f#
 vless://00a84cc6-073c-454b-9487-f0b7238e715f@95.85.240.216:443?security=reality&encryption=none&pbk=yo4lSUn_5i7HCFBG6rszy8LZWCV_WuYuV_312M8tihk&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=stepik.org&sid=b006669e43ae5c1f#
+vless://00a87d0f-6eb9-4b10-9793-7b8bd4553617@63.141.128.31:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#
+vless://00a8f2d4-d565-4d8d-89b3-5c20c1a615d0@5.75.240.193:443/?type=grpc&encryption=none&flow=&serviceName=%40VPNCUSTOMIZE&sni=www.iranserver.com&fp=random&security=reality&pbk=qrWdM7lRUSiZgZW-sohUHuZVimTyjdGXejTnMUu_kWs&sid=4c226372#
+vless://00a9b792-2bb4-437b-9228-565c1c994f1c@ghyu.huangzi.cfd:443?allowInsecure=1&encryption=none&host=ghyu.huangzi.cfd&path=%2F9ELnrxvuY6f5UlQSLlXnsEj2y6&security=tls&sni=ghyu.huangzi.cfd&type=ws#
