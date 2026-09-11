@@ -1,6 +1,10 @@
 # profile-title: kudryash0vv.WIFI.#95
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-09-11 / 20:37 (YKT)
+# Update: 2026-09-12 / 01:38 (YKT)
+vless://MimiTdL@116.203.1.152:23746?security=none&encryption=mlkem768x25519plus.native.0rtt.hOWjPUP938QjjGvY0Fp6b7uMs0Y7Q-9XvJ2jBO-061Y&host=cloud.steampowered.com&headerType=http&type=tcp#
+vless://MimiTdL@116.203.1.152:23746?security=none&encryption=mlkem768x25519plus.native.0rtt.hOWjPUP938QjjGvY0Fp6b7uMs0Y7Q-9XvJ2jBO-061Y&host=cloud.steampowered.com&headerType=http&type=tcp#EPODONIOS
+vless://MsV2ray-Telegram@www.speedtest.net:80?path=%2FMsV2ray%3Fed%3D80&security=none&encryption=none&host=http-fast-de-speedtest.xqfactor.ir.&type=httpupgrade#
+vless://MsV2ray-Telegram@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed%3D80&security=none#
 vless://MsV2ray-Telegram@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed=80&security=none#
 vless://My-chanel-1-ATOVPN@138.124.29.81:57021?security=none&encryption=none&headerType=none&type=tcp#
 vless://NamedZadim@193.93.169.242:53655?path=%2F&security=none&encryption=none&type=ws#
@@ -94,6 +98,7 @@ vless://TELEGRAM-NUFiLTER@Www.speedtest.net:2052?encryption=none&host=002.V2.h.w
 vless://TELEGRAM-NUFiLTER@Www.speedtest.net:8880?encryption=none&host=Alazoovip.ddigicyber.clicK.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&security=none&type=httpupgrade#
 vless://TELEGRAM-NUFiLTER@speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=Bs.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=speedtest.net&type=ws#
 vless://TELEGRAM-NUFiLTER@speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=KEKE.ir&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&sni=speedtest.net&type=ws#
+vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=Aame.global.ssl.fastly.net&type=xhttp#US🇺🇸
 vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=Aame.global.ssl.fastly.net&type=xhttp#
 vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=asebemee.global.ssl.fastly.net&type=xhttp#
 vless://TELEGRAM_JKVPN______JKVPN@www.zula.ir:80?type=ws&path=/TELEGRAM_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____JKVPN____TELEGRAM_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____TELEGRAM_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____JKVPN?ed=2048&host=joker.ahang-alpha.ir&security=none#
@@ -121,6 +126,7 @@ vless://Telegram-BLuev2rayng@www.speedtest.net:8080?path=/Telgram%3Fed%3D2048&se
 vless://Telegram-MsV2ray@www.speedtest.net:80?path=/MsV2ray?ed=80&security=none&encryption=none&host=http-fast-de-speedtest.xqfactor.ir.&type=httpupgrade#
 vless://Telegram-MsV2ray@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed%3D80&security=none#
 vless://Telegram-MsV2ray@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed=80&security=none#
+vless://Telegram-Parsashonam-12@79.175.189.145:443?mode=auto&path=%2Fp4r34m&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=p4r34m.hendevaneh.sbs&type=xhttp&allowInsecure=0&sni=p4r34m.hendevaneh.sbs#RELAY🚩
 vless://Telegram-TokaVpn-@91.107.129.66:2040/?type=grpc&serviceName=&authority=-@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn&security=reality&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4&spx=/#
 vless://Telegram-TokaVpn-@91.107.129.66:2050/?type=grpc&serviceName=&authority=-@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn&security=reality&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4&spx=/#
 vless://Telegram-TokaVpn-@91.107.130.41:2040/?type=grpc&serviceName=&authority=@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn---@TokaVpn&security=reality&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&pqv=&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4&spx=/#
@@ -244,10 +250,4 @@ vless://Telegram@212.34.140.205:443?encryption=none&security=tls&sni=tn1rr.qzz.i
 vless://Telegram@FNET00@Am20094@37.32.13.245:8081?security=none&encryption=none&headerType=none&type=tcp#
 vless://Telegramjoin%3ATurboConfigs%20@82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#
 vless://Telegramjoin%3ATurboConfigs%20@82.40.62.178:9090?encryption=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#🆔capoit%20🔓%20VL-TCP-N/A%20❔%20XX%20down
-vless://Telegramjoin%3ATurboConfigs@82.22.40.48:443?security=none&encryption=mlkem768x25519plus.native.0rtt.fVOhMV6aPWtR-rFIegHlELTwltS4KGaRn0_GD2Aj6Gg&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#US🇺🇸
 vless://Telegramjoin:TurboConfigs
-vless://Telegramjoin:TurboConfigs#
-vless://Telegramjoin:TurboConfigs@82.22.40.102:80?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#
-vless://Telegramjoin:TurboConfigs@82.22.40.102:80?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#EPODONIOS
-vless://Test_Link@web-production-0bb3af.up.railway.app:443/?type=ws&encryption=none&host=web-production-0bb3af.up.railway.app&path=%2Fws%2FTest_Link&security=tls&sni=web-production-0bb3af.up.railway.app&alpn=http%2F1.1&fp=chrome#
-vless://Test_Link@web-production-0bb3af.up.railway.app:443/?type=ws&encryption=none&host=web-production-0bb3af.up.railway.app&path=%2Fws%2FTest_Link&security=tls&sni=web-production-0bb3af.up.railway.app&alpn=http%2F1.1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BA%F0%9F%87%B8%C2%AE%EF%B8%8FUnited%20States%C2%A9%EF%B8%8FSan%20Francisco%20%28Financial%20District%29%F0%9F%85%BF%EF%B8%8Fping%3A193.66ms
