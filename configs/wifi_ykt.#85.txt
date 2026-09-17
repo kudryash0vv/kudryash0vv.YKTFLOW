@@ -1,6 +1,11 @@
 # profile-title: kudryash0vv.WIFI.#85
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-09-17 / 06:29 (YKT)
+# Update: 2026-09-17 / 14:04 (YKT)
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.31:62145?&type=tcp&headerType=none&path=%2F#
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.66:62145?security=none&type=tcp&packetEncoding=xudp#
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.99:62145?security=none&type=tcp&encryption=none#
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.161:62145?security=none&type=tcp&encryption=none#
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.193:62145?&type=tcp&headerType=none&path=%2F#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.248:62145?security=none&type=tcp&encryption=none#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.27:62145?&type=tcp&headerType=none&path=%2F#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.7:62145#
@@ -211,13 +216,10 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.239.241:62145#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.239.43:62145?type=raw#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.197.145:62145?&sni=158.101.197.145&type=tcp&headerType=none&path=%2F#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.197.145:62145?&sni=158.101.197.145&type=tcp&headerType=none&path=%2F#t.me%2Ffreekesha21
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.197.145:62145?&sni=158.101.197.145&type=tcp&headerType=none&path=%2F#🇳🇱[openproxylist.com]
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.197.145:62145?security=none&type=tcp&sni=158.101.197.145#NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.197.145:62145?security=none&type=tcp&sni=158.101.197.145#t.me%2Ffreekesha21
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.214.23:62145?&sni=158.101.214.23&type=tcp&headerType=none&path=%2F#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.214.23:62145?&sni=158.101.214.23&type=tcp&headerType=none&path=%2F#t.me%2Ffreekesha21
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.214.23:62145?&sni=158.101.214.23&type=tcp&headerType=none&path=%2F#🇳🇱[openproxylist.com]
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.214.23:62145?security=none&type=tcp&sni=158.101.214.23#NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.214.23:62145?security=none&type=tcp&sni=158.101.214.23#t.me%2Ffreekesha21
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.120.174:62145?&type=tcp&headerType=none&path=%2F#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.142:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#
@@ -236,11 +238,9 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.126.67:62145?&type=tcp&head
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.126.78:62145?security=none&type=tcp#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.178.189:62145/?type=tcp&encryption=none&flow=#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.184.38:62145?&sni=84.235.184.38&type=tcp&headerType=none&path=%2F#
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.201.43:62145?&type=tcp&headerType=none&path=%2F#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.201.43:62145?&type=tcp&headerType=none&path=%2F#t.me%2Ffreekesha21
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.201.43:62145?&type=tcp&headerType=none&path=%2F#🏳[openproxylist.com]
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.201.43:62145?encryption=none&type=raw&headerType=none&security=none#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.201.43:62145?security=none&type=tcp&packetEncoding=xudp#t.me%2Ffreekesha21
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.225.103:62145?security=none&type=tcp#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.231.30:62145/?type=tcp&encryption=none&flow=&packetEncoding=xudp#
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.231.30:62145/?type=tcp&encryption=none&flow=&packetEncoding=xudp#EPODONIOS
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.231.30:62145/?type=tcp&encryption=none&flow=&packetEncoding=xudp#荷兰
