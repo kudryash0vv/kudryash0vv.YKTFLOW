@@ -1,6 +1,6 @@
 # profile-title: kudryash0vv.WIFI.#1
 # subscription-userinfo: upload=0; download=0; total=880468295577; expire=1801267200
-# Update: 2026-09-24 / 21:02 (YKT)
+# Update: 2026-09-25 / 02:24 (YKT)
 ss://2022-blake3-aes-256-gcm:Zjc0N2QyYTkyNzc2NGRiZDhjY2NjYTU5Mzk2N2NkOTk=%3AYmNhN2UyNzdlNTg3NGFkMjkxNGY4ZjEzYWM2MzQ2NGQ=@84.32.131.61:18610#🇺🇸
 ss://2022-blake3-aes-256-gcm:rrR97O6JIRzSRG8uHimVCgLEssjipthiC4Hlieq%2F4%2Fw=%3AB+gmrP1txQliTTw0NNVoHZ+wjNAL3nKHZopLtqlEAnI=@65.109.215.50:13049#🇫🇮
 ss://2022-blake3-chacha20-poly1305:FWlUCAS9IBNg+5FoZ+U0kRs3dcz+oQnQkjGI%2FiKZMR0=@146.235.25.6:59319#🇧🇷
@@ -96,6 +96,7 @@ trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecu
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=random#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=android#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=edge#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=firefox#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=ios#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=safari#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Guilin%20%7C%20%5BBL%5D
 vless://%40%40%40Cooonfig%40%40%40@188.114.96.2:80?path=%2F&security=none&encryption=none&host=guji.azazilvpn.sbs.&type=ws#
@@ -114,6 +115,7 @@ vless://%40awlix_ir@awlix.pcjxq.monster:12580?type=tcp&encryption=none&security=
 vless://%40awlix_ir@awlix.pcjxq.monster:12580?type=tcp&encryption=none&security=none#%40awlix_ir-4y3sdcf8v
 vless://%40awlix_ir@awlix.pcjxq.monster:42496?type=tcp&encryption=none&path=%2F&headerType=http&security=none#
 vless://%40awlix_ir@awlix.pcjxq.monster:42496?type=tcp&encryption=none&path=%2F&headerType=http&security=none#%40awlix_ir-ifaj6bfo
+vless://%40awlix_ir@awlix.pcjxq.monster:42496?type=tcp&encryption=none&path=%2F&headerType=http&security=none#🌐سرور
 vless://%40awlix_ir@v2.jexu.ir:40338?type=tcp&encryption=none&security=none#
 vless://%40awlix_ir@v2.jexu.ir:40338?type=tcp&encryption=none&security=none#bkbxopp8
 vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#
@@ -167,7 +169,6 @@ vless://--DIGiV2RAY---@discord.gg:80?path=/Digiv2ray-&security=none&encryption=n
 vless://--DIGiV2RAY---@discord.gg:80?path=/Digiv2ray-&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#MCI
 vless://--JOIN--ELiV2RAY-@tg.ELiV2ray.io.:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir?ed=80&host=ELi.V2ray.motorcycles&security=none#
 vless://--JOIN--ELiV2RAY-@tg.ELiV2ray.io.:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir?ed=80&host=ELi.V2ray.motorcycles&security=none#EPODONIOS
-vless://--JOIN--ELiV2RAY-@tg.ELiV2ray.io.:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir?ed=80&host=ELi.V2ray.motorcycles&security=none#🌐سرور
 vless://--V2RAXX@www.parspack.com:8080?encryption=none&host=WwW.vaRzesh3.Com.Ftp.debian.Org.www.speedtest.net.tabnak.org.&path=%2FV2raxx%3Fed&security=none&type=ws#
 vless://-DIGIV2RAY-@185.146.173.68:2095?type=ws&host=QUENTIN--_--DiG.radiot%E2%80%A6%3C/div%3E#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20%40kurd_v2ray%20%232%20%5Bfast%5D
 vless://-DIGIV2RAY-@185.146.173.68:2095?type=ws&host=QUENTIN--_--DiG.radiotehran.org.&path=/DigiconnecT%3Fed%3D1024&security=none#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20%40kurd_v2ray%20%231%20%5Bfast%5D
@@ -200,7 +201,6 @@ vless://000f1ace-a4d6-44ea-93b0-d5d384fc9cd7@llc.v2sub.ir:2082?mode=auto&path=%2
 vless://00114363-e4b7-4dab-a9bf-956ccadf84f7@zula.ir:8080?host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048&security=none&type=ws#
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn&security=reality&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&sid=0990d22f#
 vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-vless://00274dd7-7cee-420d-9942-b24d047611a7@116.204.164.27:7443?&security=tls&fp=chrome&packet-encoding=xudp&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&type=ws&headerType=none&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&path=%2F%40Marisa_kristi#IT_55%7C256KB%2Fs%7CM003-260806%2001
 vless://00274dd7-7cee-420d-9942-b24d047611a7@116.204.164.27:7443?encryption=none&type=ws&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&path=%2F%40Marisa_kristi&security=tls&fp=chrome&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev#
 vless://0043c18f-c3a8-4762-9815-b54989eabdd5@Hh.somo44.sbs:8080?path=/hhvghhv&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#
 vless://0047a8bc-0025-4d45-899b-c75c669f3ede@154.83.159.14:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&sid=6f15101ff2cc4887#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B3%F0%9F%87%B1%C2%AE%EF%B8%8FThe%20Netherlands%C2%A9%EF%B8%8FAmsterdam%F0%9F%85%BF%EF%B8%8Fping%3A44.28ms
