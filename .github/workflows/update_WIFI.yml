@@ -1,71 +1,52 @@
-name: Update WIFI Configs
+name: Update Mobile Configs
 
 on:
   schedule:
-    - cron: '30 */6 * * *' # Запуск раз в 6 часов (на 30 минут позже мобильных, чтобы не грузить акк одновременно)
-  workflow_dispatch:      # Кнопка для ручного запуска
+    - cron: '0 */6 * * *' # Каждые 6 часов в 00 минут
+  workflow_dispatch:      # Кнопка ручного запуска
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  update-mobile:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
-      - name: Download, Merge and Split
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install sing-box
         run: |
-          # 1. Подготовка папок и очистка
-          mkdir -p configs
-          rm -f configs/wifi_ykt*.txt temp_raw_wifi.txt all_nodes_wifi.txt
-          
-          # Берем сурсы из файла для WIFI
-          SOURCE_FILE="data/sources.txt"
-          
-          # 2. Сбор данных из источников
-          if [ -f "$SOURCE_FILE" ]; then
-            echo "📥 Загрузка данных из источников WIFI..."
-            while read -r url || [ -n "$url" ]; do
-              url=$(echo "$url" | xargs)
-              if [[ "$url" == http* ]]; then
-                curl -sL -k --connect-timeout 10 --max-time 30 "$url" >> temp_raw_wifi.txt || echo "Skip"
-              fi
-            done < "$SOURCE_FILE"
-          fi
+          SING_BOX_VERSION="1.9.3"
+          curl -sSL "https://github.com/SagerNet/sing-box/releases/download/v${SING_BOX_VERSION}/sing-box-${SING_BOX_VERSION}-linux-amd64.tar.gz" | tar -xz
+          sudo mv "sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box" /usr/local/bin/
+          rm -rf "sing-box-${SING_BOX_VERSION}-linux-amd64"
+          sing-box version
 
-          # 3. Фильтрация уникальных конфигов
-          grep -a -oE '(vless|vmess|trojan|ss)://[^"'\'' <>]+' temp_raw_wifi.txt | sort -u > all_nodes_wifi.txt
-          
-          # 4. Разделение по 250 штук с инфой о трафике и дате
-          if [ -s all_nodes_wifi.txt ]; then
-            split -l 250 all_nodes_wifi.txt wifi_part_
-            
-            num=1
-            YKT_TIME=$(TZ="Asia/Yakutsk" date +"%Y-%m-%d / %H:%M")
-            
-            # 820 GB в байтах
-            # Дата 31.12.2026 в Unix Timestamp = 1801267200
-            TRAFFIC_INFO="upload=0; download=0; total=880468295577; expire=1801267200"
+      - name: Run Go Engine & Python Checker (Mobile)
+        run: |
+          go run main.go
 
-            for f in wifi_part_*; do
-              {
-                echo "# profile-title: kudryash0vv.WIFI.#${num}"
-                echo "# subscription-userinfo: $TRAFFIC_INFO"
-                echo "# Update: $YKT_TIME (YKT)"
-                cat "$f"
-              } > "configs/wifi_ykt.#${num}.txt"
-              num=$((num + 1))
-            done
-            echo "✅ Создано файлов WIFI: $((num - 1))"
-          else
-            echo "Конфиги не найдены" > configs/wifi_ykt.#1.txt
-          fi
-
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add configs/
           if ! git diff --staged --quiet; then
-            git commit -m "🚀 WIFI Update: $(TZ="Asia/Yakutsk" date +'%Y-%m-%d %H:%M')"
+            git commit -m "📱 Mobile Update: $(TZ="Asia/Yakutsk" date +'%Y-%m-%d %H:%M') (YKT)"
             git push
+          else
+            echo "Нет изменений для коммита."
           fi
