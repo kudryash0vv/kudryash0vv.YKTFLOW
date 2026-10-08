@@ -41,7 +41,7 @@ jobs:
           if [ -f "data/sources.txt" ]; then
             cp data/sources.txt data/sources_mobile.txt
           fi
-          go run main.go
+          go run scripts/main.go
 
       - name: Commit and Push Changes
         run: |
