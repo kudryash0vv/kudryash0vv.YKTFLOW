@@ -1,25 +1,28 @@
-import subprocess
-import requests
-import json
 import os
+import re
+import json
 import time
 import tempfile
-import re
 import threading
+import subprocess
+import requests
+import base64
 from urllib.parse import urlparse, parse_qs
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # --- КОНФИГУРАЦИЯ ---
-INPUT_FILE   = "configs/kudryash0vv_YKTFLOW_1.txt"        # файл от main.go
-OUTPUT_FILE  = "configs/kudryash0vv_YKTFLOW_checked.txt"  # финальный файл
-MAX_CONFIGS  = 200       # сколько рабочих конфигов собрать
-THREADS      = 10        # параллельных проверок (не больше 15)
-TIMEOUT      = 10        # секунд на проверку одного конфига
-TEST_URL     = "https://www.gstatic.com/generate_204"     # лёгкий URL (204 = OK)
-BASE_PORT    = 20000     # начальный порт для socks5
-SINGBOX_BIN  = "sing-box"  # путь к бинарнику
+INPUT_FILE   = "configs/kudryash0vv_YKTFLOW_1.txt"
+OUTPUT_FILE  = "configs/kudryash0vv_YKTFLOW_checked.txt"
+MAX_CONFIGS  = 200
+THREADS      = 12
+TIMEOUT      = 7
+TEST_URLS    = [
+    "https://www.gstatic.com/generate_204",
+    "https://cp.cloudflare.com/"
+]
+BASE_PORT    = 20000
+SINGBOX_BIN  = "sing-box"
 
-# --- ГЛОБАЛЬНЫЕ ---
 port_lock    = threading.Lock()
 used_ports   = set()
 results_lock = threading.Lock()
@@ -37,11 +40,23 @@ def release_port(port):
     with port_lock:
         used_ports.discard(port)
 
-# --- ПАРСЕРЫ URI ---
+def is_blacklisted_host(host):
+    if not host:
+        return True
+    host = host.lower().strip()
+    blacklisted = [
+        "127.0.0.1", "localhost", "0.0.0.0", "example.com",
+        "your-domain.com", "10.0.0.", "192.168."
+    ]
+    return any(b in host for b in blacklisted)
+
+# --- ПАРСЕРЫ ---
 
 def parse_vless(uri):
     try:
         u = urlparse(uri)
+        if not u.hostname or is_blacklisted_host(u.hostname):
+            return None
         params = parse_qs(u.query)
         return {
             "scheme": "vless",
@@ -64,21 +79,23 @@ def parse_vless(uri):
 
 def parse_vmess(uri):
     try:
-        import base64
         b64 = uri[8:]
         b64 += "=" * (-len(b64) % 4)
-        data = json.loads(base64.b64decode(b64).decode())
+        data = json.loads(base64.b64decode(b64).decode('utf-8', errors='ignore'))
+        host = data.get("add")
+        if not host or is_blacklisted_host(host):
+            return None
         return {
             "scheme": "vmess",
             "uuid": data.get("id"),
-            "host": data.get("add"),
+            "host": host,
             "port": int(data.get("port", 443)),
             "alter_id": int(data.get("aid", 0)),
             "security": data.get("tls", ""),
-            "sni": data.get("sni", data.get("add", "")),
+            "sni": data.get("sni", host),
             "net_type": data.get("net", "tcp"),
             "path": data.get("path", "/"),
-            "host_header": data.get("host", data.get("add", "")),
+            "host_header": data.get("host", host),
             "raw": uri
         }
     except Exception:
@@ -87,6 +104,8 @@ def parse_vmess(uri):
 def parse_trojan(uri):
     try:
         u = urlparse(uri)
+        if not u.hostname or is_blacklisted_host(u.hostname):
+            return None
         params = parse_qs(u.query)
         return {
             "scheme": "trojan",
@@ -103,15 +122,18 @@ def parse_trojan(uri):
 
 def parse_ss(uri):
     try:
-        import base64
         u = urlparse(uri)
+        if not u.hostname or is_blacklisted_host(u.hostname):
+            return None
         userinfo = u.username or ""
         try:
-            decoded = base64.b64decode(userinfo + "==").decode()
+            decoded = base64.b64decode(userinfo + "==").decode('utf-8', errors='ignore')
             method, password = decoded.split(":", 1)
         except Exception:
             method = userinfo
             password = u.password or ""
+        if not method or not password:
+            return None
         return {
             "scheme": "ss",
             "method": method,
@@ -124,18 +146,18 @@ def parse_ss(uri):
         return None
 
 def parse_config(raw):
-    raw = raw.strip().split("#")[0]  # убираем fragment
-    if raw.startswith("vless://"):
-        return parse_vless(raw)
-    elif raw.startswith("vmess://"):
-        return parse_vmess(raw)
-    elif raw.startswith("trojan://"):
-        return parse_trojan(raw)
-    elif raw.startswith("ss://"):
-        return parse_ss(raw)
+    raw_clean = raw.strip().split("#")[0]
+    if raw_clean.startswith("vless://"):
+        return parse_vless(raw_clean)
+    elif raw_clean.startswith("vmess://"):
+        return parse_vmess(raw_clean)
+    elif raw_clean.startswith("trojan://"):
+        return parse_trojan(raw_clean)
+    elif raw_clean.startswith("ss://"):
+        return parse_ss(raw_clean)
     return None
 
-# --- ГЕНЕРАТОР SING-BOX CONFIG ---
+# --- SING-BOX CONFIG BUILDER ---
 
 def make_singbox_config(parsed, socks_port):
     scheme = parsed["scheme"]
@@ -160,7 +182,7 @@ def make_singbox_config(parsed, socks_port):
             return {
                 "enabled": True,
                 "server_name": parsed.get("sni", ""),
-                "insecure": True,
+                "insecure": False,
                 "utls": {
                     "enabled": True,
                     "fingerprint": parsed.get("fp", "chrome")
@@ -213,7 +235,7 @@ def make_singbox_config(parsed, socks_port):
             outbound["tls"] = {
                 "enabled": True,
                 "server_name": parsed.get("sni", ""),
-                "insecure": True
+                "insecure": False
             }
         transport = transport_block(parsed)
         if transport:
@@ -229,7 +251,7 @@ def make_singbox_config(parsed, socks_port):
             "tls": {
                 "enabled": True,
                 "server_name": parsed.get("sni", parsed["host"]),
-                "insecure": True
+                "insecure": False
             }
         }
         transport = transport_block(parsed)
@@ -263,7 +285,7 @@ def make_singbox_config(parsed, socks_port):
         ]
     }
 
-# --- ПРОВЕРКА КОНФИГА ---
+# --- ВАЛИДАЦИЯ ---
 
 def check_config(raw):
     parsed = parse_config(raw)
@@ -276,9 +298,7 @@ def check_config(raw):
         release_port(port)
         return None
 
-    tmp = tempfile.NamedTemporaryFile(
-        mode="w", suffix=".json", delete=False
-    )
+    tmp = tempfile.NamedTemporaryFile(mode="w", suffix=".json", delete=False)
     json.dump(config, tmp, ensure_ascii=False)
     tmp.close()
 
@@ -289,25 +309,27 @@ def check_config(raw):
             stdout=subprocess.DEVNULL,
             stderr=subprocess.DEVNULL
         )
-        time.sleep(1.5)  # ждём пока sing-box поднимется
+        time.sleep(1.2)
 
         proxies = {
-            "http":  f"socks5h://127.0.0.1:{port}",
+            "http": f"socks5h://127.0.0.1:{port}",
             "https": f"socks5h://127.0.0.1:{port}"
         }
-        resp = requests.get(TEST_URL, proxies=proxies, timeout=TIMEOUT)
 
-        if resp.status_code in (200, 204):
-            return raw  # ✅ РАБОЧИЙ
+        # Двойной тест для отсечения заглушек
+        for test_url in TEST_URLS:
+            resp = requests.get(test_url, proxies=proxies, timeout=TIMEOUT)
+            if resp.status_code in (200, 204):
+                return raw
+
         return None
-
     except Exception:
         return None
     finally:
         if proc:
             proc.terminate()
             try:
-                proc.wait(timeout=3)
+                proc.wait(timeout=2)
             except Exception:
                 proc.kill()
         try:
@@ -324,48 +346,41 @@ def save_results(path, nodes):
         f.write("# profile-title: kudryash0vv.YKTFLOW\n")
         f.write("# subscription-userinfo: upload=0; download=0; total=885837004800; expire=1798675200\n")
         f.write(f"# update: {time.strftime('%Y-%m-%d / %H:%M')} (YKT)\n")
-        f.write("# support: https://github.com\n")
         f.write("# checked: REAL sing-box validation ✅\n\n")
         for i, raw in enumerate(nodes, 1):
             raw_clean = raw.split("#")[0]
-            host = urlparse(raw_clean).hostname or "unknown"
-            f.write(f"{raw_clean}#[{i:03d}] ✅ {host}\n")
+            parsed = parse_config(raw_clean)
+            host = parsed.get("host", "node") if parsed else "node"
+            f.write(f"{raw_clean}#[{i:03d}] 🧊 YKTFLOW | {host}\n")
     print(f"💾 Сохранено: {path}")
 
 # --- MAIN ---
 
 def main():
-    print("🧊 YKTFLOW Checker | sing-box валидатор")
-    print(f"📂 Вход: {INPUT_FILE}")
-    print(f"🎯 Цель: {MAX_CONFIGS} рабочих конфигов\n")
+    print("🧊 YKTFLOW Checker | Hardened sing-box validator")
 
-    # Проверяем sing-box
-    try:
-        r = subprocess.run([SINGBOX_BIN, "version"],
-                           capture_output=True, timeout=5)
-        ver = r.stdout.decode().splitlines()[0] if r.stdout else "ok"
-        print(f"✅ sing-box: {ver}\n")
-    except Exception:
-        print("❌ sing-box не найден!")
-        print("   Установи: https://github.com/SagerNet/sing-box/releases")
-        return
-
-    # Читаем конфиги
-    re_cfg = re.compile(r'(vless|vmess|trojan|ss)://[^\s]+')
-    configs = []
     if not os.path.exists(INPUT_FILE):
         print(f"❌ Файл не найден: {INPUT_FILE}")
         return
+
+    re_cfg = re.compile(r'(vless|vmess|trojan|ss)://[^\s]+')
+    seen_unique = set()
+    configs = []
 
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         for line in f:
             m = re_cfg.search(line.strip())
             if m:
-                configs.append(m.group(0))
+                raw_url = m.group(0)
+                parsed = parse_config(raw_url)
+                if parsed:
+                    # Уникальный ключ дедупликации без комментариев
+                    key = f"{parsed['scheme']}://{parsed.get('uuid') or parsed.get('password')}@{parsed['host']}:{parsed['port']}"
+                    if key not in seen_unique:
+                        seen_unique.add(key)
+                        configs.append(raw_url)
 
-    configs = list(set(configs))
-    print(f"📋 Конфигов для проверки: {len(configs)}")
-    print(f"🔄 Потоков: {THREADS}\n")
+    print(f"📋 Найдено уникальных кандидатов: {len(configs)}")
 
     checked = 0
     found = 0
@@ -376,8 +391,7 @@ def main():
 
         for future in as_completed(futures):
             if stop_event.is_set():
-                future.cancel()
-                continue
+                break
 
             checked += 1
             result = future.result()
@@ -385,20 +399,4 @@ def main():
             if result:
                 found += 1
                 with results_lock:
-                    working.append(result)
-                host = urlparse(result.split("#")[0]).hostname or "?"
-                print(f"  ✅ [{found:03d}/{MAX_CONFIGS}] {host}")
-
-            if checked % 20 == 0:
-                print(f"  🔍 Проверено: {checked}/{len(configs)} | Рабочих: {found}")
-
-            if found >= MAX_CONFIGS:
-                print(f"\n🎯 Цель достигнута!")
-                stop_event.set()
-
-    final = working[:MAX_CONFIGS]
-    save_results(OUTPUT_FILE, final)
-    print(f"\n✨ Готово! Рабочих конфигов: {len(final)}/{len(configs)} проверено")
-
-if __name__ == "__main__":
-    main()
+                    working
