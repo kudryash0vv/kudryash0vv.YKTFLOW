@@ -6,12 +6,15 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"os"
 	"os/exec"
 	"path/filepath"
 	"regexp"
 	"sort"
+	"strconv"
 	"strings"
+	"sync"
 	"time"
 )
 
@@ -23,14 +26,23 @@ const (
 	userAgent   = "YKTFLOW-Engine/10.0"
 )
 
+// Улучшенное регулярное выражение для извлечения URI протоколов
 var configRE = regexp.MustCompile(`(?i)(vless|vmess|trojan|ss)://[^\s"'<>\x00-\x1f]+`)
+
+// Список недопустимых хостов/IP
+var blacklistedHosts = map[string]bool{
+	"127.0.0.1":       true,
+	"localhost":       true,
+	"0.0.0.0":         true,
+	"example.com":     true,
+	"your-domain.com": true,
+}
 
 func normalizeSourceURL(raw string) string {
 	raw = strings.TrimSpace(raw)
 	if !strings.Contains(raw, "github.com") || !strings.Contains(raw, "/blob/") {
 		return raw
 	}
-	// https://github.com/user/repo/blob/branch/path -> raw.githubusercontent.com/user/repo/branch/path
 	raw = strings.Replace(raw, "https://github.com/", "https://raw.githubusercontent.com/", 1)
 	raw = strings.Replace(raw, "http://github.com/", "https://raw.githubusercontent.com/", 1)
 	raw = strings.Replace(raw, "/blob/", "/", 1)
@@ -57,6 +69,35 @@ func decodeBase64Flexible(s string) ([]byte, bool) {
 	return nil, false
 }
 
+// Предварительная проверка корректности хоста и порта
+func isValidProxyURI(rawURI string) bool {
+	rawClean := strings.SplitN(rawURI, "#", 2)[0]
+	u, err := url.Parse(rawClean)
+	if err != nil {
+		return false
+	}
+
+	host := strings.ToLower(u.Hostname())
+	if host == "" || blacklistedHosts[host] {
+		return false
+	}
+
+	// Проверка порта
+	if portStr := u.Port(); portStr != "" {
+		port, err := strconv.Atoi(portStr)
+		if err != nil || port <= 0 || port > 65535 {
+			return false
+		}
+	}
+
+	// Отсекаем явные заполнители UUID
+	if strings.Contains(rawClean, "00000000-0000-0000-0000-000000000000") || strings.Contains(rawClean, "your-uuid") {
+		return false
+	}
+
+	return true
+}
+
 func extractFromText(text string) []string {
 	return configRE.FindAllString(text, -1)
 }
@@ -64,27 +105,27 @@ func extractFromText(text string) []string {
 func extractConfigs(body []byte) []string {
 	raw := string(body)
 	seen := make(map[string]struct{})
+
 	add := func(list []string) {
 		for _, m := range list {
-			clean := strings.SplitN(m, "#", 2)[0]
-			clean = strings.TrimSpace(clean)
-			if clean == "" {
+			m = strings.TrimSpace(m)
+			if m == "" || !isValidProxyURI(m) {
 				continue
 			}
-			if _, ok := seen[clean]; !ok {
-				seen[clean] = struct{}{}
+			if _, ok := seen[m]; !ok {
+				seen[m] = struct{}{}
 			}
 		}
 	}
 
 	add(extractFromText(raw))
 
-	// Whole-body base64 subscription.
+	// Декодирование всего тела ответа (Base64)
 	if decoded, ok := decodeBase64Flexible(raw); ok {
 		add(extractFromText(string(decoded)))
 	}
 
-	// Line-by-line base64 (common subscription format).
+	// Построчное декодирование
 	for _, line := range strings.Split(raw, "\n") {
 		line = strings.TrimSpace(line)
 		if line == "" || strings.HasPrefix(line, "#") {
@@ -122,7 +163,7 @@ func fetchSource(client *http.Client, src string) ([]byte, error) {
 	defer resp.Body.Close()
 
 	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
-		return nil, fmt.Errorf("HTTP %d", resp.StatusCode)
+		return nil, fmt.fmt.Errorf("HTTP %d", resp.StatusCode)
 	}
 	return io.ReadAll(resp.Body)
 }
@@ -153,7 +194,7 @@ func loadSources(path string) ([]string, error) {
 
 func process() {
 	fmt.Println("🧊 YKTFLOW Engine v10.0 | Инициализация...")
-	fmt.Println("📌 Этап 1/2: Сбор конфигов из источников...")
+	fmt.Println("📌 Этап 1/2: Многопоточный сбор конфигов...")
 
 	sources, err := loadSources(sourceFile)
 	if err != nil {
@@ -162,50 +203,57 @@ func process() {
 	}
 	fmt.Printf("📂 Источников найдено: %d\n", len(sources))
 
-	client := &http.Client{Timeout: 20 * time.Second}
+	client := &http.Client{Timeout: 15 * time.Second}
+	var mu sync.Mutex
 	unique := make(map[string]struct{})
-	errorsCount := 0
+	
+	var wg sync.WaitGroup
+	semaphore := make(chan struct{}, 5) // Ограничиваем параллелизм до 5 запросов
 
 	for i, src := range sources {
-		fmt.Printf("  [%d/%d] %s\n", i+1, len(sources), src)
-		normalized := normalizeSourceURL(src)
-		if normalized != src {
-			fmt.Printf("    ↪ raw: %s\n", normalized)
-		}
+		wg.Add(1)
+		go func(idx int, urlStr string) {
+			defer wg.Done()
+			semaphore <- struct{}{}
+			defer func() { <-semaphore }()
 
-		body, err := fetchSource(client, src)
-		if err != nil {
-			fmt.Printf("    ❌ Ошибка загрузки: %v\n", err)
-			errorsCount++
-			continue
-		}
+			body, err := fetchSource(client, urlStr)
+			if err != nil {
+				fmt.Printf("   ❌ [%d/%d] Ошибка: %v (%s)\n", idx+1, len(sources), err, urlStr)
+				return
+			}
 
-		configs := extractConfigs(body)
-		for _, c := range configs {
-			unique[c] = struct{}{}
-		}
-		fmt.Printf("    ✅ Найдено: %d | уникальных всего: %d\n", len(configs), len(unique))
+			configs := extractConfigs(body)
+			mu.Lock()
+			for _, c := range configs {
+				unique[c] = struct{}{}
+			}
+			fmt.Printf("   ✅ [%d/%d] Найдено: %d | Всего уникальных: %d\n", idx+1, len(sources), len(configs), len(unique))
+			mu.Unlock()
+		}(i, src)
 	}
 
+	wg.Wait()
+
 	if len(unique) == 0 {
-		fmt.Printf("❌ Конфиги не найдены! Ошибок загрузки: %d. Проверь %s\n", errorsCount, sourceFile)
+		fmt.Printf("❌ Валидные конфиги не найдены! Проверь источники в %s\n", sourceFile)
 		return
 	}
 
 	saveRaw(outputFull, unique)
-	fmt.Printf("\n✅ Этап 1 завершён: сохранено %d конфигов → %s\n\n", len(unique), outputFull)
+	fmt.Printf("\n✅ Этап 1 завершён: сохранено %d валидных кандидатов → %s\n\n", len(unique), outputFull)
 	runChecker()
 }
 
 func saveRaw(path string, configs map[string]struct{}) {
 	if err := os.MkdirAll(filepath.Dir(path), 0755); err != nil {
-		fmt.Printf("❌ Не удалось создать каталог: %v\n", err)
+		fmt.Printf("❌ Ошибка каталога: %v\n", err)
 		return
 	}
 
 	f, err := os.Create(path)
 	if err != nil {
-		fmt.Printf("❌ Не удалось создать файл: %v\n", err)
+		fmt.Printf("❌ Ошибка файла: %v\n", err)
 		return
 	}
 	defer f.Close()
@@ -237,15 +285,10 @@ func pythonBin() string {
 }
 
 func runChecker() {
-	fmt.Println("📌 Этап 2/2: Реальная проверка через sing-box (checker.py)...")
+	fmt.Println("📌 Этап 2/2: Валидация через sing-box (checker.py)...")
 
 	if _, err := os.Stat(checkerPath); os.IsNotExist(err) {
-		fmt.Printf("⚠️  checker.py не найден: %s\n", checkerPath)
-		return
-	}
-	if _, err := exec.LookPath("sing-box"); err != nil {
-		fmt.Println("⚠️  sing-box не найден в PATH")
-		fmt.Println("   Установи: https://github.com/SagerNet/sing-box/releases")
+		fmt.Printf("⚠️ checker.py не найден по пути: %s\n", checkerPath)
 		return
 	}
 
@@ -260,8 +303,8 @@ func runChecker() {
 		return
 	}
 
-	fmt.Println("\n🎉 Все этапы завершены!")
-	fmt.Printf("📁 Финальные рабочие конфиги: %s\n", outputFinal)
+	fmt.Println("\n🎉 Все этапы успешно завершены!")
+	fmt.Printf("📁 Финальные конфиги сохранены в: %s\n", outputFinal)
 }
 
 func main() {
