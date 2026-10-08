@@ -1,0 +1,57 @@
+name: Full System Check & Split
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Запуск раз в сутки в 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  full-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install sing-box
+        run: |
+          SING_BOX_VERSION="1.9.3"
+          curl -sSL "https://github.com/SagerNet/sing-box/releases/download/v${SING_BOX_VERSION}/sing-box-${SING_BOX_VERSION}-linux-amd64.tar.gz" | tar -xz
+          sudo mv "sing-box-${SING_BOX_VERSION}-linux-amd64/sing-box" /usr/local/bin/
+          rm -rf "sing-box-${SING_BOX_VERSION}-linux-amd64"
+
+      - name: Process Mobile Sources
+        run: go run main.go
+
+      - name: Process WIFI Sources
+        run: |
+          if [ -f "data/sources.txt" ]; then
+            cp data/sources.txt data/sources_mobile.txt
+            go run main.go
+          fi
+
+      - name: Commit and Push All
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add configs/
+          if ! git diff --staged --quiet; then
+            git commit -m "🔄 Full System Refresh: $(TZ="Asia/Yakutsk" date +'%Y-%m-%d %H:%M') (YKT)"
+            git push
+          else
+            echo "Изменений нет."
+          fi
