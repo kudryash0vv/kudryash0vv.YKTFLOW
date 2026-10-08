@@ -37,7 +37,7 @@ jobs:
 
       - name: Run Go Engine & Python Checker (Mobile)
         run: |
-          go run main.go
+          go run scripts/main.go
 
       - name: Commit and Push Changes
         run: |
