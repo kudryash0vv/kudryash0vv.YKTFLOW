@@ -26,10 +26,10 @@ const (
 	userAgent   = "YKTFLOW-Engine/10.0"
 )
 
-// Улучшенное регулярное выражение для извлечения URI протоколов
+// Регулярное выражение для извлечения прокси-конфигов
 var configRE = regexp.MustCompile(`(?i)(vless|vmess|trojan|ss)://[^\s"'<>\x00-\x1f]+`)
 
-// Список недопустимых хостов/IP
+// Список хостов-заглушек для фильтрации
 var blacklistedHosts = map[string]bool{
 	"127.0.0.1":       true,
 	"localhost":       true,
@@ -69,7 +69,7 @@ func decodeBase64Flexible(s string) ([]byte, bool) {
 	return nil, false
 }
 
-// Предварительная проверка корректности хоста и порта
+// Предварительная валидация ссылки перед добавлением
 func isValidProxyURI(rawURI string) bool {
 	rawClean := strings.SplitN(rawURI, "#", 2)[0]
 	u, err := url.Parse(rawClean)
@@ -82,7 +82,6 @@ func isValidProxyURI(rawURI string) bool {
 		return false
 	}
 
-	// Проверка порта
 	if portStr := u.Port(); portStr != "" {
 		port, err := strconv.Atoi(portStr)
 		if err != nil || port <= 0 || port > 65535 {
@@ -90,7 +89,6 @@ func isValidProxyURI(rawURI string) bool {
 		}
 	}
 
-	// Отсекаем явные заполнители UUID
 	if strings.Contains(rawClean, "00000000-0000-0000-0000-000000000000") || strings.Contains(rawClean, "your-uuid") {
 		return false
 	}
@@ -120,12 +118,10 @@ func extractConfigs(body []byte) []string {
 
 	add(extractFromText(raw))
 
-	// Декодирование всего тела ответа (Base64)
 	if decoded, ok := decodeBase64Flexible(raw); ok {
 		add(extractFromText(string(decoded)))
 	}
 
-	// Построчное декодирование
 	for _, line := range strings.Split(raw, "\n") {
 		line = strings.TrimSpace(line)
 		if line == "" || strings.HasPrefix(line, "#") {
@@ -163,7 +159,7 @@ func fetchSource(client *http.Client, src string) ([]byte, error) {
 	defer resp.Body.Close()
 
 	if resp.StatusCode < 200 || resp.StatusCode >= 300 {
-		return nil, fmt.fmt.Errorf("HTTP %d", resp.StatusCode)
+		return nil, fmt.Errorf("HTTP %d", resp.StatusCode)
 	}
 	return io.ReadAll(resp.Body)
 }
@@ -206,9 +202,9 @@ func process() {
 	client := &http.Client{Timeout: 15 * time.Second}
 	var mu sync.Mutex
 	unique := make(map[string]struct{})
-	
+
 	var wg sync.WaitGroup
-	semaphore := make(chan struct{}, 5) // Ограничиваем параллелизм до 5 запросов
+	semaphore := make(chan struct{}, 5)
 
 	for i, src := range sources {
 		wg.Add(1)
@@ -241,7 +237,7 @@ func process() {
 	}
 
 	saveRaw(outputFull, unique)
-	fmt.Printf("\n✅ Этап 1 завершён: сохранено %d валидных кандидатов → %s\n\n", len(unique), outputFull)
+	fmt.Printf("\n✅ Этап 1 завершён: сохранено %d конфигов → %s\n\n", len(unique), outputFull)
 	runChecker()
 }
 
